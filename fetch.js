@@ -56,6 +56,6 @@ feed(rssUrl, function(err, items) {
     var index = ls('-R', 'comments').filter(function(file) {
       return file.indexOf('.json') !== -1;
     });
-    JSON.stringify(index).to('comments/index.json');
+    JSON.stringify(index, null, 2).to('comments/index.json');
   });
 });
