@@ -1,11 +1,14 @@
 require('shelljs/global');
 
-var DIR = 'comments'
+var DIR = 'comments';
 
-rm('-rm', DIR);
+rm('-rf', DIR);
 
 exec('git clone "https://' + env.GH_TOKEN +
      '@' + env.GH_REF_FB + '" --depth 1 -b gh-pages ' + DIR);
+
+exec('npm start');
+
 cd(DIR);
 exec('git config user.name "Automatic Commit"');
 exec('git config user.email "fb-comments-fetcher@g0v.tw"');

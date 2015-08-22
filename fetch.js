@@ -51,5 +51,11 @@ feed(rssUrl, function(err, items) {
     }).catch(function(err) {
       console.error(err);
     });
-  }, Promise.resolve());
+  }, Promise.resolve())
+  .then(function() {
+    var index = ls('-R', 'comments').filter(function(file) {
+      return file.indexOf('.json') !== -1;
+    });
+    JSON.stringify(index).to('comments/index.json');
+  });
 });

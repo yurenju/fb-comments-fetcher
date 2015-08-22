@@ -5,7 +5,8 @@
   "main": "fetch.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node fetch.js"
+    "start": "node fetch.js",
+    "publish": "node publish.js"
   },
   "author": "",
   "license": "MIT",
