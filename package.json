@@ -1,0 +1,20 @@
+{
+  "name": "fb-comments-fetcher",
+  "version": "0.0.1",
+  "description": "",
+  "main": "fetch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node fetch.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "feed-read": "0.0.1",
+    "node-fetch": "^1.3.2",
+    "shelljs": "^0.5.3"
+  },
+  "devDependencies": {
+    "eslint": "^1.2.1"
+  }
+}
