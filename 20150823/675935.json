@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150823/675935/",
   "comments": [
     {
+      "created_time": "2015-08-23T06:36:08+0000",
+      "from": {
+        "name": "Justin Taylor",
+        "id": "639071907"
+      },
+      "message": "啊不就面紙廣告明星",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "876375765770733_876404015767908"
+    },
+    {
       "created_time": "2015-08-23T05:10:47+0000",
       "from": {
         "name": "李凜凜",
@@ -23,7 +35,7 @@
       },
       "message": "生來痛苦的",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "876375765770733_876381992436777"
     }

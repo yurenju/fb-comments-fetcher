@@ -4,6 +4,31 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150823/675885/",
   "comments": [
     {
+      "created_time": "2015-08-23T07:18:30+0000",
+      "from": {
+        "name": "姜正浩",
+        "id": "100007721806399"
+      },
+      "message": "感覺像它殺 從額頭有點不好邏輯",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "732819196829760_732963290148684"
+    },
+    {
+      "created_time": "2015-08-23T06:18:38+0000",
+      "from": {
+        "name": "18禁",
+        "category": "Public Figure",
+        "id": "350292571807746"
+      },
+      "message": "再給自己一次機會\n自殺防治諮詢安心專線：0800-788995（24小時） \n生命線協談專線：1995 \n張老師專線：1980",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "732819196829760_732951826816497"
+    },
+    {
       "created_time": "2015-08-23T05:46:28+0000",
       "from": {
         "name": "簡靜芳",
@@ -109,7 +134,7 @@
       },
       "message": "南無大願地藏王菩薩",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "732819196829760_732840936827586"
     },

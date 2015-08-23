@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150823/676016/",
   "comments": [
     {
+      "created_time": "2015-08-23T06:47:45+0000",
+      "from": {
+        "name": "劉圓聖",
+        "id": "100003576157952"
+      },
+      "message": "沒有父母教養的死屁孩。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "949826805077113_949853291741131"
+    },
+    {
+      "created_time": "2015-08-23T06:00:52+0000",
+      "from": {
+        "name": "王志雄",
+        "id": "1018907102"
+      },
+      "message": "他們的舉動確實不應該，但既然都跟學校舉報了，為何還發新聞稿造成他們在網路上被霸凌呢？如何作為是慈悲心的表現嗎？",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "949826805077113_949840355075758"
+    },
+    {
       "created_time": "2015-08-23T05:42:50+0000",
       "from": {
         "name": "孫小樂",
@@ -11,7 +35,7 @@
       },
       "message": "死屁孩，過來看叔叔穿幾號鞋",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "949826805077113_949833298409797"
     },
@@ -23,7 +47,7 @@
       },
       "message": "死小孩",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "949826805077113_949829698410157"
     },
@@ -35,7 +59,7 @@
       },
       "message": "反課綱的高中生?",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "949826805077113_949828785076915"
     }
