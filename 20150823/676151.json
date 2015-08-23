@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150823/676151/",
   "comments": [
     {
+      "created_time": "2015-08-23T15:10:33+0000",
+      "from": {
+        "name": "Bunny Huang",
+        "id": "100009828912801"
+      },
+      "message": "哇靠！浴缸能拆哦？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "462147637243836_462212897237310"
+    },
+    {
       "created_time": "2015-08-23T13:26:16+0000",
       "from": {
         "name": "蔡育璟",
@@ -23,7 +35,7 @@
       },
       "message": "吃有罪嗎？台灣人也很愛吃呀！",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "462147637243836_462174283907838"
     },

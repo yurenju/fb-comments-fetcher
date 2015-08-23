@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150823/676178/",
   "comments": [
     {
+      "created_time": "2015-08-23T15:14:56+0000",
+      "from": {
+        "name": "陳賏",
+        "id": "100005265647646"
+      },
+      "message": "淦……這招，我也會!",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "957221254342787_957322470999332"
+    },
+    {
+      "created_time": "2015-08-23T14:42:09+0000",
+      "from": {
+        "name": "板本厲",
+        "id": "100004607265217"
+      },
+      "message": "呃蝦條!!!!!!!!!!!",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "957221254342787_957307627667483"
+    },
+    {
       "created_time": "2015-08-23T13:47:20+0000",
       "from": {
         "name": "陳彥德",
@@ -11,7 +35,7 @@
       },
       "message": "哈哈哈在台灣最好是有人會理你",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "957221254342787_957287887669457"
     },
@@ -24,7 +48,7 @@
       },
       "message": "人帥xxx人醜xxx",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "957221254342787_957286181002961"
     },
@@ -84,7 +108,7 @@
       },
       "message": "頭殼兩個洞的女孩才會被這種爛招給騙去………!",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "957221254342787_957250007673245"
     },
@@ -108,7 +132,7 @@
       },
       "message": "台灣就是性騷擾",
       "can_remove": false,
-      "like_count": 9,
+      "like_count": 10,
       "user_likes": false,
       "id": "957221254342787_957222717675974"
     }
