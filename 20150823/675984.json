@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150823/675984/",
   "comments": [
     {
+      "created_time": "2015-08-23T08:12:44+0000",
+      "from": {
+        "name": "Hp Chiu",
+        "id": "1053330849"
+      },
+      "message": "用直升機把他勾起來",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1105967792750887_1106121109402222"
+    },
+    {
       "created_time": "2015-08-23T07:21:01+0000",
       "from": {
         "name": "李偉彥",
@@ -35,7 +47,7 @@
       },
       "message": "特勤轟七槍還被兔脫？丟不丟臉？特勤耶～",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1105967792750887_1106000709414262"
     },

@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150823/676076/",
   "comments": [
     {
+      "created_time": "2015-08-23T08:17:05+0000",
+      "from": {
+        "name": "劉虹纓",
+        "id": "100004005540129"
+      },
+      "message": "來一招，平盤下不准賣股，如何?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1026443987388376_1026464750719633"
+    },
+    {
+      "created_time": "2015-08-23T07:56:53+0000",
+      "from": {
+        "name": "邱天晴",
+        "id": "100004974432230"
+      },
+      "message": "弱智行為！最好有效~上次股市崩盤時，這招就用過了，結果有止跌嗎？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1026443987388376_1026460167386758"
+    },
+    {
       "created_time": "2015-08-23T07:29:21+0000",
       "from": {
         "name": "Kuangyang Lo",
@@ -23,7 +47,7 @@
       },
       "message": "乾脆限制只能買不能賣算了",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1026443987388376_1026452934054148"
     },
