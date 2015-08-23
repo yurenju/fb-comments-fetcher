@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150823/675823/",
   "comments": [
     {
+      "created_time": "2015-08-23T14:24:06+0000",
+      "from": {
+        "name": "林昀宣",
+        "id": "100004670134478"
+      },
+      "message": "阿姨我都覺得好看呢！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "747892432004086_748230195303643"
+    },
+    {
       "created_time": "2015-08-23T14:02:22+0000",
       "from": {
         "name": "軍師邗",
@@ -422,7 +434,7 @@
       },
       "message": "王大陸真的比酸民帥太多了",
       "can_remove": false,
-      "like_count": 67,
+      "like_count": 68,
       "user_likes": false,
       "id": "747892432004086_748071648652831"
     },

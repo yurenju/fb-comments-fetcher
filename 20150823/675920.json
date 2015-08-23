@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150823/675920/",
   "comments": [
     {
+      "created_time": "2015-08-23T14:23:46+0000",
+      "from": {
+        "name": "Hsu J Hsu Jcsan",
+        "id": "100000632467801"
+      },
+      "message": "只能說…國民政府的教科書除了升學考試之外毫無任何存在價值。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "869216823131733_869498673103548"
+    },
+    {
       "created_time": "2015-08-23T14:10:48+0000",
       "from": {
         "name": "齊正平",
@@ -2347,18 +2359,6 @@
     {
       "created_time": "2015-08-23T02:42:57+0000",
       "from": {
-        "name": "Wan Tai",
-        "id": "100006722295091"
-      },
-      "message": "還是國民黨較棒！至少會說謊，瞎掰！話說有那看魚逆流就奮發向上的少年！有那偉人是人類的燈塔，民族的救星！鼠竄台灣編織大中國夢",
-      "can_remove": false,
-      "like_count": 0,
-      "user_likes": false,
-      "id": "869216823131733_869246989795383"
-    },
-    {
-      "created_time": "2015-08-23T02:42:57+0000",
-      "from": {
         "name": "LU Min",
         "id": "549087753"
       },
@@ -2367,6 +2367,18 @@
       "like_count": 1,
       "user_likes": false,
       "id": "869216823131733_869246986462050"
+    },
+    {
+      "created_time": "2015-08-23T02:42:57+0000",
+      "from": {
+        "name": "Wan Tai",
+        "id": "100006722295091"
+      },
+      "message": "還是國民黨較棒！至少會說謊，瞎掰！話說有那看魚逆流就奮發向上的少年！有那偉人是人類的燈塔，民族的救星！鼠竄台灣編織大中國夢",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "869216823131733_869246989795383"
     },
     {
       "created_time": "2015-08-23T02:42:53+0000",
