@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150823/675885/",
   "comments": [
     {
+      "created_time": "2015-08-23T14:16:30+0000",
+      "from": {
+        "name": "林釗安",
+        "id": "100000281150043"
+      },
+      "message": "安全帶事先繫好的 條子也玩這招",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "732819196829760_733079696803710"
+    },
+    {
+      "created_time": "2015-08-23T12:24:55+0000",
+      "from": {
+        "name": "張鈞皓",
+        "id": "100000358375845"
+      },
+      "message": "倒數第三張照片的警車上找到亮點了=…=",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "732819196829760_733047440140269"
+    },
+    {
+      "created_time": "2015-08-23T11:02:46+0000",
+      "from": {
+        "name": "Lee Mery",
+        "id": "100009477566526"
+      },
+      "message": "槍枝管道？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "732819196829760_733006530144360"
+    },
+    {
       "created_time": "2015-08-23T08:13:20+0000",
       "from": {
         "name": "Hua Chun Jhen",
@@ -134,7 +170,7 @@
       },
       "message": "在台灣黑槍淹腳目!!",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 6,
       "user_likes": false,
       "id": "732819196829760_732848550160158"
     },
