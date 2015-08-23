@@ -4,6 +4,43 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150823/675916/",
   "comments": [
     {
+      "created_time": "2015-08-23T03:54:14+0000",
+      "from": {
+        "name": "林伯陽",
+        "id": "517788216"
+      },
+      "message": "推",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1057917157560392_1057970684221706"
+    },
+    {
+      "created_time": "2015-08-23T03:46:07+0000",
+      "from": {
+        "name": "Renton Tsai",
+        "id": "1782298311"
+      },
+      "message": "我們的食物裡很多是狗不能吃的(大蒜/青蔥/洋蔥/魚刺/雞骨),吃進這些會造成慢性中毒嚴重的會死亡,吃到尖銳的魚刺和骨頭更慘!!!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1057917157560392_1057968864221888"
+    },
+    {
+      "created_time": "2015-08-23T03:43:51+0000",
+      "from": {
+        "name": "網路兼職收入推薦",
+        "category": "Community",
+        "id": "570145323124997"
+      },
+      "message": "便當盒疊好分類，不是更好嘛",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1057917157560392_1057968260888615"
+    },
+    {
       "created_time": "2015-08-23T03:38:30+0000",
       "from": {
         "name": "萬宗崴",
@@ -48,7 +85,7 @@
       },
       "message": "垃圾分類做確實，上述問題都不會發生",
       "can_remove": false,
-      "like_count": 8,
+      "like_count": 9,
       "user_likes": false,
       "id": "1057917157560392_1057930037559104"
     },

@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150823/675908/",
   "comments": [
     {
+      "created_time": "2015-08-23T03:45:22+0000",
+      "from": {
+        "name": "涂朝榮",
+        "id": "100008761517512"
+      },
+      "message": "不會打啦.你以為那胖子多有料.再打下去.連地瓜都沒得吃了.",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "836566896461952_836575376461104"
+    },
+    {
       "created_time": "2015-08-23T03:38:04+0000",
       "from": {
         "name": "Chih Jung Shu",
@@ -23,7 +35,7 @@
       },
       "message": "直接開戰吧！兩韓都是俗辣！只會敲邊鼓作勢！",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "836566896461952_836572519794723"
     },
@@ -47,7 +59,7 @@
       },
       "message": "南韓霉體怎沒捍衛新聞自由？",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "836566896461952_836570079794967"
     }

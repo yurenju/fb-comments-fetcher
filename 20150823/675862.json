@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150823/675862/",
   "comments": [
     {
+      "created_time": "2015-08-23T03:49:28+0000",
+      "from": {
+        "name": "張家華",
+        "id": "100008422247086"
+      },
+      "message": "買筆電就好了呀！白痴",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1081074828584352_1081317235226778"
+    },
+    {
       "created_time": "2015-08-22T22:36:40+0000",
       "from": {
         "name": "李宗諭",
@@ -35,7 +47,7 @@
       },
       "message": "想錢想瘋了也不用這麼白痴吧",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1081074828584352_1081200485238453"
     },
