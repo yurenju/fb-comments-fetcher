@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150823/675906/",
   "comments": [
     {
+      "created_time": "2015-08-23T03:29:51+0000",
+      "from": {
+        "name": "郭淑華",
+        "id": "100000185194649"
+      },
+      "message": "當相愛的時候愛到死去活來,感情生變的時候恨不得置對方於死地~真是恐怖啊",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1059205627423182_1059280937415651"
+    },
+    {
       "created_time": "2015-08-23T02:30:44+0000",
       "from": {
         "name": "陳柏豪",
@@ -11,7 +23,7 @@
       },
       "message": "腦袋沒在用？  腦殘？ \n\n  「最毒婦人心」",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1059205627423182_1059263867417358"
     },
@@ -71,7 +83,7 @@
       },
       "message": "得不到的就毀了他，好強的佔有慾",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "1059205627423182_1059237010753377"
     },
@@ -143,7 +155,7 @@
       },
       "message": "難怪要離婚...",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "1059205627423182_1059210650756013"
     }

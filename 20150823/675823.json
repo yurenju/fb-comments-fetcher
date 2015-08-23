@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150823/675823/",
   "comments": [
     {
+      "created_time": "2015-08-23T03:07:16+0000",
+      "from": {
+        "name": "Andy Liao",
+        "id": "100000471427956"
+      },
+      "message": "天菜？當泡菜吧，不注重演技提昇，只管票房數字，沒多久市場自然淘汰",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "747892432004086_748054115321251"
+    },
+    {
+      "created_time": "2015-08-23T03:06:48+0000",
+      "from": {
+        "name": "Jimmy WU",
+        "id": "100007279548484"
+      },
+      "message": "蠻無聊的…過一陣子也是乏人問津；哪這麼容易紅？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "747892432004086_748054021987927"
+    },
+    {
+      "created_time": "2015-08-23T02:59:17+0000",
+      "from": {
+        "name": "Andy Liao",
+        "id": "100000471427956"
+      },
+      "message": "這麼草莓就別在這行混",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "747892432004086_748052761988053"
+    },
+    {
       "created_time": "2015-08-23T01:04:00+0000",
       "from": {
         "name": "Ray Wang",
@@ -35,7 +71,7 @@
       },
       "message": "又是一些沒演技的演員演的戲 ，真不知紅在哪裡",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "747892432004086_748000785326584"
     },
