@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150823/676074/",
   "comments": [
     {
+      "created_time": "2015-08-23T15:27:16+0000",
+      "from": {
+        "name": "莉莉可 リリック",
+        "id": "100000624697008"
+      },
+      "message": "阿妹那個鞋很危險誒",
+      "can_remove": false,
+      "like_count": 4,
+      "user_likes": false,
+      "id": "894701937242859_894817053898014"
+    },
+    {
       "created_time": "2015-08-23T15:20:00+0000",
       "from": {
         "name": "吳季蓁",
@@ -11,7 +23,7 @@
       },
       "message": "哈…有笑點~",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "894701937242859_894812323898487"
     },
@@ -23,7 +35,7 @@
       },
       "message": "不愧是女王的氣勢！！",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "894701937242859_894805330565853"
     },
@@ -131,7 +143,7 @@
       },
       "message": "無聊,關我們屁事。",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "894701937242859_894771717235881"
     },

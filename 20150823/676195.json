@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150823/676195/",
   "comments": [
     {
+      "created_time": "2015-08-23T15:29:41+0000",
+      "from": {
+        "name": "Liu Te Hsing",
+        "id": "100002104090495"
+      },
+      "message": "快打    ya",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "860776550684540_860865007342361"
+    },
+    {
       "created_time": "2015-08-23T13:46:21+0000",
       "from": {
         "name": "張逸紳",
@@ -83,7 +95,7 @@
       },
       "message": "那不見的七成大概是潛下去就浮不起來了...",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "860776550684540_860806464014882"
     },
@@ -110,18 +122,6 @@
       "like_count": 1,
       "user_likes": false,
       "id": "860776550684540_860804204015108"
-    },
-    {
-      "created_time": "2015-08-23T12:08:34+0000",
-      "from": {
-        "name": "馬吉斯",
-        "id": "100006873435993"
-      },
-      "message": "現在不是怕北韓開戰，北韓是嘴砲王眾人皆知。\n\n現在怕是南韓開戰....\n因為朴槿惠現在聲望奇低無比，在亞洲僅高於馬英九=w=\n最近又特赦放了\"第二次\"貪污的SK集團大老崔泰源，被罵到臭頭。\n\n有人說這打下去南韓經濟會倒退幾十年，但朴槿惠在乎嗎？\n她的政治路，兩韓統一與經濟受創？\n我不知道，人在走投無路的時候會幹出什麼事很難說。",
-      "can_remove": false,
-      "like_count": 0,
-      "user_likes": false,
-      "id": "860776550684540_860801110682084"
     },
     {
       "created_time": "2015-08-23T12:08:06+0000",
@@ -252,7 +252,7 @@
       },
       "message": "要打就趕快打，出一張嘴!夠廢，只會嗆，要就帶種一點打下去",
       "can_remove": false,
-      "like_count": 12,
+      "like_count": 14,
       "user_likes": false,
       "id": "860776550684540_860780747350787"
     },
@@ -336,7 +336,7 @@
       },
       "message": "嘴砲王金小胖的話能也當真？爺孫三代都只出一支嘴而已!",
       "can_remove": false,
-      "like_count": 9,
+      "like_count": 10,
       "user_likes": false,
       "id": "860776550684540_860779137350948"
     },
