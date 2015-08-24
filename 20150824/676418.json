@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150824/676418/",
   "comments": [
     {
+      "created_time": "2015-08-24T08:50:12+0000",
+      "from": {
+        "name": "Feihung Huang",
+        "id": "100004124088932"
+      },
+      "message": "從8月8日下午5點開始，颱風來不需放水嗎?",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "920127601386695_920220798044042"
+    },
+    {
       "created_time": "2015-08-24T06:16:45+0000",
       "from": {
         "name": "Andrew Chang",
@@ -11,7 +23,7 @@
       },
       "message": "看!為了省錢，臺北人繼續喝泥水,洗泥漿，公益｀衛生需要的錢，只有智障在省錢，枉顧市民健康!豬ㄧ樣市長!",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "920127601386695_920188841380571"
     },
@@ -47,7 +59,7 @@
       },
       "message": "新北市 跟中央  水土保持不做...看來台北市 只要山區大雨都要有心理準備...",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 4,
       "user_likes": false,
       "id": "920127601386695_920133648052757"
     },
@@ -59,7 +71,7 @@
       },
       "message": "無恥科呸當台北市長帶賽，所依如此，無恥科呸腦子裝大便嗎",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "920127601386695_920133344719454"
     }

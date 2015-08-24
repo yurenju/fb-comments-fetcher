@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150824/676339/",
   "comments": [
     {
+      "created_time": "2015-08-24T09:02:44+0000",
+      "from": {
+        "name": "司徒平",
+        "id": "100005145542481"
+      },
+      "message": "這電動機車太貴了買不掉另謀生路吧!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "746797792114471_746933362100914"
+    },
+    {
       "created_time": "2015-08-24T04:23:00+0000",
       "from": {
         "name": "柳橙汁",
@@ -59,7 +71,7 @@
       },
       "message": "如果價錢合理，租借站多，我會買單。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "746797792114471_746861248774792"
     },
@@ -168,7 +180,7 @@
       },
       "message": "政策根本亂兜，鼓勵男性搭公車不騎機車，卻推出電動機車。",
       "can_remove": false,
-      "like_count": 7,
+      "like_count": 8,
       "user_likes": false,
       "id": "746797792114471_746806562113594"
     },

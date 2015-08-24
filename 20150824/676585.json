@@ -4,6 +4,691 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150824/676585/",
   "comments": [
     {
+      "created_time": "2015-08-24T09:50:12+0000",
+      "from": {
+        "name": "Lan Chung Chih",
+        "id": "100000120408823"
+      },
+      "message": "這下又丟臉丟到國外去了\n不僅是主辦單位的疏失\n國人的素質也太低...",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028267883873340"
+    },
+    {
+      "created_time": "2015-08-24T09:44:14+0000",
+      "from": {
+        "name": "林哲瑋",
+        "id": "100000735590670"
+      },
+      "message": "欄杆本來是預防破壞，結果變成絆倒小朋友因素",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028266733873455"
+    },
+    {
+      "created_time": "2015-08-24T09:40:36+0000",
+      "from": {
+        "name": "林冠瑜",
+        "id": "100000826063793"
+      },
+      "message": "男童拿出黨証覆蓋在桌上，結束這一回合！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028265540540241"
+    },
+    {
+      "created_time": "2015-08-24T09:30:27+0000",
+      "from": {
+        "name": "王再熙",
+        "id": "100002861243812"
+      },
+      "message": "這幅不是真跡好嘛\n主辦單位的參展海報寫的很清楚\n“真相”的“真”都寫顛倒了\n怎麼可能還會有真跡",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028262693873859"
+    },
+    {
+      "created_time": "2015-08-24T09:30:01+0000",
+      "from": {
+        "name": "王天明",
+        "id": "100009598849551"
+      },
+      "message": "記者:保羅.波爾波拉聞訊，已趕赴來台。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028262583873870"
+    },
+    {
+      "created_time": "2015-08-24T09:19:04+0000",
+      "from": {
+        "name": "蘇亮亮",
+        "id": "100002217715254"
+      },
+      "message": "吃太胖了啦...你看連走路都重心不穩了吧..",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028260160540779"
+    },
+    {
+      "created_time": "2015-08-24T09:16:45+0000",
+      "from": {
+        "name": "Sin Lin",
+        "id": "1004401352"
+      },
+      "message": "展場管理比捷運還鬆.........",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1028203047213157_1028259833874145"
+    },
+    {
+      "created_time": "2015-08-24T09:16:04+0000",
+      "from": {
+        "name": "邱勝豪",
+        "id": "100000257966025"
+      },
+      "message": "以後誰敢來台展覽???????????????\n台灣人素質????????????????",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028259290540866"
+    },
+    {
+      "created_time": "2015-08-24T09:15:22+0000",
+      "from": {
+        "name": "Gilbert Kao",
+        "id": "100000032353673"
+      },
+      "message": "小朋友看起來不是故意的\n但甚麼鬼場地啊 也太近了吧",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1028203047213157_1028259063874222"
+    },
+    {
+      "created_time": "2015-08-24T09:14:20+0000",
+      "from": {
+        "name": "廖世崇",
+        "id": "100003709962131"
+      },
+      "message": "這怎麼陪啊？做到死也陪不起！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028258890540906"
+    },
+    {
+      "created_time": "2015-08-24T08:56:17+0000",
+      "from": {
+        "name": "Lily Wu",
+        "id": "100000308413967"
+      },
+      "message": "主辦單位製造名畫被破壞的環境，怨不了誰。",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1028203047213157_1028255240541271"
+    },
+    {
+      "created_time": "2015-08-24T08:51:14+0000",
+      "from": {
+        "name": "Ann Lee",
+        "id": "100000117369427"
+      },
+      "message": "這麼貴的畫竟然作這麽簡單的防護。無論是孩子，老人，大人。都可能一個走不順甚至被推擠而撞到名畫。主辦單位太随便了",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1028203047213157_1028254167208045"
+    },
+    {
+      "created_time": "2015-08-24T08:46:03+0000",
+      "from": {
+        "name": "双子傑",
+        "id": "100003511023808"
+      },
+      "message": "主辦單位腦袋裝甚麼？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028253240541471"
+    },
+    {
+      "created_time": "2015-08-24T08:43:03+0000",
+      "from": {
+        "name": "微風",
+        "id": "100000277579870"
+      },
+      "message": "達文西推了他一把",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028252527208209"
+    },
+    {
+      "created_time": "2015-08-24T08:42:01+0000",
+      "from": {
+        "name": "倪尚豪",
+        "id": "100002153512755"
+      },
+      "message": "但我也覺得另一方面是素養問題，主辦單位或許把關不夠嚴格，不過我相信有些東西不用說自己應該就是要小心注意的",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1028203047213157_1028252340541561"
+    },
+    {
+      "created_time": "2015-08-24T08:23:18+0000",
+      "from": {
+        "name": "Haohao Lee",
+        "id": "100000238350388"
+      },
+      "message": "如來神掌",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1028203047213157_1028247783875350"
+    },
+    {
+      "created_time": "2015-08-24T08:16:58+0000",
+      "from": {
+        "name": "金城詹",
+        "id": "755504153"
+      },
+      "message": "台灣之光",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028245747208887"
+    },
+    {
+      "created_time": "2015-08-24T08:16:44+0000",
+      "from": {
+        "name": "Chang Weiwei",
+        "id": "100001539593225"
+      },
+      "message": "都別人的錯，這小孩沒錯，他只是「不小心」！錯在不能讓未成年人入場、錯在保險要買多一點丶錯在警戒線要拉大五倍丶錯在畫沒有玻璃箱保護、最大的錯就是怎麼敢跑來台灣這個全民80%沒素質的蠻荒地方辦展覧！",
+      "can_remove": false,
+      "like_count": 4,
+      "user_likes": false,
+      "id": "1028203047213157_1028245687208893"
+    },
+    {
+      "created_time": "2015-08-24T08:16:34+0000",
+      "from": {
+        "name": "詹斯晴",
+        "id": "1458364137"
+      },
+      "message": "飲料可以帶嗎？這家長是怎教育的",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1028203047213157_1028245643875564"
+    },
+    {
+      "created_time": "2015-08-24T08:14:59+0000",
+      "from": {
+        "name": "曾爾巴",
+        "id": "100004795653329"
+      },
+      "message": "放這樣怎麼可能是真跡",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1028203047213157_1028244713875657"
+    },
+    {
+      "created_time": "2015-08-24T08:14:06+0000",
+      "from": {
+        "name": "Nico Liu",
+        "id": "100000249982389"
+      },
+      "message": "被鬼推??",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028244540542341"
+    },
+    {
+      "created_time": "2015-08-24T08:13:23+0000",
+      "from": {
+        "name": "Twn  Nisson",
+        "id": "100002670327588"
+      },
+      "message": "真跡還是用保護罩保護一下 強化玻璃沒多少錢 真跡被盜 才是GG了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028244423875686"
+    },
+    {
+      "created_time": "2015-08-24T08:08:52+0000",
+      "from": {
+        "name": "Hui Hui Hui",
+        "id": "100002314378214"
+      },
+      "message": "不是該放在溫濕度控管的防盜櫥窗內嗎？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028243650542430"
+    },
+    {
+      "created_time": "2015-08-24T08:07:15+0000",
+      "from": {
+        "name": "王永祐",
+        "id": "100001810794369"
+      },
+      "message": "1.風險管理沒有做好  80%\n2.小孩不是故意破壞  20%\n\n賠償比例僅供參考",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028243247209137"
+    },
+    {
+      "created_time": "2015-08-24T08:06:59+0000",
+      "from": {
+        "name": "Jermy Lin",
+        "id": "100009740261288"
+      },
+      "message": "水準有夠低！\n以為在逛夜市？\n竟然穿拖鞋和飲料.....",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "1028203047213157_1028243173875811"
+    },
+    {
+      "created_time": "2015-08-24T08:02:05+0000",
+      "from": {
+        "name": "鄭育哲",
+        "id": "100000299522023"
+      },
+      "message": "肥皂不要亂撿。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028240330542762"
+    },
+    {
+      "created_time": "2015-08-24T07:58:08+0000",
+      "from": {
+        "name": "Aaron Chang",
+        "id": "100009275242836"
+      },
+      "message": "記者初估小胖弟月薪22K 需要不吃不喝工作50年方可償還完畢～",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1028203047213157_1028239087209553"
+    },
+    {
+      "created_time": "2015-08-24T07:57:16+0000",
+      "from": {
+        "name": "陳祈龍",
+        "id": "100000322040303"
+      },
+      "message": "不去看畫展，降低風險。。好險",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028238867209575"
+    },
+    {
+      "created_time": "2015-08-24T07:57:15+0000",
+      "from": {
+        "name": "靠北公司內幕",
+        "category": "Community",
+        "id": "478267059015349"
+      },
+      "message": "男童表示：沒關係，我爸買得起!",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1028203047213157_1028238860542909"
+    },
+    {
+      "created_time": "2015-08-24T07:56:30+0000",
+      "from": {
+        "name": "Ivanes Ho",
+        "id": "1251813266"
+      },
+      "message": "小弟一臉驚恐，「發生什麼事啊？誰推我？為什麼會突然被絆倒？」\n農曆七月好毛喔",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028238733876255"
+    },
+    {
+      "created_time": "2015-08-24T07:54:18+0000",
+      "from": {
+        "name": "李煥堂",
+        "id": "1374935604"
+      },
+      "message": "拖出去斬了...",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028238307209631"
+    },
+    {
+      "created_time": "2015-08-24T07:52:48+0000",
+      "from": {
+        "name": "陳玉旺",
+        "id": "100000323449985"
+      },
+      "message": "每個畫展都嘛跟你說真跡，但如果你是持有真跡的館方，在有90%相似的複製品可以外展的情況下會借人家真品出去嗎？再說民眾也只是「聽主辦單位說是真跡」而已。",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1028203047213157_1028237773876351"
+    },
+    {
+      "created_time": "2015-08-24T07:52:27+0000",
+      "from": {
+        "name": "林俊銘",
+        "id": "100000045783651"
+      },
+      "message": "不小心手滑了一下的最佳典範",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028237707209691"
+    },
+    {
+      "created_time": "2015-08-24T07:50:58+0000",
+      "from": {
+        "name": "曾嘉嘉",
+        "id": "100000270753109"
+      },
+      "message": "感覺很擠，這樣人多不就有很大的機會，不小心傷到展覽品?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028237317209730"
+    },
+    {
+      "created_time": "2015-08-24T07:48:58+0000",
+      "from": {
+        "name": "王冠云",
+        "id": "100002567158197"
+      },
+      "message": "一失足成千古恨的實例",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028236880543107"
+    },
+    {
+      "created_time": "2015-08-24T07:41:06+0000",
+      "from": {
+        "name": "陳居祝",
+        "id": "100009040529582"
+      },
+      "message": "活該，誰叫你們主辨單位，不嚴格讓隨便拿飲料進入會場，要不然你們去告那小弟父母買單，沒水準，，，",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028234947209967"
+    },
+    {
+      "created_time": "2015-08-24T07:40:20+0000",
+      "from": {
+        "name": "Neil Chu",
+        "id": "100000283073071"
+      },
+      "message": "在故宮我還相信是真的，華山文創？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028234777209984"
+    },
+    {
+      "created_time": "2015-08-24T07:38:59+0000",
+      "from": {
+        "name": "周文彬",
+        "id": "100009504477931"
+      },
+      "message": "真的就不會簡單的圍著，而是用玻璃等等保護。不過畫應該有保險！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028234423876686"
+    },
+    {
+      "created_time": "2015-08-24T07:38:21+0000",
+      "from": {
+        "name": "張智威",
+        "id": "100000746469311"
+      },
+      "message": "根本沒人推他 自己被自己腳拌倒……\n這下他爸媽真的賠慘了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028234067210055"
+    },
+    {
+      "created_time": "2015-08-24T07:38:19+0000",
+      "from": {
+        "name": "Raphael  Wang",
+        "id": "100003131638177"
+      },
+      "message": "世界各國都是這樣圍著真跡，也沒發生過什麼事，只有蒙那麗莎微笑才有用玻璃櫃，對世界各國畫展或博物館應該什麼都不知道的人才想把錯推給會場，無知真是嚴重的罪。",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1028203047213157_1028234047210057"
+    },
+    {
+      "created_time": "2015-08-24T07:37:36+0000",
+      "from": {
+        "name": "Weber Lin",
+        "id": "199702118"
+      },
+      "message": "fat bastard",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028233850543410"
+    },
+    {
+      "created_time": "2015-08-24T07:35:42+0000",
+      "from": {
+        "name": "陳居祝",
+        "id": "100009040529582"
+      },
+      "message": "叫這小弟的父母賠，別叫全民買單，還八仙樂園也不能叫全民買單，對大眾不公，會有爭議的，，",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028233483876780"
+    },
+    {
+      "created_time": "2015-08-24T07:32:06+0000",
+      "from": {
+        "name": "曾元鵬",
+        "id": "100005687326623"
+      },
+      "message": "這一壓 這男童有千萬身價了!!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028232633876865"
+    },
+    {
+      "created_time": "2015-08-24T07:26:28+0000",
+      "from": {
+        "name": "姜文忠",
+        "id": "100009335634644"
+      },
+      "message": "依展場內還可帶飲料入場來看, 就不會是真跡了!",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1028203047213157_1028231743876954"
+    },
+    {
+      "created_time": "2015-08-24T07:21:43+0000",
+      "from": {
+        "name": "Boby Lee",
+        "id": "100004375126873"
+      },
+      "message": "畫一副唐伯虎真跡還給他啦 濕濕的歐！",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1028203047213157_1028231120543683"
+    },
+    {
+      "created_time": "2015-08-24T07:21:16+0000",
+      "from": {
+        "name": "Chen Chen",
+        "id": "100001440709322"
+      },
+      "message": "建議主辦單位發揮愛心與耐心，以後看展覽的各種基本素養應條列式印於小冊子上，進場時給每人發一本。禁止喝飲料/禁止帶酒瓶/禁止帶開瓶器/禁止大聲喧嘩/禁止在室內跳繩/禁止在室內撐傘/禁止在室內打地鋪..\n為了以後作品的安全，希望手冊裡至少要載入上千條禁止項目。如此，過了五十年後，相信再也不用發小冊子了。",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1028203047213157_1028231043877024"
+    },
+    {
+      "created_time": "2015-08-24T07:11:21+0000",
+      "from": {
+        "name": "阮啟智",
+        "id": "100000325365194"
+      },
+      "message": "主辦單位要拉去給IS斬首才對。世界名畫竟然保護措施這般潦草，出事了吼~ 還可以帶飲料進出嘞，現場有賣雞排跟烤香腸嗎？ 活該。",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1028203047213157_1028228440543951"
+    },
+    {
+      "created_time": "2015-08-24T07:09:09+0000",
+      "from": {
+        "name": "劉曜瑋",
+        "id": "100009930520171"
+      },
+      "message": "做錯就要賠，難道要人民買單 ?",
+      "can_remove": false,
+      "like_count": 7,
+      "user_likes": false,
+      "id": "1028203047213157_1028228087210653"
+    },
+    {
+      "created_time": "2015-08-24T07:08:05+0000",
+      "from": {
+        "name": "Andrea  Chen",
+        "id": "100005986717360"
+      },
+      "message": "帶飲料是不應該\n但是在國外展覽\n畫作也是一樣前面圍著紅龍而已\n根本沒有像大家講的什麼好好保護\n是要放在玻璃裡面才是好好保護嗎？\n據我所知 大概只有蒙娜麗莎的微笑才有這種待遇吧？",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "1028203047213157_1028226910544104"
+    },
+    {
+      "created_time": "2015-08-24T07:07:33+0000",
+      "from": {
+        "name": "王健一",
+        "id": "100008601188709"
+      },
+      "message": "災難",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1028203047213157_1028225837210878"
+    },
+    {
+      "created_time": "2015-08-24T07:06:53+0000",
+      "from": {
+        "name": "玲伶",
+        "id": "100003671720175"
+      },
+      "message": "既然是真跡，怎可能是如此草率的保護措施，而且還可以允許參觀民眾拿飲料入場內……主辦單位有管控嗎？",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1028203047213157_1028225567210905"
+    },
+    {
+      "created_time": "2015-08-24T07:06:15+0000",
+      "from": {
+        "name": "Allen Yeh",
+        "id": "100000321828491"
+      },
+      "message": "人肉鹹鹹 性命一條 你要我怎樣?",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1028203047213157_1028225487210913"
+    },
+    {
+      "created_time": "2015-08-24T07:05:45+0000",
+      "from": {
+        "name": "王詩莘",
+        "id": "100002609869506"
+      },
+      "message": "暈倒~~這主辦和小孩都有責任吧",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1028203047213157_1028225403877588"
+    },
+    {
+      "created_time": "2015-08-24T07:04:53+0000",
+      "from": {
+        "name": "Threesecond Lin",
+        "id": "1692142405"
+      },
+      "message": "很顯然，沒人推擠啊。",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1028203047213157_1028225293877599"
+    },
+    {
+      "created_time": "2015-08-24T07:04:27+0000",
+      "from": {
+        "name": "Yo Allen",
+        "id": "100002560471830"
+      },
+      "message": "又要怪別人了 又要怪主辦單位了  都不是人的水準有問題   小孩都無辜的 因為沒人教沒人阻止",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028225193877609"
+    },
+    {
+      "created_time": "2015-08-24T07:02:43+0000",
+      "from": {
+        "name": "An Lincecum",
+        "id": "100001026606180"
+      },
+      "message": "警戒區或許可以加大一些，避免類似情況發生。",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1028203047213157_1028224823877646"
+    },
+    {
+      "created_time": "2015-08-24T07:02:27+0000",
+      "from": {
+        "name": "林承宗",
+        "id": "100000124410751"
+      },
+      "message": "走路不看路…把展場當遊樂場?\n\n影片中很清楚，走路不看路…\n\n牽拖有臺階?\n\n知道什麼叫應注意而未注意嗎？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1028203047213157_1028224787210983"
+    },
+    {
       "created_time": "2015-08-24T06:59:42+0000",
       "from": {
         "name": "亮亮",
@@ -11,7 +696,7 @@
       },
       "message": "家長請認真的帶小孩……好嗎？\n懂不懂的這些……最最罪基本常識",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1028203047213157_1028224337211028"
     },
@@ -35,7 +720,7 @@
       },
       "message": "家長連帶賠償",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1028203047213157_1028223707211091"
     },
@@ -71,7 +756,7 @@
       },
       "message": "我以為他在逛夜市，還拿著飲料，家教真差，怎樣也提升不了素質～",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "1028203047213157_1028223573877771"
     },
@@ -119,7 +804,7 @@
       },
       "message": "這男童手裡拿飲料嗎？賠的是國家形象懂嗎？",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "1028203047213157_1028220320544763"
     },
@@ -131,7 +816,7 @@
       },
       "message": "這位家長，請為你自己的管教不當賠錢吧。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 4,
       "user_likes": false,
       "id": "1028203047213157_1028217527211709"
     },
@@ -167,7 +852,7 @@
       },
       "message": "這根本是展場和主辦單位的過失，如此簡陋的方式展覽名畫，另外小孩進場应有學校單位或監護人管理，怎能手持飲料？主辦單位应该負担全部失職的責任，小孩無罪！真是國際丑聞！！",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "1028203047213157_1028216013878527"
     },
@@ -179,7 +864,7 @@
       },
       "message": "國人就是有這種邊走邊吃的壞習慣，以為在逛夜市。",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 19,
       "user_likes": false,
       "id": "1028203047213157_1028215887211873"
     },
@@ -191,7 +876,7 @@
       },
       "message": "真跡的展櫃規格不應該是這樣,記得歷史博物館借展時還得展櫃搭配設計，溫濕度也得控制，不相信是真跡。",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "1028203047213157_1028215437211918"
     },
@@ -239,7 +924,7 @@
       },
       "message": "講保護沒做好的 就好像在講車禍被撞死的行人為何不穿防彈衣一樣無腦",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 6,
       "user_likes": false,
       "id": "1028203047213157_1028213920545403"
     },
@@ -263,7 +948,7 @@
       },
       "message": "男童父親接到電話後表示：這個小孩我不要了。(誤)",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 4,
       "user_likes": false,
       "id": "1028203047213157_1028213097212152"
     },
@@ -287,7 +972,7 @@
       },
       "message": "羅浮宮看展也是可以這樣近距離接觸真跡\n不過台灣素質\n看來只能有台灣玩法\n最好弄個玻璃罩把作品整個罩起來\n不然就是限定年齡壓證件，然後每個作品前面都站保全",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "1028203047213157_1028212930545502"
     },
@@ -323,7 +1008,7 @@
       },
       "message": "就算不小心犯刑確定!如果保險公司要提出所賠這家子肯定賠不完了!以後沒人敢把名畫送展至台灣了....",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 8,
       "user_likes": false,
       "id": "1028203047213157_1028212727212189"
     },
@@ -359,7 +1044,7 @@
       },
       "message": "我兒子很乖的，一定是那杯飲料害我兒子跌倒啦!\n政府要負全部責任! 早知道當初就不要投給柯P!",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1028203047213157_1028211637212298"
     },
@@ -383,7 +1068,7 @@
       },
       "message": "恭喜小胖達成年紀輕輕就欠款上千萬的成就",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 8,
       "user_likes": false,
       "id": "1028203047213157_1028211263879002"
     },
@@ -395,7 +1080,7 @@
       },
       "message": "達文西本人也表示相當震驚",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 23,
       "user_likes": false,
       "id": "1028203047213157_1028210347212427"
     },
@@ -407,7 +1092,7 @@
       },
       "message": "這麼小就買了幾千萬的畫，不簡單。",
       "can_remove": false,
-      "like_count": 8,
+      "like_count": 19,
       "user_likes": false,
       "id": "1028203047213157_1028210033879125"
     },
@@ -419,7 +1104,7 @@
       },
       "message": "看到小孩手上拿飲料看展覽就知道其實家庭教育很重要....，還有，如果是真跡，只有不到一公尺的安全距離及這麼簡易的防護措施?簡直令人匪夷所思。",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 8,
       "user_likes": false,
       "id": "1028203047213157_1028209957212466"
     },
@@ -431,7 +1116,7 @@
       },
       "message": "離那麼近都可以碰到？真的無經驗的展覽廠商？還要保險？保險公司一看這分明是詐騙。",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "1028203047213157_1028209670545828"
     },
@@ -467,7 +1152,7 @@
       },
       "message": "這小孩真不簡單,  一出手,  就是幾千萬的行情.",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1028203047213157_1028209497212512"
     },
@@ -491,7 +1176,7 @@
       },
       "message": "重點是這小孩來看啥？？是要去動漫展走錯場館吧！",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 10,
       "user_likes": false,
       "id": "1028203047213157_1028209110545884"
     },
@@ -503,7 +1188,7 @@
       },
       "message": "死好啦 !!! 小屁孩 ~ 屁孩就是屁孩 !!!",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1028203047213157_1028209060545889"
     },
@@ -515,7 +1200,7 @@
       },
       "message": "台灣的主辦單位失敗~賺的都不夠賠了~這小孩不知道怎麼賠~",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1028203047213157_1028208977212564"
     },
@@ -527,7 +1212,7 @@
       },
       "message": "真的假的？400年名畫用這麼容易被碰觸的方式展出？小孩伸出手就碰到了耶！還拿著飲料",
       "can_remove": false,
-      "like_count": 7,
+      "like_count": 17,
       "user_likes": false,
       "id": "1028203047213157_1028208717212590"
     },
@@ -551,7 +1236,7 @@
       },
       "message": "小朋友不是固意的，大人很大責任吧！時常看到調皮的小孩作亂，但家長放任不管，要不是一心向佛，可能就替他爸媽動手了。這在以前工作的大陸比比皆是，現在我的家鄉台灣也不少了。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "1028203047213157_1028208427212619"
     },
@@ -587,7 +1272,7 @@
       },
       "message": "原來看畫展可以帶飲料，真是長知識了",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 7,
       "user_likes": false,
       "id": "1028203047213157_1028207433879385"
     },
@@ -623,7 +1308,7 @@
       },
       "message": "看起來主辦單位動線也是又很大問題，造成小孩子跌倒。主辦單位責任很大。",
       "can_remove": false,
-      "like_count": 8,
+      "like_count": 12,
       "user_likes": false,
       "id": "1028203047213157_1028206797212782"
     },
@@ -635,7 +1320,7 @@
       },
       "message": "主辦單位腦殘程度，震驚國際社會",
       "can_remove": false,
-      "like_count": 31,
+      "like_count": 71,
       "user_likes": false,
       "id": "1028203047213157_1028206783879450"
     },
@@ -647,7 +1332,7 @@
       },
       "message": "不是說有人推他？在那？阿飄嗎？",
       "can_remove": false,
-      "like_count": 8,
+      "like_count": 18,
       "user_likes": false,
       "id": "1028203047213157_1028206740546121"
     },
@@ -659,7 +1344,7 @@
       },
       "message": "入口的管理太隨便，飲料拿進來，影片也有拍到拿長傘的人.......",
       "can_remove": false,
-      "like_count": 12,
+      "like_count": 21,
       "user_likes": false,
       "id": "1028203047213157_1028206697212792"
     },
@@ -671,7 +1356,7 @@
       },
       "message": "爸媽錢準備好",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "1028203047213157_1028206407212821"
     },
@@ -683,7 +1368,7 @@
       },
       "message": "這下弟弟全家要搓累等",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1028203047213157_1028206400546155"
     },
@@ -695,7 +1380,7 @@
       },
       "message": "這完全要怪主辦單位，如此名貴的畫作，竟然沒有相關的保護措施等等.",
       "can_remove": false,
-      "like_count": 10,
+      "like_count": 15,
       "user_likes": false,
       "id": "1028203047213157_1028206187212843"
     },
@@ -719,7 +1404,7 @@
       },
       "message": "感覺台灣做什麼事，都不是一個進步的國家，",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 10,
       "user_likes": false,
       "id": "1028203047213157_1028206067212855"
     },
@@ -780,7 +1465,7 @@
       },
       "message": "還好手中的飲料沒噴出去...",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 14,
       "user_likes": false,
       "id": "1028203047213157_1028205583879570"
     },
@@ -792,7 +1477,7 @@
       },
       "message": "若是真跡應該不是這樣的管控規格",
       "can_remove": false,
-      "like_count": 15,
+      "like_count": 31,
       "user_likes": false,
       "id": "1028203047213157_1028205477212914"
     },
@@ -816,7 +1501,7 @@
       },
       "message": "幾千萬你只用紅龍圍，如果碰到有心人，更本不只破個洞好嗎？",
       "can_remove": false,
-      "like_count": 7,
+      "like_count": 14,
       "user_likes": false,
       "id": "1028203047213157_1028205423879586"
     },
@@ -840,7 +1525,7 @@
       },
       "message": "看畫展還手拿飲料進場，家長終就自食其果。",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 8,
       "user_likes": false,
       "id": "1028203047213157_1028205163879612"
     },
@@ -900,7 +1585,7 @@
       },
       "message": "還有一杯咖啡親吻了真跡。好好這之前我去看了兩次。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1028203047213157_1028204760546319"
     },
@@ -912,7 +1597,7 @@
       },
       "message": "小孩看畫展，有這種藝術天份，還是破壞天份",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 6,
       "user_likes": false,
       "id": "1028203047213157_1028204583879670"
     },
@@ -924,7 +1609,7 @@
       },
       "message": "帶飲料看展覽？主辦單位也不管嗎？",
       "can_remove": false,
-      "like_count": 52,
+      "like_count": 102,
       "user_likes": false,
       "id": "1028203047213157_1028204107213051"
     }
