@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150824/676323/",
   "comments": [
     {
+      "created_time": "2015-08-24T00:54:57+0000",
+      "from": {
+        "name": "林子謙",
+        "id": "100000798447526"
+      },
+      "message": "老美最近雖事不段阿",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "749580538500979_749673851824981"
+    },
+    {
+      "created_time": "2015-08-24T00:15:25+0000",
+      "from": {
+        "name": "TF Lin",
+        "id": "100009595485990"
+      },
+      "message": "中國開始大篇幅報導!!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "749580538500979_749663708492662"
+    },
+    {
       "created_time": "2015-08-23T21:27:19+0000",
       "from": {
         "name": "Steven Zhang",
@@ -35,7 +59,7 @@
       },
       "message": "近期一直有爆炸事件......\n\n公共安全把關真的要很嚴謹，人禍有時比天災更可怕",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 5,
       "user_likes": false,
       "id": "749580538500979_749600231832343"
     }
