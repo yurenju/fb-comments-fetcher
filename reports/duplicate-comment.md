@@ -432,21 +432,29 @@ users:
 留言：
 
 ```
-我一直覺得納悶？冥進黨明明就是台獨黨！…世人皆知！…為什麼以前的陳水扁及現在的蔡英文都不敢台獨，而連喊都不敢喊啊！…有這麼困難嗎？
+垃圾
 ```
 
 users: 
 
-* [成雲遠]('http://facebook.com/' + users[user].id) (重複 9 次)
+* [Miya Si]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Huang Yin-hao]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [王元萬]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [山本楓龍]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [荒野鑣客]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [李東]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [莊永哉]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Mini Chieh]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [蔡敏惠]('http://facebook.com/' + users[user].id) (重複 1 次)
 
 新聞：
 
-* 【更新】不怕小英拔樁　洪秀柱：也有綠的支持我
-* 【更新】不怕小英拔樁　洪秀柱：也有綠的支持我
-* 【更新】不怕小英拔樁　洪秀柱：也有綠的支持我
-* 宋楚瑜道歉　段宜康批：避重就輕、令我厭惡
-* 宋楚瑜道歉　段宜康批：避重就輕、令我厭惡
-* 宋楚瑜道歉　段宜康批：避重就輕、令我厭惡
-* 【更新】談李登輝日本祖國論　柯Ｐ：現任總統無須擴大
-* 【更新】談李登輝日本祖國論　柯Ｐ：現任總統無須擴大
-* 【更新】談李登輝日本祖國論　柯Ｐ：現任總統無須擴大
+* 【更新】幫跑路竟挨打　女檢舉男友是通緝犯
+* 【更新】假募款真玩樂　高中生遭網友譙翻
+* 管理員性侵女住戶　辯「摸腿她沒拒絕」
+*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
+*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
+*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
+*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
+*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
+*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
