@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150824/676374/",
   "comments": [
     {
+      "created_time": "2015-08-24T05:10:28+0000",
+      "from": {
+        "name": "劉中遠",
+        "id": "1181593572"
+      },
+      "message": "這麼貴是要賣給鬼喔",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "797459983685020_797502853680733"
+    },
+    {
+      "created_time": "2015-08-24T04:25:12+0000",
+      "from": {
+        "name": "王梗",
+        "id": "100001356782730"
+      },
+      "message": "看完房子說其實我是同行，來踩你線的。沒被關起來打我隨便你。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "797459983685020_797493430348342"
+    },
+    {
+      "created_time": "2015-08-24T04:13:04+0000",
+      "from": {
+        "name": "郭小毅",
+        "id": "100000143746048"
+      },
+      "message": "你們仲介都會騙人不老實～",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "797459983685020_797491120348573"
+    },
+    {
       "created_time": "2015-08-24T03:30:57+0000",
       "from": {
         "name": "王元萬",
@@ -36,7 +72,7 @@
       },
       "message": "有的公寓5層樓是有電梯的..只是少數而已",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "797459983685020_797471240350561"
     },

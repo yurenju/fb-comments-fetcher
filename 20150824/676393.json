@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150824/676393/",
   "comments": [
     {
+      "created_time": "2015-08-24T04:44:52+0000",
+      "from": {
+        "name": "廖宗興",
+        "id": "100000984005707"
+      },
+      "message": "惡有惡報",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1215146138510856_1215205551838248"
+    },
+    {
+      "created_time": "2015-08-24T04:37:17+0000",
+      "from": {
+        "name": "Simon Lai",
+        "id": "100001182841261"
+      },
+      "message": "她？？？這是女的？？？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1215146138510856_1215202471838556"
+    },
+    {
+      "created_time": "2015-08-24T04:16:36+0000",
+      "from": {
+        "name": "Arron  Lin",
+        "id": "100005395569356"
+      },
+      "message": "椅子比她猛還可以撐住這麼久哪個牌子的應該買一個回家收藏",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1215146138510856_1215196588505811"
+    },
+    {
       "created_time": "2015-08-24T03:30:03+0000",
       "from": {
         "name": "銀行車貸_陳小姐",
@@ -12,7 +48,7 @@
       },
       "message": "沒事吧",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "1215146138510856_1215178995174237"
     },
@@ -36,7 +72,7 @@
       },
       "message": "可是，她跳的真的不錯",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 4,
       "user_likes": false,
       "id": "1215146138510856_1215158881842915"
     },
