@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150824/676790/",
   "comments": [
     {
+      "created_time": "2015-08-24T15:53:04+0000",
+      "from": {
+        "name": "Lin Lan",
+        "id": "100009642021165"
+      },
+      "message": "桃園應該有像去年一樣\n再讓台灣跌破一次眼鏡",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "877710502277099_877835602264589"
+    },
+    {
       "created_time": "2015-08-24T12:15:12+0000",
       "from": {
         "name": "呂建宏",
@@ -23,7 +35,7 @@
       },
       "message": "如果桃園人還想繼續讓國X黨這個詐騙集團當選的話就投吧，這個爛黨A了人民多少納稅錢都是有目共睹的，大家明年看著辦吧！",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "877710502277099_877717995609683"
     },
@@ -35,7 +47,7 @@
       },
       "message": "身為桃園市民 完全不想變成第二個苗栗 將爛立尾淘汰吧！",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 10,
       "user_likes": false,
       "id": "877710502277099_877716328943183"
     }

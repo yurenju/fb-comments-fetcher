@@ -4,6 +4,135 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150824/676732/",
   "comments": [
     {
+      "created_time": "2015-08-24T16:00:16+0000",
+      "from": {
+        "name": "張雍廷",
+        "id": "1339711739"
+      },
+      "message": "溫旻萱小心喔",
+      "can_remove": false,
+      "like_count": 0,
+      "message_tags": [
+        {
+          "id": "100002198991200",
+          "length": 3,
+          "name": "溫旻萱",
+          "offset": 0,
+          "type": "user"
+        }
+      ],
+      "user_likes": false,
+      "id": "432222453569018_432300206894576"
+    },
+    {
+      "created_time": "2015-08-24T15:53:31+0000",
+      "from": {
+        "name": "李凜凜",
+        "id": "100006912455262"
+      },
+      "message": "白淨斯文很可愛",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "432222453569018_432296410228289"
+    },
+    {
+      "created_time": "2015-08-24T15:48:10+0000",
+      "from": {
+        "name": "羅 素青",
+        "id": "1562763909"
+      },
+      "message": "好條件",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "432222453569018_432295613561702"
+    },
+    {
+      "created_time": "2015-08-24T15:26:10+0000",
+      "from": {
+        "name": "平安",
+        "id": "100000200802741"
+      },
+      "message": "嗯\n好清秀的大男孩",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "432222453569018_432292026895394"
+    },
+    {
+      "created_time": "2015-08-24T15:11:04+0000",
+      "from": {
+        "name": "林佩佩",
+        "id": "100004815829254"
+      },
+      "message": "哈哈好感動",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "432222453569018_432289186895678"
+    },
+    {
+      "created_time": "2015-08-24T15:05:39+0000",
+      "from": {
+        "name": "黃奕菁",
+        "id": "100009817967311"
+      },
+      "message": "要幸福(￣∇￣)喔",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "432222453569018_432288223562441"
+    },
+    {
+      "created_time": "2015-08-24T14:59:37+0000",
+      "from": {
+        "name": "Bear Kao",
+        "id": "100010281990806"
+      },
+      "message": "萌",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "432222453569018_432287043562559"
+    },
+    {
+      "created_time": "2015-08-24T14:44:40+0000",
+      "from": {
+        "name": "陳心美",
+        "id": "100009996552417"
+      },
+      "message": "難怪我常常好心幫人卻被報警抓走....終於懂了。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "432222453569018_432284556896141"
+    },
+    {
+      "created_time": "2015-08-24T14:20:12+0000",
+      "from": {
+        "name": "陳嘉興",
+        "id": "100000507480896"
+      },
+      "message": "直接告白搞不好可以成為男女朋友\n沒有告白沒有機會",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "432222453569018_432280830229847"
+    },
+    {
+      "created_time": "2015-08-24T14:02:57+0000",
+      "from": {
+        "name": "柯筱嘎",
+        "id": "100005719758748"
+      },
+      "message": "當怡萱遇到趙信達",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "432222453569018_432278403563423"
+    },
+    {
       "created_time": "2015-08-24T12:53:35+0000",
       "from": {
         "name": "Leon Hou",
@@ -23,7 +152,7 @@
       },
       "message": "小姐其實，是我第一個就妳的，只是後續交給警消了~(大誤)",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "432222453569018_432258420232088"
     },
@@ -59,7 +188,7 @@
       },
       "message": "這樣子也可以遇到愛？沒錯，所以說｢看似簡單平凡的小事，做得徹底也可以成就精彩人生！｣",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "432222453569018_432255643565699"
     },
@@ -83,7 +212,7 @@
       },
       "message": "那為什麼我車禍的時候腦子都在放空，只想到我要聯絡公司，報備家人，今天的工作進度，沒辦法好好專心的看著眼前的暖男呢？",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "432222453569018_432254263565837"
     },
@@ -107,7 +236,7 @@
       },
       "message": "肉食女大進擊，不過男的真的很像草食男",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "432222453569018_432251506899446"
     },
@@ -119,7 +248,7 @@
       },
       "message": "時代變遷...女追男嗎？感覺妳不夠勇敢為什麼追替代役，假使是追非替代役的 太平常根本就不會上版面  對否？",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "432222453569018_432251286899468"
     },
@@ -155,7 +284,7 @@
       },
       "message": "甘味人生上演了！",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "432222453569018_432245450233385"
     },
@@ -179,7 +308,7 @@
       },
       "message": "文武兼備的人soso",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "432222453569018_432244403566823"
     },
@@ -203,7 +332,7 @@
       },
       "message": "那女患者的fb呢？",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 9,
       "user_likes": false,
       "id": "432222453569018_432232573568006"
     },
@@ -227,7 +356,7 @@
       },
       "message": "不錯，這個大男生很乾淨",
       "can_remove": false,
-      "like_count": 30,
+      "like_count": 33,
       "user_likes": false,
       "id": "432222453569018_432229263568337"
     },
@@ -251,7 +380,7 @@
       },
       "message": "完了，我看了也有感覺了。\n妳不要我收了噢…",
       "can_remove": false,
-      "like_count": 63,
+      "like_count": 97,
       "user_likes": false,
       "id": "432222453569018_432227653568498"
     },
@@ -275,7 +404,7 @@
       },
       "message": "有些女人會在危及關頭 \n對救援她的人（對方只是單純在工作或好心）發花痴\n把對方投射成Mr. Right\n然後事後才在那邊怪罪對方變了 或者讓自己失望\n其實從頭到尾就是自己發情的結果",
       "can_remove": false,
-      "like_count": 13,
+      "like_count": 29,
       "user_likes": false,
       "id": "432222453569018_432224530235477"
     },
@@ -287,7 +416,7 @@
       },
       "message": "愛就直白一點、過了這個村可就没那個店了！不説連50‰的機率都沒有了。",
       "can_remove": false,
-      "like_count": 16,
+      "like_count": 17,
       "user_likes": false,
       "id": "432222453569018_432224020235528"
     }

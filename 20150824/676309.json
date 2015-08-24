@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150824/676309/",
   "comments": [
     {
+      "created_time": "2015-08-24T13:38:33+0000",
+      "from": {
+        "name": "藍霞",
+        "id": "100002693375533"
+      },
+      "message": "剛看完監視器畫面，\n發現，\n新聞和留言都在腦補.....",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1021913804520176_1022439944467562"
+    },
+    {
+      "created_time": "2015-08-24T13:25:04+0000",
+      "from": {
+        "name": "Lee Yuting",
+        "id": "100004731101322"
+      },
+      "message": "要限制年齡入館，還有全世界大概只有我們臺灣可以帶飲料入館，這是很嚴重的疏失。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1021913804520176_1022435477801342"
+    },
+    {
+      "created_time": "2015-08-24T13:15:16+0000",
+      "from": {
+        "name": "Hong Li",
+        "id": "100000368420972"
+      },
+      "message": "家教的問題!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1021913804520176_1022432081135015"
+    },
+    {
       "created_time": "2015-08-24T12:29:24+0000",
       "from": {
         "name": "陳柏妤",
@@ -179,7 +215,7 @@
       },
       "message": "為什麼看展，手上還拿著飲料阿？？？真心不解，這種事情主辦單位也要注意吧",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1021913804520176_1022244054487151"
     },
@@ -203,7 +239,7 @@
       },
       "message": "有影片出來了，看完感想是展覽單位的問題。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1021913804520176_1022236594487897"
     },
@@ -491,7 +527,7 @@
       },
       "message": "讓父母賠，看他們以後還管不管小孩。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1021913804520176_1022162367828653"
     },
@@ -564,7 +600,7 @@
       },
       "message": "去那些婆婆媽媽親子育兒留言板看看，那些限制入場年齡的餐廳、展場、公共場所被罵的多慘，現在知道為什麼不准小鬼進場了吧！",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "1021913804520176_1022151417829748"
     },
@@ -612,7 +648,7 @@
       },
       "message": "各位親愛的家長，請帶你們活潑放任的小孩，到大賣場玩電扶梯就好了，乖。",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "1021913804520176_1022150444496512"
     },
@@ -725,18 +761,6 @@
       "id": "1021913804520176_1022142621163961"
     },
     {
-      "created_time": "2015-08-24T01:50:13+0000",
-      "from": {
-        "name": "馬陰芭",
-        "id": "100000443859576"
-      },
-      "message": "破產的教訓",
-      "can_remove": false,
-      "like_count": 2,
-      "user_likes": false,
-      "id": "1021913804520176_1022142164497340"
-    },
-    {
       "created_time": "2015-08-24T01:45:57+0000",
       "from": {
         "name": "Roy Yen",
@@ -780,7 +804,7 @@
       },
       "message": "某次去看古物展覽，不可以碰觸，但是有小孩拼命碰，我制止他們，後來看到家長也在碰，我才知道是家教問題。",
       "can_remove": false,
-      "like_count": 9,
+      "like_count": 10,
       "user_likes": false,
       "id": "1021913804520176_1022138767831013"
     },
@@ -864,7 +888,7 @@
       },
       "message": "該讓那12歲小孩,體驗一下弄壞畫作賠償一輩子的果報",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1021913804520176_1022134734498083"
     },
@@ -876,7 +900,7 @@
       },
       "message": "家長：我小孩受傷了你不先賠個幾百萬來嗎！要是我小孩沒法上大學，你賠得起嗎！",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1021913804520176_1022131967831693"
     },
@@ -888,7 +912,7 @@
       },
       "message": "小孩懂甚麼藝術與真品! 只會好玩搞破壞! 參觀膺品就可以了!",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1021913804520176_1022130104498546"
     },
@@ -1008,7 +1032,7 @@
       },
       "message": "屁孩就去看蠟筆小新，看啥名畫展？",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "1021913804520176_1022108831167340"
     },
@@ -1080,7 +1104,7 @@
       },
       "message": "我同學在FB上説，他看展看到一個胖小子手拿可樂，不知道怎麼走到快摔倒，用手往旁邊一撐，400年的畫就這樣重傷了！\n小孩絕對有問題，就是個沒教養，不過沒教養的孩子一定是沒教養的父母搞出來的！",
       "can_remove": false,
-      "like_count": 25,
+      "like_count": 26,
       "user_likes": false,
       "id": "1021913804520176_1022081951170028"
     },
@@ -1140,7 +1164,7 @@
       },
       "message": "沒有藝文氣息就別逼著自己還帶著孩子假掰好嗎",
       "can_remove": false,
-      "like_count": 28,
+      "like_count": 30,
       "user_likes": false,
       "id": "1021913804520176_1022035924507964"
     },
@@ -1188,7 +1212,7 @@
       },
       "message": "跨越警戒線的小孩子不慎弄破\n跨越警戒線的小孩子不慎弄破\n跨越警戒線的小孩子不慎弄破\n.\n這些孩子的家長是沒帶眼睛還是沒帶腦袋出門啊 ?\n是不會告訴你的孩子 \"警戒線\" 是什麼東西嗎 ?\n是不會告訴你的孩子 \"美術館不是個適合奔跑嬉戲\" 的地方嗎 ?\n我家的母狗生了小狗都會教牠孩子在哪裡吃飯在哪裡拉屎 ,\n你們光會生不會教 ? 戴套子嘛 !",
       "can_remove": false,
-      "like_count": 44,
+      "like_count": 45,
       "user_likes": false,
       "id": "1021913804520176_1021989264512630"
     },
@@ -1212,7 +1236,7 @@
       },
       "message": "12歲了，這分明是父母沒好好管教，這應該父母要買單！",
       "can_remove": false,
-      "like_count": 19,
+      "like_count": 20,
       "user_likes": false,
       "id": "1021913804520176_1021981011180122"
     },
@@ -1236,7 +1260,7 @@
       },
       "message": "丟臉，屁孩都那麼大了，\n真是丟臉到國際，\n爸爸出來賠！\n\n這种鬼行為害死台灣以後沒外國人要來辦展",
       "can_remove": false,
-      "like_count": 15,
+      "like_count": 16,
       "user_likes": false,
       "id": "1021913804520176_1021971987847691"
     },
@@ -1308,7 +1332,7 @@
       },
       "message": "如果被求償，這慣父母就努力賠吧…\n以前有時在那種火鍋店看到孩子在嬉戲跑動，都很佩服他爸媽有顆大心臟了。",
       "can_remove": false,
-      "like_count": 14,
+      "like_count": 15,
       "user_likes": false,
       "id": "1021913804520176_1021949351183288"
     },
@@ -1356,7 +1380,7 @@
       },
       "message": "我家小孩很怪，都是畫展壞壞（打畫框表示畫展壞壞",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 6,
       "user_likes": false,
       "id": "1021913804520176_1021944847850405"
     },
@@ -1368,7 +1392,7 @@
       },
       "message": "可能全家賣器官都賠不起，這類展覽應該限制年齡。",
       "can_remove": false,
-      "like_count": 72,
+      "like_count": 73,
       "user_likes": false,
       "id": "1021913804520176_1021943807850509"
     },
@@ -1440,7 +1464,7 @@
       },
       "message": "支持小孩父母買單",
       "can_remove": false,
-      "like_count": 366,
+      "like_count": 373,
       "user_likes": false,
       "id": "1021913804520176_1021934754518081"
     },
@@ -1476,7 +1500,7 @@
       },
       "message": "我們天天駡大陸人小孩子沒教養，我看我們台灣人的素質也不怎樣。",
       "can_remove": false,
-      "like_count": 47,
+      "like_count": 48,
       "user_likes": false,
       "id": "1021913804520176_1021918661186357"
     },

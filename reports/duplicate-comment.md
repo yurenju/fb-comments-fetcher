@@ -211,6 +211,36 @@ users:
 * 【法廣RFI】歐洲大力士高鐵驚傳槍擊案
 * 【數位時代】英國首見「電動車專用車道」，免停車也能充
 
+## 重複次數 15
+
+留言：
+
+```
+真好，不事生產的投機取巧炒作份子，通通去死，全家去死，我讚助發財金給你們，死得越多燒得越多 ^_^ !
+```
+
+users: 
+
+* [淡水飄移]('http://facebook.com/' + users[user].id) (重複 15 次)
+
+新聞：
+
+* 【不斷更新】道瓊開盤狂瀉千點　創史上最大跌點
+* 【更新】美債、歐元急漲　日圓升破120
+* 搶救股市　毛治國下午開會找對策
+* 林伯豐：取消證所稅　股市馬上起來！
+* 【更新】歐股重挫5%　德股邁向熊市
+* 馬英九籲救股災全面備戰　網友：終於睡醒了？
+* 香港財政司長談股災：沒必要干預市場　
+* 港股市值蒸發6.2兆　每人帳面少89萬
+* 股價重挫　台積電：暫不考慮實施庫藏股
+* 全球股災如鳥人大賽　比誰摔得慘
+* 彭博：全球股市要回穩　只能靠人行
+* 油價下跌　中東股市綠油油
+* 謝金河：股災核心不是美國　很可能是中國
+* 蘋果失守百美元大關　阿里跌破發行價
+* 分析師：中國開始救經濟前不要進場
+
 ## 重複次數 14
 
 留言：
@@ -240,7 +270,7 @@ users:
 * 阿帕契團霸氣里長開揪了　逾百人報名
 * 阿帕契團無止盡　這邊40人也發函了
 
-## 重複次數 13
+## 重複次數 14
 
 留言：
 
@@ -252,7 +282,7 @@ users:
 
 users: 
 
-* [陳和利]('http://facebook.com/' + users[user].id) (重複 13 次)
+* [陳和利]('http://facebook.com/' + users[user].id) (重複 14 次)
 
 新聞：
 
@@ -269,6 +299,44 @@ users:
 * 【公庫】海上奴工、血汗海鮮—-台灣移工聯盟
 * 李登輝：明年新總統應好好推動修憲
 * 【法廣RFI】李登輝為日本祖國而戰的效應
+* 洪秀柱：我能延續九二共識的維持現狀政策
+
+## 重複次數 12
+
+留言：
+
+```
+讚
+```
+
+users: 
+
+* [黃小意]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Kate Chu]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [朱義程]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [蔡耀德]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Sian Kuan Ciou]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [金俊浩]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Fenny Chen]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Alan Liu]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [林財生]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [施采岑]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [陳鴻]('http://facebook.com/' + users[user].id) (重複 2 次)
+
+新聞：
+
+* 黑手黨老大葬禮浮誇　直升機空灑花瓣
+* 【更新】北市人事超標全國之冠　柯：先除冗事再來瘦身
+* 【更新】想看阿帕契　2名網友衝601旅遭擋門外
+* 【更新】想看阿帕契　2名網友衝601旅遭擋門外
+* 【更新】想看阿帕契　2名網友衝601旅遭擋門外
+* 【更新】真男人　水電工顧罹癌妻與岳母無怨尤
+* 夏天就是要去鄰居家的泳池玩水啊！
+* 劉育志：捐卵女孩險喪命
+* 【數位時代】花36年追上想像，《異形》裡的「工程機器人」Power Loader終於成真
+* 台股暴跌　謝金河：下一個是房市！
+* 觸控展　友達大秀穿戴面板
+* 整合型觸控面板　操控更便利
 
 ## 重複次數 11
 
@@ -295,74 +363,6 @@ users:
 * 馬英九籲救股災全面備戰　網友：終於睡醒了？
 * 【更新】網友實測　申請參觀阿帕契的鬼打牆之旅
 * 阿帕契團霸氣里長開揪了　逾百人報名
-
-## 重複次數 10
-
-留言：
-
-```
-野
-```
-
-users: 
-
-* [博麗男僕]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Chris Lee]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Jack Tsai]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [潘政安]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Jack Leo Chang]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [孔雀咖啡]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [陶毅桓]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [John ChenHeng]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [神奈]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Andrew Jao]('http://facebook.com/' + users[user].id) (重複 1 次)
-
-新聞：
-
-*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
-*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
-*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
-*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
-*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
-*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
-*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
-*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
-*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
-*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
-
-## 重複次數 10
-
-留言：
-
-```
-讚
-```
-
-users: 
-
-* [黃小意]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Kate Chu]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [朱義程]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [蔡耀德]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Sian Kuan Ciou]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [金俊浩]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Fenny Chen]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Alan Liu]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [林財生]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [施采岑]('http://facebook.com/' + users[user].id) (重複 1 次)
-
-新聞：
-
-* 黑手黨老大葬禮浮誇　直升機空灑花瓣
-* 【更新】北市人事超標全國之冠　柯：先除冗事再來瘦身
-* 【更新】想看阿帕契　2名網友衝601旅遭擋門外
-* 【更新】想看阿帕契　2名網友衝601旅遭擋門外
-* 【更新】想看阿帕契　2名網友衝601旅遭擋門外
-* 【更新】真男人　水電工顧罹癌妻與岳母無怨尤
-* 夏天就是要去鄰居家的泳池玩水啊！
-* 劉育志：捐卵女孩險喪命
-* 【數位時代】花36年追上想像，《異形》裡的「工程機器人」Power Loader終於成真
-* 台股暴跌　謝金河：下一個是房市！
 
 ## 重複次數 10
 
@@ -431,29 +431,21 @@ users:
 留言：
 
 ```
-垃圾
+我一直覺得納悶？冥進黨明明就是台獨黨！…世人皆知！…為什麼以前的陳水扁及現在的蔡英文都不敢台獨，而連喊都不敢喊啊！…有這麼困難嗎？
 ```
 
 users: 
 
-* [Miya Si]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Huang Yin-hao]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [王元萬]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [山本楓龍]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [荒野鑣客]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [李東]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [莊永哉]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Mini Chieh]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [蔡敏惠]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [成雲遠]('http://facebook.com/' + users[user].id) (重複 9 次)
 
 新聞：
 
-* 【更新】幫跑路竟挨打　女檢舉男友是通緝犯
-* 【更新】假募款真玩樂　高中生遭網友譙翻
-* 管理員性侵女住戶　辯「摸腿她沒拒絕」
-*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
-*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
-*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
-*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
-*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
-*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
+* 【更新】不怕小英拔樁　洪秀柱：也有綠的支持我
+* 【更新】不怕小英拔樁　洪秀柱：也有綠的支持我
+* 【更新】不怕小英拔樁　洪秀柱：也有綠的支持我
+* 宋楚瑜道歉　段宜康批：避重就輕、令我厭惡
+* 宋楚瑜道歉　段宜康批：避重就輕、令我厭惡
+* 宋楚瑜道歉　段宜康批：避重就輕、令我厭惡
+* 【更新】談李登輝日本祖國論　柯Ｐ：現任總統無須擴大
+* 【更新】談李登輝日本祖國論　柯Ｐ：現任總統無須擴大
+* 【更新】談李登輝日本祖國論　柯Ｐ：現任總統無須擴大
