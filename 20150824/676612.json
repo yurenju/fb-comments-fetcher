@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150824/676612/",
   "comments": [
     {
+      "created_time": "2015-08-24T12:30:11+0000",
+      "from": {
+        "name": "Ming-lang Jang",
+        "id": "100006671864777"
+      },
+      "message": "賺錢歸私，下跌時大家的退休金一起賠!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "877938388938547_878026228929763"
+    },
+    {
       "created_time": "2015-08-24T09:32:07+0000",
       "from": {
         "name": "Su-min Ho",
@@ -59,7 +71,7 @@
       },
       "message": "國安基金從沒賠過，每一次都是賺錢後安全退場，國安基金進場以後，股民可以少量進場了",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "877938388938547_877948695604183"
     },
@@ -107,7 +119,7 @@
       },
       "message": "7千點就在救，目的是要把快破產的四大基金銀彈全部打光，幾千億全部用完；反正KMT選不贏了，可以用的錢趕快用光光，讓下屆政府抱火球",
       "can_remove": false,
-      "like_count": 7,
+      "like_count": 8,
       "user_likes": false,
       "id": "877938388938547_877940062271713"
     }

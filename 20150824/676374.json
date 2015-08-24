@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150824/676374/",
   "comments": [
     {
+      "created_time": "2015-08-24T12:55:55+0000",
+      "from": {
+        "name": "黃高登",
+        "id": "100002332899296"
+      },
+      "message": "有沒有阿土伯錢從那來的八掛",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "797459983685020_797807046983647"
+    },
+    {
+      "created_time": "2015-08-24T12:42:32+0000",
+      "from": {
+        "name": "毛櫻富",
+        "id": "1675833576"
+      },
+      "message": "你們仲介只會出一張嘴又沒幫我做甚麼事...仲介費免談...買清的...(大部分仲介業務聽到應該會很不爽吧^^)",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "797459983685020_797803026984049"
+    },
+    {
       "created_time": "2015-08-24T05:10:28+0000",
       "from": {
         "name": "劉中遠",
@@ -11,7 +35,7 @@
       },
       "message": "這麼貴是要賣給鬼喔",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "797459983685020_797502853680733"
     },
@@ -23,7 +47,7 @@
       },
       "message": "看完房子說其實我是同行，來踩你線的。沒被關起來打我隨便你。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "797459983685020_797493430348342"
     },
@@ -35,7 +59,7 @@
       },
       "message": "你們仲介都會騙人不老實～",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "797459983685020_797491120348573"
     },

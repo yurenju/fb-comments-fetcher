@@ -4,6 +4,66 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150824/676727/",
   "comments": [
     {
+      "created_time": "2015-08-24T12:43:13+0000",
+      "from": {
+        "name": "Tsai Ming",
+        "id": "100000291847848"
+      },
+      "message": "太沒公德心了...",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1022112031142802_1022172134470125"
+    },
+    {
+      "created_time": "2015-08-24T12:08:12+0000",
+      "from": {
+        "name": "Hush Wu",
+        "id": "100001136605662"
+      },
+      "message": "大陸人 完全不意外",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1022112031142802_1022163584470980"
+    },
+    {
+      "created_time": "2015-08-24T11:02:16+0000",
+      "from": {
+        "name": "李美寧",
+        "id": "100008029543039"
+      },
+      "message": "ren bu wei ji，tian zhu di mie",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1022112031142802_1022144941139511"
+    },
+    {
+      "created_time": "2015-08-24T10:20:48+0000",
+      "from": {
+        "name": "陳世捷",
+        "id": "100000221963109"
+      },
+      "message": "一群人搶劫就不是搶？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1022112031142802_1022135214473817"
+    },
+    {
+      "created_time": "2015-08-24T10:16:55+0000",
+      "from": {
+        "name": "Paul Ng",
+        "id": "1638512332"
+      },
+      "message": "幫你拿去市場賣啦",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1022112031142802_1022134537807218"
+    },
+    {
       "created_time": "2015-08-24T09:36:09+0000",
       "from": {
         "name": "Hung Chung Yao",
@@ -47,7 +107,7 @@
       },
       "message": "這是正常的啦，中國耶。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1022112031142802_1022114971142508"
     },

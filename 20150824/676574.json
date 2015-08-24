@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150824/676574/",
   "comments": [
     {
+      "created_time": "2015-08-24T11:47:27+0000",
+      "from": {
+        "name": "Chris Hsu",
+        "id": "100000193352971"
+      },
+      "message": "好在只是喘叫而不是鬼叫...",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "981403808590359_981561721907901"
+    },
+    {
       "created_time": "2015-08-24T08:14:07+0000",
       "from": {
         "name": "Frank Yu",
@@ -11,7 +23,7 @@
       },
       "message": "「聲音像山豬爬坡喘叫！」\n所以該婉君有聽過山豬爬坡喘叫?",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "981403808590359_981466371917436"
     },

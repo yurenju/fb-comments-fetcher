@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150824/676432/",
   "comments": [
     {
+      "created_time": "2015-08-24T12:31:16+0000",
+      "from": {
+        "name": "黃進福",
+        "id": "100002864041927"
+      },
+      "message": "如果洪秀柱被換掉、那支持者就改投蔡英文。沒有洪秀柱、改投蔡英文。",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "839356556175605_839486872829240"
+    },
+    {
       "created_time": "2015-08-24T05:35:37+0000",
       "from": {
         "name": "黃柏甯",
@@ -119,7 +131,7 @@
       },
       "message": "各候選人一字解：\n施明德：恨！\n宋楚瑜：怨！\n洪秀柱：笨！\n蔡英文：任！\n台灣人：讚！",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "839356556175605_839361626175098"
     },
