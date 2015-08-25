@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150825/677199/",
   "comments": [
     {
+      "created_time": "2015-08-25T10:00:20+0000",
+      "from": {
+        "name": "李奇",
+        "id": "100004067071332"
+      },
+      "message": "這也能當新聞?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "910738179004833_910887935656524"
+    },
+    {
       "created_time": "2015-08-25T04:34:39+0000",
       "from": {
         "name": "梁德倫",
@@ -23,7 +35,7 @@
       },
       "message": "真心提議吃屎比較快⋯（再不吃屎就等死也更順口",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 6,
       "user_likes": false,
       "id": "910738179004833_910765755668742"
     }
