@@ -4,6 +4,448 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150825/677657/",
   "comments": [
     {
+      "created_time": "2015-08-25T16:00:03+0000",
+      "from": {
+        "name": "羅冠欣",
+        "id": "100000414038621"
+      },
+      "message": "根本歧視",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "732349550227403_732423736886651"
+    },
+    {
+      "created_time": "2015-08-25T15:33:52+0000",
+      "from": {
+        "name": "黃品嘉",
+        "id": "100003514992609"
+      },
+      "message": "垃圾新聞",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "732349550227403_732413063554385"
+    },
+    {
+      "created_time": "2015-08-25T15:33:39+0000",
+      "from": {
+        "name": "蝴蝶君",
+        "id": "100002854708807"
+      },
+      "message": "關我屁事喔，我喜歡就好（挖鼻",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "732349550227403_732413000221058"
+    },
+    {
+      "created_time": "2015-08-25T15:29:58+0000",
+      "from": {
+        "name": "銀行車貸_陳小姐",
+        "category": "Community",
+        "id": "1114539648559967"
+      },
+      "message": "台灣的調查也來做一做啊",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "732349550227403_732412143554477"
+    },
+    {
+      "created_time": "2015-08-25T15:24:56+0000",
+      "from": {
+        "name": "邱海蒂",
+        "id": "100008341120732"
+      },
+      "message": "我討厭好吵的車，\n\n有時半夜我會被嚇到整個醒了~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "732349550227403_732410793554612"
+    },
+    {
+      "created_time": "2015-08-25T15:18:18+0000",
+      "from": {
+        "name": "Andres Lin",
+        "id": "1806126290"
+      },
+      "message": "怎麼沒人統計一下  駕駛最討厭乘客的10大壞習慣......",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "732349550227403_732408856888139"
+    },
+    {
+      "created_time": "2015-08-25T15:08:21+0000",
+      "from": {
+        "name": "Shih Ike",
+        "id": "100003343912224"
+      },
+      "message": "跟你講啦 恁爸在法拉利上痛初音也有妹要坐啦",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "732349550227403_732406170221741"
+    },
+    {
+      "created_time": "2015-08-25T15:02:12+0000",
+      "from": {
+        "name": "林育慶",
+        "id": "100003478744451"
+      },
+      "message": "鬼島媒體BJ4 \n看看就好",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "732349550227403_732404060221952"
+    },
+    {
+      "created_time": "2015-08-25T15:01:44+0000",
+      "from": {
+        "name": "郝書祺",
+        "id": "100005991739200"
+      },
+      "message": "我中獎那麼多......難怪我從來沒有告白機會，老天只給了我五次被告白的經驗.......\n1、彩繪動漫角色圖案的車\n6、改排氣管  (雖然沒有聲音\n7、車內放的都是偶像明星或動漫歌曲的ＣＤ\n9、把方向盤和排檔裝飾得很華麗\n10、車上放玩偶",
+      "can_remove": false,
+      "like_count": 5,
+      "user_likes": false,
+      "id": "732349550227403_732403963555295"
+    },
+    {
+      "created_time": "2015-08-25T14:59:22+0000",
+      "from": {
+        "name": "Jacob Huang",
+        "id": "100000278406871"
+      },
+      "message": "只有俗可言",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "732349550227403_732403430222015"
+    },
+    {
+      "created_time": "2015-08-25T14:53:28+0000",
+      "from": {
+        "name": "蒼唯",
+        "id": "100009234866650"
+      },
+      "message": "日本的調查台灣可不一定....看看那些",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "732349550227403_732401716888853"
+    },
+    {
+      "created_time": "2015-08-25T14:51:21+0000",
+      "from": {
+        "name": "林定綸",
+        "id": "100004515034208"
+      },
+      "message": "我想要車還不一定有",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "732349550227403_732401030222255"
+    },
+    {
+      "created_time": "2015-08-25T14:51:08+0000",
+      "from": {
+        "name": "Ada Tsai",
+        "id": "100001249103408"
+      },
+      "message": "@Takashi Yokoyama \n車主，請問這張照片有經過你同意嗎XDD？\n車主都結婚了，還反感啥XDDD",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "732349550227403_732400953555596"
+    },
+    {
+      "created_time": "2015-08-25T14:45:24+0000",
+      "from": {
+        "name": "沈宇軒",
+        "id": "100001834015993"
+      },
+      "message": "我也覺得動漫車很噁",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "732349550227403_732395906889434"
+    },
+    {
+      "created_time": "2015-08-25T14:45:11+0000",
+      "from": {
+        "name": "林廷憶",
+        "id": "100000219219438"
+      },
+      "message": "原來我不是女孩子....",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "732349550227403_732395826889442"
+    },
+    {
+      "created_time": "2015-08-25T14:42:34+0000",
+      "from": {
+        "name": "蘇哲緯",
+        "id": "100001743576188"
+      },
+      "message": "痛車粉貴真的",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "732349550227403_732395180222840"
+    },
+    {
+      "created_time": "2015-08-25T14:34:38+0000",
+      "from": {
+        "name": "Gloria Chen",
+        "id": "100006549611197"
+      },
+      "message": "很多人都以為車上放玩偶，女生會開心，其實沒有好嗎==",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "732349550227403_732392923556399"
+    },
+    {
+      "created_time": "2015-08-25T14:30:29+0000",
+      "from": {
+        "name": "黃偉志",
+        "id": "540315919"
+      },
+      "message": "第一名應該是最討厭開國產車想約她出門",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "732349550227403_732391516889873"
+    },
+    {
+      "created_time": "2015-08-25T14:26:47+0000",
+      "from": {
+        "name": "陳麗芳",
+        "id": "100010181198124"
+      },
+      "message": "有些女生嘴上沒說 心裡也是貼了一張\"限乘富豪\"的貼紙",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "732349550227403_732390173556674"
+    },
+    {
+      "created_time": "2015-08-25T14:18:09+0000",
+      "from": {
+        "name": "白鳥和人",
+        "id": "100000399644167"
+      },
+      "message": "日本調查的東西看看就好。\n在台灣不見得是這樣的數據，說不定是....\n1.車子不是BWS (88%)\n2.沒改得很炫很快(80%)\n3.車主不夠帥(70%................等等...\n變成機車之類的.... (純屬發神經,別理我XD",
+      "can_remove": false,
+      "like_count": 6,
+      "user_likes": false,
+      "id": "732349550227403_732387346890290"
+    },
+    {
+      "created_time": "2015-08-25T14:13:27+0000",
+      "from": {
+        "name": "Takashi Yokoyama",
+        "id": "555192050"
+      },
+      "message": "沒經過我同意，可是被用這照片是我的榮幸(笑)",
+      "can_remove": false,
+      "like_count": 19,
+      "user_likes": false,
+      "id": "732349550227403_732384856890539"
+    },
+    {
+      "created_time": "2015-08-25T13:56:09+0000",
+      "from": {
+        "name": "蘇英碩",
+        "id": "100000115815397"
+      },
+      "message": "都錯了 第一名是 這男的沒車....\n第二名是 這男的有車 或買的起車 但不會開車",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "732349550227403_732379653557726"
+    },
+    {
+      "created_time": "2015-08-25T13:53:07+0000",
+      "from": {
+        "name": "游家慶",
+        "id": "100000121803176"
+      },
+      "message": "11. 開千萬超跑(以上皆非)100%",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "732349550227403_732378980224460"
+    },
+    {
+      "created_time": "2015-08-25T13:47:50+0000",
+      "from": {
+        "name": "天照",
+        "id": "100000495638200"
+      },
+      "message": "Takashi Yokoyama\n話說用這照片有經過你同意嗎?\n而且記得你已經結婚了不是?XD",
+      "can_remove": false,
+      "like_count": 0,
+      "message_tags": [
+        {
+          "id": "555192050",
+          "length": 16,
+          "name": "Takashi Yokoyama",
+          "offset": 0,
+          "type": "user"
+        }
+      ],
+      "user_likes": false,
+      "id": "732349550227403_732377766891248"
+    },
+    {
+      "created_time": "2015-08-25T13:47:31+0000",
+      "from": {
+        "name": "張哲龍",
+        "id": "1669819466"
+      },
+      "message": "標題可以改 \"讓公主反感的10大用車習慣\" \n是怎樣，痛個車也要惹妳不爽就是，很漂亮啊。\n如果是那種看到藍勃姦尼會高潮的那種，\n這樣的意見我想不聽也沒關係啦。\n請對號。",
+      "can_remove": false,
+      "like_count": 6,
+      "user_likes": false,
+      "id": "732349550227403_732377616891263"
+    },
+    {
+      "created_time": "2015-08-25T13:47:18+0000",
+      "from": {
+        "name": "許淳喻",
+        "id": "100000152321398"
+      },
+      "message": "有車坐就好 還嫌 除非女朋友不然誰屌你",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "732349550227403_732377540224604"
+    },
+    {
+      "created_time": "2015-08-25T13:46:52+0000",
+      "from": {
+        "name": "周長鴻",
+        "id": "715733880"
+      },
+      "message": "根本就是不尊重對方而已阿",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "732349550227403_732377473557944"
+    },
+    {
+      "created_time": "2015-08-25T13:40:04+0000",
+      "from": {
+        "name": "張家隆",
+        "id": "100000371221991"
+      },
+      "message": "沒車的閉嘴啦",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "732349550227403_732375676891457"
+    },
+    {
+      "created_time": "2015-08-25T13:36:06+0000",
+      "from": {
+        "name": "王嘉慧",
+        "id": "100000144710053"
+      },
+      "message": "我覺得痛車很好看啊\n停車時看到都會想拍張照\n不過看過痛索隆的(想問車主你這樣會不會被影響容易迷路?)\n動漫CD的話\n我自己常在開的車.....\nCD我全換成我喜歡的動漫歌了說",
+      "can_remove": false,
+      "like_count": 6,
+      "user_likes": false,
+      "id": "732349550227403_732374530224905"
+    },
+    {
+      "created_time": "2015-08-25T13:33:51+0000",
+      "from": {
+        "name": "Yang Iku",
+        "id": "100005067342845"
+      },
+      "message": "那藍寶基尼畫鋼鐵人呢?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "732349550227403_732373913558300"
+    },
+    {
+      "created_time": "2015-08-25T13:33:03+0000",
+      "from": {
+        "name": "蔡字興",
+        "id": "100000224756647"
+      },
+      "message": "媽的，這一定虎爛，這每一樣排名的七辣都很正",
+      "can_remove": false,
+      "like_count": 5,
+      "user_likes": false,
+      "id": "732349550227403_732373673558324"
+    },
+    {
+      "created_time": "2015-08-25T13:32:59+0000",
+      "from": {
+        "name": "林雨廷",
+        "id": "100000291243653"
+      },
+      "message": "怎麼不問路人對汽車最反感,一定是\"改裝車\"",
+      "can_remove": false,
+      "like_count": 8,
+      "user_likes": false,
+      "id": "732349550227403_732373653558326"
+    },
+    {
+      "created_time": "2015-08-25T13:32:21+0000",
+      "from": {
+        "name": "江俊毅",
+        "id": "100000463401761"
+      },
+      "message": "男人對女人的用車習慣，\n要求也沒有很高：\n『他媽的，給我看路！』",
+      "can_remove": false,
+      "like_count": 8,
+      "user_likes": false,
+      "id": "732349550227403_732373556891669"
+    },
+    {
+      "created_time": "2015-08-25T13:31:58+0000",
+      "from": {
+        "name": "Wayne Wu",
+        "id": "575931900"
+      },
+      "message": "應該再來一個,最討厭讓什麼樣的女人上車",
+      "can_remove": false,
+      "like_count": 10,
+      "user_likes": false,
+      "id": "732349550227403_732373480225010"
+    },
+    {
+      "created_time": "2015-08-25T13:10:36+0000",
+      "from": {
+        "name": "Sekai Hoshino",
+        "id": "100002942117018"
+      },
+      "message": "常念五字真言保平安",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "732349550227403_732369016892123"
+    },
+    {
+      "created_time": "2015-08-25T13:02:29+0000",
+      "from": {
+        "name": "Niki Lauda",
+        "id": "100002308953395"
+      },
+      "message": "路邊看過solio 彩繪火影的我愛羅。搖頭",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "732349550227403_732367146892310"
+    },
+    {
       "created_time": "2015-08-25T12:59:39+0000",
       "from": {
         "name": "Tachibana Wang",
@@ -59,7 +501,7 @@
       },
       "message": "不不不 如果套用在千萬超跑 可以無視掉那十項",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 14,
       "user_likes": false,
       "id": "732349550227403_732361413559550"
     },
@@ -96,7 +538,7 @@
       },
       "message": "我就不信一台法拉利或保時捷痛車妳們還會反感",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 22,
       "user_likes": false,
       "id": "732349550227403_732358296893195"
     },
@@ -132,7 +574,7 @@
       },
       "message": "1、彩繪動漫角色圖案的車（87.0％）\n6、改排氣管（51.5％）\n8、座椅用動物花色的椅套（47.5％）\n9、把方向盤和排檔裝飾得很華麗（46.5％）\n10、車上放玩偶（45.0％） \n這幾條在台灣不適用\n原因請看看廟會時出現的車子",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 38,
       "user_likes": false,
       "id": "732349550227403_732357920226566"
     },
@@ -144,7 +586,7 @@
       },
       "message": "坦白講啦\n你開個幾千萬的跑車就沒這些疑慮了",
       "can_remove": false,
-      "like_count": 10,
+      "like_count": 58,
       "user_likes": false,
       "id": "732349550227403_732357740226584"
     },
@@ -168,7 +610,7 @@
       },
       "message": "正名: 最讓三次元女反感的10大用車習慣",
       "can_remove": false,
-      "like_count": 13,
+      "like_count": 84,
       "user_likes": false,
       "id": "732349550227403_732352830227075"
     }

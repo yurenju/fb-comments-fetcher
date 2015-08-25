@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150825/677379/",
   "comments": [
     {
+      "created_time": "2015-08-25T15:18:15+0000",
+      "from": {
+        "name": "Ted Huang",
+        "id": "100001572612540"
+      },
+      "message": "凸顯自己過時",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "622095834560176_622203394549420"
+    },
+    {
+      "created_time": "2015-08-25T15:09:17+0000",
+      "from": {
+        "name": "黃進福",
+        "id": "100002864041927"
+      },
+      "message": "一個比馬英九能力更差的人、代表國民黨選總統、難怪沒人願意站臺、政治是現實的明知她不會當選還幫她站臺！",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "622095834560176_622201754549584"
+    },
+    {
+      "created_time": "2015-08-25T15:07:20+0000",
+      "from": {
+        "name": "劉哲宏",
+        "id": "1793396517"
+      },
+      "message": "支持偉中哥合唱針線情",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "622095834560176_622201361216290"
+    },
+    {
       "created_time": "2015-08-25T08:44:37+0000",
       "from": {
         "name": "楊承憲",
@@ -71,7 +107,7 @@
       },
       "message": "用不著隨媒體起舞！把王金平當中南部的選票.太看重他了.可以讓他和邱志偉選看看.民進黨知道王金平起不了大作用的鼓動！",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "622095834560176_622102504559509"
     },
@@ -215,7 +251,7 @@
       },
       "message": "國民黨越來越像個笑話了",
       "can_remove": false,
-      "like_count": 27,
+      "like_count": 29,
       "user_likes": false,
       "id": "622095834560176_622096681226758"
     }

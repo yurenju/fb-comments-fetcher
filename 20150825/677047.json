@@ -4,6 +4,19 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150825/677047/",
   "comments": [
     {
+      "created_time": "2015-08-25T15:22:05+0000",
+      "from": {
+        "name": "豪宅玩具",
+        "category": "Small Business",
+        "id": "130125857177755"
+      },
+      "message": "戰鬥民族",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864303040322719_864724863613870"
+    },
+    {
       "created_time": "2015-08-25T09:33:56+0000",
       "from": {
         "name": "莊明遠",
@@ -59,7 +72,7 @@
       },
       "message": "這兩位人士是累積了幾輩子的福報啊……",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "864303040322719_864462993640057"
     }

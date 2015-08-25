@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150825/677509/",
   "comments": [
     {
+      "created_time": "2015-08-25T13:22:47+0000",
+      "from": {
+        "name": "Zhu Ting Lin",
+        "id": "100001732215004"
+      },
+      "message": "好險沒錯過 不然永遠不會有人知道言承旭是大太宇",
+      "can_remove": false,
+      "like_count": 14,
+      "user_likes": false,
+      "id": "824518130997325_824591510989987"
+    },
+    {
       "created_time": "2015-08-25T12:35:30+0000",
       "from": {
         "name": "史迪艾嘉",
@@ -11,7 +23,7 @@
       },
       "message": "雖然前天才看過，但還是想再看一次！真的好好看！！",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "824518130997325_824564520992686"
     },
@@ -23,7 +35,7 @@
       },
       "message": "雖然前天才看過，但還是想再看一次！",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 3,
       "user_likes": false,
       "id": "824518130997325_824562607659544"
     }

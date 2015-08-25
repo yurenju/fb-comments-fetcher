@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150825/677458/",
   "comments": [
     {
+      "created_time": "2015-08-25T13:59:00+0000",
+      "from": {
+        "name": "爆米香",
+        "id": "1794559407"
+      },
+      "message": "事務官以為市長跟政務官不懂就浮編，這下子被抓到就準備死的很難看",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "848109668637899_848236775291855"
+    },
+    {
       "created_time": "2015-08-25T09:08:34+0000",
       "from": {
         "name": "Eric Chiu",
@@ -11,7 +23,7 @@
       },
       "message": "這樣要其他縣市長要怎麼做下去啊?",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "848109668637899_848137305301802"
     },
@@ -23,7 +35,7 @@
       },
       "message": "在多的口水都改變不了柯p是有在做事的人",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "848109668637899_848131985302334"
     },
@@ -47,7 +59,7 @@
       },
       "message": "柯P市政府加油",
       "can_remove": false,
-      "like_count": 8,
+      "like_count": 9,
       "user_likes": false,
       "id": "848109668637899_848110508637815"
     }
