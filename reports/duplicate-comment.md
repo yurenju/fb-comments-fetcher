@@ -278,6 +278,47 @@ users:
 留言：
 
 ```
+讚
+```
+
+users: 
+
+* [黃小意]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Kate Chu]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [朱義程]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [蔡耀德]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Sian Kuan Ciou]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [金俊浩]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Fenny Chen]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Alan Liu]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [林財生]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [施采岑]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [陳鴻]('http://facebook.com/' + users[user].id) (重複 2 次)
+* [黃國演]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Vivi Chang]('http://facebook.com/' + users[user].id) (重複 1 次)
+
+新聞：
+
+* 黑手黨老大葬禮浮誇　直升機空灑花瓣
+* 【更新】北市人事超標全國之冠　柯：先除冗事再來瘦身
+* 【更新】想看阿帕契　2名網友衝601旅遭擋門外
+* 【更新】想看阿帕契　2名網友衝601旅遭擋門外
+* 【更新】想看阿帕契　2名網友衝601旅遭擋門外
+* 【更新】真男人　水電工顧罹癌妻與岳母無怨尤
+* 夏天就是要去鄰居家的泳池玩水啊！
+* 劉育志：捐卵女孩險喪命
+* 【數位時代】花36年追上想像，《異形》裡的「工程機器人」Power Loader終於成真
+* 台股暴跌　謝金河：下一個是房市！
+* 觸控展　友達大秀穿戴面板
+* 整合型觸控面板　操控更便利
+* 誰反對蓋停車場　林佳龍怒：交出議員名單
+* 歐買尬！慧慈好有愛　火車咆哮要人讓座
+
+## 重複次數 14
+
+留言：
+
+```
 推翻貴婦阿帕契國民黨
 ```
 
@@ -301,45 +342,6 @@ users:
 * 【更新】網友實測　申請參觀阿帕契的鬼打牆之旅
 * 阿帕契團霸氣里長開揪了　逾百人報名
 * 阿帕契團無止盡　這邊40人也發函了
-
-## 重複次數 13
-
-留言：
-
-```
-讚
-```
-
-users: 
-
-* [黃小意]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Kate Chu]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [朱義程]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [蔡耀德]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Sian Kuan Ciou]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [金俊浩]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Fenny Chen]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Alan Liu]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [林財生]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [施采岑]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [陳鴻]('http://facebook.com/' + users[user].id) (重複 2 次)
-* [黃國演]('http://facebook.com/' + users[user].id) (重複 1 次)
-
-新聞：
-
-* 黑手黨老大葬禮浮誇　直升機空灑花瓣
-* 【更新】北市人事超標全國之冠　柯：先除冗事再來瘦身
-* 【更新】想看阿帕契　2名網友衝601旅遭擋門外
-* 【更新】想看阿帕契　2名網友衝601旅遭擋門外
-* 【更新】想看阿帕契　2名網友衝601旅遭擋門外
-* 【更新】真男人　水電工顧罹癌妻與岳母無怨尤
-* 夏天就是要去鄰居家的泳池玩水啊！
-* 劉育志：捐卵女孩險喪命
-* 【數位時代】花36年追上想像，《異形》裡的「工程機器人」Power Loader終於成真
-* 台股暴跌　謝金河：下一個是房市！
-* 觸控展　友達大秀穿戴面板
-* 整合型觸控面板　操控更便利
-* 誰反對蓋停車場　林佳龍怒：交出議員名單
 
 ## 重複次數 11
 
@@ -366,6 +368,32 @@ users:
 * 馬英九籲救股災全面備戰　網友：終於睡醒了？
 * 【更新】網友實測　申請參觀阿帕契的鬼打牆之旅
 * 阿帕契團霸氣里長開揪了　逾百人報名
+
+## 重複次數 10
+
+留言：
+
+```
+南無消災延壽藥師佛
+南無大願地藏王菩薩
+```
+
+users: 
+
+* [Ann Hung]('http://facebook.com/' + users[user].id) (重複 10 次)
+
+新聞：
+
+* 【更新】不滿她另結新歡　妒夫勒斃前妻
+* 媽媽顧著低頭玩手機　小孩慘遭輾爆頭
+* 漁工不慎失足墜海　送醫後宣告不治
+* 生病又負債　日月潭小販夫妻燒炭亡
+* 8歲童玩抓迷藏失蹤　陳屍塑膠桶內　
+* 女全裸倒臥路旁　身中8刀遭性侵
+* 7旬翁陪妻住院　跌落電梯槽身亡
+* 護欄留刮痕　騎士摔8米橋下亡
+* 重陽橋下見浮屍　警追查死者身分
+* 女兒明滿月　BMW車主燒炭輕生
 
 ## 重複次數 10
 
@@ -403,60 +431,26 @@ users:
 * 【MLB】823精采好球  皇家6:3紅襪
 * 【MLB】823賽事 精采重現
 
-## 重複次數 10
-
-留言：
-
-```
-南無消災延壽藥師佛
-南無大願地藏王菩薩
-```
-
-users: 
-
-* [Ann Hung]('http://facebook.com/' + users[user].id) (重複 10 次)
-
-新聞：
-
-* 【更新】不滿她另結新歡　妒夫勒斃前妻
-* 媽媽顧著低頭玩手機　小孩慘遭輾爆頭
-* 漁工不慎失足墜海　送醫後宣告不治
-* 生病又負債　日月潭小販夫妻燒炭亡
-* 8歲童玩抓迷藏失蹤　陳屍塑膠桶內　
-* 女全裸倒臥路旁　身中8刀遭性侵
-* 7旬翁陪妻住院　跌落電梯槽身亡
-* 護欄留刮痕　騎士摔8米橋下亡
-* 重陽橋下見浮屍　警追查死者身分
-* 女兒明滿月　BMW車主燒炭輕生
-
 ## 重複次數 9
 
 留言：
 
 ```
-野
+我一直覺得納悶？冥進黨明明就是台獨黨！…世人皆知！…為什麼以前的陳水扁及現在的蔡英文都不敢台獨，而連喊都不敢喊啊！…有這麼困難嗎？
 ```
 
 users: 
 
-* [博麗男僕]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Chris Lee]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Jack Tsai]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [潘政安]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Jack Leo Chang]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [孔雀咖啡]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [陶毅桓]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [John ChenHeng]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Andrew Jao]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [成雲遠]('http://facebook.com/' + users[user].id) (重複 9 次)
 
 新聞：
 
-*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
-*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
-*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
-*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
-*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
-*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
-*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
-*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
-*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
+* 【更新】不怕小英拔樁　洪秀柱：也有綠的支持我
+* 【更新】不怕小英拔樁　洪秀柱：也有綠的支持我
+* 【更新】不怕小英拔樁　洪秀柱：也有綠的支持我
+* 宋楚瑜道歉　段宜康批：避重就輕、令我厭惡
+* 宋楚瑜道歉　段宜康批：避重就輕、令我厭惡
+* 宋楚瑜道歉　段宜康批：避重就輕、令我厭惡
+* 【更新】談李登輝日本祖國論　柯Ｐ：現任總統無須擴大
+* 【更新】談李登輝日本祖國論　柯Ｐ：現任總統無須擴大
+* 【更新】談李登輝日本祖國論　柯Ｐ：現任總統無須擴大

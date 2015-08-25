@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150825/676851/",
   "comments": [
     {
+      "created_time": "2015-08-25T06:26:45+0000",
+      "from": {
+        "name": "Chiu Andy",
+        "id": "100000707701052"
+      },
+      "message": "加油!一心向善，佛已離你不遠。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "739651906146572_739878826123880"
+    },
+    {
+      "created_time": "2015-08-25T04:50:44+0000",
+      "from": {
+        "name": "憶淋",
+        "id": "100005327553848"
+      },
+      "message": "很棒!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "739651906146572_739863392792090"
+    },
+    {
       "created_time": "2015-08-25T02:36:20+0000",
       "from": {
         "name": "許家裕",
@@ -83,7 +107,7 @@
       },
       "message": "心中有愛的好爸爸，你的愛創造了奇蹟。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "739651906146572_739792836132479"
     },
@@ -143,7 +167,7 @@
       },
       "message": "了不起了不起了不起",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "739651906146572_739692936142469"
     },
@@ -155,7 +179,7 @@
       },
       "message": "真的很不容易，辛苦了！加油！",
       "can_remove": false,
-      "like_count": 9,
+      "like_count": 11,
       "user_likes": false,
       "id": "739651906146572_739686929476403"
     },
@@ -167,7 +191,7 @@
       },
       "message": "浪子回頭金不換，讚，為你喝采",
       "can_remove": false,
-      "like_count": 14,
+      "like_count": 18,
       "user_likes": false,
       "id": "739651906146572_739664976145265"
     }
