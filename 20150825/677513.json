@@ -4,6 +4,582 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150825/677513/",
   "comments": [
     {
+      "created_time": "2015-08-25T12:58:11+0000",
+      "from": {
+        "name": "吳紓萍",
+        "id": "100006550321018"
+      },
+      "message": "是砸了多少？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863967446986279"
+    },
+    {
+      "created_time": "2015-08-25T12:50:26+0000",
+      "from": {
+        "name": "Yui Ming Chang",
+        "id": "1332805265"
+      },
+      "message": "這是公務人員",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863959803653710"
+    },
+    {
+      "created_time": "2015-08-25T12:50:24+0000",
+      "from": {
+        "name": "Bryan Lin",
+        "id": "100000266237421"
+      },
+      "message": "公務人員好像不止刑法可處罰,其他的處罰都消失了???",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863959793653711"
+    },
+    {
+      "created_time": "2015-08-25T12:47:47+0000",
+      "from": {
+        "name": "錢翔",
+        "id": "100000660275214"
+      },
+      "message": "民進黨一直主張廢除考試院,因為考試院的存在,讓他們沒辦法關說,~~所以考試院的存在讓他們恨死了,",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863959136987110"
+    },
+    {
+      "created_time": "2015-08-25T12:42:13+0000",
+      "from": {
+        "name": "Gary Wang",
+        "id": "100009653901167"
+      },
+      "message": "好誇張，這種事情在台灣普遍嗎？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863957846987239"
+    },
+    {
+      "created_time": "2015-08-25T12:42:08+0000",
+      "from": {
+        "name": "Chang-Jiun Terrence Wu",
+        "id": "100001071067702"
+      },
+      "message": "起訴的罪名是偽造文書，覺得怪怪的．",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863957810320576"
+    },
+    {
+      "created_time": "2015-08-25T12:40:47+0000",
+      "from": {
+        "name": "許智新",
+        "id": "100009459699534"
+      },
+      "message": "原住民保障太多了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863957550320602"
+    },
+    {
+      "created_time": "2015-08-25T12:33:46+0000",
+      "from": {
+        "name": "劉俊宇",
+        "id": "100009695748495"
+      },
+      "message": "不然郭冠英怎麼考上的?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863955913654099"
+    },
+    {
+      "created_time": "2015-08-25T12:19:49+0000",
+      "from": {
+        "name": "潘潘証",
+        "id": "100000406796013"
+      },
+      "message": "丟臉",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863951330321224"
+    },
+    {
+      "created_time": "2015-08-25T12:14:39+0000",
+      "from": {
+        "name": "陳志宗",
+        "id": "100000675376951"
+      },
+      "message": "原民也被漢人汙染了，嘖嘖",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863950060321351"
+    },
+    {
+      "created_time": "2015-08-25T12:14:19+0000",
+      "from": {
+        "name": "Zhong Ming Zou",
+        "id": "100009952866617"
+      },
+      "message": "標準的山地人欺負山地人！其他有唸書應考的山地人何辜。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863949970321360"
+    },
+    {
+      "created_time": "2015-08-25T12:11:02+0000",
+      "from": {
+        "name": "洪燕嬌",
+        "id": "100008834048741"
+      },
+      "message": "有人考了沒上又補還是沒能考上公務員太不公平的社會",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863948873654803"
+    },
+    {
+      "created_time": "2015-08-25T12:06:48+0000",
+      "from": {
+        "name": "洪燕嬌",
+        "id": "100008834048741"
+      },
+      "message": "那麼好等一不用考就能當公務人員常久上班",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863947740321583"
+    },
+    {
+      "created_time": "2015-08-25T11:53:20+0000",
+      "from": {
+        "name": "游絲瑪",
+        "id": "100008062570443"
+      },
+      "message": "這男的鐵定和女的很單純囉~  ^^",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863936663656024"
+    },
+    {
+      "created_time": "2015-08-25T11:51:23+0000",
+      "from": {
+        "name": "唐泰鐘",
+        "id": "100001750287755"
+      },
+      "message": "沒有對價關係? 應該是貪汙吧,這樣乎弄人 ,誰信司法",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863934396989584"
+    },
+    {
+      "created_time": "2015-08-25T11:48:12+0000",
+      "from": {
+        "name": "淡水飄移",
+        "id": "100000347442037"
+      },
+      "message": "公惡猿， 該死的共犯結構，民脂民膏養畜牲狗",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863930093656681"
+    },
+    {
+      "created_time": "2015-08-25T11:47:36+0000",
+      "from": {
+        "name": "陳盛麒",
+        "id": "100009948673927"
+      },
+      "message": "又是中國黨",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "863874880328869_863929726990051"
+    },
+    {
+      "created_time": "2015-08-25T11:38:41+0000",
+      "from": {
+        "name": "Edison  LI",
+        "id": "100000229265048"
+      },
+      "message": "苗粟會破產的原因的之一，無敵約雇員(民選地方首長為了穩住椿腳的福利之一)，曾有學姐跟小的耳提面命，在地方機關上班，連伺機大哥都不要得罪，後面可能很有力的人士....這樣的社會怎能不擔心。",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "863874880328869_863927716990252"
+    },
+    {
+      "created_time": "2015-08-25T11:36:17+0000",
+      "from": {
+        "name": "Roy Yen",
+        "id": "100000508052910"
+      },
+      "message": "歸懶趴火！贛",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863927200323637"
+    },
+    {
+      "created_time": "2015-08-25T11:31:14+0000",
+      "from": {
+        "name": "陳瑋瑋",
+        "id": "100000322782924"
+      },
+      "message": "好奇怪，這應該不是新聞了吧！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863926066990417"
+    },
+    {
+      "created_time": "2015-08-25T11:28:49+0000",
+      "from": {
+        "name": "劉家榮",
+        "id": "100006744844451"
+      },
+      "message": "根本垃圾",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "863874880328869_863925450323812"
+    },
+    {
+      "created_time": "2015-08-25T11:24:09+0000",
+      "from": {
+        "name": "John Chai",
+        "id": "100000010329723"
+      },
+      "message": "麻得!!!~這樣認真唸書考進去意義何在？╰_╯凸",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "863874880328869_863923360324021"
+    },
+    {
+      "created_time": "2015-08-25T11:16:56+0000",
+      "from": {
+        "name": "Andy Liao",
+        "id": "100000471427956"
+      },
+      "message": "這個比印度爬牆送小抄還扯",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863922260324131"
+    },
+    {
+      "created_time": "2015-08-25T11:16:37+0000",
+      "from": {
+        "name": "張正則",
+        "id": "100009903763759"
+      },
+      "message": "再來就是買官賣官嗎？就像清朝末年一樣嗎！\n科技謀殺令人驚聳：  \nhttp://blog.udn.com/plin123/22150611",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863922210324136"
+    },
+    {
+      "created_time": "2015-08-25T11:14:53+0000",
+      "from": {
+        "name": "Jack Lu",
+        "id": "100000452112356"
+      },
+      "message": "原住民本來都很乖，都是pailang（漢人）帶壞的.......................",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863921826990841"
+    },
+    {
+      "created_time": "2015-08-25T11:14:50+0000",
+      "from": {
+        "name": "江碧玲",
+        "id": "100002351557964"
+      },
+      "message": "骯髒......",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863921796990844"
+    },
+    {
+      "created_time": "2015-08-25T11:13:32+0000",
+      "from": {
+        "name": "Saru  Wu",
+        "id": "100007598226462"
+      },
+      "message": "申誡記一記，之後又是一條好漢",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863921586990865"
+    },
+    {
+      "created_time": "2015-08-25T11:12:12+0000",
+      "from": {
+        "name": "Jack Lu",
+        "id": "100000452112356"
+      },
+      "message": "我比較好奇的是：事情是誰捅出來的？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863921280324229"
+    },
+    {
+      "created_time": "2015-08-25T11:10:31+0000",
+      "from": {
+        "name": "蔡育璟",
+        "id": "1359385029"
+      },
+      "message": "沒有實力後台就要夠硬,只是手段太粗糙了啦",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "863874880328869_863920923657598"
+    },
+    {
+      "created_time": "2015-08-25T11:10:06+0000",
+      "from": {
+        "name": "陳主任",
+        "id": "100000264455625"
+      },
+      "message": "看成都督‧撒耘",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863920886990935"
+    },
+    {
+      "created_time": "2015-08-25T11:07:39+0000",
+      "from": {
+        "name": "陳偉昭",
+        "id": "100001284368176"
+      },
+      "message": "這種水準還想領18趴？0.18趴都是浪費錢！",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "863874880328869_863920060324351"
+    },
+    {
+      "created_time": "2015-08-25T11:06:33+0000",
+      "from": {
+        "name": "翁智偉",
+        "id": "100000249984653"
+      },
+      "message": "奇怪.為何星爺電影中荒繆劇情都真實在台灣發生?",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "863874880328869_863919736991050"
+    },
+    {
+      "created_time": "2015-08-25T11:04:29+0000",
+      "from": {
+        "name": "蔣天養",
+        "id": "100008454002213"
+      },
+      "message": "笨死了....沒有黨證還敢這樣搞....",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863919313657759"
+    },
+    {
+      "created_time": "2015-08-25T11:04:04+0000",
+      "from": {
+        "name": "王煚岦",
+        "id": "100000315565573"
+      },
+      "message": "真好",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863919200324437"
+    },
+    {
+      "created_time": "2015-08-25T11:00:18+0000",
+      "from": {
+        "name": "蘇隆永",
+        "id": "100005783744540"
+      },
+      "message": "有關係就沒關係……！沒關係就有關係……？",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "863874880328869_863918380324519"
+    },
+    {
+      "created_time": "2015-08-25T10:54:10+0000",
+      "from": {
+        "name": "Chen  Kuo Wang",
+        "id": "100005834616390"
+      },
+      "message": "很常見呀！就看有沒有人要檢舉而已",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "863874880328869_863917183657972"
+    },
+    {
+      "created_time": "2015-08-25T10:51:16+0000",
+      "from": {
+        "name": "Abraham Feng",
+        "id": "100000286188583"
+      },
+      "message": "緩起訴？難怪一堆人都不怕，好個私法正義！",
+      "can_remove": false,
+      "like_count": 9,
+      "user_likes": false,
+      "id": "863874880328869_863916560324701"
+    },
+    {
+      "created_time": "2015-08-25T10:44:44+0000",
+      "from": {
+        "name": "林子翔",
+        "id": "100006783827429"
+      },
+      "message": "唉…這文化沒救了從古自今都有",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "863874880328869_863909110325446"
+    },
+    {
+      "created_time": "2015-08-25T10:35:09+0000",
+      "from": {
+        "name": "吳琮捷",
+        "id": "100000218644738"
+      },
+      "message": "蘇察哈爾燦，立刻寫出你的名字來",
+      "can_remove": false,
+      "like_count": 24,
+      "user_likes": false,
+      "id": "863874880328869_863899793659711"
+    },
+    {
+      "created_time": "2015-08-25T10:33:34+0000",
+      "from": {
+        "name": "陳文權",
+        "id": "100008500720995"
+      },
+      "message": "該死的狗官統統捉去搶斃啦!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "863874880328869_863899606993063"
+    },
+    {
+      "created_time": "2015-08-25T10:32:22+0000",
+      "from": {
+        "name": "Peter Lin",
+        "id": "100007488812053"
+      },
+      "message": "怪不得常嗆：「有本事去考啊！」",
+      "can_remove": false,
+      "like_count": 18,
+      "user_likes": false,
+      "id": "863874880328869_863899473659743"
+    },
+    {
+      "created_time": "2015-08-25T10:32:00+0000",
+      "from": {
+        "name": "洪文順",
+        "id": "100003870380295"
+      },
+      "message": "背景不夠硬,檢察官官沒行文考試單位問考場是不是軍事堡壘",
+      "can_remove": false,
+      "like_count": 5,
+      "user_likes": false,
+      "id": "863874880328869_863899416993082"
+    },
+    {
+      "created_time": "2015-08-25T10:31:23+0000",
+      "from": {
+        "name": "魯德志",
+        "id": "100009754457464"
+      },
+      "message": "不愧是仙島..",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "863874880328869_863899330326424"
+    },
+    {
+      "created_time": "2015-08-25T10:19:57+0000",
+      "from": {
+        "name": "Yuki Tsai",
+        "id": "100008790133393"
+      },
+      "message": "有靠山真好",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "863874880328869_863897390326618"
+    },
+    {
+      "created_time": "2015-08-25T10:17:01+0000",
+      "from": {
+        "name": "林風凱",
+        "id": "100000203081283"
+      },
+      "message": "好好哦。",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "863874880328869_863896436993380"
+    },
+    {
+      "created_time": "2015-08-25T10:14:13+0000",
+      "from": {
+        "name": "何泥泥",
+        "id": "100000789972248"
+      },
+      "message": "公務員果然都是走後門，幹！垃圾",
+      "can_remove": false,
+      "like_count": 4,
+      "user_likes": false,
+      "id": "863874880328869_863896060326751"
+    },
+    {
+      "created_time": "2015-08-25T10:10:32+0000",
+      "from": {
+        "name": "王貫順",
+        "id": "100001923110848"
+      },
+      "message": "....不知道是錯覺還是什麼，似乎有遇過左邊隔壁排的考生不是缺考或睡覺，結果放榜時...就是那一排的某人上榜的鬼話。",
+      "can_remove": false,
+      "like_count": 5,
+      "user_likes": false,
+      "id": "863874880328869_863895566993467"
+    },
+    {
+      "created_time": "2015-08-25T10:09:33+0000",
+      "from": {
+        "name": "張呈銘",
+        "id": "100000143345872"
+      },
+      "message": "花錢養畜牲",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "863874880328869_863895446993479"
+    },
+    {
       "created_time": "2015-08-25T09:58:38+0000",
       "from": {
         "name": "王查理",
@@ -11,7 +587,7 @@
       },
       "message": "球證，旁證，主辦單位都是我的人，你們怎跟我鬥！",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 46,
       "user_likes": false,
       "id": "863874880328869_863893823660308"
     },
@@ -23,7 +599,7 @@
       },
       "message": "哈哈  這種就是內定的呀~ 放心啦 過幾天還是會進去的啦~!",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 24,
       "user_likes": false,
       "id": "863874880328869_863893146993709"
     },
@@ -47,7 +623,7 @@
       },
       "message": "後山有後山的玩(王)法",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "863874880328869_863891870327170"
     },

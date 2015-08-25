@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150825/677243/",
   "comments": [
     {
+      "created_time": "2015-08-25T10:38:59+0000",
+      "from": {
+        "name": "Larry Liang",
+        "id": "100000173348217"
+      },
+      "message": "狗咬狗一嘴毛",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "897062740414463_897206947066709"
+    },
+    {
       "created_time": "2015-08-25T05:42:57+0000",
       "from": {
         "name": "劉承昱",
@@ -11,7 +23,7 @@
       },
       "message": "大陸人",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "897062740414463_897140877073316"
     },

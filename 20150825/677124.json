@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150825/677124/",
   "comments": [
     {
+      "created_time": "2015-08-25T11:30:45+0000",
+      "from": {
+        "name": "破曉",
+        "id": "100001844667835"
+      },
+      "message": "要加油ㄡ，勇敢面對未來的人生，會越來越好的。",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1155614454464960_1155823474444058"
+    },
+    {
+      "created_time": "2015-08-25T11:18:16+0000",
+      "from": {
+        "name": "林宸全",
+        "id": "100000304136297"
+      },
+      "message": "留點口德吧！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1155614454464960_1155818857777853"
+    },
+    {
       "created_time": "2015-08-25T04:26:54+0000",
       "from": {
         "name": "李梅白",
@@ -35,7 +59,7 @@
       },
       "message": "伴ya三莖",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1155614454464960_1155691904457215"
     }
