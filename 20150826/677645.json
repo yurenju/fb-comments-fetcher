@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150826/677645/",
   "comments": [
     {
+      "created_time": "2015-08-25T20:00:08+0000",
+      "from": {
+        "name": "王元萬",
+        "id": "100006112638576"
+      },
+      "message": "該看醫生了   這個病很重",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "757787557676520_757858904336052"
+    },
+    {
       "created_time": "2015-08-25T18:13:51+0000",
       "from": {
         "name": "Jun Chen",
@@ -35,7 +47,7 @@
       },
       "message": "接受精神科性治療吧",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "757787557676520_757800667675209"
     }

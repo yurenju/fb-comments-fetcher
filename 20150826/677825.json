@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150826/677825/",
   "comments": [
     {
+      "created_time": "2015-08-25T21:11:45+0000",
+      "from": {
+        "name": "冀秉均",
+        "id": "100000274614539"
+      },
+      "message": "好命活的久，歹命走的早。人生啊不就生老病死最後還是死，很多事情看開一點。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864113250326130_864289786975143"
+    },
+    {
       "created_time": "2015-08-25T18:49:16+0000",
       "from": {
         "name": "Yufu Wang",
@@ -23,7 +35,7 @@
       },
       "message": "讓我告訴你，去本區警察局，請查看就知道了，他們不隱瞞!!!",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "864113250326130_864141220323333"
     },
