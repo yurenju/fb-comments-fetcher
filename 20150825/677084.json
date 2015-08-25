@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150825/677084/",
   "comments": [
     {
+      "created_time": "2015-08-25T03:59:36+0000",
+      "from": {
+        "name": "John Yang",
+        "id": "100001385608578"
+      },
+      "message": "終結者",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1020965424610958_1021190921255075"
+    },
+    {
       "created_time": "2015-08-24T22:45:03+0000",
       "from": {
         "name": "Jye Hsin",
@@ -59,7 +71,7 @@
       },
       "message": "不會被搶嗎？下雨怎麼辦？",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1020965424610958_1020967121277455"
     }

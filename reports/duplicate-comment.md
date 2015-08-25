@@ -302,7 +302,7 @@ users:
 * 阿帕契團霸氣里長開揪了　逾百人報名
 * 阿帕契團無止盡　這邊40人也發函了
 
-## 重複次數 12
+## 重複次數 13
 
 留言：
 
@@ -323,6 +323,7 @@ users:
 * [林財生]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [施采岑]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [陳鴻]('http://facebook.com/' + users[user].id) (重複 2 次)
+* [黃國演]('http://facebook.com/' + users[user].id) (重複 1 次)
 
 新聞：
 
@@ -338,6 +339,7 @@ users:
 * 台股暴跌　謝金河：下一個是房市！
 * 觸控展　友達大秀穿戴面板
 * 整合型觸控面板　操控更便利
+* 誰反對蓋停車場　林佳龍怒：交出議員名單
 
 ## 重複次數 11
 
@@ -432,26 +434,26 @@ users:
 留言：
 
 ```
-垃圾
+野
 ```
 
 users: 
 
-* [Miya Si]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Huang Yin-hao]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [王元萬]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [山本楓龍]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [荒野鑣客]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [李東]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [莊永哉]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Mini Chieh]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [蔡敏惠]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [博麗男僕]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Chris Lee]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Jack Tsai]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [潘政安]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Jack Leo Chang]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [孔雀咖啡]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [陶毅桓]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [John ChenHeng]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Andrew Jao]('http://facebook.com/' + users[user].id) (重複 1 次)
 
 新聞：
 
-* 【更新】幫跑路竟挨打　女檢舉男友是通緝犯
-* 【更新】假募款真玩樂　高中生遭網友譙翻
-* 管理員性侵女住戶　辯「摸腿她沒拒絕」
+*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
+*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
+*  女大生遭「野格炸彈」灌醉　床照LINE傳全系
 *  女大生遭「野格炸彈」灌醉　床照LINE傳全系
 *  女大生遭「野格炸彈」灌醉　床照LINE傳全系
 *  女大生遭「野格炸彈」灌醉　床照LINE傳全系
