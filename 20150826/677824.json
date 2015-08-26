@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150826/677824/",
   "comments": [
     {
+      "created_time": "2015-08-26T00:51:35+0000",
+      "from": {
+        "name": "Mike Wu",
+        "id": "1406555259"
+      },
+      "message": "這都舊的啦～人家一週前貼出新的表演了～",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "945318838861436_945503768842943"
+    },
+    {
+      "created_time": "2015-08-26T00:03:56+0000",
+      "from": {
+        "name": "林聖諺",
+        "id": "1124148720"
+      },
+      "message": "嘿嘿一樓見鬼啦",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "945318838861436_945490948844225"
+    },
+    {
       "created_time": "2015-08-25T17:21:08+0000",
       "from": {
         "name": "吳宗憲",
@@ -11,7 +35,7 @@
       },
       "message": "呃...上星期YOUTUBE的熱門影片，已看過，蘋果跟的有點慢喔",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "945318838861436_945333205526666"
     },

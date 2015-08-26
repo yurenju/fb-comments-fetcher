@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150826/677831/",
   "comments": [
     {
+      "created_time": "2015-08-26T00:51:51+0000",
+      "from": {
+        "name": "Yen Yu Yu",
+        "id": "100001010115327"
+      },
+      "message": "這不是史丹利\n照片是H吧！\n……………………",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "887990357904600_888084217895214"
+    },
+    {
+      "created_time": "2015-08-25T22:27:13+0000",
+      "from": {
+        "name": "Golden Freeman",
+        "id": "100001897891056"
+      },
+      "message": "忘了還有一首歌,叫黏巴達",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "887990357904600_888043037899332"
+    },
+    {
+      "created_time": "2015-08-25T22:26:06+0000",
+      "from": {
+        "name": "Golden Freeman",
+        "id": "100001897891056"
+      },
+      "message": "水洗泡褲?是大腿要車三褶的學生褲嗎?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "887990357904600_888042811232688"
+    },
+    {
       "created_time": "2015-08-25T19:59:49+0000",
       "from": {
         "name": "劉森永",
@@ -11,7 +47,7 @@
       },
       "message": "水洗泡褲...果然是我那年代的....",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "887990357904600_888003144569988"
     }

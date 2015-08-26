@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150826/677645/",
   "comments": [
     {
+      "created_time": "2015-08-25T22:57:33+0000",
+      "from": {
+        "name": "陳力",
+        "id": "100009208194435"
+      },
+      "message": "懶叫剁掉，遁入空門",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "757787557676520_757916310996978"
+    },
+    {
       "created_time": "2015-08-25T20:00:08+0000",
       "from": {
         "name": "王元萬",
@@ -11,7 +23,7 @@
       },
       "message": "該看醫生了   這個病很重",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "757787557676520_757858904336052"
     },
@@ -23,7 +35,7 @@
       },
       "message": "嫖妓還能有那麼文青的心得。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "757787557676520_757830641005545"
     },
@@ -47,7 +59,7 @@
       },
       "message": "接受精神科性治療吧",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "757787557676520_757800667675209"
     }

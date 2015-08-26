@@ -4,6 +4,54 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150826/677825/",
   "comments": [
     {
+      "created_time": "2015-08-26T00:27:40+0000",
+      "from": {
+        "name": "鄭以鑫",
+        "id": "100004814190536"
+      },
+      "message": "又多了一個倒霉的房東。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864113250326130_864346226969499"
+    },
+    {
+      "created_time": "2015-08-25T23:38:00+0000",
+      "from": {
+        "name": "黃高登",
+        "id": "100002332899296"
+      },
+      "message": "立刻變凶宅",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "864113250326130_864332760304179"
+    },
+    {
+      "created_time": "2015-08-25T23:33:11+0000",
+      "from": {
+        "name": "Jim Peng",
+        "id": "100001136143453"
+      },
+      "message": "安息吧",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "864113250326130_864327420304713"
+    },
+    {
+      "created_time": "2015-08-25T23:21:57+0000",
+      "from": {
+        "name": "黃衫客",
+        "id": "100009810062915"
+      },
+      "message": "屁孩又自殺… …",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "864113250326130_864324710304984"
+    },
+    {
       "created_time": "2015-08-25T21:11:45+0000",
       "from": {
         "name": "冀秉均",
@@ -23,7 +71,7 @@
       },
       "message": "鬼岛要完蛋了，年轻人自杀成风，真是悲剧~",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "864113250326130_864156086988513"
     },
