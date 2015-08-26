@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150826/678061/",
   "comments": [
     {
+      "created_time": "2015-08-26T09:22:46+0000",
+      "from": {
+        "name": "Yi-chain Wang",
+        "id": "100000122601947"
+      },
+      "message": "...很多畫家在畫正式圖前，會畫一些練習圖寫生或草圖，那些作品很多不會被刊載出來，尤其台灣有些策展單位不夠力借不到有名的那幾幅，就會展覽前期試畫作...不過這種文化水準真的不敢借不意外",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "771182702998374_771273732989271"
+    },
+    {
       "created_time": "2015-08-26T06:16:17+0000",
       "from": {
         "name": "黃安志",
@@ -23,7 +35,7 @@
       },
       "message": "又被踢爆了嗎？",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "771182702998374_771185412998103"
     }

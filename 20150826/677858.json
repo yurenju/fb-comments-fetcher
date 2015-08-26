@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150826/677858/",
   "comments": [
     {
+      "created_time": "2015-08-26T07:46:02+0000",
+      "from": {
+        "name": "Nini Chang",
+        "id": "100000496644977"
+      },
+      "message": "也可順便抽菸喝酒打牌唱卡拉OK啊！",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "856633391116816_856935151086640"
+    },
+    {
       "created_time": "2015-08-26T04:03:00+0000",
       "from": {
         "name": "卡滋瞄",
@@ -71,7 +83,7 @@
       },
       "message": "能吃能喝幹嗎住院有病是不是",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "856633391116816_856653204448168"
     },

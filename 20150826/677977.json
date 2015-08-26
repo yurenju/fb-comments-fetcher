@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150826/677977/",
   "comments": [
     {
+      "created_time": "2015-08-26T07:04:09+0000",
+      "from": {
+        "name": "Jellal Fernandes",
+        "id": "100000264529680"
+      },
+      "message": "　展覽場可以帶飲料進去滿扯的，最扯的是畫都沒有任何防護措施如玻璃盒隔住。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "933466280032963_933551923357732"
+    },
+    {
       "created_time": "2015-08-26T06:07:43+0000",
       "from": {
         "name": "Carol Lynn",
@@ -11,7 +23,7 @@
       },
       "message": "丟臉，沒保護好又讓小孩拿飲料進去，什麼地方呀？！",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "933466280032963_933540953358829"
     },
@@ -47,7 +59,7 @@
       },
       "message": "小朋友，立志當個畫家，畫出比這幅畫更經典的作品！",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "933466280032963_933474110032180"
     },

@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150826/677750/",
   "comments": [
     {
+      "created_time": "2015-08-26T09:34:46+0000",
+      "from": {
+        "name": "漂流",
+        "id": "100000298631647"
+      },
+      "message": "他想讓兒子曝光也走演藝圈？..現在演藝圈都走世襲根本不需要才藝..這跟其他國家怎麼比較呢？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "296581370465825_296600213797274"
+    },
+    {
+      "created_time": "2015-08-26T07:02:38+0000",
+      "from": {
+        "name": "呂奇恩",
+        "id": "100000624334525"
+      },
+      "message": "過氣也要報",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "296581370465825_296590037131625"
+    },
+    {
       "created_time": "2015-08-26T06:48:05+0000",
       "from": {
         "name": "建康鄧",
@@ -11,7 +35,7 @@
       },
       "message": "這新聞的重點在哪兒？？",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "296581370465825_296588767131752"
     }
