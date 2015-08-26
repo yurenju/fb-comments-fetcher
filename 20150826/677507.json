@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150826/677507/",
   "comments": [
     {
+      "created_time": "2015-08-26T04:03:40+0000",
+      "from": {
+        "name": "謝沛毅",
+        "id": "100009055256808"
+      },
+      "message": "電線地下化……我想問的是，台灣常常挖馬路這樣會不會常常弄斷電線",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "308383142619112_308510565939703"
+    },
+    {
       "created_time": "2015-08-26T02:46:36+0000",
       "from": {
         "name": "高俊明",
@@ -59,7 +71,7 @@
       },
       "message": "作者提供專業建議，希望地方政府聽到，下次就做到；颱風來之前就修剪樹葉，收事半功倍之效！",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 8,
       "user_likes": false,
       "id": "308383142619112_308386242618802"
     }

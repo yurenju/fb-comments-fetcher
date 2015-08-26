@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150826/677840/",
   "comments": [
     {
+      "created_time": "2015-08-26T06:07:11+0000",
+      "from": {
+        "name": "Andy Lai",
+        "id": "100001986753816"
+      },
+      "message": "沒有瘋狗，只有瘋人",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1030554483630531_1030773173608662"
+    },
+    {
+      "created_time": "2015-08-26T05:08:51+0000",
+      "from": {
+        "name": "蕭克文",
+        "id": "100000190791357"
+      },
+      "message": "真好笑的政策。果然是強國人，沒有做不到只有想不到。人的問題扯到狗做啥，狗能自己賺錢買飼料就是了。始作俑者還是人。馬最近也瘋瘋的會不會也來一下。",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1030554483630531_1030722553613724"
+    },
+    {
       "created_time": "2015-08-26T03:47:38+0000",
       "from": {
         "name": "蔡桂展",
@@ -47,7 +71,7 @@
       },
       "message": "流感的時候怎麽不殺人.....",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 10,
       "user_likes": false,
       "id": "1030554483630531_1030619430290703"
     },
@@ -71,7 +95,7 @@
       },
       "message": "不帶狗打疫苗的才是殺狗兇手",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "1030554483630531_1030604613625518"
     },
