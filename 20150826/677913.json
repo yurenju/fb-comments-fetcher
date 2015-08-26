@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150826/677913/",
   "comments": [
     {
+      "created_time": "2015-08-26T13:54:57+0000",
+      "from": {
+        "name": "賴家慶",
+        "id": "100000049799011"
+      },
+      "message": "傾綠團體的操作,把宋洪壓低,兩人相加不及蔡,讓棄保不成,讓蔡英文穩當選!,破除這個陰謀請支持者在面對民調時亂答,讓民調失去工具性",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "870203766393796_870419533038886"
+    },
+    {
       "created_time": "2015-08-26T13:00:00+0000",
       "from": {
         "name": "馮曉靜",
@@ -35,7 +47,7 @@
       },
       "message": "挺柱，挺蛀啊...........",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "870203766393796_870343906379782"
     },
@@ -59,7 +71,7 @@
       },
       "message": "這種標題，真是捧宋，民調已非重點。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "870203766393796_870332396380933"
     },
@@ -790,18 +802,6 @@
       "id": "870203766393796_870222196391953"
     },
     {
-      "created_time": "2015-08-26T03:24:14+0000",
-      "from": {
-        "name": "張冠元",
-        "id": "100009745726522"
-      },
-      "message": "再這樣調下去，某陣營打手們會精神分裂的！",
-      "can_remove": false,
-      "like_count": 1,
-      "user_likes": false,
-      "id": "870203766393796_870222109725295"
-    },
-    {
       "created_time": "2015-08-26T03:21:56+0000",
       "from": {
         "name": "陳長謀",
@@ -826,18 +826,6 @@
       "id": "870203766393796_870220163058823"
     },
     {
-      "created_time": "2015-08-26T03:07:13+0000",
-      "from": {
-        "name": "馬一",
-        "id": "100007870511048"
-      },
-      "message": "請遵循古制，三國演義，爾瑜虞我詐，才有看頭，小三戲是絶對的看點，才有收視率，千萬不要合喔",
-      "can_remove": false,
-      "like_count": 0,
-      "user_likes": false,
-      "id": "870203766393796_870217719725734"
-    },
-    {
       "created_time": "2015-08-26T03:03:42+0000",
       "from": {
         "name": "Joshua Chen",
@@ -845,7 +833,7 @@
       },
       "message": "又是假民調....",
       "can_remove": false,
-      "like_count": 36,
+      "like_count": 37,
       "user_likes": false,
       "id": "870203766393796_870217003059139"
     },

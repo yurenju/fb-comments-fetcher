@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150826/677973/",
   "comments": [
     {
+      "created_time": "2015-08-26T14:40:09+0000",
+      "from": {
+        "name": "Wendy Wang",
+        "id": "817235474"
+      },
+      "message": "夏天是最美麗的小公主",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "434894423302284_435023699956023"
+    },
+    {
       "created_time": "2015-08-26T08:00:11+0000",
       "from": {
         "name": "Nick Lee",
@@ -35,7 +47,7 @@
       },
       "message": "爸3錄不了，就繼續錄爸4及爸5吧，反正有poppy在一切都心滿意足了",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "434894423302284_434931566631903"
     }

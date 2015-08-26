@@ -4,6 +4,66 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150826/678453/",
   "comments": [
     {
+      "created_time": "2015-08-26T14:18:13+0000",
+      "from": {
+        "name": "廖為翔",
+        "id": "1514870150"
+      },
+      "message": "我直覺應該是宣傳。”帕秋慶”只是個”點”",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "952905908083808_952982794742786"
+    },
+    {
+      "created_time": "2015-08-26T13:35:26+0000",
+      "from": {
+        "name": "紀政佑",
+        "id": "100001980421580"
+      },
+      "message": "這甚麼APP壓",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "952905908083808_952966868077712"
+    },
+    {
+      "created_time": "2015-08-26T13:27:44+0000",
+      "from": {
+        "name": "Edward Liu",
+        "id": "100002158134237"
+      },
+      "message": "還看了一分多鐘",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "952905908083808_952964288077970"
+    },
+    {
+      "created_time": "2015-08-26T13:17:09+0000",
+      "from": {
+        "name": "Karl Hsu",
+        "id": "772347067"
+      },
+      "message": "從台語發音的話，怕秋請，三聲更適合啊！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "952905908083808_952960571411675"
+    },
+    {
+      "created_time": "2015-08-26T13:09:19+0000",
+      "from": {
+        "name": "洪御貓",
+        "id": "100000103195948"
+      },
+      "message": "樓主是因為感到被騙才檢舉嗎？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "952905908083808_952957091412023"
+    },
+    {
       "created_time": "2015-08-26T12:51:48+0000",
       "from": {
         "name": "簡宗共",
@@ -23,7 +83,7 @@
       },
       "message": "而且這個app是黃立行研發的...",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "952905908083808_952927568081642"
     },

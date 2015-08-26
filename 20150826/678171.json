@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150826/678171/",
   "comments": [
     {
+      "created_time": "2015-08-26T13:21:15+0000",
+      "from": {
+        "name": "孫俊偉",
+        "id": "782785304"
+      },
+      "message": "兒歌三百首也挺好啊",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1182089881807498_1182254295124390"
+    },
+    {
       "created_time": "2015-08-26T12:47:41+0000",
       "from": {
         "name": "馮曉靜",
@@ -11,7 +23,7 @@
       },
       "message": "還好老爸不是寫唐詩三百首！\n\n那才是真感動。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1182089881807498_1182219748461178"
     }
