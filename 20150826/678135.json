@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150826/678135/",
   "comments": [
     {
+      "created_time": "2015-08-26T11:14:47+0000",
+      "from": {
+        "name": "Niki Lauda",
+        "id": "100002308953395"
+      },
+      "message": "總是這樣，沒有雪中送炭，只有錦上添花。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "871678766220610_871779986210488"
+    },
+    {
       "created_time": "2015-08-26T09:55:25+0000",
       "from": {
         "name": "黃培修",
@@ -11,7 +23,7 @@
       },
       "message": "這個獎不管得不得都來的太晚了！一路好走",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "871678766220610_871753076213179"
     },

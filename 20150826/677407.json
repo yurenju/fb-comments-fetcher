@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150826/677407/",
   "comments": [
     {
+      "created_time": "2015-08-26T12:38:05+0000",
+      "from": {
+        "name": "李大介",
+        "id": "100002662253911"
+      },
+      "message": "愚蠢，用這些料搭配泡麵...",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "892043707553508_892431130848099"
+    },
+    {
+      "created_time": "2015-08-26T10:38:00+0000",
+      "from": {
+        "name": "蘇亮亮",
+        "id": "100002217715254"
+      },
+      "message": "料多是外加的..那麵幹嘛用統一的化學麵!!??",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "892043707553508_892394544185091"
+    },
+    {
       "created_time": "2015-08-26T09:24:39+0000",
       "from": {
         "name": "Yang Chi",
@@ -11,7 +35,7 @@
       },
       "message": "你只要麵而已  直接去買麵條不是更健康划算",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "892043707553508_892373244187221"
     },
@@ -23,7 +47,7 @@
       },
       "message": "這樣不是統一麵也行啊!!明顯葉佩文",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "892043707553508_892238774200668"
     },
@@ -35,7 +59,7 @@
       },
       "message": "整個城市都是化工廠",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 9,
       "user_likes": false,
       "id": "892043707553508_892176754206870"
     },
@@ -47,7 +71,7 @@
       },
       "message": "用別的麵不是更好",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 5,
       "user_likes": false,
       "id": "892043707553508_892103644214181"
     },

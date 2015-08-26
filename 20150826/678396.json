@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150826/678396/",
   "comments": [
     {
+      "created_time": "2015-08-26T10:15:48+0000",
+      "from": {
+        "name": "Paul L. Leonardo",
+        "id": "100001456777259"
+      },
+      "message": "沒錯。價格應由市場機制決定。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "919812968056746_919821798055863"
+    },
+    {
       "created_time": "2015-08-26T09:47:55+0000",
       "from": {
         "name": "馮志源",
@@ -11,7 +23,7 @@
       },
       "message": "專業",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "919812968056746_919814638056579"
     }

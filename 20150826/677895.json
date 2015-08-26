@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150826/677895/",
   "comments": [
     {
+      "created_time": "2015-08-26T12:39:18+0000",
+      "from": {
+        "name": "吳坤旺",
+        "id": "100000491417392"
+      },
+      "message": "飆車也要看有沒有啊\n以為路是你們家的哦",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "911787012234901_912020272211575"
+    },
+    {
       "created_time": "2015-08-26T09:44:32+0000",
       "from": {
         "name": "Miracle Lin",
@@ -131,7 +143,7 @@
       },
       "message": "86只能走水溝不能走路肩，不然會填海。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "911787012234901_911841615562774"
     },
@@ -155,7 +167,7 @@
       },
       "message": "兩台在競速+1",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "911787012234901_911830618897207"
     },
@@ -263,7 +275,7 @@
       },
       "message": "很明顯銀色跟白色在高速公路競速，兩個人都拉去槍斃了",
       "can_remove": false,
-      "like_count": 16,
+      "like_count": 18,
       "user_likes": false,
       "id": "911787012234901_911790635567872"
     }
