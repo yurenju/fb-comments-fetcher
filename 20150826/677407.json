@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150826/677407/",
   "comments": [
     {
+      "created_time": "2015-08-26T03:20:37+0000",
+      "from": {
+        "name": "Doreen Chen",
+        "id": "100000132131008"
+      },
+      "message": "這樣不是統一麵也行啊!!明顯葉佩文",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "892043707553508_892238774200668"
+    },
+    {
       "created_time": "2015-08-25T23:40:20+0000",
       "from": {
         "name": "黃健豪",
@@ -11,7 +23,7 @@
       },
       "message": "整個城市都是化工廠",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 4,
       "user_likes": false,
       "id": "892043707553508_892176754206870"
     },
@@ -23,7 +35,7 @@
       },
       "message": "用別的麵不是更好",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "892043707553508_892103644214181"
     },
@@ -35,7 +47,7 @@
       },
       "message": "折這要用泰國媽媽麵才道地",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "892043707553508_892047880886424"
     }

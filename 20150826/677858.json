@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150826/677858/",
   "comments": [
     {
+      "created_time": "2015-08-26T02:42:56+0000",
+      "from": {
+        "name": "羅芷羚",
+        "id": "100001772024125"
+      },
+      "message": "我沒看錯吧…病床上有菸",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "856633391116816_856751814438307"
+    },
+    {
+      "created_time": "2015-08-26T01:32:30+0000",
+      "from": {
+        "name": "楊鎔鴻",
+        "id": "100002417157968"
+      },
+      "message": "不要在病房抽煙就行了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "856633391116816_856726077774214"
+    },
+    {
+      "created_time": "2015-08-26T01:29:08+0000",
+      "from": {
+        "name": "王元萬",
+        "id": "100006112638576"
+      },
+      "message": "報導下面有回應都說開刀前了……",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "856633391116816_856722621107893"
+    },
+    {
       "created_time": "2015-08-26T00:14:04+0000",
       "from": {
         "name": "Chen Jerome",
@@ -23,7 +59,7 @@
       },
       "message": "能吃能喝幹嗎住院有病是不是",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "856633391116816_856653204448168"
     },
@@ -71,7 +107,7 @@
       },
       "message": "醫師也不會讓人亂住院。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "856633391116816_856644967782325"
     },

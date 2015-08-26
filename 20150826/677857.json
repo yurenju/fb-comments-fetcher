@@ -4,6 +4,90 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150826/677857/",
   "comments": [
     {
+      "created_time": "2015-08-26T03:46:33+0000",
+      "from": {
+        "name": "熊維尼",
+        "id": "100007223539178"
+      },
+      "message": "沒人排隊不用等超好的啊",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1125767817453365_1125868957443251"
+    },
+    {
+      "created_time": "2015-08-26T03:46:06+0000",
+      "from": {
+        "name": "劉鎮彰",
+        "id": "100004083244820"
+      },
+      "message": "電視採訪過的店家\n要排隊的店家\n直接跳過",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1125767817453365_1125868814109932"
+    },
+    {
+      "created_time": "2015-08-26T03:21:02+0000",
+      "from": {
+        "name": "詹曉青",
+        "id": "100010285891306"
+      },
+      "message": "人多就會有插隊\n頭尾還會變陣型",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1125767817453365_1125860657444081"
+    },
+    {
+      "created_time": "2015-08-26T01:38:09+0000",
+      "from": {
+        "name": "王元萬",
+        "id": "100006112638576"
+      },
+      "message": "看到超過10個人排隊我轉頭就走………",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1125767817453365_1125820910781389"
+    },
+    {
+      "created_time": "2015-08-26T01:32:00+0000",
+      "from": {
+        "name": "Yu Fan Huang",
+        "id": "100009550583483"
+      },
+      "message": "排隊的都不怎麼樣\n好吃都在巷仔內",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1125767817453365_1125819434114870"
+    },
+    {
+      "created_time": "2015-08-26T01:21:40+0000",
+      "from": {
+        "name": "郭透樂",
+        "id": "100002956198988"
+      },
+      "message": "排太長通常要求速度但品質就會下降",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1125767817453365_1125815914115222"
+    },
+    {
+      "created_time": "2015-08-26T01:10:31+0000",
+      "from": {
+        "name": "Chao-Yang Chen",
+        "id": "1061123974"
+      },
+      "message": "已我的經驗，大排長龍的好吃程度只有三分之一，大部分都是行銷洗出來的排隊人潮",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1125767817453365_1125812944115519"
+    },
+    {
       "created_time": "2015-08-26T00:39:21+0000",
       "from": {
         "name": "薛夢子",
@@ -11,7 +95,7 @@
       },
       "message": "其實愛排隊的永遠就是那些人，就像影星的粉絲也永遠是那些人，只是新聞版面誇張了他們。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1125767817453365_1125803447449802"
     },

@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150826/677844/",
   "comments": [
     {
+      "created_time": "2015-08-26T03:57:04+0000",
+      "from": {
+        "name": "Ching Song Chen",
+        "id": "100000226317197"
+      },
+      "message": "阿帕契貴婦團表示:快來灣灣阿 我們想打卡拍照",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "897382343669803_897522346989136"
+    },
+    {
+      "created_time": "2015-08-26T02:05:42+0000",
+      "from": {
+        "name": "劉圓聖",
+        "id": "100003576157952"
+      },
+      "message": "美國實現了強者恆強，\n她永遠保持在＂尖端武器領先＂的位置。",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "897382343669803_897489926992378"
+    },
+    {
       "created_time": "2015-08-25T22:43:19+0000",
       "from": {
         "name": "吳博勛",
@@ -11,7 +35,7 @@
       },
       "message": "賣兩台來台灣開放參觀喂",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "897382343669803_897417336999637"
     },
@@ -23,7 +47,7 @@
       },
       "message": "賣給台灣一台吧！",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "897382343669803_897411040333600"
     }
