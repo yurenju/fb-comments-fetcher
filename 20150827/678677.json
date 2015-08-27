@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150827/678677/",
   "comments": [
     {
+      "created_time": "2015-08-27T09:16:59+0000",
+      "from": {
+        "name": "Chi-f Tsao",
+        "id": "100000363849496"
+      },
+      "message": "這樣愛台灣\n應該免費",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "852040401557791_852242004870964"
+    },
+    {
+      "created_time": "2015-08-27T08:23:59+0000",
+      "from": {
+        "name": "柯宗佑",
+        "id": "100000629421768"
+      },
+      "message": "小時不求證，長大當記者",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "852040401557791_852233428205155"
+    },
+    {
       "created_time": "2015-08-27T05:47:44+0000",
       "from": {
         "name": "王俊祥",
@@ -47,7 +71,7 @@
       },
       "message": "記者請專業一點!是600部,連這都能灌水,不愧是汪汪中屎集團的。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "852040401557791_852113661550465"
     },
@@ -71,7 +95,7 @@
       },
       "message": "又是中國時報…7年1200部…是兩三天就要拍一部嗎？覺得這數字做的太誇張了……",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "852040401557791_852108641550967"
     }

@@ -4,6 +4,31 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150827/678693/",
   "comments": [
     {
+      "created_time": "2015-08-27T09:47:06+0000",
+      "from": {
+        "name": "Barbie Sun",
+        "id": "100002325952229"
+      },
+      "message": "改過自新，好棒，加油喔",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "888477364573773_888663147888528"
+    },
+    {
+      "created_time": "2015-08-27T08:32:47+0000",
+      "from": {
+        "name": "簡靜芳",
+        "category": "Writer",
+        "id": "418018968388440"
+      },
+      "message": "為了家人放棄一切的都是真男人",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "888477364573773_888646401223536"
+    },
+    {
       "created_time": "2015-08-27T06:51:51+0000",
       "from": {
         "name": "好野人",
@@ -83,7 +108,7 @@
       },
       "message": "給自己一個機會\n也是給別人一個機會！",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 4,
       "user_likes": false,
       "id": "888477364573773_888590584562451"
     },
@@ -95,7 +120,7 @@
       },
       "message": "浪子回頭金不換",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 5,
       "user_likes": false,
       "id": "888477364573773_888586167896226"
     },
@@ -107,7 +132,7 @@
       },
       "message": "沒人支持也沒關係 這麼酸的話我看可以省了吧",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "888477364573773_888579224563587"
     },
@@ -131,7 +156,7 @@
       },
       "message": "更生人只要真心悔改，別人就會給你幾會的。",
       "can_remove": false,
-      "like_count": 23,
+      "like_count": 37,
       "user_likes": false,
       "id": "888477364573773_888534237901419"
     },
@@ -167,7 +192,7 @@
       },
       "message": "一日黑社會.....終身黑社會....就算金盆洗手.....還是有可能走回去",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 7,
       "user_likes": false,
       "id": "888477364573773_888488601239316"
     }
