@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150827/678652/",
   "comments": [
     {
+      "created_time": "2015-08-27T00:46:47+0000",
+      "from": {
+        "name": "廖傑",
+        "id": "100000355267308"
+      },
+      "message": "第一人稱視角",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "941641352574674_941839282554881"
+    },
+    {
+      "created_time": "2015-08-26T22:23:43+0000",
+      "from": {
+        "name": "孫昌",
+        "id": "100000114206257"
+      },
+      "message": "怎麼聽到槍聲畫面就沒了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "941641352574674_941795952559214"
+    },
+    {
       "created_time": "2015-08-26T17:41:28+0000",
       "from": {
         "name": "潘勛",
@@ -72,7 +96,7 @@
       },
       "message": "CNN基於新聞道德，不播放這段影片，台灣媒體也不應該播，大家也應該拒看！",
       "can_remove": false,
-      "like_count": 18,
+      "like_count": 24,
       "user_likes": false,
       "id": "941641352574674_941650812573728"
     },
@@ -108,7 +132,7 @@
       },
       "message": "為什麼人一直在旁邊手上拿著槍 卻沒有人發現",
       "can_remove": false,
-      "like_count": 7,
+      "like_count": 8,
       "user_likes": false,
       "id": "941641352574674_941646182574191"
     },
@@ -144,7 +168,7 @@
       },
       "message": "槍枝泛濫。",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 6,
       "user_likes": false,
       "id": "941641352574674_941645939240882"
     },

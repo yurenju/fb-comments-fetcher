@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150827/678648/",
   "comments": [
     {
+      "created_time": "2015-08-27T00:37:37+0000",
+      "from": {
+        "name": "洪巧芸",
+        "id": "100009021180119"
+      },
+      "message": "這不是真的…",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1049007898445200_1049190768426913"
+    },
+    {
       "created_time": "2015-08-26T18:54:41+0000",
       "from": {
         "name": "劉錦寰",
@@ -35,7 +47,7 @@
       },
       "message": "這兩張都是假奶，騙不了我滴。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1049007898445200_1049027968443193"
     },
@@ -47,7 +59,7 @@
       },
       "message": "質疑！",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1049007898445200_1049023531776970"
     }
