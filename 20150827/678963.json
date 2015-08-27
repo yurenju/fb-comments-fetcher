@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150827/678963/",
   "comments": [
     {
+      "created_time": "2015-08-27T10:06:58+0000",
+      "from": {
+        "name": "邱冠瑋",
+        "id": "100000249002168"
+      },
+      "message": "內部利益分配不均\n分裂是正常化行為\n如果每個人想法都一樣\n這世界早就世界大同了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "809978865781686_810028639110042"
+    },
+    {
       "created_time": "2015-08-27T07:26:57+0000",
       "from": {
         "name": "柯欣妤",
@@ -11,7 +23,7 @@
       },
       "message": "好像劉德華",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "809978865781686_809995085780064"
     }
