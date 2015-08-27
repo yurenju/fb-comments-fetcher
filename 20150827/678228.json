@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150827/678228/",
   "comments": [
     {
+      "created_time": "2015-08-27T03:05:16+0000",
+      "from": {
+        "name": "蔡佑",
+        "id": "100004485190225"
+      },
+      "message": "...看到腳毛就噁...",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1150166618331176_1150403211640850"
+    },
+    {
+      "created_time": "2015-08-27T01:27:46+0000",
+      "from": {
+        "name": "王士政",
+        "id": "1782693403"
+      },
+      "message": "還是很噁心",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1150166618331176_1150373014977203"
+    },
+    {
       "created_time": "2015-08-26T17:34:32+0000",
       "from": {
         "name": "王御龍",
@@ -47,7 +71,7 @@
       },
       "message": "全部都很噁心……",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "1150166618331176_1150174361663735"
     }
