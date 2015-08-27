@@ -1,8 +1,714 @@
 {
-  "title": "硬撐引路救4幼犬　重病狗媽噴血亡",
+  "title": "【更新】硬撐引路救4幼犬　重病狗媽噴血亡",
   "id": "20150827/678905",
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150827/678905/",
   "comments": [
+    {
+      "created_time": "2015-08-27T16:00:04+0000",
+      "from": {
+        "name": "Tian Hao",
+        "id": "100000277280117"
+      },
+      "message": "鼻酸...",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804158226370446"
+    },
+    {
+      "created_time": "2015-08-27T15:59:42+0000",
+      "from": {
+        "name": "劉博承",
+        "id": "100003630020435"
+      },
+      "message": "洋蔥QAQ",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804158146370454"
+    },
+    {
+      "created_time": "2015-08-27T15:56:58+0000",
+      "from": {
+        "name": "吳榮泉",
+        "id": "100000175928551"
+      },
+      "message": "對狗好，狗會不計較一切為你付出，但對人好，有些人卻只想從你身上得到更多的好處，真是人不如狗呀",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804156746370594"
+    },
+    {
+      "created_time": "2015-08-27T15:53:55+0000",
+      "from": {
+        "name": "楊敏",
+        "id": "100000115021861"
+      },
+      "message": "已哭，狗媽媽一路好走，妳的孩子會有好人家照顧的……",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804156163037319"
+    },
+    {
+      "created_time": "2015-08-27T15:42:59+0000",
+      "from": {
+        "name": "令羽",
+        "id": "100000248241603"
+      },
+      "message": "願來生不要在當狗 當個快樂的天使吧",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804152569704345"
+    },
+    {
+      "created_time": "2015-08-27T15:42:43+0000",
+      "from": {
+        "name": "林秀玲",
+        "id": "100006928577378"
+      },
+      "message": "偉大的狗媽媽~一路好走~阿彌陀佛~願你的毛小孩~平安健康長大~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804152509704351"
+    },
+    {
+      "created_time": "2015-08-27T15:42:24+0000",
+      "from": {
+        "name": "令羽",
+        "id": "100000248241603"
+      },
+      "message": "鼻酸",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804152439704358"
+    },
+    {
+      "created_time": "2015-08-27T15:42:14+0000",
+      "from": {
+        "name": "張秀燕",
+        "id": "100000146630065"
+      },
+      "message": "好感動，這就是狗狗本身的靈性，母愛。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804152383037697"
+    },
+    {
+      "created_time": "2015-08-27T15:37:17+0000",
+      "from": {
+        "name": "Judy Kwong",
+        "id": "100001180070082"
+      },
+      "message": "太感人了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804150829704519"
+    },
+    {
+      "created_time": "2015-08-27T15:29:16+0000",
+      "from": {
+        "name": "Luk Joe Joe",
+        "id": "100006966365302"
+      },
+      "message": "一路好走，寳寶安全。",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "803981493054786_804148286371440"
+    },
+    {
+      "created_time": "2015-08-27T15:26:01+0000",
+      "from": {
+        "name": "林怡萱",
+        "id": "100005347694999"
+      },
+      "message": "哭慘了我，有看到這則消息的人類，摸摸自己的良心，看看動物都比我們偉大，請停止在傷害牠們了，好嗎？求人類別在",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "803981493054786_804147343038201"
+    },
+    {
+      "created_time": "2015-08-27T15:19:46+0000",
+      "from": {
+        "name": "李麗玲",
+        "id": "100009402496858"
+      },
+      "message": "前幾天看到環保局抓流浪狗被抓無能維力",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804142766371992"
+    },
+    {
+      "created_time": "2015-08-27T15:18:07+0000",
+      "from": {
+        "name": "Levin Lo",
+        "id": "100007039238045"
+      },
+      "message": "星星知我心狗狗版...",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804142066372062"
+    },
+    {
+      "created_time": "2015-08-27T15:16:56+0000",
+      "from": {
+        "name": "李麗玲",
+        "id": "100009402496858"
+      },
+      "message": "真的太可憐狗本來就是有人性我哭到不行我看太多了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804141699705432"
+    },
+    {
+      "created_time": "2015-08-27T15:15:51+0000",
+      "from": {
+        "name": "陳冠妙",
+        "id": "100000985894124"
+      },
+      "message": "(〒︿〒)(〒︿〒)(〒︿〒)好感人",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804141489705453"
+    },
+    {
+      "created_time": "2015-08-27T15:09:16+0000",
+      "from": {
+        "name": "劉藹鳳",
+        "id": "100000285559659"
+      },
+      "message": "偉大的狗媽媽，",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "803981493054786_804139049705697"
+    },
+    {
+      "created_time": "2015-08-27T15:01:52+0000",
+      "from": {
+        "name": "Yuhuei Wang",
+        "id": "100006961752664"
+      },
+      "message": "阿彌陀佛，不痛了~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804136553039280"
+    },
+    {
+      "created_time": "2015-08-27T15:01:38+0000",
+      "from": {
+        "name": "楊怡愷",
+        "id": "100000206821482"
+      },
+      "message": "狗狗都為母責強了，那些虐童的畜生連狗都不如",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804136456372623"
+    },
+    {
+      "created_time": "2015-08-27T14:55:06+0000",
+      "from": {
+        "name": "Connie Ting",
+        "id": "100004158048194"
+      },
+      "message": "狗狗被誰撞伤的? 好可憐…去找那個害你的人吧…",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804134076372861"
+    },
+    {
+      "created_time": "2015-08-27T14:42:30+0000",
+      "from": {
+        "name": "Grace Huang",
+        "id": "100000124699082"
+      },
+      "message": "最後一張不需要吧？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804129889706613"
+    },
+    {
+      "created_time": "2015-08-27T14:38:04+0000",
+      "from": {
+        "name": "王奕",
+        "id": "100000179656779"
+      },
+      "message": "往好的看不批評，向善的方向前進",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804128423040093"
+    },
+    {
+      "created_time": "2015-08-27T14:35:14+0000",
+      "from": {
+        "name": "劉鬲銘",
+        "id": "100000250778670"
+      },
+      "message": "狗都如此......很多人卻連狗都不如",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "803981493054786_804127239706878"
+    },
+    {
+      "created_time": "2015-08-27T14:34:08+0000",
+      "from": {
+        "name": "周曉楓",
+        "id": "764699302"
+      },
+      "message": "什麼叫有愛，動物身上就可以看到了，請珍惜生命，以領養代替購買，感謝世上有愛心的人",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804127019706900"
+    },
+    {
+      "created_time": "2015-08-27T14:27:26+0000",
+      "from": {
+        "name": "Anna Belle",
+        "id": "1589578297"
+      },
+      "message": "虐狗人 當狗流浪已經很可憐了 不施捨飯給牠 你也不要虐待牠 將心比心 你敢保證你以後不會流落街頭嗎",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804124713040464"
+    },
+    {
+      "created_time": "2015-08-27T14:22:37+0000",
+      "from": {
+        "name": "蘇沛晴",
+        "id": "100000272837068"
+      },
+      "message": "南無阿彌陀佛，願母狗往生淨土。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804123706373898"
+    },
+    {
+      "created_time": "2015-08-27T14:21:50+0000",
+      "from": {
+        "name": "Si Jie Hung",
+        "id": "1234391789"
+      },
+      "message": "毛孩是人類最忠心的好朋友.",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804123549707247"
+    },
+    {
+      "created_time": "2015-08-27T14:18:30+0000",
+      "from": {
+        "name": "陳虹曦",
+        "id": "100000225142738"
+      },
+      "message": "南無阿彌陀佛",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804122149707387"
+    },
+    {
+      "created_time": "2015-08-27T14:18:12+0000",
+      "from": {
+        "name": "Helia Tseng",
+        "id": "100000448840552"
+      },
+      "message": "人總是健忘，希望狗狗都能找到幸福溫暖的家",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804122059707396"
+    },
+    {
+      "created_time": "2015-08-27T14:15:31+0000",
+      "from": {
+        "name": "Mimi Chou",
+        "id": "100000281204160"
+      },
+      "message": "謝謝動物救援，謝謝",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804121443040791"
+    },
+    {
+      "created_time": "2015-08-27T14:15:28+0000",
+      "from": {
+        "name": "勤瑞",
+        "id": "100002147587243"
+      },
+      "message": "母愛是最偉大～母親走了～覺得悲傷！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804121419707460"
+    },
+    {
+      "created_time": "2015-08-27T14:14:13+0000",
+      "from": {
+        "name": "黃麗珠",
+        "id": "100003388668466"
+      },
+      "message": "真的太洋蔥，媽媽真偉大",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "803981493054786_804121069707495"
+    },
+    {
+      "created_time": "2015-08-27T14:10:41+0000",
+      "from": {
+        "name": "余宏輝",
+        "id": "100000064032382"
+      },
+      "message": "狗媽媽安息，妳的小孩會有人照料不要擔心。",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "803981493054786_804120259707576"
+    },
+    {
+      "created_time": "2015-08-27T14:09:19+0000",
+      "from": {
+        "name": "Jane  Yang",
+        "id": "100006860346285"
+      },
+      "message": "孩子跟在菩薩旁邊一",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "803981493054786_804119869707615"
+    },
+    {
+      "created_time": "2015-08-27T14:05:41+0000",
+      "from": {
+        "name": "Snow Bell",
+        "id": "100002606534366"
+      },
+      "message": "母愛不分種類、没有物褈的分別\n向這狗媽媽致敬",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "803981493054786_804118939707708"
+    },
+    {
+      "created_time": "2015-08-27T14:04:43+0000",
+      "from": {
+        "name": "林珈羽",
+        "id": "100002073461046"
+      },
+      "message": "好鼻酸⋯狗媽媽真偉大",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "803981493054786_804118759707726"
+    },
+    {
+      "created_time": "2015-08-27T14:04:24+0000",
+      "from": {
+        "name": "Chen  Mike",
+        "id": "100008021922516"
+      },
+      "message": "馬 真不如狗!  真的",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "803981493054786_804118689707733"
+    },
+    {
+      "created_time": "2015-08-27T14:03:21+0000",
+      "from": {
+        "name": "唐雪美",
+        "id": "100009902613539"
+      },
+      "message": "除了感動，不知道還該說什麼。。",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "803981493054786_804118503041085"
+    },
+    {
+      "created_time": "2015-08-27T14:03:01+0000",
+      "from": {
+        "name": "餘歡",
+        "id": "100000055854049"
+      },
+      "message": "看到診療檯上的狗媽媽...心好痛!好不忍.....希望她放心一路好走~",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "803981493054786_804118449707757"
+    },
+    {
+      "created_time": "2015-08-27T13:55:16+0000",
+      "from": {
+        "name": "Challenger Dodge",
+        "id": "100002672033868"
+      },
+      "message": "我已經養3隻吉娃娃了，雖然我家很小，看到這報導還是很想把這4隻帶回家給這4隻小傢伙溫暖。",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "803981493054786_804115129708089"
+    },
+    {
+      "created_time": "2015-08-27T13:53:57+0000",
+      "from": {
+        "name": "Kitty Cheung",
+        "id": "100008720044457"
+      },
+      "message": "可憐天下父母心，祝福狗寶寶健康長大",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "803981493054786_804114709708131"
+    },
+    {
+      "created_time": "2015-08-27T13:53:51+0000",
+      "from": {
+        "name": "陳啟仁",
+        "id": "100000160932149"
+      },
+      "message": "。。。。。。。。。耐啊捏，狗對人類最忠心，人卻比不上一隻犬。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804114683041467"
+    },
+    {
+      "created_time": "2015-08-27T13:52:12+0000",
+      "from": {
+        "name": "陳淑娟",
+        "id": "100002928405078"
+      },
+      "message": "令人鼻酸，棄養狗兒的人有沒有感覺？ 不棄養才是源頭!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804113793041556"
+    },
+    {
+      "created_time": "2015-08-27T13:50:12+0000",
+      "from": {
+        "name": "凃玉霞",
+        "id": "100006593109954"
+      },
+      "message": "母愛太偉大了、這隻毛孩為顧自己的孩子如此拼命…⋯⋯⋯真是太感人了。有時人不如毛孩呢？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804113323041603"
+    },
+    {
+      "created_time": "2015-08-27T13:45:58+0000",
+      "from": {
+        "name": "Summer  Lin",
+        "id": "100003131000400"
+      },
+      "message": "好痛心,心好疼",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804112249708377"
+    },
+    {
+      "created_time": "2015-08-27T13:42:46+0000",
+      "from": {
+        "name": "東昇",
+        "id": "100000445485305"
+      },
+      "message": "這年頭 人幹狗事 狗幹人事",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804111403041795"
+    },
+    {
+      "created_time": "2015-08-27T13:37:06+0000",
+      "from": {
+        "name": "虞桂梅",
+        "id": "100005847494261"
+      },
+      "message": "希望有愛心人士能領養這四隻遺孤，不離不棄飼養到終老，讓狗媽媽沒有後顧之憂安心的離開!",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "803981493054786_804109199708682"
+    },
+    {
+      "created_time": "2015-08-27T13:31:53+0000",
+      "from": {
+        "name": "常玉珍",
+        "id": "100000268343157"
+      },
+      "message": "T_T",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804107749708827"
+    },
+    {
+      "created_time": "2015-08-27T13:31:29+0000",
+      "from": {
+        "name": "Milk Chang",
+        "id": "1821701736"
+      },
+      "message": "有些人都不如狗狗(〒︿〒)",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804107653042170"
+    },
+    {
+      "created_time": "2015-08-27T13:30:27+0000",
+      "from": {
+        "name": "中國人",
+        "category": "Community",
+        "id": "300481410146551"
+      },
+      "message": "還好是遇到動保人員\n\n要是遇到香肉店員工................",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804107223042213"
+    },
+    {
+      "created_time": "2015-08-27T13:26:00+0000",
+      "from": {
+        "name": "Dabby Chang",
+        "id": "100000366828004"
+      },
+      "message": "好難過，希望能幫助幼狗",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804105203042415"
+    },
+    {
+      "created_time": "2015-08-27T13:19:59+0000",
+      "from": {
+        "name": "Vincent Tai",
+        "id": "100000328627366"
+      },
+      "message": "真的很感動母愛的偉大，像狗媽媽深深一鞠躬",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804103136375955"
+    },
+    {
+      "created_time": "2015-08-27T13:18:38+0000",
+      "from": {
+        "name": "范汎函",
+        "id": "100009070295570"
+      },
+      "message": "看的我都泛淚了……真的太偉大了\n除了偉大還是偉大\n願她來世可以在好人家出生",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "803981493054786_804102739709328"
+    },
+    {
+      "created_time": "2015-08-27T13:18:23+0000",
+      "from": {
+        "name": "Eless Nam",
+        "id": "100000627031294"
+      },
+      "message": "(Q.Q)....",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804102613042674"
+    },
+    {
+      "created_time": "2015-08-27T13:17:13+0000",
+      "from": {
+        "name": "林茂欽",
+        "id": "100005732140139"
+      },
+      "message": "阿狗……加油",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804102206376048"
+    },
+    {
+      "created_time": "2015-08-27T13:14:20+0000",
+      "from": {
+        "name": "林傑",
+        "id": "100002404209616"
+      },
+      "message": "黎晞.",
+      "can_remove": false,
+      "like_count": 0,
+      "message_tags": [
+        {
+          "id": "100000528619048",
+          "length": 3,
+          "name": "黎晞.",
+          "offset": 0,
+          "type": "user"
+        }
+      ],
+      "user_likes": false,
+      "id": "803981493054786_804100286376240"
+    },
+    {
+      "created_time": "2015-08-27T13:13:57+0000",
+      "from": {
+        "name": "思涵",
+        "id": "100004257280667"
+      },
+      "message": "真的好心疼",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804100109709591"
+    },
+    {
+      "created_time": "2015-08-27T13:05:03+0000",
+      "from": {
+        "name": "Lavender Lee",
+        "id": "100000358824014"
+      },
+      "message": "@@",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804097096376559"
+    },
+    {
+      "created_time": "2015-08-27T13:04:20+0000",
+      "from": {
+        "name": "Jerry Chen",
+        "id": "1328007846"
+      },
+      "message": "為了毛小孩的未來\n大家要努力找出更好的相處模式",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "803981493054786_804096853043250"
+    },
     {
       "created_time": "2015-08-27T12:59:43+0000",
       "from": {
@@ -309,7 +1015,7 @@
         "name": "Tsung Hung Liu",
         "id": "100009633305034"
       },
-      "message": "慈光照徹慈母天堂解脫之路\n九蓮臺畔敬禮彌陀無上聖尊",
+      "message": "明珠照徹慈母寂滅解脫之路\n九蓮臺畔敬禮彌陀無上聖尊",
       "can_remove": false,
       "like_count": 1,
       "user_likes": false,
@@ -1871,7 +2577,7 @@
       },
       "message": "還沒讀完文章 淚已潰堤 難過得快窒息 \n讓我覺得欣慰的是 他的寶貝已妥善安置\n真心期望他的孩子 還許多浪浪 毛孩子 都能有個好主人好家庭",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "803981493054786_804008003052135"
     },
@@ -1943,7 +2649,7 @@
       },
       "message": "這種事情，才值得列入課綱",
       "can_remove": false,
-      "like_count": 15,
+      "like_count": 22,
       "user_likes": false,
       "id": "803981493054786_804007499718852"
     },
@@ -2111,7 +2817,7 @@
       },
       "message": "不愛狗狗或浪浪 看到他們你們可以視若無睹  但是千萬不要傷害他們！！命運也不是他們選擇的！他們也想和其他狗狗一樣 有個窩有個好主人！",
       "can_remove": false,
-      "like_count": 16,
+      "like_count": 19,
       "user_likes": false,
       "id": "803981493054786_804005043052431"
     },
@@ -2328,7 +3034,7 @@
       },
       "message": "希望她的四個狗寶寶能有好心人認養，不要最後被安樂死，這樣狗媽媽的犧牲就白廢了",
       "can_remove": false,
-      "like_count": 10,
+      "like_count": 12,
       "user_likes": false,
       "id": "803981493054786_804002559719346"
     },
@@ -2436,7 +3142,7 @@
       },
       "message": "～＿～昨天我也分享別人的影片 狗狗去花店要一朵花咬去已經死去的主人墓前  看完很心酸，差點也淚崩",
       "can_remove": false,
-      "like_count": 12,
+      "like_count": 13,
       "user_likes": false,
       "id": "803981493054786_804001113052824"
     },
@@ -2556,7 +3262,7 @@
       },
       "message": "我可以收養這4隻幼犬，完成母犬的遺願",
       "can_remove": false,
-      "like_count": 586,
+      "like_count": 747,
       "user_likes": false,
       "id": "803981493054786_803999429719659"
     },
@@ -2604,7 +3310,7 @@
       },
       "message": "幾乎每天下班都會經過…帶著要給我家狗狗吃的晚餐（收攤剩下的東西）…有次停紅燈遇到他們…就把我跟家犬的晚餐給他們吃…給了幾次…就沒在遇到了…\n那段路上不只園區的上班族車輛…還有車速極快完全沒在停紅燈的垃圾車 擔心的事還是發生了 好難過",
       "can_remove": false,
-      "like_count": 28,
+      "like_count": 30,
       "user_likes": false,
       "id": "803981493054786_803998783053057"
     },
@@ -2628,7 +3334,7 @@
       },
       "message": "牠們比人，更像人。",
       "can_remove": false,
-      "like_count": 19,
+      "like_count": 20,
       "user_likes": false,
       "id": "803981493054786_803998506386418"
     },
@@ -2700,7 +3406,7 @@
       },
       "message": "看了好難過哦！狗媽媽妳真的很偉大，連有些人類都還不如妳，妳安心的走吧！責任已完",
       "can_remove": false,
-      "like_count": 22,
+      "like_count": 23,
       "user_likes": false,
       "id": "803981493054786_803997069719895"
     },
@@ -2772,7 +3478,7 @@
       },
       "message": "人不如狗 \n\n狗如此善良 人卻不及狗",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "803981493054786_803996349719967"
     },
@@ -2796,7 +3502,7 @@
       },
       "message": "狗是如此信任人類！",
       "can_remove": false,
-      "like_count": 17,
+      "like_count": 18,
       "user_likes": false,
       "id": "803981493054786_803995953053340"
     },
@@ -2832,7 +3538,7 @@
       },
       "message": "人雖然是人但言行舉止都不如狗",
       "can_remove": false,
-      "like_count": 11,
+      "like_count": 12,
       "user_likes": false,
       "id": "803981493054786_803995129720089"
     },
@@ -2880,7 +3586,7 @@
       },
       "message": "狗真的是人類最好的朋友。\n\n請不要亂拋棄狗，多支持結紮與領養",
       "can_remove": false,
-      "like_count": 21,
+      "like_count": 24,
       "user_likes": false,
       "id": "803981493054786_803994416386827"
     },
@@ -2976,7 +3682,7 @@
       },
       "message": "本題考\n\n「一個對動物殘忍的人，也會變得對人類殘忍。」\n這句話出自於哪一個人?\na.家詹姆斯·喬伊斯\nb.亞里士多德\nc.聖湯瑪斯·阿奎那\nd.以上皆非\n\n「錢可以買到一條很優秀的狗，卻買不到牠搖尾的熱情。」\n這句話出自於哪一個人?\na.馮內果  Kurt Vonnegut \nb.馬克·吐溫\nc.亨利．惠勒．蕭(Henry Wheeler Shaw)\nd.以上皆非\n\n「一個國家的道德是否偉大，可以從其對動物的態度看出」 \n這句話出自於哪一個人?\na.威廉·詹姆士\nb.威廉·戈德?\nc.甘地\nd.以上皆非\n\n「你以為狗不會上天堂嗎？告訴你，牠們會比我們任何人都早到達那裡。」\n這句話出自於哪一個人?\na.歐內斯特·海明威、約瑟夫\nb.約瑟夫·魯德亞德·吉卜林\nc.羅伯特·路易斯·史蒂文森Robert Louis Stevenson\nd.以上皆非",
       "can_remove": false,
-      "like_count": 14,
+      "like_count": 15,
       "user_likes": false,
       "id": "803981493054786_803992973053638"
     },
@@ -2988,7 +3694,7 @@
       },
       "message": "好痛的愛!!看完眼淚一直不停",
       "can_remove": false,
-      "like_count": 18,
+      "like_count": 22,
       "user_likes": false,
       "id": "803981493054786_803992736386995"
     },
@@ -3012,7 +3718,7 @@
       },
       "message": "狗都如此......有些人卻連狗都不如",
       "can_remove": false,
-      "like_count": 897,
+      "like_count": 1053,
       "user_likes": false,
       "id": "803981493054786_803992103053725"
     },
@@ -3024,7 +3730,7 @@
       },
       "message": "大哭中﹏蘋果記者，這次寫的太感人啦﹏\n虐狗的人畜生，快把這篇內容背起來！",
       "can_remove": false,
-      "like_count": 144,
+      "like_count": 156,
       "user_likes": false,
       "id": "803981493054786_803989709720631"
     },
@@ -3036,7 +3742,7 @@
       },
       "message": "星星知我星，狗狗版!感動。",
       "can_remove": false,
-      "like_count": 10,
+      "like_count": 11,
       "user_likes": false,
       "id": "803981493054786_803989386387330"
     },
@@ -3048,7 +3754,7 @@
       },
       "message": "狗真的很有靈性",
       "can_remove": false,
-      "like_count": 8,
+      "like_count": 9,
       "user_likes": false,
       "id": "803981493054786_803989069720695"
     },
@@ -3060,7 +3766,7 @@
       },
       "message": "真的很難過，真的。路口舔血的日子不是他們的錯。拜託，不要再棄養動物了。我真的不知道該怎麼辦了",
       "can_remove": false,
-      "like_count": 119,
+      "like_count": 129,
       "user_likes": false,
       "id": "803981493054786_803988166387452"
     },
@@ -3072,7 +3778,7 @@
       },
       "message": "請問如何領養",
       "can_remove": false,
-      "like_count": 228,
+      "like_count": 249,
       "user_likes": false,
       "id": "803981493054786_803987819720820"
     },
@@ -3084,7 +3790,7 @@
       },
       "message": "不知道要說什麼..我淚水潰堤了",
       "can_remove": false,
-      "like_count": 32,
+      "like_count": 34,
       "user_likes": false,
       "id": "803981493054786_803987779720824"
     }

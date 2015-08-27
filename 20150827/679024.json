@@ -227,7 +227,7 @@
       },
       "message": "請幫忙協尋新北市市長",
       "can_remove": false,
-      "like_count": 17,
+      "like_count": 20,
       "user_likes": false,
       "id": "1040462172633267_1040483275964490"
     },
@@ -293,18 +293,6 @@
       "id": "1040462172633267_1040475062631978"
     },
     {
-      "created_time": "2015-08-27T07:55:00+0000",
-      "from": {
-        "name": "陳文成",
-        "id": "100000215199654"
-      },
-      "message": "超後悔投柯Pder...",
-      "can_remove": false,
-      "like_count": 0,
-      "user_likes": false,
-      "id": "1040462172633267_1040474399298711"
-    },
-    {
       "created_time": "2015-08-27T07:47:26+0000",
       "from": {
         "name": "Adolf Hsieh",
@@ -360,7 +348,7 @@
       },
       "message": "朱立輪又不見蛋了！",
       "can_remove": false,
-      "like_count": 22,
+      "like_count": 23,
       "user_likes": false,
       "id": "1040462172633267_1040468735965944"
     },
@@ -432,7 +420,7 @@
       },
       "message": "柯市長真是後悔選你！！！",
       "can_remove": false,
-      "like_count": 28,
+      "like_count": 30,
       "user_likes": false,
       "id": "1040462172633267_1040465729299578"
     }

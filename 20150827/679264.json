@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150827/679264/",
   "comments": [
     {
+      "created_time": "2015-08-27T14:45:40+0000",
+      "from": {
+        "name": "黃淑慧",
+        "id": "100007270157190"
+      },
+      "message": "判十個死刑都不夠",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "859581434112781_859669977437260"
+    },
+    {
+      "created_time": "2015-08-27T14:05:19+0000",
+      "from": {
+        "name": "James  Zen",
+        "id": "100006749197122"
+      },
+      "message": "惡魔帝國",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "859581434112781_859656574105267"
+    },
+    {
+      "created_time": "2015-08-27T13:32:53+0000",
+      "from": {
+        "name": "王義雄",
+        "id": "100003938865142"
+      },
+      "message": "大陸台灣都有偽善之人無恥性侵之人，所以，沒有誰比較高級高貴誰比較低級",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "859581434112781_859637790773812"
+    },
+    {
       "created_time": "2015-08-27T12:17:43+0000",
       "from": {
         "name": "陳月鳳",
@@ -11,7 +47,7 @@
       },
       "message": "真的是畜牲",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "859581434112781_859597517444506"
     }

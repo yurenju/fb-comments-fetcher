@@ -4,6 +4,54 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150827/679258/",
   "comments": [
     {
+      "created_time": "2015-08-27T15:52:12+0000",
+      "from": {
+        "name": "Chen Jerome",
+        "id": "100000244634510"
+      },
+      "message": "如此如此關進去讓你們吃個夠吧\n死刑犯也共享受",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "862381280496844_862462830488689"
+    },
+    {
+      "created_time": "2015-08-27T15:26:02+0000",
+      "from": {
+        "name": "John Chai",
+        "id": "100000010329723"
+      },
+      "message": "東海父子檔老闆偵訊時還大言不慚說：「有蟲也不會怎麼樣，我們家也在吃。」\n網友：麻煩請留在你家中慢慢享用不要流露&販售在市面上。",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "862381280496844_862455097156129"
+    },
+    {
+      "created_time": "2015-08-27T13:47:58+0000",
+      "from": {
+        "name": "張美源",
+        "id": "100009290817340"
+      },
+      "message": "有沒有聽到，牠們也在吃，獄中廚房師父，拜託了，",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "862381280496844_862424510492521"
+    },
+    {
+      "created_time": "2015-08-27T13:45:52+0000",
+      "from": {
+        "name": "PinWenot Ning",
+        "id": "100010093658805"
+      },
+      "message": "你們家想吃、那是你們家的事！\n我們沒人想吃！",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "862381280496844_862424070492565"
+    },
+    {
       "created_time": "2015-08-27T12:16:56+0000",
       "from": {
         "name": "王梗",
@@ -11,7 +59,7 @@
       },
       "message": "拒吃你家所有的商品也不會怎樣。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "862381280496844_862395037162135"
     }
