@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150827/678677/",
   "comments": [
     {
+      "created_time": "2015-08-27T05:47:44+0000",
+      "from": {
+        "name": "王俊祥",
+        "id": "100009540800976"
+      },
+      "message": "只有台灣人把你當寶當然愛台灣",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "852040401557791_852197584875406"
+    },
+    {
+      "created_time": "2015-08-27T04:59:12+0000",
+      "from": {
+        "name": "祁勝堃",
+        "id": "100003081864095"
+      },
+      "message": "愛台灣  還有兩個字  的錢",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "852040401557791_852188164876348"
+    },
+    {
       "created_time": "2015-08-27T02:45:38+0000",
       "from": {
         "name": "李易維",
@@ -35,7 +59,7 @@
       },
       "message": "那組悠遊卡全部賣光光，收入也才700萬，代言費就要百萬？是不是還有潛規則？",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "852040401557791_852113128217185"
     },
@@ -47,7 +71,7 @@
       },
       "message": "又是中國時報…7年1200部…是兩三天就要拍一部嗎？覺得這數字做的太誇張了……",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "852040401557791_852108641550967"
     }

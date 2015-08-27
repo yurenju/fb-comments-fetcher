@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150827/678763/",
   "comments": [
     {
+      "created_time": "2015-08-27T05:55:23+0000",
+      "from": {
+        "name": "邱奕斌",
+        "id": "1050967178"
+      },
+      "message": "對他實在沒啥好感",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "723093424486204_723160621146151"
+    },
+    {
+      "created_time": "2015-08-27T04:13:55+0000",
+      "from": {
+        "name": "Anyoiuo Go",
+        "id": "100000715447765"
+      },
+      "message": "拉吉人生又開始了！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "723093424486204_723124151149798"
+    },
+    {
       "created_time": "2015-08-27T03:58:58+0000",
       "from": {
         "name": "東區馮迪索",
@@ -12,7 +36,7 @@
       },
       "message": "放開那些小朋友，有種就衝著我來",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "723093424486204_723119557816924"
     },
