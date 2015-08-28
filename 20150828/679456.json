@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150828/679456/",
   "comments": [
     {
+      "created_time": "2015-08-28T00:40:46+0000",
+      "from": {
+        "name": "陳柏豪",
+        "id": "100000400519103"
+      },
+      "message": ".....",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1049349558410961_1049524591726791"
+    },
+    {
+      "created_time": "2015-08-27T23:40:03+0000",
+      "from": {
+        "name": "鄭嘉仁",
+        "id": "1848117121"
+      },
+      "message": "印度是一個神奇的國家。",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1049349558410961_1049502088395708"
+    },
+    {
+      "created_time": "2015-08-27T22:06:56+0000",
+      "from": {
+        "name": "Vivian Nian",
+        "id": "100007078891062"
+      },
+      "message": "蛤~太扯太扯了啦~可憐真可憐~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1049349558410961_1049477625064821"
+    },
+    {
       "created_time": "2015-08-27T20:42:34+0000",
       "from": {
         "name": "Padpad Chou",
@@ -11,7 +47,7 @@
       },
       "message": "加護病房居然鼠輩橫行......\n真的無法想像。",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 4,
       "user_likes": false,
       "id": "1049349558410961_1049401135072470"
     },
