@@ -4,6 +4,195 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150828/679491/",
   "comments": [
     {
+      "created_time": "2015-08-28T03:47:24+0000",
+      "from": {
+        "name": "李崇寵",
+        "id": "100000301228070"
+      },
+      "message": "舒服來生，舒服送去",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "831311970316812_831383546976321"
+    },
+    {
+      "created_time": "2015-08-28T03:23:22+0000",
+      "from": {
+        "name": "梁書維",
+        "id": "100001768506493"
+      },
+      "message": "子不語怪力亂神",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "831311970316812_831378480310161"
+    },
+    {
+      "created_time": "2015-08-28T03:10:58+0000",
+      "from": {
+        "name": "賴珍珍",
+        "id": "100000604832623"
+      },
+      "message": "人比鬼可怕",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "831311970316812_831373873643955"
+    },
+    {
+      "created_time": "2015-08-28T03:09:59+0000",
+      "from": {
+        "name": "毛球",
+        "id": "100000002157265"
+      },
+      "message": "應該要這種心境的人才能從事這行業吧",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "831311970316812_831373636977312"
+    },
+    {
+      "created_time": "2015-08-28T03:02:49+0000",
+      "from": {
+        "name": "Gary Gary",
+        "id": "100006149170085"
+      },
+      "message": "你又不是死人，你有什麼好怕的，人怕死為什麼你知道嗎？ 我同你說吧因為他們還有「家」走了，看和聽和講同感受不了人民幸福，你明白嗎？還是回去讀書吧",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "831311970316812_831372000310809"
+    },
+    {
+      "created_time": "2015-08-28T02:57:28+0000",
+      "from": {
+        "name": "周董",
+        "id": "100002785206471"
+      },
+      "message": "火葬也試試",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "831311970316812_831370586977617"
+    },
+    {
+      "created_time": "2015-08-28T02:48:18+0000",
+      "from": {
+        "name": "劉瑪莉",
+        "id": "100009872084944"
+      },
+      "message": "關心經痛、子宮內膜異位問題，歡迎點擊 經痛粉絲團－台灣經痛研究網",
+      "can_remove": false,
+      "like_count": 0,
+      "message_tags": [
+        {
+          "id": "297782090238823",
+          "length": 13,
+          "name": "經痛粉絲團－台灣經痛研究網",
+          "offset": 19,
+          "type": "page"
+        }
+      ],
+      "user_likes": false,
+      "id": "831311970316812_831368633644479"
+    },
+    {
+      "created_time": "2015-08-28T02:44:46+0000",
+      "from": {
+        "name": "鍾成鴻",
+        "id": "1578482732"
+      },
+      "message": "會不會不小心穿越時空了~(尼可拉斯凱吉-戰慄時空)",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "831311970316812_831367660311243"
+    },
+    {
+      "created_time": "2015-08-28T02:39:59+0000",
+      "from": {
+        "name": "Fly Yang",
+        "id": "100000222055149"
+      },
+      "message": "做好事會有好報的",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "831311970316812_831366823644660"
+    },
+    {
+      "created_time": "2015-08-28T02:24:56+0000",
+      "from": {
+        "name": "楊佳姜",
+        "id": "100002339779624"
+      },
+      "message": "要不要順便試試火葬爐？",
+      "can_remove": false,
+      "like_count": 5,
+      "user_likes": false,
+      "id": "831311970316812_831360470311962"
+    },
+    {
+      "created_time": "2015-08-28T02:16:40+0000",
+      "from": {
+        "name": "Hui Chen Chen",
+        "id": "100008350269152"
+      },
+      "message": "那沒什麼好怕的，心中無鬼，",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "831311970316812_831358846978791"
+    },
+    {
+      "created_time": "2015-08-28T02:16:33+0000",
+      "from": {
+        "name": "雷光翼",
+        "id": "100000696741944"
+      },
+      "message": "這位學生非常具有靈性！",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "831311970316812_831358823645460"
+    },
+    {
+      "created_time": "2015-08-28T02:13:39+0000",
+      "from": {
+        "name": "蔡宛臻",
+        "id": "100001799702066"
+      },
+      "message": "以達最高境界",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "831311970316812_831358053645537"
+    },
+    {
+      "created_time": "2015-08-28T02:12:27+0000",
+      "from": {
+        "name": "唐小萍",
+        "id": "100000420324168"
+      },
+      "message": "正向坦蕩..有種~",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "831311970316812_831357853645557"
+    },
+    {
+      "created_time": "2015-08-28T01:21:53+0000",
+      "from": {
+        "name": "張素靜",
+        "id": "100006998626731"
+      },
+      "message": "真大膽⋯",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "831311970316812_831344390313570"
+    },
+    {
       "created_time": "2015-08-28T00:50:21+0000",
       "from": {
         "name": "曾神秘",
@@ -11,7 +200,7 @@
       },
       "message": "死亡並不可怕.死亡是涼爽的夏夜",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "831311970316812_831336546981021"
     },
@@ -23,7 +212,7 @@
       },
       "message": "勇氣可加 ，妹妹好棒 ………",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "831311970316812_831335536981122"
     },
@@ -35,7 +224,7 @@
       },
       "message": "(╯з╰) ~ 世上的人比鬼還可怕，鬼不曾害人，但人卻會害人變成鬼 。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 18,
       "user_likes": false,
       "id": "831311970316812_831332270314782"
     },
@@ -47,7 +236,7 @@
       },
       "message": "沒關係\n少女阿\n你不是唯一\n我也是對屍體無感的人之一\n國中時外出找友人玩\n要回家時剛好有人跳樓摔死在我身後\n轉頭過去看著已經爛掉的頭部\n只感到\"好險沒壓到我\"還有\"番茄炒蛋差不多也是長這樣\"\n後來軍中兄弟梯的學弟在嘻鬧時被坦克碾死\n一堆人在那邊唉叫時\n我才確定我對屍體並沒有甚麼特別的感覺",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 30,
       "user_likes": false,
       "id": "831311970316812_831327613648581"
     },
@@ -59,7 +248,7 @@
       },
       "message": "鬼是住在陰世間的人\n人是住在陽世間的鬼\n人間空手來就空手去\n裹屍布是沒有口袋的",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 93,
       "user_likes": false,
       "id": "831311970316812_831325893648753"
     },
@@ -83,7 +272,7 @@
       },
       "message": "我也想體驗看看",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 5,
       "user_likes": false,
       "id": "831311970316812_831318873649455"
     },
@@ -119,7 +308,7 @@
       },
       "message": "這位女生較小好，我這位老人家不敢",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 4,
       "user_likes": false,
       "id": "831311970316812_831316206983055"
     },
@@ -131,7 +320,7 @@
       },
       "message": "心中無邪不怕鬼，",
       "can_remove": false,
-      "like_count": 16,
+      "like_count": 140,
       "user_likes": false,
       "id": "831311970316812_831313740316635"
     }
