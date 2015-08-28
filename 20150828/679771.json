@@ -4,6 +4,31 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150828/679771/",
   "comments": [
     {
+      "created_time": "2015-08-28T08:36:21+0000",
+      "from": {
+        "name": "Weimauger",
+        "category": "Community",
+        "id": "1487080448271459"
+      },
+      "message": "帶著黑金說抗黑金，妳真行啊！",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1008768892500987_1008816522496224"
+    },
+    {
+      "created_time": "2015-08-28T07:43:27+0000",
+      "from": {
+        "name": "張文杰",
+        "id": "100002165867866"
+      },
+      "message": "不進議會，是肯定，這次進議會，也是肯定，滿口胡說八道的女人",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "1008768892500987_1008804762497400"
+    },
+    {
       "created_time": "2015-08-28T06:39:15+0000",
       "from": {
         "name": "Lin Lan",
@@ -23,7 +48,7 @@
       },
       "message": "蔡英文一定會用收錢多少來衡量",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 3,
       "user_likes": false,
       "id": "1008768892500987_1008771572500719"
     },
@@ -35,7 +60,7 @@
       },
       "message": "一切內定好了、依偶唯尊",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "1008768892500987_1008771145834095"
     }

@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150828/679743/",
   "comments": [
     {
+      "created_time": "2015-08-28T07:56:29+0000",
+      "from": {
+        "name": "Williams John",
+        "id": "100006278143308"
+      },
+      "message": "還有更多比他更不幸的",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "852213981565783_852235394896975"
+    },
+    {
+      "created_time": "2015-08-28T07:29:09+0000",
+      "from": {
+        "name": "Jamie Liu",
+        "id": "100000372074519"
+      },
+      "message": "台灣為誰而戰？百姓生活苦悶！連戰領18%去中國看閱兵！",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "852213981565783_852229288230919"
+    },
+    {
+      "created_time": "2015-08-28T07:09:52+0000",
+      "from": {
+        "name": "Cooker Sung",
+        "id": "100005504976642"
+      },
+      "message": "每個人都有生存的權力，，只要是對國家，對社會，，對家庭，，有幫助的人事物，，都不該被剝奪！",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "852213981565783_852226531564528"
+    },
+    {
       "created_time": "2015-08-28T06:53:13+0000",
       "from": {
         "name": "朱泥爾",
@@ -11,7 +47,7 @@
       },
       "message": "真的，不要戰爭。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "852213981565783_852223971564784"
     }

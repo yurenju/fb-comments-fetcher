@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150828/679496/",
   "comments": [
     {
+      "created_time": "2015-08-28T07:34:19+0000",
+      "from": {
+        "name": "成奎安",
+        "id": "100008830353213"
+      },
+      "message": "演藝圈是個大染缸",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1202512683107716_1202672649758386"
+    },
+    {
       "created_time": "2015-08-28T05:16:26+0000",
       "from": {
         "name": "黃惠宗",
@@ -11,7 +23,7 @@
       },
       "message": "亂報導 荒唐的報導",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1202512683107716_1202630376429280"
     },
@@ -35,7 +47,7 @@
       },
       "message": "這明明就是林子原與蘇愛珠之間的事，關屋主啥事？",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "1202512683107716_1202577099767941"
     },
@@ -83,7 +95,7 @@
       },
       "message": "爛記者！假如是你的家族的事扯上你，你覺得如何？",
       "can_remove": false,
-      "like_count": 7,
+      "like_count": 10,
       "user_likes": false,
       "id": "1202512683107716_1202540109771640"
     },
@@ -107,7 +119,7 @@
       },
       "message": "亂下標題，關許慧欣什麼事？",
       "can_remove": false,
-      "like_count": 26,
+      "like_count": 29,
       "user_likes": false,
       "id": "1202512683107716_1202531173105867"
     }
