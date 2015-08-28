@@ -4,6 +4,931 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150828/679514/",
   "comments": [
     {
+      "created_time": "2015-08-28T07:01:01+0000",
+      "from": {
+        "name": "向依霞",
+        "id": "100000129374134"
+      },
+      "message": "他的女友真楣",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898288976903332"
+    },
+    {
+      "created_time": "2015-08-28T06:57:24+0000",
+      "from": {
+        "name": "黃高登",
+        "id": "100002332899296"
+      },
+      "message": "樓下不是有個非裔老張",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898288400236723"
+    },
+    {
+      "created_time": "2015-08-28T06:54:06+0000",
+      "from": {
+        "name": "許欣",
+        "id": "1675070031"
+      },
+      "message": "波多野結衣 是無辜的。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898287870236776"
+    },
+    {
+      "created_time": "2015-08-28T06:49:49+0000",
+      "from": {
+        "name": "Howard LLarge",
+        "id": "100005467980974"
+      },
+      "message": "婚前已沒有互信，婚後會更慘！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898287230236840"
+    },
+    {
+      "created_time": "2015-08-28T06:47:45+0000",
+      "from": {
+        "name": "陳菲薾",
+        "id": "100007701756396"
+      },
+      "message": "無知進而不信任感。。。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898286900236873"
+    },
+    {
+      "created_time": "2015-08-28T06:46:10+0000",
+      "from": {
+        "name": "銀行車貸_陳小姐",
+        "category": "Community",
+        "id": "1114539648559967"
+      },
+      "message": "所以你都坐在馬桶上吃飯的？吃進去直接出來？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898286656903564"
+    },
+    {
+      "created_time": "2015-08-28T06:45:30+0000",
+      "from": {
+        "name": "王柏軒",
+        "id": "598098418"
+      },
+      "message": "這讓我想到常威在九品芝麻官講的：「一定不是我的！那天晚上我玩完她後第二天就有了，哪有那麼快的啊！」",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898286500236913"
+    },
+    {
+      "created_time": "2015-08-28T06:41:03+0000",
+      "from": {
+        "name": "麻醬",
+        "id": "100001371461619"
+      },
+      "message": "應該很多人都不知道吧～",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898284816903748"
+    },
+    {
+      "created_time": "2015-08-28T06:39:00+0000",
+      "from": {
+        "name": "林朱武",
+        "id": "100009569273340"
+      },
+      "message": "小時候兩性教育沒學好\n健康課一定被當過",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898282033570693"
+    },
+    {
+      "created_time": "2015-08-28T06:38:49+0000",
+      "from": {
+        "name": "黃湘婷",
+        "id": "100000160945446"
+      },
+      "message": "回去念書吧!!  裝什麼綠巨人?!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898282003570696"
+    },
+    {
+      "created_time": "2015-08-28T06:30:36+0000",
+      "from": {
+        "name": "柯俊銓",
+        "id": "1415976572"
+      },
+      "message": "怎麼沒人好奇這男的最後一次與女友上床是何時？他留言寫得很簡要，沒提到最後一次與女友的上床時間，男性精子在女性陰道約可存活3~4天，這樣可以回推受精時間，如果那段時間他們沒有上床，這種才可算是戴綠帽，建議當事者說清楚以免持續被罵。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898279943570902"
+    },
+    {
+      "created_time": "2015-08-28T06:24:07+0000",
+      "from": {
+        "name": "陳力",
+        "id": "100009208194435"
+      },
+      "message": "孩子其實是我的……",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898265613572335"
+    },
+    {
+      "created_time": "2015-08-28T06:19:33+0000",
+      "from": {
+        "name": "ChienYing Wu",
+        "id": "100000193734875"
+      },
+      "message": "長知識 原來要10-14天才會著床",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898264730239090"
+    },
+    {
+      "created_time": "2015-08-28T06:14:23+0000",
+      "from": {
+        "name": "馮志源",
+        "id": "100000273278220"
+      },
+      "message": "逸祥來家裡只會躲在妹妹房間，我媽\n\n在基隆買了市價300萬、30坪樓中樓給妹妹當嫁妝，逸祥竟說婚後要直接搬來住，求婚也\n\n沒先報備。」又批：「有次我爸媽去百貨公司找妹妹，逸祥也在，他邀我爸媽上去吃飯，\n\n點紅蟳上桌後，他自己先開動，最後帳單是我爸媽付。\n--------------------------------------------------------------------------\n鬼月這種人特別多\n是否有異曲同工之妙",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898263500239213"
+    },
+    {
+      "created_time": "2015-08-28T06:12:37+0000",
+      "from": {
+        "name": "Benson Li",
+        "id": "100000575983798"
+      },
+      "message": "奇怪，是我理解力有問題還是？\n胎兒著床3個週了，而當時他人在外地出差，\n意即那段時間以前，人都不在女友身邊，那…，怎麼大家都覺得是他的？他好像沒提到他在外地待了多久啊…囧囧囧",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898263020239261"
+    },
+    {
+      "created_time": "2015-08-28T06:06:46+0000",
+      "from": {
+        "name": "謝耀賢",
+        "id": "100000285015663"
+      },
+      "message": "健康教育知識，MC多久沒來？什麼時候驗孕才準？\n\nhttp://mamaclub.com/learn/mc%E5%A4%9A%E4%B9%85%E6%B2%92%E4%BE%86%EF%BC%9F%E4%BB%80%E9%BA%BC%E6%99%82%E5%80%99%E9%A9%97%E5%AD%95%E6%89%8D%E6%BA%96%EF%BC%9F/",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898261936906036"
+    },
+    {
+      "created_time": "2015-08-28T06:04:42+0000",
+      "from": {
+        "name": "Alice Tang",
+        "id": "614329429"
+      },
+      "message": "哈哈白痴耶..",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898261666906063"
+    },
+    {
+      "created_time": "2015-08-28T05:54:11+0000",
+      "from": {
+        "name": "洪瑞辰",
+        "id": "100000343008398"
+      },
+      "message": "受精到著床需近一周的時間\n如果四周前都沒做的話\n就真的有可能戴綠帽了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898259203572976"
+    },
+    {
+      "created_time": "2015-08-28T05:52:31+0000",
+      "from": {
+        "name": "Forest Li",
+        "id": "1755226292"
+      },
+      "message": "沒念過書嗎？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898258660239697"
+    },
+    {
+      "created_time": "2015-08-28T05:52:27+0000",
+      "from": {
+        "name": "蘇哲輝",
+        "id": "100002419964389"
+      },
+      "message": "驗DNA",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898258640239699"
+    },
+    {
+      "created_time": "2015-08-28T05:50:42+0000",
+      "from": {
+        "name": "邱國棟",
+        "id": "100000398528060"
+      },
+      "message": "只會查3週前他在哪，就不會去查受精、著床需要多久時間嗎?\n真靠北！這疑心病也太重了吧",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898258230239740"
+    },
+    {
+      "created_time": "2015-08-28T05:49:33+0000",
+      "from": {
+        "name": "Yuan Chen",
+        "id": "100000130731031"
+      },
+      "message": "當女人是母豬喔！說懷孕就懷孕，正常著床時間要7天以上，拜託～Google一下好嗎？到底你爸媽怎麼教你的？問你爸媽也知道著床要多久時間，都沒在關心你女友的身體，當你女友真可憐",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898258003573096"
+    },
+    {
+      "created_time": "2015-08-28T05:43:41+0000",
+      "from": {
+        "name": "張育晴",
+        "id": "100000312530662"
+      },
+      "message": "請靠北自己吧！頭殼ㄉㄟ塞",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898256226906607"
+    },
+    {
+      "created_time": "2015-08-28T05:43:26+0000",
+      "from": {
+        "name": "JoAn CoLa",
+        "id": "100000044951564"
+      },
+      "message": "精子可以在子宮存活多久，這點也不懂。\n腦袋裝什麼啊？！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898256186906611"
+    },
+    {
+      "created_time": "2015-08-28T05:39:51+0000",
+      "from": {
+        "name": "李梅白",
+        "id": "100001649202279"
+      },
+      "message": "一般胚胎從受精到完全著床約6-8天,所以是要看4周前有沒做",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898255586906671"
+    },
+    {
+      "created_time": "2015-08-28T05:37:50+0000",
+      "from": {
+        "name": "Victoria Tang",
+        "id": "1544778470"
+      },
+      "message": "真替女友擔心，可悲愚腐腦袋的男友 \n沒知識 第一個反應就是綠帽 太傷人\n 可見 非常 【自私】 自我意識  先入為主 。 \n拉薩蜜啊！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898255183573378"
+    },
+    {
+      "created_time": "2015-08-28T05:34:41+0000",
+      "from": {
+        "name": "Christina Wu",
+        "id": "100001515900727"
+      },
+      "message": "假如被你女友聽到你懷疑她,那這烏龜你是當定了~哈哈哈",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898254356906794"
+    },
+    {
+      "created_time": "2015-08-28T05:32:37+0000",
+      "from": {
+        "name": "翁世敏",
+        "id": "100001793417553"
+      },
+      "message": "生出來再驗 DNA，不過這種沒腦的大嘴女友以後還會惹麻煩，要當老婆要考慮一下吧！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898253993573497"
+    },
+    {
+      "created_time": "2015-08-28T05:31:06+0000",
+      "from": {
+        "name": "Hsin Yuan Chiu",
+        "id": "1286090929"
+      },
+      "message": "這就跟我前男友講的屁話一樣 剛分沒一個禮拜小三就懷孕了 還跟我說是分手後才發生的事！健康教育必須重讀了！真的完全笑話啊~",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "898180096914220_898253676906862"
+    },
+    {
+      "created_time": "2015-08-28T05:29:00+0000",
+      "from": {
+        "name": "Beata Yu",
+        "id": "100007143460278"
+      },
+      "message": "以前我也不知道需要時間耶，懷孕後才有這方面訊息╮(╯▽╰)╭",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898252666906963"
+    },
+    {
+      "created_time": "2015-08-28T05:28:32+0000",
+      "from": {
+        "name": "陳正達",
+        "id": "100005180593376"
+      },
+      "message": "你有的幹不錯了",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "898180096914220_898252310240332"
+    },
+    {
+      "created_time": "2015-08-28T05:27:53+0000",
+      "from": {
+        "name": "胡修瑜",
+        "id": "100008321283005"
+      },
+      "message": "這綠蠵龜好土喔",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898252090240354"
+    },
+    {
+      "created_time": "2015-08-28T05:18:09+0000",
+      "from": {
+        "name": "張珍妮",
+        "id": "772080393"
+      },
+      "message": "好沒知識的男人.....@@我覺得這女的，直接離開他吧！因為這男的整體素質不是很好～嫁了妳會很辛苦....",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898250396907190"
+    },
+    {
+      "created_time": "2015-08-28T05:16:07+0000",
+      "from": {
+        "name": "馮曉靜",
+        "id": "100010281545325"
+      },
+      "message": "不要只知道姿勢 多長點知識吧",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "898180096914220_898250066907223"
+    },
+    {
+      "created_time": "2015-08-28T05:14:20+0000",
+      "from": {
+        "name": "Jax Wu",
+        "id": "100000066289648"
+      },
+      "message": "偽聖議員：這女的一定拍過幾千部 A片，才會沒辦法做完馬上懷孕",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898249640240599"
+    },
+    {
+      "created_time": "2015-08-28T05:12:58+0000",
+      "from": {
+        "name": "許朝昇",
+        "id": "100000327168266"
+      },
+      "message": "哈哈，北七",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898249406907289"
+    },
+    {
+      "created_time": "2015-08-28T05:12:54+0000",
+      "from": {
+        "name": "林雨潔",
+        "id": "1672850343"
+      },
+      "message": "大媽寶一個",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898249380240625"
+    },
+    {
+      "created_time": "2015-08-28T05:10:17+0000",
+      "from": {
+        "name": "朱多多",
+        "id": "100004094135480"
+      },
+      "message": "只會射!!垃圾!!!當你女朋友好可憐!!!沒腦子的爛人!不要也霸!!!!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898248886907341"
+    },
+    {
+      "created_time": "2015-08-28T05:09:54+0000",
+      "from": {
+        "name": "Kai Hung Tseng",
+        "id": "1052080290"
+      },
+      "message": "還好他有來靠北，才有得到大家的回應長知識，不然會被無知給悶死",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898248716907358"
+    },
+    {
+      "created_time": "2015-08-28T05:04:43+0000",
+      "from": {
+        "name": "林伯陽",
+        "id": "517788216"
+      },
+      "message": "這樣也可以寫一篇新聞，蘋果記者真好當",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898247500240813"
+    },
+    {
+      "created_time": "2015-08-28T05:03:37+0000",
+      "from": {
+        "name": "李茹",
+        "id": "100000374349129"
+      },
+      "message": "遇到這種垃圾就是很可憐的下場\n孩子何必為這種人生",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898247110240852"
+    },
+    {
+      "created_time": "2015-08-28T05:03:09+0000",
+      "from": {
+        "name": "Arthur Chen",
+        "id": "100000468950942"
+      },
+      "message": "真白痴，如果擔心，生出來再去驗 DNA就好了呀！科技都那麼發達了，還跟不上時代，還想懷疑女朋友！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898247006907529"
+    },
+    {
+      "created_time": "2015-08-28T05:01:34+0000",
+      "from": {
+        "name": "吳建霆",
+        "id": "100002328999565"
+      },
+      "message": "他也不說在桃園出差多久",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898246626907567"
+    },
+    {
+      "created_time": "2015-08-28T05:00:03+0000",
+      "from": {
+        "name": "Chang Xing Wu",
+        "id": "1808200713"
+      },
+      "message": "可愛！\n可見唸健康教育時不狗認真！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898246223574274"
+    },
+    {
+      "created_time": "2015-08-28T04:59:36+0000",
+      "from": {
+        "name": "謝向宸",
+        "id": "100000417517550"
+      },
+      "message": "老實說 他有講三週\"前\"\n他並沒說多久 搞不好他出差合計半年(?\n前面的留言一直是罵他的\n是自己沒看清處吧？\n然後他大概只是像抒發\n實際上dna驗了就了啦",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898246180240945"
+    },
+    {
+      "created_time": "2015-08-28T04:59:07+0000",
+      "from": {
+        "name": "盧莊",
+        "id": "100000828943086"
+      },
+      "message": "蟲蟲要力爭上游到達終點是需要時間的，這是基本常識。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898246106907619"
+    },
+    {
+      "created_time": "2015-08-28T04:58:42+0000",
+      "from": {
+        "name": "Emma Chou",
+        "id": "100000160880976"
+      },
+      "message": "無腦的傢伙，你女友才應該要擔心吧！\n孩子的爹這樣無腦，還嫁嗎？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898245986907631"
+    },
+    {
+      "created_time": "2015-08-28T04:56:00+0000",
+      "from": {
+        "name": "Mita Lai",
+        "id": "100000107423978"
+      },
+      "message": "真的是.....沒擔當",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898245573574339"
+    },
+    {
+      "created_time": "2015-08-28T04:51:51+0000",
+      "from": {
+        "name": "廖偉勝",
+        "id": "100000513864574"
+      },
+      "message": "主角悲劇了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898244733574423"
+    },
+    {
+      "created_time": "2015-08-28T04:47:13+0000",
+      "from": {
+        "name": "Red Wing",
+        "id": "100000244733003"
+      },
+      "message": "常威：一定不是我的！那天晚上我玩完她後第二天就有了，哪有那麼快的啊！",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "898180096914220_898243763574520"
+    },
+    {
+      "created_time": "2015-08-28T04:42:43+0000",
+      "from": {
+        "name": "游仔",
+        "id": "100000248890733"
+      },
+      "message": "現在換女友傷腦筋了...這麼阿呆 小孩子像爸爸怎麼辦?",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "898180096914220_898242983574598"
+    },
+    {
+      "created_time": "2015-08-28T04:40:52+0000",
+      "from": {
+        "name": "PinWenot Ning",
+        "id": "100010093658805"
+      },
+      "message": "哪天女生經期不順晚到了、男方也會說她劈腿吧！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898242600241303"
+    },
+    {
+      "created_time": "2015-08-28T04:39:37+0000",
+      "from": {
+        "name": "Yu-wei  Wang",
+        "id": "100004240116996"
+      },
+      "message": "這個人是白痴嗎?連那個常威都比原PO\n有常識....",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898242320241331"
+    },
+    {
+      "created_time": "2015-08-28T04:39:32+0000",
+      "from": {
+        "name": "PinWenot Ning",
+        "id": "100010093658805"
+      },
+      "message": "很想勸女方別生也別在ㄧ起好了！連基礎的信任都沒有、還加沒知識！",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "898180096914220_898242286908001"
+    },
+    {
+      "created_time": "2015-08-28T04:38:26+0000",
+      "from": {
+        "name": "黃駿林",
+        "id": "100000315642320"
+      },
+      "message": "分手快樂,祝妳快樂,妳可以找到更好的!!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898242066908023"
+    },
+    {
+      "created_time": "2015-08-28T04:36:55+0000",
+      "from": {
+        "name": "玉嬋",
+        "id": "100000396560843"
+      },
+      "message": "白痴 。。。。\n你以為進去就馬上有的哦？",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "898180096914220_898241666908063"
+    },
+    {
+      "created_time": "2015-08-28T04:36:22+0000",
+      "from": {
+        "name": "彭國峰",
+        "id": "100000317838862"
+      },
+      "message": "吃屎好了！",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "898180096914220_898241510241412"
+    },
+    {
+      "created_time": "2015-08-28T04:35:46+0000",
+      "from": {
+        "name": "Jychian Chen",
+        "id": "1161580884"
+      },
+      "message": "甄嬛傳:  滴血驗親",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "898180096914220_898241136908116"
+    },
+    {
+      "created_time": "2015-08-28T04:35:28+0000",
+      "from": {
+        "name": "Maya Lau",
+        "id": "100003814674002"
+      },
+      "message": "你父母很高興說要生下來 , 完全不提女方的父母 , 人家女兒是你家的生仔機器嗎",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "898180096914220_898241080241455"
+    },
+    {
+      "created_time": "2015-08-28T04:27:21+0000",
+      "from": {
+        "name": "潘婷",
+        "id": "100006131103746"
+      },
+      "message": "這男的很有問題",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "898180096914220_898238826908347"
+    },
+    {
+      "created_time": "2015-08-28T04:26:33+0000",
+      "from": {
+        "name": "Hui Mei Chen",
+        "id": "100000373952017"
+      },
+      "message": "已無信任感…這樣確定要把小孩生下來嗎？確定要結婚嗎",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "898180096914220_898238590241704"
+    },
+    {
+      "created_time": "2015-08-28T04:26:06+0000",
+      "from": {
+        "name": "廖益伸",
+        "id": "100000104816043"
+      },
+      "message": "常識啊，連他都知道。\n常威:那天晚上玩完她之後，第二天就有了，那有這麼快的。",
+      "can_remove": false,
+      "like_count": 7,
+      "user_likes": false,
+      "id": "898180096914220_898238460241717"
+    },
+    {
+      "created_time": "2015-08-28T04:24:41+0000",
+      "from": {
+        "name": "Ching Hsien",
+        "id": "100002141263365"
+      },
+      "message": "要靠北也要有點兒知識\n不然也先上網查一下\n不然就是等著被網友靠北回去",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "898180096914220_898238013575095"
+    },
+    {
+      "created_time": "2015-08-28T04:23:19+0000",
+      "from": {
+        "name": "倪棄",
+        "id": "100000352868816"
+      },
+      "message": "障...",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "898180096914220_898237680241795"
+    },
+    {
+      "created_time": "2015-08-28T04:22:12+0000",
+      "from": {
+        "name": "林糧勒",
+        "id": "100001972942654"
+      },
+      "message": "他女友看到沒？快離開這白痴吧   會這樣想的人 絕大多數會一直放在心上   寧可自己養也不要跟白痴過一輩子",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "898180096914220_898237410241822"
+    },
+    {
+      "created_time": "2015-08-28T04:19:35+0000",
+      "from": {
+        "name": "許永澤",
+        "id": "100001783055090"
+      },
+      "message": "這可不能牽拖到課綱去了……",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898236213575275"
+    },
+    {
+      "created_time": "2015-08-28T04:16:24+0000",
+      "from": {
+        "name": "雷克斯",
+        "id": "100000054345150"
+      },
+      "message": "麻煩這位仁兄\n上網搜尋著床時間\n看來悠遊卡不但要用波多野結衣當封面\n更要附註性知識\n從射精到受精\n再到著床的時間",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898234960242067"
+    },
+    {
+      "created_time": "2015-08-28T04:14:35+0000",
+      "from": {
+        "name": "吳維倫",
+        "id": "100000367565434"
+      },
+      "message": "可以給我他女朋友的聯絡方式嗎？\n我要去勸那女孩別生了離開這白癡男～～～",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "898180096914220_898233603575536"
+    },
+    {
+      "created_time": "2015-08-28T04:10:34+0000",
+      "from": {
+        "name": "Yang Haru",
+        "id": "100000372480605"
+      },
+      "message": "愛她就要相信她",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898231376909092"
+    },
+    {
+      "created_time": "2015-08-28T04:09:26+0000",
+      "from": {
+        "name": "陳亮如",
+        "id": "100005268974341"
+      },
+      "message": "若是知識不足問一下醫生會比較好吧！自己在那裡懷疑怎麼對的起辛苦懷孕的女朋友咧",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898231110242452"
+    },
+    {
+      "created_time": "2015-08-28T04:07:09+0000",
+      "from": {
+        "name": "丸玉熙",
+        "id": "100000237498420"
+      },
+      "message": "不懂懷孕整個過程時間還隨便誤會女友\n是不是男人 還敢靠北",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898230683575828"
+    },
+    {
+      "created_time": "2015-08-28T04:05:16+0000",
+      "from": {
+        "name": "YuanRu Wang",
+        "id": "100000360834090"
+      },
+      "message": "是有被害妄想症嗎",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898230033575893"
+    },
+    {
+      "created_time": "2015-08-28T04:04:25+0000",
+      "from": {
+        "name": "Hui Chen Chen",
+        "id": "100008350269152"
+      },
+      "message": "我想這男的應該會想驗DNA吧…證明生出來的小孩是否他的種，勸他女友趕快找個正常人才是，不信任的婚姻，累。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898229493575947"
+    },
+    {
+      "created_time": "2015-08-28T04:04:17+0000",
+      "from": {
+        "name": "王佳佳",
+        "id": "100000316233654"
+      },
+      "message": "他女友看到一定傷心死了，而且還上報……\n雖然是匿名",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898229470242616"
+    },
+    {
+      "created_time": "2015-08-28T04:03:21+0000",
+      "from": {
+        "name": "吳貴墉",
+        "id": "100000318037063"
+      },
+      "message": "忍不住辱罵……白痴！！！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898229190242644"
+    },
+    {
+      "created_time": "2015-08-28T04:01:39+0000",
+      "from": {
+        "name": "Eddie Tsai",
+        "id": "100000130549196"
+      },
+      "message": "最近只要伴侶是著床三週尚未結婚的男性皮繃緊一點，應該不少會對號入座。禮物快準備好。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898228516909378"
+    },
+    {
+      "created_time": "2015-08-28T04:01:05+0000",
+      "from": {
+        "name": "沈綈虹",
+        "id": "100006974837371"
+      },
+      "message": "沒知識，，也別嫁，未來苦了女人",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898180096914220_898228403576056"
+    },
+    {
       "created_time": "2015-08-28T03:56:47+0000",
       "from": {
         "name": "童顆顆",
@@ -71,7 +996,7 @@
       },
       "message": "沒常識也要有智商好嗎，去查一下女人是如何懷孕，從著床到三週是需要多少時間好嗎，不要再那裡po文靠北，這樣的男人不要也罷，不要生好了，免得生下來就疑神疑鬼說小孩是别人的給他戴綠帽。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 4,
       "user_likes": false,
       "id": "898180096914220_898222416909988"
     },
@@ -107,7 +1032,7 @@
       },
       "message": "精子被你的小弟弟釋放之後還有很長的路要走，遇到了卵子之後合體完了以後，還要坐溜滑梯到子宮內膜來著床。可憐的孩子健康教育課都在睡覺嗎?",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 21,
       "user_likes": false,
       "id": "898180096914220_898220863576810"
     },
@@ -155,7 +1080,7 @@
       },
       "message": "著床也要個幾天，難道都不知道嗎？而且不是醫生說三週就是三週，預產期出來就可以知道大概何時受精的好嗎？你女友真可憐 ～",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "898180096914220_898219376910292"
     },
@@ -215,7 +1140,7 @@
       },
       "message": "這種男人小鼻子小眼睛，又不長知識，也沒胸襟氣度，雖不鼓勵但是為了未來的幸福，三週還來得及拿掉，趕快逃！",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 15,
       "user_likes": false,
       "id": "898180096914220_898217463577150"
     },
@@ -227,7 +1152,7 @@
       },
       "message": "不是一個多月。。誤差一，二個月。。。當你老婆了連還要誤會頭客凶。。該妳的就妳的，客凶來擋不住",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "898180096914220_898217290243834"
     },
@@ -251,7 +1176,7 @@
       },
       "message": "不要說男生，很多人都有這樣的迷思…",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "898180096914220_898215996910630"
     },
@@ -275,7 +1200,7 @@
       },
       "message": "這女友嫁他以後應該會生活的很痛苦",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "898180096914220_898215746910655"
     },
@@ -299,7 +1224,7 @@
       },
       "message": "記得中學的生物課本有講到，受精到著床要約一周時間",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "898180096914220_898214923577404"
     },
@@ -323,7 +1248,7 @@
       },
       "message": "愈來愈懷疑這個網站文章的真實性了...\n感覺很多人只是為了騙點閱率在自表.......",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 6,
       "user_likes": false,
       "id": "898180096914220_898195530246010"
     },
@@ -359,7 +1284,7 @@
       },
       "message": "沒知識真可怕...\n家長真正應該擔心的不是波多野的悠遊卡，而是學校健康教育到底有沒有好好教小孩阿？",
       "can_remove": false,
-      "like_count": 73,
+      "like_count": 206,
       "user_likes": false,
       "id": "898180096914220_898193263579570"
     },
@@ -371,7 +1296,7 @@
       },
       "message": "算我的好了，別疑神疑鬼了。",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 6,
       "user_likes": false,
       "id": "898180096914220_898192850246278"
     },
@@ -383,7 +1308,7 @@
       },
       "message": "書沒讀好，只會到處靠北。",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "898180096914220_898192450246318"
     },
@@ -407,7 +1332,7 @@
       },
       "message": "這男友只會射,還會什麼?",
       "can_remove": false,
-      "like_count": 48,
+      "like_count": 120,
       "user_likes": false,
       "id": "898180096914220_898191210246442"
     },
@@ -431,7 +1356,7 @@
       },
       "message": "笑死人了，做完10-14天才會著床，才能驗孕啊！這樣都一個多月了好嗎！",
       "can_remove": false,
-      "like_count": 51,
+      "like_count": 94,
       "user_likes": false,
       "id": "898180096914220_898187956913434"
     },
@@ -455,7 +1380,7 @@
       },
       "message": "這篇 po 文， 千萬不要被他的懷孕女友看到，\n否則， 前景堪憂。",
       "can_remove": false,
-      "like_count": 24,
+      "like_count": 44,
       "user_likes": false,
       "id": "898180096914220_898185150247048"
     },
@@ -479,7 +1404,7 @@
       },
       "message": "身為男人的我實在很不恥有這種心態，女友懷孕竟然還扯綠帽之說，由此看來根本就不是真心愛對方，既然如此，趕緊將小孩拿掉，各走各的。最後奉送該位仁兄兩個字～～畜牲",
       "can_remove": false,
-      "like_count": 154,
+      "like_count": 439,
       "user_likes": false,
       "id": "898180096914220_898184200247143"
     },

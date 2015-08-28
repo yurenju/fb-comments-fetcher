@@ -4,6 +4,19 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150828/679512/",
   "comments": [
     {
+      "created_time": "2015-08-28T06:55:27+0000",
+      "from": {
+        "name": "銀行車貸_陳小姐",
+        "category": "Community",
+        "id": "1114539648559967"
+      },
+      "message": "有漲就有跌 有跌就有漲",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872007386188247_872091966179789"
+    },
+    {
       "created_time": "2015-08-28T02:46:31+0000",
       "from": {
         "name": "Roy Yen",
@@ -23,7 +36,7 @@
       },
       "message": "爽到您，堅苦著一般平民百姓",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "872007386188247_872026299519689"
     },
@@ -35,7 +48,7 @@
       },
       "message": "注意，注意，重大消息，呼籲，各界人士現在起，請勿來台南旅遊，以免得登革熱，染病身亡，請大家告訴大家，切忌請不要來台南觀光",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "872007386188247_872014666187519"
     },
@@ -47,7 +60,7 @@
       },
       "message": "過幾天一定跌",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "872007386188247_872013752854277"
     },

@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150828/679536/",
   "comments": [
     {
+      "created_time": "2015-08-28T06:31:46+0000",
+      "from": {
+        "name": "陳學友",
+        "id": "100001758890179"
+      },
+      "message": "祂們有小孩嗎?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1021641034544558_1021747971200531"
+    },
+    {
+      "created_time": "2015-08-28T06:09:54+0000",
+      "from": {
+        "name": "王昭偉",
+        "id": "100003348379456"
+      },
+      "message": "重啟古代兵器  的重要物品  怎能被說是假的呢?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1021641034544558_1021743147867680"
+    },
+    {
+      "created_time": "2015-08-28T05:59:00+0000",
+      "from": {
+        "name": "林圓圓",
+        "id": "100009828585176"
+      },
+      "message": "聖經未日預言是什麼時侯?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1021641034544558_1021740121201316"
+    },
+    {
       "created_time": "2015-08-28T03:04:14+0000",
       "from": {
         "name": "Josua Kao",
@@ -47,7 +83,7 @@
       },
       "message": "1200前的人不會有兩罐墨水嗎？",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1021641034544558_1021645104544151"
     },
