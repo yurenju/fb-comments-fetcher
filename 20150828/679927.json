@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150828/679927/",
   "comments": [
     {
+      "created_time": "2015-08-28T15:38:06+0000",
+      "from": {
+        "name": "王文龍",
+        "id": "100000210690623"
+      },
+      "message": "真的有實力，就不要短視近利，要看的是未來\n會吵的人也不一定有糖吃",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "914993298537182_915135068523005"
+    },
+    {
+      "created_time": "2015-08-28T13:36:15+0000",
+      "from": {
+        "name": "Han Chen",
+        "id": "100000026299571"
+      },
+      "message": "林子崴的決定是對的",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "914993298537182_915092595193919"
+    },
+    {
+      "created_time": "2015-08-28T13:05:02+0000",
+      "from": {
+        "name": "呂麗芬",
+        "id": "100009834078817"
+      },
+      "message": "不想加入中職就不要參加選秀\n害統一喪失了第二輪選秀機會",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "914993298537182_915081895194989"
+    },
+    {
       "created_time": "2015-08-28T10:23:56+0000",
       "from": {
         "name": "吳曼蒂",
@@ -11,7 +47,7 @@
       },
       "message": "不要簽就算了，無所謂，只有事情趕快結束",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "914993298537182_915018925201286"
     },
@@ -59,7 +95,7 @@
       },
       "message": "不要考慮他了\n放鴿子大王",
       "can_remove": false,
-      "like_count": 8,
+      "like_count": 9,
       "user_likes": false,
       "id": "914993298537182_914994315203747"
     }

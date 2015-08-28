@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150828/679660/",
   "comments": [
     {
+      "created_time": "2015-08-28T14:45:22+0000",
+      "from": {
+        "name": "李福彥",
+        "id": "100003839473422"
+      },
+      "message": "中國人去中國參加閱兵.就像台獨人跑去日本說自己是日本人一樣.只是一個是中國人.中華民國的台灣還真亂.說自己是中國人是事實啊.身份證就寫了。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "839904866125619_840120799437359"
+    },
+    {
       "created_time": "2015-08-28T12:32:00+0000",
       "from": {
         "name": "林永東",
@@ -83,7 +95,7 @@
       },
       "message": "身為基隆人覺得也太太丟臉了，好像是國民黨隨便丟個人選，都可以輕鬆選上似的？！",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "839904866125619_839996189449820"
     },
@@ -110,18 +122,6 @@
       "like_count": 1,
       "user_likes": false,
       "id": "839904866125619_839973026118803"
-    },
-    {
-      "created_time": "2015-08-28T05:58:38+0000",
-      "from": {
-        "name": "Danm Chen",
-        "id": "100008168406859"
-      },
-      "message": "烏鴉一般黑，賤人就是矯情。",
-      "can_remove": false,
-      "like_count": 1,
-      "user_likes": false,
-      "id": "839904866125619_839965026119603"
     },
     {
       "created_time": "2015-08-28T05:54:30+0000",
@@ -227,7 +227,7 @@
       },
       "message": "去中國的降兵叛將，通通不要領台灣給你們任何禮遇金！",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 6,
       "user_likes": false,
       "id": "839904866125619_839908056125300"
     },
@@ -263,7 +263,7 @@
       },
       "message": "國民黨另一波內鬥開始了!",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 7,
       "user_likes": false,
       "id": "839904866125619_839905959458843"
     }

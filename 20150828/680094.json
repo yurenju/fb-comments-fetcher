@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150828/680094/",
   "comments": [
     {
+      "created_time": "2015-08-28T13:53:10+0000",
+      "from": {
+        "name": "Fan SY",
+        "id": "100009556823451"
+      },
+      "message": "ㄟ 怎才過了一年 那些htc義和團怎都不見了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1175596682457284_1175643059119313"
+    },
+    {
+      "created_time": "2015-08-28T13:04:38+0000",
+      "from": {
+        "name": "Alvin Tsai",
+        "id": "100010298582865"
+      },
+      "message": "噗-",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1175596682457284_1175623285787957"
+    },
+    {
       "created_time": "2015-08-28T12:53:25+0000",
       "from": {
         "name": "楊家齊",
@@ -11,7 +35,7 @@
       },
       "message": "都快倒了 不緊張還在嘴砲  假台灣品牌 滾回大陸吧",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1175596682457284_1175616749121944"
     },

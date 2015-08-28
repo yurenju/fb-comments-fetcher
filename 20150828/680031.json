@@ -4,6 +4,54 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150828/680031/",
   "comments": [
     {
+      "created_time": "2015-08-28T16:00:34+0000",
+      "from": {
+        "name": "淋雨",
+        "id": "100003359232134"
+      },
+      "message": "警察杯杯，又有人跑出來了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1010971955614017_1011088105602402"
+    },
+    {
+      "created_time": "2015-08-28T15:59:24+0000",
+      "from": {
+        "name": "楊立倫",
+        "id": "100003547727757"
+      },
+      "message": "他可能不知道現在科學能觀測星球的能力已經達到數光年之遠了吧?區區幾百年內會經過地球的小行星早就觀察好記錄在案了.....",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1010971955614017_1011087755602437"
+    },
+    {
+      "created_time": "2015-08-28T15:53:32+0000",
+      "from": {
+        "name": "謝高文",
+        "id": "100000093307335"
+      },
+      "message": "如果921慧星沒來撞地球\n那個預言者是不是應該自己去撞石頭？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1010971955614017_1011086112269268"
+    },
+    {
+      "created_time": "2015-08-28T15:52:41+0000",
+      "from": {
+        "name": "呂建旻",
+        "id": "100000269323012"
+      },
+      "message": "召喚!大覺者~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1010971955614017_1011085818935964"
+    },
+    {
       "created_time": "2015-08-28T12:23:54+0000",
       "from": {
         "name": "陳致宏",
@@ -59,7 +107,7 @@
       },
       "message": "我準備好了，來吧",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "1010971955614017_1010992702278609"
     },
@@ -95,7 +143,7 @@
       },
       "message": "王母娘娘昨天晚上托夢給我⋯\n說⋯\n「撞拎娘ㄟㄚ」～!\n還說要連罵你三次，頭殼才會清醒。",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 8,
       "user_likes": false,
       "id": "1010971955614017_1010986872279192"
     },
@@ -131,7 +179,7 @@
       },
       "message": "921不會有彗星撞地球，\n只會有那些預言者車禍彌留……\n\n贛，唯恐天下不亂，\n就算世界末日來到，\n大家也改變不了，不是嗎？\n就算預言準確又怎樣？\n有啥鳥幫助嗎？提預言要幹嘛？\n要大家信你？給你個幾千萬？\n抱歉，我只能給你一個<贛>……",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "1010971955614017_1010984315612781"
     },
@@ -179,7 +227,7 @@
       },
       "message": "如果這件事成真，大家都死了……如果這件事沒有發生，可以把這種人關到死嗎？危言聳聽……",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 8,
       "user_likes": false,
       "id": "1010971955614017_1010976802280199"
     }

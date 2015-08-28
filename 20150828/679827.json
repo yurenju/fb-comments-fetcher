@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150828/679827/",
   "comments": [
     {
+      "created_time": "2015-08-28T13:16:10+0000",
+      "from": {
+        "name": "呂麗芬",
+        "id": "100009834078817"
+      },
+      "message": "為了對抗狐狸，結果把狼找來了？",
+      "can_remove": false,
+      "like_count": 4,
+      "user_likes": false,
+      "id": "891975334203862_892067377527991"
+    },
+    {
       "created_time": "2015-08-28T12:37:47+0000",
       "from": {
         "name": "James Wu",
@@ -11,7 +23,7 @@
       },
       "message": "引狼入室…",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "891975334203862_892055184195877"
     },
