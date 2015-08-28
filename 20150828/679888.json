@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150828/679888/",
   "comments": [
     {
+      "created_time": "2015-08-28T11:15:11+0000",
+      "from": {
+        "name": "採花賊",
+        "id": "100000221993387"
+      },
+      "message": "奇怪a,總是有人腦袋轉不過來，",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "948873735171365_948917415166997"
+    },
+    {
+      "created_time": "2015-08-28T10:37:53+0000",
+      "from": {
+        "name": "歐陽國豪",
+        "id": "100000104416797"
+      },
+      "message": "剛剛經過沒事！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "948873735171365_948908851834520"
+    },
+    {
       "created_time": "2015-08-28T10:00:46+0000",
       "from": {
         "name": "TF Lin",
@@ -11,7 +35,7 @@
       },
       "message": "台65線運河....",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "948873735171365_948900065168732"
     },
@@ -35,7 +59,7 @@
       },
       "message": "柯梗被用了@@",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "948873735171365_948889178503154"
     },
@@ -47,7 +71,7 @@
       },
       "message": "柯P出來面對，淹成這樣要裝沒看到嗎?",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "948873735171365_948884831836922"
     },
@@ -59,7 +83,7 @@
       },
       "message": "請蔡英文放過台65線",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "948873735171365_948883538503718"
     },
@@ -71,7 +95,7 @@
       },
       "message": "難道柯p不用負責嗎？？",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "948873735171365_948881175170621"
     },
@@ -83,7 +107,7 @@
       },
       "message": "不知此時是要柯市長負責？？還是阿扁負責？？或是叫小英提出解決方案？？？",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 9,
       "user_likes": false,
       "id": "948873735171365_948879178504154"
     },
@@ -95,7 +119,7 @@
       },
       "message": "朱朱，你在哪裡呀？",
       "can_remove": false,
-      "like_count": 7,
+      "like_count": 9,
       "user_likes": false,
       "id": "948873735171365_948876888504383"
     }

@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150828/679966/",
   "comments": [
     {
+      "created_time": "2015-08-28T10:29:06+0000",
+      "from": {
+        "name": "Yang Chi",
+        "id": "100000374306057"
+      },
+      "message": "日本一定不是用中國跟臺灣出產的做實驗得出的吧??",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898495660198541_898506340197473"
+    },
+    {
+      "created_time": "2015-08-28T10:28:49+0000",
+      "from": {
+        "name": "王元萬",
+        "id": "100006112638576"
+      },
+      "message": "黑心海帶也能嗎？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898495660198541_898506256864148"
+    },
+    {
       "created_time": "2015-08-28T09:51:40+0000",
       "from": {
         "name": "Daniel Shih",
@@ -11,7 +35,7 @@
       },
       "message": "台灣的海帶都泡化學劑的不能相提並論。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "898495660198541_898498166864957"
     }

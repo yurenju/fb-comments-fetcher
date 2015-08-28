@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150828/679827/",
   "comments": [
     {
+      "created_time": "2015-08-28T12:37:47+0000",
+      "from": {
+        "name": "James Wu",
+        "id": "100002884654416"
+      },
+      "message": "引狼入室…",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "891975334203862_892055184195877"
+    },
+    {
+      "created_time": "2015-08-28T11:00:35+0000",
+      "from": {
+        "name": "Imei Liu",
+        "id": "708410002"
+      },
+      "message": "強吞別人公司，惡劣！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "891975334203862_892027877531941"
+    },
+    {
       "created_time": "2015-08-28T09:25:21+0000",
       "from": {
         "name": "李明煌",
@@ -59,7 +83,7 @@
       },
       "message": "對日月光的印象只有亂倒\"廢水\"然後政府又輕放不敢抓重罰 醬子～",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "891975334203862_891993714202024"
     },
@@ -95,7 +119,7 @@
       },
       "message": "水啦！！矽品",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "891975334203862_891988470869215"
     },
@@ -119,7 +143,7 @@
       },
       "message": "日月光強哦！嚇死矽品了",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "891975334203862_891987840869278"
     }

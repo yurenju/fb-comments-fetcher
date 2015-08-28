@@ -4,6 +4,78 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150828/679554/",
   "comments": [
     {
+      "created_time": "2015-08-28T12:34:40+0000",
+      "from": {
+        "name": "蔡明志",
+        "id": "100003597482380"
+      },
+      "message": "有點不要臉~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1155454667817228_1155655231130505"
+    },
+    {
+      "created_time": "2015-08-28T12:27:52+0000",
+      "from": {
+        "name": "李易維",
+        "id": "100000077879167"
+      },
+      "message": "七月半普渡嗎?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1155454667817228_1155652711130757"
+    },
+    {
+      "created_time": "2015-08-28T11:57:41+0000",
+      "from": {
+        "name": "王勝弘",
+        "id": "100000288385869"
+      },
+      "message": "差太多，她想紅想瘋了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1155454667817228_1155642274465134"
+    },
+    {
+      "created_time": "2015-08-28T10:47:41+0000",
+      "from": {
+        "name": "Gavin Lee",
+        "id": "100000164915433"
+      },
+      "message": "...",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1155454667817228_1155617134467648"
+    },
+    {
+      "created_time": "2015-08-28T10:44:50+0000",
+      "from": {
+        "name": "Peter Anderson",
+        "id": "1793127418"
+      },
+      "message": "哈哈，這都上新聞了，好樣的，支持文山志玲！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1155454667817228_1155616457801049"
+    },
+    {
+      "created_time": "2015-08-28T10:42:36+0000",
+      "from": {
+        "name": "何陽傑",
+        "id": "100000242462348"
+      },
+      "message": "果然唯美清新！好一個文山志玲！真是....夠了！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1155454667817228_1155615561134472"
+    },
+    {
       "created_time": "2015-08-28T08:53:51+0000",
       "from": {
         "name": "黃子旗",
@@ -47,7 +119,7 @@
       },
       "message": "我的D槽當機了，哭～～",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 10,
       "user_likes": false,
       "id": "1155454667817228_1155552461140782"
     },
@@ -400,18 +472,6 @@
       "id": "1155454667817228_1155460227816672"
     },
     {
-      "created_time": "2015-08-28T02:46:08+0000",
-      "from": {
-        "name": "李易維",
-        "id": "100000077879167"
-      },
-      "message": "贛  這叫七月半志玲吧！\n雞排妹都比她正多了",
-      "can_remove": false,
-      "like_count": 28,
-      "user_likes": false,
-      "id": "1155454667817228_1155459224483439"
-    },
-    {
       "created_time": "2015-08-28T02:43:29+0000",
       "from": {
         "name": "Padpad Chou",
@@ -456,7 +516,7 @@
       },
       "message": "Hi.....我是高雄志玲",
       "can_remove": false,
-      "like_count": 13,
+      "like_count": 14,
       "user_likes": false,
       "id": "1155454667817228_1155455864483775"
     }
