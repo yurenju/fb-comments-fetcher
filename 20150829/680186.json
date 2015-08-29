@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150829/680186/",
   "comments": [
     {
+      "created_time": "2015-08-29T15:37:16+0000",
+      "from": {
+        "name": "王梓謙",
+        "id": "100004563181086"
+      },
+      "message": "青光俠",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1150716281610779_1151281581554249"
+    },
+    {
+      "created_time": "2015-08-29T15:12:56+0000",
+      "from": {
+        "name": "水水水",
+        "id": "100001471421064"
+      },
+      "message": "（PS）真好用⋯",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1150716281610779_1151269674888773"
+    },
+    {
       "created_time": "2015-08-29T13:01:13+0000",
       "from": {
         "name": "嘉祐",
@@ -35,7 +59,7 @@
       },
       "message": "先生打击太大了",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1150716281610779_1151160834899657"
     },
@@ -47,7 +71,7 @@
       },
       "message": "這機率實在是太低了，悲劇。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1150716281610779_1151160364899704"
     },
@@ -1440,7 +1464,7 @@
       },
       "message": "他老婆的嘴跟別人的香腸合成了",
       "can_remove": false,
-      "like_count": 110,
+      "like_count": 111,
       "user_likes": false,
       "id": "1150716281610779_1150770691605338"
     },
@@ -1524,7 +1548,7 @@
       },
       "message": "綠光加持   員警認證過的綠帽人",
       "can_remove": false,
-      "like_count": 162,
+      "like_count": 165,
       "user_likes": false,
       "id": "1150716281610779_1150735848275489"
     },
@@ -1536,7 +1560,7 @@
       },
       "message": "是哪一部阿 我來看看是不是合成的...",
       "can_remove": false,
-      "like_count": 61,
+      "like_count": 62,
       "user_likes": false,
       "id": "1150716281610779_1150735751608832"
     },

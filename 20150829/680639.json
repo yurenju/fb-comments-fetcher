@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150829/680639/",
   "comments": [
     {
+      "created_time": "2015-08-29T14:42:19+0000",
+      "from": {
+        "name": "Meng Chen",
+        "id": "100001477603976"
+      },
+      "message": "這張帶著很強的政治意味，用來對柯P人身攻擊, 這張不符規則....淘汰",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "963000280422660_963064753749546"
+    },
+    {
+      "created_time": "2015-08-29T13:45:01+0000",
+      "from": {
+        "name": "Jay Hsu",
+        "id": "647467963"
+      },
+      "message": "新一輪酸柯打柯。\n浪費時間",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "963000280422660_963035743752447"
+    },
+    {
       "created_time": "2015-08-29T12:42:15+0000",
       "from": {
         "name": "Beck  Hsu",
@@ -11,7 +35,7 @@
       },
       "message": "人心是佛，看一切都是佛。\n人生甘露，平常心、歡喜心、菩薩心。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "963000280422660_963012173754804"
     }

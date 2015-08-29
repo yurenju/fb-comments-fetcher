@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150829/680345/",
   "comments": [
     {
+      "created_time": "2015-08-29T14:01:18+0000",
+      "from": {
+        "name": "陳力",
+        "id": "100009208194435"
+      },
+      "message": "兇多……",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1149859218364277_1150111245005741"
+    },
+    {
       "created_time": "2015-08-29T12:09:25+0000",
       "from": {
         "name": "蔡湯尼",
@@ -11,7 +23,7 @@
       },
       "message": "刑警先生……忘了自己的絕活了嗎?還是太仁慈了?麥擱這麼客氣啦，不講就直接……下去啊～",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1149859218364277_1150063151677217"
     },
@@ -35,7 +47,7 @@
       },
       "message": "這種人渣要用酷刑才能，老實招出來，畜生鴨霸，，",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "1149859218364277_1149889501694582"
     }
