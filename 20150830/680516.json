@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150830/680516/",
   "comments": [
     {
+      "created_time": "2015-08-29T19:46:12+0000",
+      "from": {
+        "name": "宥芝林",
+        "id": "100002650676674"
+      },
+      "message": "什麼不玩玩這種找死的遊戲，萬一成真不知要怪誰齁!!",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "932111260193674_932218463516287"
+    },
+    {
       "created_time": "2015-08-29T18:41:25+0000",
       "from": {
         "name": "陳居祝",
@@ -35,7 +47,7 @@
       },
       "message": "玩到沒東西玩了嗎？玩死人",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "932111260193674_932182083519925"
     },
