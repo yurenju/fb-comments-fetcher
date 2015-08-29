@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150829/680197/",
   "comments": [
     {
+      "created_time": "2015-08-29T02:56:19+0000",
+      "from": {
+        "name": "Chunzhen Fan",
+        "id": "100002318074993"
+      },
+      "message": "明明就偷車酒駕白癡自撞...\n為啥有時候蘋果都跟別家不一樣...",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "742103349245531_742269132562286"
+    },
+    {
+      "created_time": "2015-08-29T01:04:19+0000",
+      "from": {
+        "name": "鄭善鴻",
+        "id": "702092295"
+      },
+      "message": "頭又大的車只適合時速三四十慢慢開，開快了就是準備七日後見面，這不是大家都知道的事嘛？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "742103349245531_742241875898345"
+    },
+    {
       "created_time": "2015-08-28T22:38:06+0000",
       "from": {
         "name": "朱洪武",
@@ -71,7 +95,7 @@
       },
       "message": "神車不意外啦，可以繼續無視ESP喔",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "742103349245531_742137982575401"
     },
