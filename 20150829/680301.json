@@ -4,6 +4,31 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150829/680301/",
   "comments": [
     {
+      "created_time": "2015-08-29T08:49:48+0000",
+      "from": {
+        "name": "松鑫",
+        "id": "100003010724349"
+      },
+      "message": "要是有人發現為什麼昭告天下",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1198053246887347_1198179643541374"
+    },
+    {
+      "created_time": "2015-08-29T07:17:23+0000",
+      "from": {
+        "name": "豪宅玩具",
+        "category": "Small Business",
+        "id": "130125857177755"
+      },
+      "message": "這是日漫~眼鏡蛇的劇情",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1198053246887347_1198151096877562"
+    },
+    {
       "created_time": "2015-08-29T05:04:38+0000",
       "from": {
         "name": "銀行車貸_陳小姐",
@@ -12,7 +37,7 @@
       },
       "message": "找好萊塢的來拍片吧，說不定最後會找到",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1198053246887347_1198114400214565"
     },
@@ -36,7 +61,7 @@
       },
       "message": "結果一揭曉，靠，普悠瑪列車，尋寶人士:干，被表了。",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 7,
       "user_likes": false,
       "id": "1198053246887347_1198068543552484"
     },
