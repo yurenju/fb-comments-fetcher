@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150829/680555/",
   "comments": [
     {
+      "created_time": "2015-08-29T11:59:28+0000",
+      "from": {
+        "name": "Ho Chow Lee",
+        "id": "100007654243742"
+      },
+      "message": "應該趁机打殘他的小鸡鳮",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "907055596041854_907091316038282"
+    },
+    {
+      "created_time": "2015-08-29T11:28:33+0000",
+      "from": {
+        "name": "Cha Chen",
+        "id": "100000458473450"
+      },
+      "message": "沒打死嗎？可惜",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "907055596041854_907083389372408"
+    },
+    {
       "created_time": "2015-08-29T09:57:24+0000",
       "from": {
         "name": "粉絲團 TraderClub 期貨交易俱樂部",
@@ -12,7 +36,7 @@
       },
       "message": "真的是犯痴了",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "907055596041854_907061846041229"
     },
@@ -24,7 +48,7 @@
       },
       "message": "這麼飢渴喔…",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "907055596041854_907060439374703"
     }

@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150829/680247/",
   "comments": [
     {
+      "created_time": "2015-08-29T10:34:42+0000",
+      "from": {
+        "name": "王冠仁",
+        "id": "1161207566"
+      },
+      "message": "史上最大手筆的中元普渡（誤～）",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "737322003038521_737541743016547"
+    },
+    {
+      "created_time": "2015-08-29T10:11:09+0000",
+      "from": {
+        "name": "龍歌",
+        "id": "100001616803591"
+      },
+      "message": "gan我還在那邊補過習啊",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "737322003038521_737534786350576"
+    },
+    {
       "created_time": "2015-08-29T06:30:53+0000",
       "from": {
         "name": "Chi Yeh",
@@ -119,7 +143,7 @@
       },
       "message": "按讚的人是什麼心態啊？",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "737322003038521_737377646366290"
     },
