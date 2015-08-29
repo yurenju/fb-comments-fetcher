@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150829/680241/",
   "comments": [
     {
+      "created_time": "2015-08-28T23:51:21+0000",
+      "from": {
+        "name": "黃金虎",
+        "id": "100002565976971"
+      },
+      "message": "此人當時說：「批評hTC的人走著瞧」\n現在的下場，我們都看到了。",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "755143421263516_755295457914979"
+    },
+    {
+      "created_time": "2015-08-28T23:01:40+0000",
+      "from": {
+        "name": "蔣天養",
+        "id": "100008454002213"
+      },
+      "message": "可憐的股民...",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "755143421263516_755285574582634"
+    },
+    {
       "created_time": "2015-08-28T19:02:29+0000",
       "from": {
         "name": "黃柏龍",
@@ -11,7 +35,7 @@
       },
       "message": "請鬼拿藥單",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "755143421263516_755174981260360"
     }
