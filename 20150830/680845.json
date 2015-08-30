@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150830/680845/",
   "comments": [
     {
+      "created_time": "2015-08-30T06:31:37+0000",
+      "from": {
+        "name": "葉芯妤",
+        "id": "100001318920876"
+      },
+      "message": "可以報警抓偷錢的啊～現在變成自己有罪==",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "941178282595789_941239385923012"
+    },
+    {
+      "created_time": "2015-08-30T04:49:40+0000",
+      "from": {
+        "name": "團結樂",
+        "id": "100000339545147"
+      },
+      "message": "被打死活該 好手好腳的在偷錢",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "941178282595789_941212389259045"
+    },
+    {
       "created_time": "2015-08-30T03:59:29+0000",
       "from": {
         "name": "邱奕捷",
@@ -11,7 +35,7 @@
       },
       "message": "其實當下很多人報警 110打到不通 也不只一台車跟上去   除非是葉問可以打十個 不然不用酸",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "941178282595789_941183489261935"
     },
@@ -23,7 +47,7 @@
       },
       "message": "蘋果記者寫報導真的都不用負責嗎?一樣的新聞可以出現不一樣的版本，是在編故事騙小孩喔!",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "941178282595789_941181785928772"
     },
@@ -47,7 +71,7 @@
       },
       "message": "稍早說是被害人自己脫困逃出向路人求救報警，現在又變成員警當場目擊一路尾隨，現在是 ………… ?",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "941178282595789_941179545928996"
     }

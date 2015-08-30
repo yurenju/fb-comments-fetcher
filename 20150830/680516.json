@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150830/680516/",
   "comments": [
     {
+      "created_time": "2015-08-30T05:59:53+0000",
+      "from": {
+        "name": "蔡和庭",
+        "id": "100000330691917"
+      },
+      "message": "很不錯耶，就是一些老古板會看不慣而已",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "932111260193674_932410086830458"
+    },
+    {
       "created_time": "2015-08-30T03:37:36+0000",
       "from": {
         "name": "黃文恩",
@@ -11,7 +23,7 @@
       },
       "message": "太沒心了吧,沒買棺材試躺喔",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "932111260193674_932366640168136"
     },
@@ -83,7 +95,7 @@
       },
       "message": "什麼不玩玩這種找死的遊戲，萬一成真不知要怪誰齁!!",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "932111260193674_932218463516287"
     },
@@ -131,7 +143,7 @@
       },
       "message": "很新鮮",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "932111260193674_932176156853851"
     },
@@ -168,7 +180,7 @@
       },
       "message": "過上天堂的生日叭，終生難忘",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "932111260193674_932137223524411"
     },
@@ -192,7 +204,7 @@
       },
       "message": "好猛...",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "932111260193674_932136220191178"
     },
@@ -204,7 +216,7 @@
       },
       "message": "做人真的不要太鐵齒，夜路走多總會碰到鬼，",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "932111260193674_932126300192170"
     }

@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150830/680732/",
   "comments": [
     {
+      "created_time": "2015-08-30T05:27:18+0000",
+      "from": {
+        "name": "Jason Wang",
+        "id": "100000225605816"
+      },
+      "message": "機艙失壓時，氧氣面罩只是聊備一格...",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "939389086107793_939570329423002"
+    },
+    {
+      "created_time": "2015-08-30T05:27:05+0000",
+      "from": {
+        "name": "柯俊銓",
+        "id": "1415976572"
+      },
+      "message": "這是飛機的安全設計，座艙失壓下氧氣罩會自動落下，接下來飛航系統警告會迫使降低飛航高度，因此才無法繼續飛行得即刻迫降。即使這次事件只是香檳軟木塞的誤擊造成氧氣罩落下，但對安全系統而言就是如此。換個角度去想，至少這架飛機的安全系統很正常。",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "939389086107793_939570016089700"
+    },
+    {
       "created_time": "2015-08-30T02:43:28+0000",
       "from": {
         "name": "曾鴻翔",
@@ -35,7 +59,7 @@
       },
       "message": "可以想見..以後劫機者會利用香檳了",
       "can_remove": false,
-      "like_count": 8,
+      "like_count": 13,
       "user_likes": false,
       "id": "939389086107793_939503752762993"
     }

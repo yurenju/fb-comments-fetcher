@@ -4,6 +4,954 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150830/680784/",
   "comments": [
     {
+      "created_time": "2015-08-30T06:51:15+0000",
+      "from": {
+        "name": "日月潭",
+        "id": "100004627920455"
+      },
+      "message": "對呀！大聲要嚇誰呀！讚喔！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003882196319325"
+    },
+    {
+      "created_time": "2015-08-30T06:51:02+0000",
+      "from": {
+        "name": "李彥誠",
+        "id": "100000334535995"
+      },
+      "message": "今天不用決定晚餐真開心~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003882169652661"
+    },
+    {
+      "created_time": "2015-08-30T06:45:37+0000",
+      "from": {
+        "name": "한덕구",
+        "id": "100001542411622"
+      },
+      "message": "晚上要去用新台幣教訓一下老闆",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "1003776289663249_1003881352986076"
+    },
+    {
+      "created_time": "2015-08-30T06:42:42+0000",
+      "from": {
+        "name": "衣志勉",
+        "id": "784071181"
+      },
+      "message": "帥   老闆",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003880812986130"
+    },
+    {
+      "created_time": "2015-08-30T06:40:10+0000",
+      "from": {
+        "name": "Mickey Gong",
+        "id": "100006781210432"
+      },
+      "message": "老闆這樣就對了",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1003776289663249_1003880176319527"
+    },
+    {
+      "created_time": "2015-08-30T06:37:55+0000",
+      "from": {
+        "name": "陳橙",
+        "id": "100001968759866"
+      },
+      "message": "我遇過老闆讓熟客插隊的，我說：現在是怎樣先來的不用點，後來的直接上菜！後面來的兩個熟客就ㄧ臉尷尬，我東西拿來就走，再也不會過去消費了！今天材料商跟你混熟賣你爛貨你也買帳是嗎？原則都沒有要我怎麼相信你是好的老闆？",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1003776289663249_1003879656319579"
+    },
+    {
+      "created_time": "2015-08-30T06:33:29+0000",
+      "from": {
+        "name": "Siao Hank",
+        "id": "100000092203206"
+      },
+      "message": "要吃就要守規矩",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003878829652995"
+    },
+    {
+      "created_time": "2015-08-30T06:32:06+0000",
+      "from": {
+        "name": "林堉喬",
+        "id": "100008134096528"
+      },
+      "message": "有些奧客很喜歡亂欺負員工或是老闆，真的差勁，老闆讚喔給你５個讚，以後去你店裡必買了",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1003776289663249_1003878462986365"
+    },
+    {
+      "created_time": "2015-08-30T06:22:33+0000",
+      "from": {
+        "name": "匡耿君",
+        "id": "100000361532618"
+      },
+      "message": "有肩膀的老闆 讚！",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "1003776289663249_1003876162986595"
+    },
+    {
+      "created_time": "2015-08-30T06:22:17+0000",
+      "from": {
+        "name": "Jia Rong Sun",
+        "id": "1735399074"
+      },
+      "message": "這個僅限於流動的夜市攤販外來客多，像是我自己擺攤擺菜市場，應該是瞬間要判斷簡單量少的先結帳多得在安排順序，適時教育客人是必要的，但啊桑的口語也是隨著風跟瘟疫傳的一樣快",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1003776289663249_1003876069653271"
+    },
+    {
+      "created_time": "2015-08-30T06:16:12+0000",
+      "from": {
+        "name": "Gui Jun Xie",
+        "id": "100007941874467"
+      },
+      "message": "水 霸氣",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003874732986738"
+    },
+    {
+      "created_time": "2015-08-30T06:14:55+0000",
+      "from": {
+        "name": "陳怡通",
+        "id": "100000374762244"
+      },
+      "message": "尊重。水準。欠瞧。滾蛋",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003874506320094"
+    },
+    {
+      "created_time": "2015-08-30T06:12:42+0000",
+      "from": {
+        "name": "許冠穎",
+        "id": "100001814867314"
+      },
+      "message": "這家我去過蠻好吃的，蠻喜歡這老闆",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003874126320132"
+    },
+    {
+      "created_time": "2015-08-30T06:11:47+0000",
+      "from": {
+        "name": "潘溫婗",
+        "id": "100000663404217"
+      },
+      "message": "帥啊! 這個老闆夠讚的! 看的清楚先來後到的客人...給與教育!\n不像我上次颱風天去一中某店買飲料，前面就站著兩個客人我是第三個，好不容易等到第一個客人拿到飲料走了，突然來了一組男客人一來就馬上跟店員點飲料，店員回覆他:要排隊喔!\n我心裡當事想:對嘛!對於這種無視前方排隊的人，就是應該大聲告知。\n結果第二位客人走之後，店員看著我又轉頭看著那個男客人，竟然對我說:他先來的，然後幫那個男客人點!!!!!  \n我X$&%#@+!¥$[=]€>\n我就跟我男友像白痴一樣站在雨中等了十幾分，結果竟然還是讓插隊的先點，先出聲的等於先到就對了?  就總共4組的客人 沒辦法分辨先來後到??",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1003776289663249_1003873949653483"
+    },
+    {
+      "created_time": "2015-08-30T06:05:11+0000",
+      "from": {
+        "name": "劉冠銘",
+        "id": "100001799071277"
+      },
+      "message": "真羨慕，都不用怕會被客訴..",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1003776289663249_1003872406320304"
+    },
+    {
+      "created_time": "2015-08-30T06:04:24+0000",
+      "from": {
+        "name": "Jacky Chen",
+        "id": "100000119854808"
+      },
+      "message": "太屌了！這老闆真的讓這些沒水準的客人上了ㄧ課！",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1003776289663249_1003872249653653"
+    },
+    {
+      "created_time": "2015-08-30T06:02:18+0000",
+      "from": {
+        "name": "戴志偉",
+        "id": "100000119793014"
+      },
+      "message": "支持老闆 對沒禮貌的客人就是這樣",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "1003776289663249_1003871879653690"
+    },
+    {
+      "created_time": "2015-08-30T05:59:02+0000",
+      "from": {
+        "name": "陳巧兒",
+        "id": "100006131594333"
+      },
+      "message": "真的有夠讚的老闆",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1003776289663249_1003870986320446"
+    },
+    {
+      "created_time": "2015-08-30T05:57:59+0000",
+      "from": {
+        "name": "清水大介",
+        "id": "100000254059049"
+      },
+      "message": "有水準的老闆\n\n!!言贊!!",
+      "can_remove": false,
+      "like_count": 5,
+      "user_likes": false,
+      "id": "1003776289663249_1003870729653805"
+    },
+    {
+      "created_time": "2015-08-30T05:56:52+0000",
+      "from": {
+        "name": "Fang Ming Yeh",
+        "id": "100000124917882"
+      },
+      "message": "老闆最大，嘸是咧按躦",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1003776289663249_1003870452987166"
+    },
+    {
+      "created_time": "2015-08-30T05:55:23+0000",
+      "from": {
+        "name": "Ten Man Fish",
+        "id": "100000338501243"
+      },
+      "message": "遇到排隊插隊的，一般是請他問我後方的，只要他們同意我就同意。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003870149653863"
+    },
+    {
+      "created_time": "2015-08-30T05:52:49+0000",
+      "from": {
+        "name": "Hui Wu",
+        "id": "819000698"
+      },
+      "message": "台灣爭先恐後很出名",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003869472987264"
+    },
+    {
+      "created_time": "2015-08-30T05:50:07+0000",
+      "from": {
+        "name": "王宗傑",
+        "id": "1185113288"
+      },
+      "message": "好美的風景",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1003776289663249_1003868606320684"
+    },
+    {
+      "created_time": "2015-08-30T05:49:55+0000",
+      "from": {
+        "name": "葉慶延",
+        "id": "100007350071751"
+      },
+      "message": "老闆人觀念很好\n現在出門買東西常看到很多人在搞插隊 有些還是神不知鬼不覺給你插進來",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "1003776289663249_1003868566320688"
+    },
+    {
+      "created_time": "2015-08-30T05:49:26+0000",
+      "from": {
+        "name": "黃武雄",
+        "id": "100009725357351"
+      },
+      "message": "叫小賀的老闆!!",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "1003776289663249_1003868149654063"
+    },
+    {
+      "created_time": "2015-08-30T05:49:03+0000",
+      "from": {
+        "name": "葉慶延",
+        "id": "100007350071751"
+      },
+      "message": "還有網友要朝聖，想用新台幣教訓老闆。XD",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1003776289663249_1003868099654068"
+    },
+    {
+      "created_time": "2015-08-30T05:47:00+0000",
+      "from": {
+        "name": "Iven Tsai",
+        "id": "100000094257752"
+      },
+      "message": "適時給澳客機會教育，太讚了",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1003776289663249_1003867846320760"
+    },
+    {
+      "created_time": "2015-08-30T05:46:41+0000",
+      "from": {
+        "name": "蔡博任",
+        "id": "100000744635696"
+      },
+      "message": "下次去逛繞和需要用新台幣讓他收攤了XD",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1003776289663249_1003867759654102"
+    },
+    {
+      "created_time": "2015-08-30T05:45:37+0000",
+      "from": {
+        "name": "鍾宜庭",
+        "id": "100000324279516"
+      },
+      "message": "當你要排隊才能買到的時候...被插對真的會氣死!!......所以老闆有原則! 給老闆讚啦",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1003776289663249_1003867539654124"
+    },
+    {
+      "created_time": "2015-08-30T05:44:58+0000",
+      "from": {
+        "name": "黃新興",
+        "id": "100000404696896"
+      },
+      "message": "這就是＂Ｄ＂隱姓者的，霸王色　嗎？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003867389654139"
+    },
+    {
+      "created_time": "2015-08-30T05:44:34+0000",
+      "from": {
+        "name": "李家綸",
+        "id": "1645931575"
+      },
+      "message": "哪一攤!?一定要捧個場阿!!",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1003776289663249_1003867296320815"
+    },
+    {
+      "created_time": "2015-08-30T05:41:51+0000",
+      "from": {
+        "name": "ナイト リン",
+        "id": "100001126106076"
+      },
+      "message": "酷!就是要這樣!給老闆來個讚!!^^G",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1003776289663249_1003866682987543"
+    },
+    {
+      "created_time": "2015-08-30T05:41:09+0000",
+      "from": {
+        "name": "Bryan Huang",
+        "id": "663088635"
+      },
+      "message": "買賣也是一種緣分，沒有緣分就算了！....那個客人也真沒...格調，老闆都不賣了，還不走人？...老闆，讚啦！",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1003776289663249_1003866439654234"
+    },
+    {
+      "created_time": "2015-08-30T05:38:22+0000",
+      "from": {
+        "name": "陳俊宏",
+        "id": "1178170150"
+      },
+      "message": "這個老闆需要被肯定",
+      "can_remove": false,
+      "like_count": 4,
+      "user_likes": false,
+      "id": "1003776289663249_1003865309654347"
+    },
+    {
+      "created_time": "2015-08-30T05:38:08+0000",
+      "from": {
+        "name": "寶多福",
+        "id": "100001822996091"
+      },
+      "message": "good",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003865219654356"
+    },
+    {
+      "created_time": "2015-08-30T05:32:04+0000",
+      "from": {
+        "name": "卓君君",
+        "id": "100000563815089"
+      },
+      "message": "他是排骨酥那攤耶 真是好老闆",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1003776289663249_1003863872987824"
+    },
+    {
+      "created_time": "2015-08-30T05:31:26+0000",
+      "from": {
+        "name": "陳丙鈺",
+        "id": "100000377166452"
+      },
+      "message": "我喜歡這種惠替員工出頭的老闆",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1003776289663249_1003863529654525"
+    },
+    {
+      "created_time": "2015-08-30T05:30:15+0000",
+      "from": {
+        "name": "吳士宏",
+        "id": "100000340548734"
+      },
+      "message": "顧客永遠是至上的，可是遇到影響其他客人權益，顧客就不是至上",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "1003776289663249_1003863316321213"
+    },
+    {
+      "created_time": "2015-08-30T05:26:28+0000",
+      "from": {
+        "name": "Sharon Siu",
+        "id": "1840367289"
+      },
+      "message": "我欣賞這老闆…這才是老闆該有的……態度",
+      "can_remove": false,
+      "like_count": 4,
+      "user_likes": false,
+      "id": "1003776289663249_1003862512987960"
+    },
+    {
+      "created_time": "2015-08-30T05:25:42+0000",
+      "from": {
+        "name": "Tzu Chien Huang",
+        "id": "100000316052221"
+      },
+      "message": "讚啦…本來排隊就是美德，老闆這樣真的很酷…挺你",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "1003776289663249_1003862302987981"
+    },
+    {
+      "created_time": "2015-08-30T05:25:23+0000",
+      "from": {
+        "name": "Joe Leung",
+        "id": "1174300069"
+      },
+      "message": "要排隊是不會嗎",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1003776289663249_1003862259654652"
+    },
+    {
+      "created_time": "2015-08-30T05:23:35+0000",
+      "from": {
+        "name": "賴弘得",
+        "id": "100003721653363"
+      },
+      "message": "保護員工的老闆！讓人感到窩心！",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1003776289663249_1003861942988017"
+    },
+    {
+      "created_time": "2015-08-30T05:23:29+0000",
+      "from": {
+        "name": "吳里歐",
+        "id": "100000469360306"
+      },
+      "message": "老闆賣什麼 也要來去吃",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1003776289663249_1003861912988020"
+    },
+    {
+      "created_time": "2015-08-30T05:21:58+0000",
+      "from": {
+        "name": "Joseph Hsu",
+        "id": "638745531"
+      },
+      "message": "這老闆真的要好好給他教訓ㄧ下，我決定要用新台幣好好教訓他，給老闆ㄧ個讚",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1003776289663249_1003861642988047"
+    },
+    {
+      "created_time": "2015-08-30T05:20:53+0000",
+      "from": {
+        "name": "羅 素青",
+        "id": "1562763909"
+      },
+      "message": "台灣人最愛排隊了 ，這不是台灣人 ，是外星人 …",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003861462988065"
+    },
+    {
+      "created_time": "2015-08-30T05:18:20+0000",
+      "from": {
+        "name": "白白",
+        "id": "100009261199809"
+      },
+      "message": "本來不該插隊ㄚ",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003860889654789"
+    },
+    {
+      "created_time": "2015-08-30T05:15:56+0000",
+      "from": {
+        "name": "王義雄",
+        "id": "100003938865142"
+      },
+      "message": "遇到插隊的真的是讓人不爽，尤其是老人(不管男女)，是仗著自己是老人就可以隨意高興嗎，只好....好啦要插就讓你插\n\n順便建議女生，付帳時可以先將零錢或錢拿出來嗎，一定要算完才拿出來嗎，尤其是在皮夾一直找零錢，暈倒",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "1003776289663249_1003860282988183"
+    },
+    {
+      "created_time": "2015-08-30T05:14:49+0000",
+      "from": {
+        "name": "Brian Jiang",
+        "id": "100001558863396"
+      },
+      "message": "林爸美送美",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003859972988214"
+    },
+    {
+      "created_time": "2015-08-30T05:14:27+0000",
+      "from": {
+        "name": "佐藤希望",
+        "id": "100000260774547"
+      },
+      "message": "在中國客多的地方應該會幹架XDDDDDD",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003859922988219"
+    },
+    {
+      "created_time": "2015-08-30T05:11:10+0000",
+      "from": {
+        "name": "Mark Phillippoussistw",
+        "id": "100002121211742"
+      },
+      "message": "讚啦！有guts的老闆",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003859216321623"
+    },
+    {
+      "created_time": "2015-08-30T05:10:48+0000",
+      "from": {
+        "name": "陳智凱",
+        "id": "100009043053945"
+      },
+      "message": "排隊是美德",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003859159654962"
+    },
+    {
+      "created_time": "2015-08-30T05:04:34+0000",
+      "from": {
+        "name": "史豔文",
+        "id": "1028823360"
+      },
+      "message": "花錢的不一定就是大爺",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1003776289663249_1003857422988469"
+    },
+    {
+      "created_time": "2015-08-30T05:01:34+0000",
+      "from": {
+        "name": "Marie Maruyama",
+        "id": "100007662733387"
+      },
+      "message": "穆斯林帶小孩䅤隊好像是正常一様。在日本住久了看到台灣人、中國人插隊、沒關係啦！給人方便嘛、又不是少一塊肉。",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1003776289663249_1003856586321886"
+    },
+    {
+      "created_time": "2015-08-30T04:56:08+0000",
+      "from": {
+        "name": "Blue-wen  Azul",
+        "id": "100004442592576"
+      },
+      "message": "哪一家老闆\n真是酷斃了\n我也要去買",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1003776289663249_1003855259655352"
+    },
+    {
+      "created_time": "2015-08-30T04:54:04+0000",
+      "from": {
+        "name": "郭至翔",
+        "id": "100000174620721"
+      },
+      "message": "欠教訓的老闆，吃我金錢攻擊！",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1003776289663249_1003854832988728"
+    },
+    {
+      "created_time": "2015-08-30T04:50:53+0000",
+      "from": {
+        "name": "楊娟子",
+        "id": "100004933054962"
+      },
+      "message": "很多以老賣老.自以為是年長的人插隊是他們的優先權",
+      "can_remove": false,
+      "like_count": 5,
+      "user_likes": false,
+      "id": "1003776289663249_1003854299655448"
+    },
+    {
+      "created_time": "2015-08-30T04:49:06+0000",
+      "from": {
+        "name": "Dan Hsu",
+        "id": "1729013526"
+      },
+      "message": "感覺客人沒有壞到那樣",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003854006322144"
+    },
+    {
+      "created_time": "2015-08-30T04:47:57+0000",
+      "from": {
+        "name": "吳炎昆",
+        "id": "100009077950158"
+      },
+      "message": "就是要這種老板，讚！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003853419655536"
+    },
+    {
+      "created_time": "2015-08-30T04:43:25+0000",
+      "from": {
+        "name": "趙子坤",
+        "id": "100003175308409"
+      },
+      "message": "這老闆讚讚\n插隊就是不對 會得應有的處罰(不賣你XD)",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003850669655811"
+    },
+    {
+      "created_time": "2015-08-30T04:40:22+0000",
+      "from": {
+        "name": "郭憲宗",
+        "id": "100000141618203"
+      },
+      "message": "老闆講話口氣有點像吳念真~~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003849482989263"
+    },
+    {
+      "created_time": "2015-08-30T04:39:41+0000",
+      "from": {
+        "name": "Adam Lee",
+        "id": "625560463"
+      },
+      "message": "這個才叫帥 ! \n有原則又會挺員工的老闆值得跟隨。",
+      "can_remove": false,
+      "like_count": 5,
+      "user_likes": false,
+      "id": "1003776289663249_1003849236322621"
+    },
+    {
+      "created_time": "2015-08-30T04:28:51+0000",
+      "from": {
+        "name": "王家煌",
+        "id": "100000545493086"
+      },
+      "message": "非常討厭插隊的人，有腦殘的跟裝腦殘的！老闆真有個性。",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1003776289663249_1003845472989664"
+    },
+    {
+      "created_time": "2015-08-30T04:28:44+0000",
+      "from": {
+        "name": "簡佑玲",
+        "id": "100001143229572"
+      },
+      "message": "喔有這種老闆真好",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1003776289663249_1003845436323001"
+    },
+    {
+      "created_time": "2015-08-30T04:28:39+0000",
+      "from": {
+        "name": "Allen Hao",
+        "id": "1228311112"
+      },
+      "message": "「你剛兇我家員工我都還沒找你了」……\n\n馬英九都做不到這樣子！",
+      "can_remove": false,
+      "like_count": 4,
+      "user_likes": false,
+      "id": "1003776289663249_1003845426323002"
+    },
+    {
+      "created_time": "2015-08-30T04:28:32+0000",
+      "from": {
+        "name": "Lin Yu-Hung",
+        "id": "1489135632"
+      },
+      "message": "被民進黨教育的台灣人都不懂禮貌而且無恥",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003845419656336"
+    },
+    {
+      "created_time": "2015-08-30T04:28:02+0000",
+      "from": {
+        "name": "吳鈞益",
+        "id": "100001104465639"
+      },
+      "message": "畫質好差 好奇想知道是哪牌手機?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003845349656343"
+    },
+    {
+      "created_time": "2015-08-30T04:21:31+0000",
+      "from": {
+        "name": "Tina Tseng",
+        "id": "100001935752952"
+      },
+      "message": "台灣被寵出來的奧客，是需要被教育的，但有幾個商店願意付出利益來教育客人，我覺得需要大眾能漸漸導入“尊重與平等”做為共識，我是肯犧牲自己一點利益教育客人的老闆，但還是有消費者回我，“我去別家買！”，除非他到別家也碰壁，否則難改吃屎本性。",
+      "can_remove": false,
+      "like_count": 6,
+      "user_likes": false,
+      "id": "1003776289663249_1003843826323162"
+    },
+    {
+      "created_time": "2015-08-30T04:19:10+0000",
+      "from": {
+        "name": "蘇姿穎",
+        "id": "100008364769109"
+      },
+      "message": "插隊不只買賣阿 連開車都一堆人插隊 尤其假日的國三 每天都可以看的插隊的人 習以為常了 做好自己不插隊就好 不敢要求他人",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1003776289663249_1003843249656553"
+    },
+    {
+      "created_time": "2015-08-30T04:19:00+0000",
+      "from": {
+        "name": "林財生",
+        "id": "100000219547671"
+      },
+      "message": "我捧場",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003843209656557"
+    },
+    {
+      "created_time": "2015-08-30T04:18:43+0000",
+      "from": {
+        "name": "Chen Zhong Wins",
+        "id": "100000181425109"
+      },
+      "message": "嗯嗯！！！！霸氣老闆 下次去一定要去捧場！！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003843116323233"
+    },
+    {
+      "created_time": "2015-08-30T04:17:13+0000",
+      "from": {
+        "name": "蘇彥仲",
+        "id": "100000128906931"
+      },
+      "message": "饒河街的吳排骨酥",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003842766323268"
+    },
+    {
+      "created_time": "2015-08-30T04:13:12+0000",
+      "from": {
+        "name": "陳致良",
+        "id": "100000798458668"
+      },
+      "message": "幹的好呀~!在插...就插他(咖稱)~!!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003842032990008"
+    },
+    {
+      "created_time": "2015-08-30T04:12:28+0000",
+      "from": {
+        "name": "艾倫",
+        "id": "100002246276708"
+      },
+      "message": "沒交情，免談",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003841799656698"
+    },
+    {
+      "created_time": "2015-08-30T04:10:44+0000",
+      "from": {
+        "name": "陳學龍",
+        "id": "100000431659518"
+      },
+      "message": "如果角色對調，也會是那位年輕的比較兇。。。。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003841472990064"
+    },
+    {
+      "created_time": "2015-08-30T04:07:09+0000",
+      "from": {
+        "name": "江沂芳",
+        "id": "100002367773389"
+      },
+      "message": "我在萊爾富工作時也遇過插隊的\n我故意無視插隊的客人\n先幫被插隊的客人結帳\n插隊的客人不爽說我先來的\n我回你插隊耶！",
+      "can_remove": false,
+      "like_count": 26,
+      "user_likes": false,
+      "id": "1003776289663249_1003840912990120"
+    },
+    {
+      "created_time": "2015-08-30T04:04:02+0000",
+      "from": {
+        "name": "James CM Chen",
+        "id": "100000754964995"
+      },
+      "message": "推廣生意場所加標示：＂本店拒絕服務任何插隊客戶！＂",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1003776289663249_1003840426323502"
+    },
+    {
+      "created_time": "2015-08-30T04:02:25+0000",
+      "from": {
+        "name": "李佳帆",
+        "id": "100001700805354"
+      },
+      "message": "這位老闆簡直是瀕臨絕種的異類了嘛！比看到史前生物還驚訝ˊ_>ˋ",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1003776289663249_1003840159656862"
+    },
+    {
+      "created_time": "2015-08-30T04:01:46+0000",
+      "from": {
+        "name": "林海",
+        "id": "100009787038487"
+      },
+      "message": "台巴子居然会插队，好神奇哦！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003840026323542"
+    },
+    {
+      "created_time": "2015-08-30T04:01:36+0000",
+      "from": {
+        "name": "Ui Wha",
+        "id": "100004117990333"
+      },
+      "message": "弄是大惱喉空,阿嘪吃素才不會火氣大...",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1003776289663249_1003839999656878"
+    },
+    {
       "created_time": "2015-08-30T03:54:41+0000",
       "from": {
         "name": "Jeffrey Lin",
@@ -11,7 +959,7 @@
       },
       "message": "就是不賣你這個爛貨！怎樣",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1003776289663249_1003838479657030"
     },
@@ -23,7 +971,7 @@
       },
       "message": "這個老闆才真的當得起阿!",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 6,
       "user_likes": false,
       "id": "1003776289663249_1003838346323710"
     },
@@ -47,7 +995,7 @@
       },
       "message": "有人以為花錢是大爺，店家後續的辛酸沒人知，將心比心@@",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1003776289663249_1003837982990413"
     },
@@ -59,7 +1007,7 @@
       },
       "message": "我在鳳山小港消費的自助餐老闆娘也是都會直接挪開插隊的人硬放的餐盤幫規矩排隊的人結帳..",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 6,
       "user_likes": false,
       "id": "1003776289663249_1003837852990426"
     },
@@ -179,7 +1127,7 @@
       },
       "message": "插隊客人真的沒品德！  不賣食物給插隊客人吃 ~先讓有排隊的客人買吧！",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "1003776289663249_1003836006323944"
     },
@@ -227,7 +1175,7 @@
       },
       "message": "老闆我欣賞!!!無理的客人就要像老闆這樣=拒買給客人=插隊就是不對沒有理由～",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 7,
       "user_likes": false,
       "id": "1003776289663249_1003832629657615"
     },
@@ -263,7 +1211,7 @@
       },
       "message": "這老闆在臺灣幾乎已經快絕種了，插隊的人好像以為只要吵就會有糖吃。這種人需要重新教育",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 6,
       "user_likes": false,
       "id": "1003776289663249_1003832432990968"
     },
@@ -275,7 +1223,7 @@
       },
       "message": "愛死這樣有個性的老闆了~有時候真的得好好教育一下這些人客了",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "1003776289663249_1003832196324325"
     },
@@ -440,7 +1388,7 @@
       },
       "message": "大聲咧？！霸氣？！這哪家的老闆阿？！來阿！！\n肉搜出來阿！！站出來阿！我要大聲的跟你說\n老闆您好棒！！對付沒禮貌，不排隊，自以為花錢是大爺的顧客就要像這老闆醬⋯⋯⋯帥耶（敬禮！！）",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1003776289663249_1003826422991569"
     },
@@ -464,7 +1412,7 @@
       },
       "message": "我之前買早餐豆漿\n被一個阿桑插隊直接喊聲買\n我直接用臺語大喊\n（啊是攏免排隊喔）\n結果全部的人都裝死\n老闆也裝沒聽到\n我x他o的就不買了\n\n雖然我也是鄉下人\n但這種鄉下人特別讓人看不起",
       "can_remove": false,
-      "like_count": 22,
+      "like_count": 76,
       "user_likes": false,
       "id": "1003776289663249_1003825409658337"
     },
@@ -500,7 +1448,7 @@
       },
       "message": "買賣双方都要有規矩，否則，生意怎麼做？最痛恨這種無視規矩，硬要插隊的無賴！",
       "can_remove": false,
-      "like_count": 7,
+      "like_count": 8,
       "user_likes": false,
       "id": "1003776289663249_1003824349658443"
     },
@@ -524,7 +1472,7 @@
       },
       "message": "可憐，都幾歲的人連最基本的禮儀都不知道。\n殘念",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 7,
       "user_likes": false,
       "id": "1003776289663249_1003824039658474"
     },
@@ -536,7 +1484,7 @@
       },
       "message": "真的 希望每個老闆都可以這樣\n看到奧客不要怕 自己的尊嚴自己要",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 8,
       "user_likes": false,
       "id": "1003776289663249_1003823892991822"
     },
@@ -584,7 +1532,7 @@
       },
       "message": "不要再說強國人了，台灣也一堆自以為顧客就是老大的心態，我這邊就常常客人插隊洗車，還惡人先告狀去總公司客訴",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 14,
       "user_likes": false,
       "id": "1003776289663249_1003822652991946"
     },
@@ -653,7 +1601,7 @@
       },
       "message": "台灣一堆人都是這樣。自以為有錢就是大爺。有病",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "1003776289663249_1003821332992078"
     },
@@ -725,7 +1673,7 @@
       },
       "message": "老闆很好⋯規矩",
       "can_remove": false,
-      "like_count": 8,
+      "like_count": 9,
       "user_likes": false,
       "id": "1003776289663249_1003820092992202"
     },
@@ -749,7 +1697,7 @@
       },
       "message": "做生意就是要這樣！一個插隊習慣了…以後應付這些人就夠飽了！沒有這種風俗了.自然問題就不存在…",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 7,
       "user_likes": false,
       "id": "1003776289663249_1003819732992238"
     },
@@ -773,7 +1721,7 @@
       },
       "message": "保護員工的老闆最讚了",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 6,
       "user_likes": false,
       "id": "1003776289663249_1003819239658954"
     },
@@ -845,7 +1793,7 @@
       },
       "message": "很多做生意的老闆都以和為貴 對於插隊的人都視而不見 但對於後方乖乖排隊的我們真的很不公平 謝謝霸氣的老闆",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 4,
       "user_likes": false,
       "id": "1003776289663249_1003816796325865"
     },
@@ -857,7 +1805,7 @@
       },
       "message": "買東西本來就要排隊了這是常識（沒有水準才會插隊）",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "1003776289663249_1003816676325877"
     },
@@ -893,7 +1841,7 @@
       },
       "message": "愛插隊TOP 1 :  老人！",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "1003776289663249_1003815309659347"
     },
@@ -905,7 +1853,7 @@
       },
       "message": "如果插隊的客人是吊嘎刺青山本頭男，老闆還敢堅持不賣嗎?",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1003776289663249_1003815086326036"
     },
@@ -929,7 +1877,7 @@
       },
       "message": "是松山饒河街夜市的吳記排骨酥老闆，超讚的",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 8,
       "user_likes": false,
       "id": "1003776289663249_1003814886326056"
     },
@@ -941,7 +1889,7 @@
       },
       "message": "當老闆的學一下吧！不是什麼事都要員工跟客人哈腰賠不是，有些奧客就是要給他洗臉！",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 8,
       "user_likes": false,
       "id": "1003776289663249_1003814636326081"
     },
@@ -953,7 +1901,7 @@
       },
       "message": "臺灣社會真的需要像，義氣，老闆愈多愈好，是社會之福！",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1003776289663249_1003814382992773"
     },
@@ -1037,7 +1985,7 @@
       },
       "message": "插隊令人反感 給老闆個讚",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "1003776289663249_1003811866326358"
     },
@@ -1085,7 +2033,7 @@
       },
       "message": "那些餐飲連鎖或便利商店的老板啊學一下吧，別在把員工訓練到遇到對錯都要猛鞠躬道歉",
       "can_remove": false,
-      "like_count": 15,
+      "like_count": 28,
       "user_likes": false,
       "id": "1003776289663249_1003809262993285"
     },
@@ -1097,7 +2045,7 @@
       },
       "message": "老闆有缺員工嗎。",
       "can_remove": false,
-      "like_count": 7,
+      "like_count": 9,
       "user_likes": false,
       "id": "1003776289663249_1003809146326630"
     },
@@ -1121,7 +2069,7 @@
       },
       "message": "水～～～就是要這樣狠狠的教訓插隊的民眾",
       "can_remove": false,
-      "like_count": 8,
+      "like_count": 9,
       "user_likes": false,
       "id": "1003776289663249_1003808632993348"
     },
@@ -1133,7 +2081,7 @@
       },
       "message": "自己也是做生意的~的確一堆客人這樣!!這位老闆霸氣!!",
       "can_remove": false,
-      "like_count": 8,
+      "like_count": 9,
       "user_likes": false,
       "id": "1003776289663249_1003808542993357"
     },
@@ -1181,7 +2129,7 @@
       },
       "message": "一些去超商插隊的人要結帳，對收銀員說 ”我趕時間！”。 奇怪，只有妳趕時間嗎? 至少也要得到前面排隊的人同意吧？",
       "can_remove": false,
-      "like_count": 8,
+      "like_count": 16,
       "user_likes": false,
       "id": "1003776289663249_1003807146326830"
     },
@@ -1193,7 +2141,7 @@
       },
       "message": "光最近兩周看到的就\n有去賣場試吃全盤幹光,不給還要兇人的.\n有那無照撞死國中生的田僑仔嗆對方父母：我只賠30萬，要不要隨便你.\n還有去參加親戚婚禮向人索車馬費的.\n什麼原因讓台灣野生人種愈來愈多了呢.????",
       "can_remove": false,
-      "like_count": 9,
+      "like_count": 16,
       "user_likes": false,
       "id": "1003776289663249_1003806622993549"
     },
@@ -1205,7 +2153,7 @@
       },
       "message": "這老闆真是讚爆了，不賣插隊的垃圾就超讚了，又幫自己店員，這老闆真的是臺灣絕無僅有了。",
       "can_remove": false,
-      "like_count": 149,
+      "like_count": 259,
       "user_likes": false,
       "id": "1003776289663249_1003804952993716"
     },
@@ -1217,7 +2165,7 @@
       },
       "message": "不要插隊是常識 --> 也是基本的尊重與禮貌...",
       "can_remove": false,
-      "like_count": 18,
+      "like_count": 25,
       "user_likes": false,
       "id": "1003776289663249_1003797632994448"
     },
@@ -1265,7 +2213,7 @@
       },
       "message": "希望淡水客運對在淡水總站不排隊上車的沒水準乘客\n\n也能這樣教育就好\n\n怎麼我們這一些乖乖排隊的都是傻瓜嘛?\n\n特別是860,862,863,這一條線的公車司機拜託多勇敢一點幫我們主持公道一下吧!\n\n我只見過2個司機會糾正不排隊的乘客要他們去後面排隊\n\n其他的都懶管",
       "can_remove": false,
-      "like_count": 11,
+      "like_count": 16,
       "user_likes": false,
       "id": "1003776289663249_1003791846328360"
     },
@@ -1289,7 +2237,7 @@
       },
       "message": "我喜歡這老闆！並非顧客就是至上，無理的行為和沒秩序就是需要被教育。",
       "can_remove": false,
-      "like_count": 217,
+      "like_count": 372,
       "user_likes": false,
       "id": "1003776289663249_1003791612995050"
     },
@@ -1301,7 +2249,7 @@
       },
       "message": "這是好老闆",
       "can_remove": false,
-      "like_count": 9,
+      "like_count": 10,
       "user_likes": false,
       "id": "1003776289663249_1003791142995097"
     },
@@ -1337,7 +2285,7 @@
       },
       "message": "就是要這樣，老闆太讚啦～",
       "can_remove": false,
-      "like_count": 90,
+      "like_count": 111,
       "user_likes": false,
       "id": "1003776289663249_1003781386329406"
     },
@@ -1361,7 +2309,7 @@
       },
       "message": "真奇怪，明明在講插隊，就是有人可以硬扯到台灣人去日本怎樣又怎樣。",
       "can_remove": false,
-      "like_count": 29,
+      "like_count": 33,
       "user_likes": false,
       "id": "1003776289663249_1003779056329639"
     },
@@ -1373,7 +2321,7 @@
       },
       "message": "台灣人去日本偷東西也是愈來愈多，真的，台灣人水準每況愈下。",
       "can_remove": false,
-      "like_count": 8,
+      "like_count": 9,
       "user_likes": false,
       "id": "1003776289663249_1003778289663049"
     }

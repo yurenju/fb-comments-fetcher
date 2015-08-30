@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150830/680819/",
   "comments": [
     {
+      "created_time": "2015-08-30T06:29:33+0000",
+      "from": {
+        "name": "Chen Jerome",
+        "id": "100000244634510"
+      },
+      "message": "犯人何必遮臉？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "910008279082224_910073522409033"
+    },
+    {
       "created_time": "2015-08-30T02:46:13+0000",
       "from": {
         "name": "蘇隆永",
@@ -11,7 +23,7 @@
       },
       "message": "好手好腳不務正業，還搶奪弱女子……！敗類…",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "910008279082224_910011335748585"
     }
