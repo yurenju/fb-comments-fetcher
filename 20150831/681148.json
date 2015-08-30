@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150831/681148/",
   "comments": [
     {
+      "created_time": "2015-08-30T21:32:23+0000",
+      "from": {
+        "name": "許迪樓",
+        "id": "100001629212589"
+      },
+      "message": "人家有錢又怎樣，\n誰叫我們不是他老婆或者是小孩，\n感覺記者報這個幹嘛？不就這樣?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1017077161649859_1017211818303060"
+    },
+    {
       "created_time": "2015-08-30T18:42:19+0000",
       "from": {
         "name": "Wendy Young",
@@ -11,7 +23,7 @@
       },
       "message": "什麼東西呀，誰 care 他呀？",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1017077161649859_1017154598308782"
     },
@@ -23,7 +35,7 @@
       },
       "message": "呵呵，國外只要三分之一，就是賣給笨蛋！",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1017077161649859_1017153714975537"
     },
@@ -71,7 +83,7 @@
       },
       "message": "暴發戶有錢買東西\n\n没錢找保母..../???",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "1017077161649859_1017120388312203"
     },
