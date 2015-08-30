@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150830/680837/",
   "comments": [
     {
+      "created_time": "2015-08-30T09:52:17+0000",
+      "from": {
+        "name": "陳居祝",
+        "id": "100009040529582"
+      },
+      "message": "唉！人生無常，祈求你一路好走，安息吧！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "922848294454840_923020541104282"
+    },
+    {
       "created_time": "2015-08-30T04:43:16+0000",
       "from": {
         "name": "蕭文星",
@@ -11,7 +23,7 @@
       },
       "message": "南無阿彌陀佛 南無阿彌陀佛 南無阿彌陀佛",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "922848294454840_922871387785864"
     },
@@ -23,7 +35,7 @@
       },
       "message": "R.I.P",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "922848294454840_922859607787042"
     },
@@ -35,7 +47,7 @@
       },
       "message": "大陸股災，共慘世界也很慘！",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "922848294454840_922856514454018"
     }

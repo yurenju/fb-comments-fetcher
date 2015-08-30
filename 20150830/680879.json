@@ -4,6 +4,54 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150830/680879/",
   "comments": [
     {
+      "created_time": "2015-08-30T09:13:32+0000",
+      "from": {
+        "name": "張媚綾",
+        "id": "100000419921702"
+      },
+      "message": "爽就好啦，，",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "971443492915157_971499269576246"
+    },
+    {
+      "created_time": "2015-08-30T08:21:25+0000",
+      "from": {
+        "name": "林吉",
+        "id": "100004034715714"
+      },
+      "message": "沒收費，還罰款，什米國家",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "971443492915157_971486066244233"
+    },
+    {
+      "created_time": "2015-08-30T07:27:59+0000",
+      "from": {
+        "name": "張漢森",
+        "id": "100010210207058"
+      },
+      "message": "可悲。難怪不工作。窮",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "971443492915157_971474406245399"
+    },
+    {
+      "created_time": "2015-08-30T07:25:35+0000",
+      "from": {
+        "name": "Yee Song",
+        "id": "100009405532661"
+      },
+      "message": "石器時代嚕",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "971443492915157_971474056245434"
+    },
+    {
       "created_time": "2015-08-30T06:34:17+0000",
       "from": {
         "name": "王學庸",
@@ -35,7 +83,7 @@
       },
       "message": "怎麼眼前一片霧，什麼都看不到？@@",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "971443492915157_971462632913243"
     },
@@ -47,7 +95,7 @@
       },
       "message": "2.1萬台幣，可以在馬德里租一家像樣的飯店豪華盡興的玩啊！真是腦袋有洞！",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "971443492915157_971445782914928"
     }

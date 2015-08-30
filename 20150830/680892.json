@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150830/680892/",
   "comments": [
     {
+      "created_time": "2015-08-30T08:48:55+0000",
+      "from": {
+        "name": "Hsuan Kuo",
+        "id": "100000418989464"
+      },
+      "message": "萬一不小心滑倒向後躺，會不會就GG了？？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1157436007619751_1157497100946975"
+    },
+    {
+      "created_time": "2015-08-30T08:08:51+0000",
+      "from": {
+        "name": "Chandler Lee",
+        "id": "100001021331642"
+      },
+      "message": "鷹眼表示：我頭髮沒這麼長",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1157436007619751_1157485260948159"
+    },
+    {
       "created_time": "2015-08-30T05:49:34+0000",
       "from": {
         "name": "Sax Wang",
@@ -11,7 +35,7 @@
       },
       "message": "鷹眼輸了……",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1157436007619751_1157440230952662"
     },

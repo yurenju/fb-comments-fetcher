@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150830/680651/",
   "comments": [
     {
+      "created_time": "2015-08-30T07:15:55+0000",
+      "from": {
+        "name": "許家瑋",
+        "id": "100000141230267"
+      },
+      "message": "果然男子握有（無限草）的秘訣",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1020143404676704_1020477297976648"
+    },
+    {
       "created_time": "2015-08-30T05:33:53+0000",
       "from": {
         "name": "李彥霖",
@@ -167,7 +179,7 @@
       },
       "message": "等到你玩膩這遊戲自然就是無限草了",
       "can_remove": false,
-      "like_count": 11,
+      "like_count": 13,
       "user_likes": false,
       "id": "1020143404676704_1020174014673643"
     },
