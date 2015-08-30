@@ -279,6 +279,72 @@ users:
 * 大馬反貪腐集會　自由廣場千人隔海聲援
 * 大馬反貪腐集會　自由廣場千人隔海聲援
 
+## 重複次數 27
+
+留言：
+
+```
+讚
+```
+
+users: 
+
+* [黃小意]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Kate Chu]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [朱義程]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [蔡耀德]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Sian Kuan Ciou]('http://facebook.com/' + users[user].id) (重複 2 次)
+* [金俊浩]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Fenny Chen]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Alan Liu]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [林財生]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [施采岑]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [陳鴻]('http://facebook.com/' + users[user].id) (重複 2 次)
+* [薛千川]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [黃國演]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Vivi Chang]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [周禪]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [東方白]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [王元萬]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [藍祥益]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [葉玲玲]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [黃偉誌]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [賴文賓]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [王姿琇]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [朱小林]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [白白]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [賴德福]('http://facebook.com/' + users[user].id) (重複 1 次)
+
+新聞：
+
+* 黑手黨老大葬禮浮誇　直升機空灑花瓣
+* 【更新】北市人事超標全國之冠　柯：先除冗事再來瘦身
+* 【更新】想看阿帕契　2名網友衝601旅遭擋門外
+* 【更新】想看阿帕契　2名網友衝601旅遭擋門外
+* 【更新】想看阿帕契　2名網友衝601旅遭擋門外
+* 【更新】真男人　水電工顧罹癌妻與岳母無怨尤
+* 夏天就是要去鄰居家的泳池玩水啊！
+* 劉育志：捐卵女孩險喪命
+* 【數位時代】花36年追上想像，《異形》裡的「工程機器人」Power Loader終於成真
+* 台股暴跌　謝金河：下一個是房市！
+* 觸控展　友達大秀穿戴面板
+* 整合型觸控面板　操控更便利
+* 【狗仔偷拍】寶弟約會落漆　OO沒喬好
+* 誰反對蓋停車場　林佳龍怒：交出議員名單
+* 歐買尬！慧慈好有愛　火車咆哮要人讓座
+* 中山國中LLB連霸　林佳龍頒200萬獎金
+* 你願為「台獨」上戰場嗎？　調查結果是
+* 反對波多野結衣的人　呂秋遠神問答
+* 保證清新　日日春也推「妓念悠遊卡」
+* 保證清新　日日春也推「妓念悠遊卡」
+* 太Pure！星二代美少女　清純爆表
+* 這回不再放羊　愛黛兒新輯11月上市
+* 2萬人抗議貪腐總理　馬國政府已備好水車
+* 從小好成績的柯P　最爛的科目就是.....
+* 客人插隊買食物　饒河夜市老闆霸氣偏不賣
+* 蔡英文談「我眼中的台灣」　網友哭著看完
+* 連戰不宜赴中閱兵　謝長廷：藍綠共識
+
 ## 重複次數 25
 
 留言：
@@ -320,66 +386,6 @@ users:
 * 【更新】反廢棄物掩埋場　宋楚瑜力挺
 * 【更新】小宋眷村開講　搶柱柱姐鐵票
 * 宋楚瑜勤跑台南基層　用台語搏感情
-
-## 重複次數 24
-
-留言：
-
-```
-讚
-```
-
-users: 
-
-* [黃小意]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Kate Chu]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [朱義程]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [蔡耀德]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Sian Kuan Ciou]('http://facebook.com/' + users[user].id) (重複 2 次)
-* [金俊浩]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Fenny Chen]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Alan Liu]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [林財生]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [施采岑]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [陳鴻]('http://facebook.com/' + users[user].id) (重複 2 次)
-* [薛千川]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [黃國演]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Vivi Chang]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [周禪]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [東方白]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [王元萬]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [藍祥益]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [葉玲玲]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [黃偉誌]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [賴文賓]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [王姿琇]('http://facebook.com/' + users[user].id) (重複 1 次)
-
-新聞：
-
-* 黑手黨老大葬禮浮誇　直升機空灑花瓣
-* 【更新】北市人事超標全國之冠　柯：先除冗事再來瘦身
-* 【更新】想看阿帕契　2名網友衝601旅遭擋門外
-* 【更新】想看阿帕契　2名網友衝601旅遭擋門外
-* 【更新】想看阿帕契　2名網友衝601旅遭擋門外
-* 【更新】真男人　水電工顧罹癌妻與岳母無怨尤
-* 夏天就是要去鄰居家的泳池玩水啊！
-* 劉育志：捐卵女孩險喪命
-* 【數位時代】花36年追上想像，《異形》裡的「工程機器人」Power Loader終於成真
-* 台股暴跌　謝金河：下一個是房市！
-* 觸控展　友達大秀穿戴面板
-* 整合型觸控面板　操控更便利
-* 【狗仔偷拍】寶弟約會落漆　OO沒喬好
-* 誰反對蓋停車場　林佳龍怒：交出議員名單
-* 歐買尬！慧慈好有愛　火車咆哮要人讓座
-* 中山國中LLB連霸　林佳龍頒200萬獎金
-* 你願為「台獨」上戰場嗎？　調查結果是
-* 反對波多野結衣的人　呂秋遠神問答
-* 保證清新　日日春也推「妓念悠遊卡」
-* 保證清新　日日春也推「妓念悠遊卡」
-* 太Pure！星二代美少女　清純爆表
-* 這回不再放羊　愛黛兒新輯11月上市
-* 2萬人抗議貪腐總理　馬國政府已備好水車
-* 從小好成績的柯P　最爛的科目就是.....
 
 ## 重複次數 22
 

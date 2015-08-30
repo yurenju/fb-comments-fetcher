@@ -4,6 +4,54 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150830/680789/",
   "comments": [
     {
+      "created_time": "2015-08-30T02:37:53+0000",
+      "from": {
+        "name": "曾得人",
+        "id": "100009757151667"
+      },
+      "message": "演唱會門票公道價八萬ㄧ？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "876945115708174_876970472372305"
+    },
+    {
+      "created_time": "2015-08-30T02:23:54+0000",
+      "from": {
+        "name": "Tom Chang",
+        "id": "100000241870035"
+      },
+      "message": "哈哈~~老闆改邪歸正了嗎?記者能不能去現場訪問一下，這幾年他被網路追殺的心情。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "876945115708174_876967445705941"
+    },
+    {
+      "created_time": "2015-08-30T01:10:25+0000",
+      "from": {
+        "name": "Marcus Hsu",
+        "id": "614501335"
+      },
+      "message": "平粉一定要來大聲一下 …",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "876945115708174_876950892374263"
+    },
+    {
+      "created_time": "2015-08-30T01:09:27+0000",
+      "from": {
+        "name": "Huang Giga",
+        "id": "100008452936165"
+      },
+      "message": "啊你唱歌是在大聲什麼啦？！",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "876945115708174_876950705707615"
+    },
+    {
       "created_time": "2015-08-30T00:57:26+0000",
       "from": {
         "name": "Tony Lin",
@@ -11,7 +59,7 @@
       },
       "message": "要不要把呂忠吉也一起叫過去？這到底是個什麼樣的社會？好一個三流樂團，喔不，是不入流的樂團。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 3,
       "user_likes": false,
       "id": "876945115708174_876947822374570"
     }

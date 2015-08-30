@@ -1,8 +1,513 @@
 {
-  "title": "冷氣開24小時　電費只比正常開關多一點",
+  "title": "【更新】冷氣開24小時　電費只比正常開關多一點",
   "id": "20150830/680687",
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150830/680687/",
   "comments": [
+    {
+      "created_time": "2015-08-30T03:38:30+0000",
+      "from": {
+        "name": "楊瑞珍",
+        "id": "100007352882462"
+      },
+      "message": "日立的變頻冷氣真的很省電，我們家大概ㄧ天吹20個小時的冷氣，但設定27度，兩個月的電費2000元以內！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019191774765756"
+    },
+    {
+      "created_time": "2015-08-30T03:38:25+0000",
+      "from": {
+        "name": "Emily Li",
+        "id": "100000237710163"
+      },
+      "message": "何廠牌冷氣机也有差!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019191754765758"
+    },
+    {
+      "created_time": "2015-08-30T03:32:31+0000",
+      "from": {
+        "name": "Shu Ting Ting",
+        "id": "100003858414297"
+      },
+      "message": "被馬英狗騙了8年",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019190474765886"
+    },
+    {
+      "created_time": "2015-08-30T03:29:30+0000",
+      "from": {
+        "name": "細菌",
+        "id": "100001843123963"
+      },
+      "message": "我的做法是睡覺前開16度，吹個2小時…保證冷到蓋棉被",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019189771432623"
+    },
+    {
+      "created_time": "2015-08-30T03:28:59+0000",
+      "from": {
+        "name": "王穎婷",
+        "id": "100000084587241"
+      },
+      "message": "因為電費沒有貴多少.就浪費電??........\n白天出門上班.家裡沒人還要開著冷氣真的沒必要耶.....><",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1018997058118561_1019189714765962"
+    },
+    {
+      "created_time": "2015-08-30T03:27:23+0000",
+      "from": {
+        "name": "Simona Lin",
+        "id": "1437935280"
+      },
+      "message": "做這什麼鳥實驗，都沒人想過北極熊的感覺嗎 ...",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019189388099328"
+    },
+    {
+      "created_time": "2015-08-30T03:26:07+0000",
+      "from": {
+        "name": "請管好自己的朋友或家人",
+        "category": "Education",
+        "id": "582530065218350"
+      },
+      "message": "所以核電廠才不會被廢除",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019189091432691"
+    },
+    {
+      "created_time": "2015-08-30T03:25:44+0000",
+      "from": {
+        "name": "劉俊宏",
+        "id": "100005087436382"
+      },
+      "message": "是只開一天24小時？\n還是一個月每天都開24小時？\n以前讀書跟同學住.他就是每天都開24小時.夏天我們都蓋大被子睡覺.很爽！\n有次很誇張.半夜被凍醒.ㄧ看溫度計16度XD\n錢不是我繳.我也不知多少？\n不過現在反而不喜歡吹冷氣了！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019188991432701"
+    },
+    {
+      "created_time": "2015-08-30T03:19:38+0000",
+      "from": {
+        "name": "CW Chien",
+        "id": "100000574213172"
+      },
+      "message": "重點\n台灣電費算法跟日本有一樣嗎？",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1018997058118561_1019187724766161"
+    },
+    {
+      "created_time": "2015-08-30T03:19:29+0000",
+      "from": {
+        "name": "林大雄",
+        "id": "100002258230440"
+      },
+      "message": "是住在赤道嗎？開24小時幹嘛？想教壞誰啊",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1018997058118561_1019187698099497"
+    },
+    {
+      "created_time": "2015-08-30T03:17:40+0000",
+      "from": {
+        "name": "林紀煥",
+        "id": "100000213482755"
+      },
+      "message": "應該要變頻空調才行吧。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019186791432921"
+    },
+    {
+      "created_time": "2015-08-30T03:13:11+0000",
+      "from": {
+        "name": "汪秀貞",
+        "id": "100005039746511"
+      },
+      "message": "看看就好不要太認真",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019185954766338"
+    },
+    {
+      "created_time": "2015-08-30T03:09:28+0000",
+      "from": {
+        "name": "Chien Feng Huang",
+        "id": "100000039376265"
+      },
+      "message": "說好的北極熊餓死呢?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019185118099755"
+    },
+    {
+      "created_time": "2015-08-30T03:04:05+0000",
+      "from": {
+        "name": "黃政哲",
+        "id": "100001047984176"
+      },
+      "message": "要是像這樣子每個人都開，日本就又要重啟核電了..........",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019183994766534"
+    },
+    {
+      "created_time": "2015-08-30T03:00:28+0000",
+      "from": {
+        "name": "陳聖文",
+        "id": "100001308725960"
+      },
+      "message": "She 台灣電費比日本低，等我們的國民所得和人家一樣你再來講",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019183344766599"
+    },
+    {
+      "created_time": "2015-08-30T02:58:53+0000",
+      "from": {
+        "name": "江宜學",
+        "id": "100000302755521"
+      },
+      "message": "日本才是這樣吧",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019182911433309"
+    },
+    {
+      "created_time": "2015-08-30T02:55:13+0000",
+      "from": {
+        "name": "王元萬",
+        "id": "100006112638576"
+      },
+      "message": "正義魔人請先叫百貨公司  超商把冷氣關掉  他們才大宗",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1018997058118561_1019181861433414"
+    },
+    {
+      "created_time": "2015-08-30T02:52:38+0000",
+      "from": {
+        "name": "涂富閔",
+        "id": "1443087437"
+      },
+      "message": "是的\n但造成的溫室效應的成本無法估算，謝謝你推了ㄧ把",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019180554766878"
+    },
+    {
+      "created_time": "2015-08-30T02:51:53+0000",
+      "from": {
+        "name": "詠詠",
+        "id": "100000392140307"
+      },
+      "message": "重點不是電費問題吧 是能少開就少開 你不知道北極熊都要走入歷史了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019180014766932"
+    },
+    {
+      "created_time": "2015-08-30T02:47:16+0000",
+      "from": {
+        "name": "王國輝",
+        "id": "100000259822681"
+      },
+      "message": "寶傑 你怎麼說？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019178568100410"
+    },
+    {
+      "created_time": "2015-08-30T02:38:15+0000",
+      "from": {
+        "name": "Kooice Koocie X",
+        "id": "855244171"
+      },
+      "message": "重點是設定的溫度吧！我設27度一個夏季也才一千多",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1018997058118561_1019176211433979"
+    },
+    {
+      "created_time": "2015-08-30T02:35:47+0000",
+      "from": {
+        "name": "Amakusa Nagi",
+        "id": "100002214515328"
+      },
+      "message": "24小時開除濕\n晚上睡覺也開除濕\n你等著眼睛乾到想哭哭不出來吧",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019175718100695"
+    },
+    {
+      "created_time": "2015-08-30T02:35:36+0000",
+      "from": {
+        "name": "段瑞君",
+        "id": "1549915073"
+      },
+      "message": "冷氣最耗電的時候在於從高溫降到低溫這段時間，所以說長期保持28度的話冷氣根本沒怎麼在耗電，但如果開開關關，冷氣一關掉室溫馬上上升，再開冷氣又要花很大的電費降到28度，自然很耗電。另外開除濕確實效果會比開強冷還好，因為台灣潮溼會影響體感溫度，開除濕將低濕度體感溫度就會很涼，不需要開到很冷就夠了。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019175664767367"
+    },
+    {
+      "created_time": "2015-08-30T02:34:16+0000",
+      "from": {
+        "name": "Wei Shen Huang",
+        "id": "1547509771"
+      },
+      "message": "結論就是日本的冷氣比較省電",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019175378100729"
+    },
+    {
+      "created_time": "2015-08-30T02:31:57+0000",
+      "from": {
+        "name": "Chia Li Wang",
+        "id": "100000204608242"
+      },
+      "message": "口袋沒深度千萬別試 先不要這麼道德去說環境破壞或是技術性的省電問題 我只要想到台灣跟日本的均溫問題 就覺得這電價要是口袋不深就不要跟自己過不去 要是覺得還ok 就沒差",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019174774767456"
+    },
+    {
+      "created_time": "2015-08-30T02:27:04+0000",
+      "from": {
+        "name": "陳冠宇",
+        "id": "100000527991548"
+      },
+      "message": "北極熊的眼淚.....",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019171911434409"
+    },
+    {
+      "created_time": "2015-08-30T02:26:10+0000",
+      "from": {
+        "name": "Ryan Mo",
+        "id": "100001210742945"
+      },
+      "message": "日立變頻冷氣，設定27度幾乎24小時不關，連續使用63天，電費才1600,哈哈，真的超級省電。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019171011434499"
+    },
+    {
+      "created_time": "2015-08-30T02:18:26+0000",
+      "from": {
+        "name": "Jackal Liu",
+        "id": "100000179807575"
+      },
+      "message": "才九坪不知道在砲什麼而且本來就是連續開關並不會比較省",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019168504768083"
+    },
+    {
+      "created_time": "2015-08-30T02:08:02+0000",
+      "from": {
+        "name": "Timo  Feng",
+        "id": "100002965146770"
+      },
+      "message": "要用變頻的機型",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019165308101736"
+    },
+    {
+      "created_time": "2015-08-30T01:56:37+0000",
+      "from": {
+        "name": "Isme Ctr",
+        "id": "100000131775299"
+      },
+      "message": "先不管電費，環保問題，我覺得日本人蠻有身體力行，作實驗的精神，研究事情的真相，有點佩服",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019163098101957"
+    },
+    {
+      "created_time": "2015-08-30T01:53:53+0000",
+      "from": {
+        "name": "許智堯",
+        "id": "100000806979172"
+      },
+      "message": "完全瞎掰文",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1018997058118561_1019162541435346"
+    },
+    {
+      "created_time": "2015-08-30T01:50:09+0000",
+      "from": {
+        "name": "Fuyuheng Fu",
+        "id": "1697397710"
+      },
+      "message": "日本的均溫約是多少啊?和台灣一樣嗎?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019161851435415"
+    },
+    {
+      "created_time": "2015-08-30T01:37:22+0000",
+      "from": {
+        "name": "張新義",
+        "id": "100002073497060"
+      },
+      "message": "別只是聽人家怎麼說\n尤其是有些不唸書的媒體 \n那些轉抄自網路的描述\n自已實際上操作看看就 知輸贏 了\n不是嗎？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019156944769239"
+    },
+    {
+      "created_time": "2015-08-30T01:36:47+0000",
+      "from": {
+        "name": "Tea Cool",
+        "id": "100005451726272"
+      },
+      "message": "不知道冬天開暖氣要多少錢",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019156134769320"
+    },
+    {
+      "created_time": "2015-08-30T01:28:53+0000",
+      "from": {
+        "name": "Peter Chen",
+        "id": "100000763653461"
+      },
+      "message": "「冷氣開24小時　電費只比正常開關多一點」\n\n內文的電費增加多少，應該取決於「溫度設定在攝氏28度，睡覺前調成27度」這一句吧。\n\n「溫度設定在攝氏28度」表示：當溫度28度以下時，冷氣的壓縮機並不會啟動，冷氣吹出來的只有送風（fan）而已，這跟吹電風扇有什麼不同？\n\n如果真的要證明「冷氣開24小時　電費只比正常開關多一點」，那就請他將溫度設定在最低溫，好讓壓縮機被操個過癮後，再來說電費沒增加多少。\n\nXDDDDDDDD",
+      "can_remove": false,
+      "like_count": 4,
+      "user_likes": false,
+      "id": "1018997058118561_1019151138103153"
+    },
+    {
+      "created_time": "2015-08-30T01:28:00+0000",
+      "from": {
+        "name": "蔡嘉誼",
+        "id": "100000199509356"
+      },
+      "message": "有看到筆者設定的冷氣溫度嗎？\n設定28度跟23度的電費會一樣嗎？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019150911436509"
+    },
+    {
+      "created_time": "2015-08-30T01:23:55+0000",
+      "from": {
+        "name": "Mingmao Shen",
+        "id": "100001446107458"
+      },
+      "message": "信了，你就輸了。",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1018997058118561_1019149514769982"
+    },
+    {
+      "created_time": "2015-08-30T01:18:20+0000",
+      "from": {
+        "name": "鍾興侖",
+        "id": "100000210403412"
+      },
+      "message": "用電量的單位是Wh或是kWh，W是功率單位請小編了解",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1018997058118561_1019148421436758"
+    },
+    {
+      "created_time": "2015-08-30T01:15:55+0000",
+      "from": {
+        "name": "郭卜榮",
+        "id": "100000196675992"
+      },
+      "message": "在台灣\n開一個月\n電費多三倍！",
+      "can_remove": false,
+      "like_count": 4,
+      "user_likes": false,
+      "id": "1018997058118561_1019147891436811"
+    },
+    {
+      "created_time": "2015-08-30T01:12:40+0000",
+      "from": {
+        "name": "余嘉豪",
+        "id": "100002393842768"
+      },
+      "message": "有點像賣冷氣廣告阿..\n不過省的電費用到冷氣壞掉應該也補不回當初買冷氣的花費",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019147378103529"
+    },
+    {
+      "created_time": "2015-08-30T01:11:27+0000",
+      "from": {
+        "name": "阪崎良",
+        "id": "100000474026079"
+      },
+      "message": "2000日幣 大約就日本的1~2餐 ...",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019146954770238"
+    },
+    {
+      "created_time": "2015-08-30T01:09:03+0000",
+      "from": {
+        "name": "机璦伶",
+        "id": "100003076847095"
+      },
+      "message": "是節能減碳的問題，不是多花多少錢的問題",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1018997058118561_1019146531436947"
+    },
     {
       "created_time": "2015-08-30T00:16:17+0000",
       "from": {
@@ -35,7 +540,7 @@
       },
       "message": "定頻AC馬達啟動電流約為六倍…\n如果你家一天開關一兩次…\n或是換成DC變頻冷氣…\n還是會省不少的…\n別傻傻地照著做啊……\n現在記者都沒啥求知精神吶…",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "1018997058118561_1019119568106310"
     },
@@ -119,7 +624,7 @@
       },
       "message": "日本跟台灣不能比、氣候也不太一樣、人家乾燥開了冷氣設定28-30都還涼爽....我們28-30阿幹有開沒開一樣、而且我們電費一定會暴增、因為不知限定幾度會多加錢喔！",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 13,
       "user_likes": false,
       "id": "1018997058118561_1019092594775674"
     },
@@ -131,7 +636,7 @@
       },
       "message": "這或許是日本不能廢核電的原因吧？日本電器及技術品質舉世聞名，台灣其實必須檢討電器與電力技術良莠不一的問題，否則就是台電有問題。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 5,
       "user_likes": false,
       "id": "1018997058118561_1019085791443021"
     },
@@ -143,7 +648,7 @@
       },
       "message": "我是日立變頻冷氣，24小時都開著，大概持續有六年了，房間大概六頻左右，大概都保持在23度以下。夏天兩個月電費大概快六千五。給大家參考……",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 9,
       "user_likes": false,
       "id": "1018997058118561_1019077041443896"
     },
@@ -155,7 +660,7 @@
       },
       "message": "我發現吹冷氣真的沒比較好\n我以前房間沒冷氣 都能在大台陽下做事\n晚上也只要有電風扇就能睡 \n現在裝冷氣真的變得很不耐熱 回房就想開冷氣\n長期下來電費又貴 又讓自己變的嫩嫩的 真的要克制一下",
       "can_remove": false,
-      "like_count": 9,
+      "like_count": 112,
       "user_likes": false,
       "id": "1018997058118561_1019075114777422"
     },
@@ -179,7 +684,7 @@
       },
       "message": "其實...\n請問你本身一天開幾個小時!!\n什麼都沒交代清楚只有說24H 比較省!!\n還是說一天開18小時..\n跟24h比呢...\n有點奇怪",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1018997058118561_1019043061447294"
     },
@@ -191,7 +696,7 @@
       },
       "message": "不要開冷氣最省",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 7,
       "user_likes": false,
       "id": "1018997058118561_1019036811447919"
     },
@@ -203,7 +708,7 @@
       },
       "message": "試過了、二十坪月繳一萬多，淌血啊",
       "can_remove": false,
-      "like_count": 7,
+      "like_count": 14,
       "user_likes": false,
       "id": "1018997058118561_1019034151448185"
     },
@@ -216,7 +721,7 @@
       },
       "message": "開一個月冷氣的電費只要4500日圓，就台幣1500左右。\n再照日本物價來算，再除3... 一個月的支出感覺只有我們的500元。\n幹！我們的油電雙高是怎麼回事？",
       "can_remove": false,
-      "like_count": 29,
+      "like_count": 158,
       "user_likes": false,
       "id": "1018997058118561_1019033034781630"
     },
@@ -228,7 +733,7 @@
       },
       "message": "我只想知道台灣是否也有人做這實驗",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "1018997058118561_1019029324782001"
     },
@@ -240,7 +745,7 @@
       },
       "message": "冷氣機，本來可用十年，24小時開，只能用三年，一年省2千，折舊一年七千元\n白癡",
       "can_remove": false,
-      "like_count": 14,
+      "like_count": 20,
       "user_likes": false,
       "id": "1018997058118561_1019027188115548"
     },
@@ -264,7 +769,7 @@
       },
       "message": "而風量與\"奇\"設定微風的話\n與其\n\n小編有空麻煩修一下字",
       "can_remove": false,
-      "like_count": 10,
+      "like_count": 12,
       "user_likes": false,
       "id": "1018997058118561_1019025968115670"
     },
@@ -276,7 +781,7 @@
       },
       "message": "這裡是台灣 不是日本",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "1018997058118561_1019025604782373"
     },
@@ -312,7 +817,7 @@
       },
       "message": "重點不是在於剩下多少，而是造成多少破壞環境的問題吧…",
       "can_remove": false,
-      "like_count": 38,
+      "like_count": 90,
       "user_likes": false,
       "id": "1018997058118561_1019002651451335"
     }
