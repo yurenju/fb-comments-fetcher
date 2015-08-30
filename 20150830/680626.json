@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150830/680626/",
   "comments": [
     {
+      "created_time": "2015-08-30T10:18:11+0000",
+      "from": {
+        "name": "陳柏宏",
+        "id": "100000454556440"
+      },
+      "message": "馬英九都能在記者面前睡給你看了，這有啥？\n來，來台灣睡，有總統給你撐腰，別怕",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "882972865116445_883138238433241"
+    },
+    {
       "created_time": "2015-08-30T09:11:02+0000",
       "from": {
         "name": "張媚綾",
@@ -23,7 +35,7 @@
       },
       "message": "唉～麻友...偶像果然不好當啊～沒關係~飯都會原諒妳的~~",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "882972865116445_883027831777615"
     },
@@ -35,7 +47,7 @@
       },
       "message": "偶像也是人啊，總有需要休息的時候…雖然在工作時直接睡著是不太好啦",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "882972865116445_883017611778637"
     },
@@ -47,7 +59,7 @@
       },
       "message": "人美真好，人醜吃草",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 5,
       "user_likes": false,
       "id": "882972865116445_883010258446039"
     },

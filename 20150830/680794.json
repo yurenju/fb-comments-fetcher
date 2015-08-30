@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150830/680794/",
   "comments": [
     {
+      "created_time": "2015-08-30T11:40:27+0000",
+      "from": {
+        "name": "Ui Wha",
+        "id": "100004117990333"
+      },
+      "message": "活著就是學",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864868383597632_865045543579916"
+    },
+    {
+      "created_time": "2015-08-30T11:22:12+0000",
+      "from": {
+        "name": "柯志隆",
+        "id": "100000267182139"
+      },
+      "message": "其實大學不一定是文憑 而是時間也是關鍵\n大學這段時間如果得以運用 學的一定不只學校教的\n而有沒有用 時間會證明一切",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864868383597632_865036320247505"
+    },
+    {
       "created_time": "2015-08-30T09:51:04+0000",
       "from": {
         "name": "林南",
@@ -11,7 +35,7 @@
       },
       "message": "其實我覺得學歷還是重要的，像我雖然月收入有400k,但高中畢業的我還是很讓人看不起，所以我想，讀大學還是需要的",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "864868383597632_865015340249603"
     },
@@ -107,7 +131,7 @@
       },
       "message": "外國月亮沒有比較圓，台灣學費比較便宜。",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "864868383597632_864874090263728"
     },
@@ -119,7 +143,7 @@
       },
       "message": "大家都是 無需驚訝....還有人 還背了 碩士債....背完又背博士.都不知道他一直念下去是為了什麼.沒是錢真的!聚餐看到他就像看到鬼...會被借錢有去無回!背大學債4X萬就很多了...還不含交通費.餐費.租屋費",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "864868383597632_864874063597064"
     },
@@ -131,7 +155,7 @@
       },
       "message": "求學是過程，不是就業保證班",
       "can_remove": false,
-      "like_count": 8,
+      "like_count": 10,
       "user_likes": false,
       "id": "864868383597632_864873306930473"
     },
@@ -143,7 +167,7 @@
       },
       "message": "沒有人說高學歷=高薪資",
       "can_remove": false,
-      "like_count": 7,
+      "like_count": 9,
       "user_likes": false,
       "id": "864868383597632_864870176930786"
     }

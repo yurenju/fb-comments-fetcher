@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150830/680996/",
   "comments": [
     {
+      "created_time": "2015-08-30T11:16:22+0000",
+      "from": {
+        "name": "曉燕賈",
+        "id": "100007811477745"
+      },
+      "message": "2016終結國民黨國會多數.",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "887361098013360_887397461343057"
+    },
+    {
+      "created_time": "2015-08-30T10:15:35+0000",
+      "from": {
+        "name": "鍾庭軒",
+        "id": "100003689840287"
+      },
+      "message": "馬麗戈壁狗鳴黨5毛黨工愈來愈多 總統府那隻就是明證……5毛只是自以為很專業的下流卻卻乏公民生活經驗和判斷能力的髒螂",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "887361098013360_887384584677678"
+    },
+    {
       "created_time": "2015-08-30T10:00:35+0000",
       "from": {
         "name": "陳洛恩",
@@ -11,7 +35,7 @@
       },
       "message": "醫生誤國例子愈來愈多,台北,台南市長就是明證....醫生只是一群自以為很專業,卻缺乏生活經驗和判斷能力的人",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "887361098013360_887381704677966"
     }

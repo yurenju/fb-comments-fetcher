@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150830/680892/",
   "comments": [
     {
+      "created_time": "2015-08-30T12:22:26+0000",
+      "from": {
+        "name": "黃敬文",
+        "id": "100000209246337"
+      },
+      "message": "我原本是個選手 但自從我的頭髮中了好多箭…",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1157436007619751_1157574864272532"
+    },
+    {
+      "created_time": "2015-08-30T12:20:13+0000",
+      "from": {
+        "name": "Chen Jacky",
+        "id": "100000099352620"
+      },
+      "message": "上場對幹，拔箭時就被射死了，哈哈。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1157436007619751_1157574180939267"
+    },
+    {
+      "created_time": "2015-08-30T12:04:25+0000",
+      "from": {
+        "name": "陸小寧",
+        "id": "100000064410778"
+      },
+      "message": "沒看過鹿鼎記逆！！潛力潛力。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1157436007619751_1157568084273210"
+    },
+    {
       "created_time": "2015-08-30T08:48:55+0000",
       "from": {
         "name": "Hsuan Kuo",
@@ -23,7 +59,7 @@
       },
       "message": "鷹眼表示：我頭髮沒這麼長",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1157436007619751_1157485260948159"
     },
@@ -35,7 +71,7 @@
       },
       "message": "鷹眼輸了……",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "1157436007619751_1157440230952662"
     },
@@ -47,7 +83,7 @@
       },
       "message": "刺蝟看到也會怕",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 3,
       "user_likes": false,
       "id": "1157436007619751_1157436564286362"
     }
