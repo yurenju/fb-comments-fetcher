@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150830/680857/",
   "comments": [
     {
+      "created_time": "2015-08-30T14:32:57+0000",
+      "from": {
+        "name": "安安.",
+        "id": "100005700397423"
+      },
+      "message": "有人跟我一樣沒笑的嗎...",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "884026321712091_884221528359237"
+    },
+    {
+      "created_time": "2015-08-30T13:48:48+0000",
+      "from": {
+        "name": "Kevin Chang",
+        "id": "100001390524479"
+      },
+      "message": "Made in  China.",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "884026321712091_884176625030394"
+    },
+    {
+      "created_time": "2015-08-30T13:44:27+0000",
+      "from": {
+        "name": "Guojia Li",
+        "id": "100000076861727"
+      },
+      "message": "我重播了10次.....",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "884026321712091_884172005030856"
+    },
+    {
       "created_time": "2015-08-30T12:18:01+0000",
       "from": {
         "name": "林蔓蒂",
@@ -71,7 +107,7 @@
       },
       "message": "用他來檔 鄭捷 那會更好笑",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "884026321712091_884108745037182"
     },

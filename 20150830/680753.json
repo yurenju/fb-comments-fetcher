@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150830/680753/",
   "comments": [
     {
+      "created_time": "2015-08-30T15:53:15+0000",
+      "from": {
+        "name": "Jo Wang",
+        "id": "100000043476476"
+      },
+      "message": "覺得他們很配～也很支持陳曉",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "890574524357807_891222520959674"
+    },
+    {
+      "created_time": "2015-08-30T14:21:19+0000",
+      "from": {
+        "name": "Tiffany Lin",
+        "id": "100001992792399"
+      },
+      "message": "談戀愛OK，但小籠包真的不是小龍女...",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "890574524357807_891179960963930"
+    },
+    {
       "created_time": "2015-08-30T06:26:25+0000",
       "from": {
         "name": "Lyu-Ya Huang",
@@ -36,7 +60,7 @@
       },
       "message": "喜歡陳曉成為台灣女婿",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "890574524357807_890787554336504"
     },

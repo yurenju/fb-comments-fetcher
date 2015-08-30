@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150830/680516/",
   "comments": [
     {
+      "created_time": "2015-08-30T14:46:37+0000",
+      "from": {
+        "name": "Cindy Wang",
+        "id": "100000112764720"
+      },
+      "message": "不要因為好玩，到時候真得發生事情，才來後悔說，我們只是好玩，沒想到.................，沒有這麼多\"沒想到\"，等你們這些人想到，都已經來不及了。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "932111260193674_932560493482084"
+    },
+    {
+      "created_time": "2015-08-30T14:03:45+0000",
+      "from": {
+        "name": "黃瓊慧",
+        "id": "100009832004486"
+      },
+      "message": "這個朋友有考慮是否能交，也判斷是否能好壞，萬一交到酒肉朋友那這麼辦了，也影響了自己凡是要先三思後行。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "932111260193674_932542113483922"
+    },
+    {
+      "created_time": "2015-08-30T13:58:30+0000",
+      "from": {
+        "name": "黃瓊慧",
+        "id": "100009832004486"
+      },
+      "message": "真的是 損友，開玩笑也有分寸，萬一害的別人是什麼辦，現在是農曆七月份，不要鐵齒。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "932111260193674_932540493484084"
+    },
+    {
       "created_time": "2015-08-30T11:21:09+0000",
       "from": {
         "name": "Cannmy Ymny",
@@ -23,7 +59,7 @@
       },
       "message": "我朋友生日也收到罐頭塔 \n說真的如果是我我應該會翻臉@@",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "932111260193674_932467110158089"
     },
@@ -228,7 +264,7 @@
       },
       "message": "好猛...",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "932111260193674_932136220191178"
     },
