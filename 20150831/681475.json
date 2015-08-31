@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150831/681475/",
   "comments": [
     {
+      "created_time": "2015-08-31T07:41:49+0000",
+      "from": {
+        "name": "Samantha Lou",
+        "id": "100009799509861"
+      },
+      "message": "女警長的不錯呀",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "879191098843926_879241632172206"
+    },
+    {
+      "created_time": "2015-08-31T07:04:46+0000",
+      "from": {
+        "name": "Lo-hua Sang",
+        "id": "1555230279"
+      },
+      "message": "沒作錯事卻遇倒楣事才叫衰，作錯事被抓是應該的好嗎。",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "879191098843926_879230375506665"
+    },
+    {
       "created_time": "2015-08-31T06:55:39+0000",
       "from": {
         "name": "東九",
@@ -35,7 +59,7 @@
       },
       "message": "啊 被蘋果拍出來是這樣子，本人一定更好看啦",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "879191098843926_879220662174303"
     },
@@ -83,7 +107,7 @@
       },
       "message": "現在警察是女的都叫正 有個洞就美女不知審美觀念在哪",
       "can_remove": false,
-      "like_count": 9,
+      "like_count": 11,
       "user_likes": false,
       "id": "879191098843926_879201792176190"
     }

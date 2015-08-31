@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150831/681284/",
   "comments": [
     {
+      "created_time": "2015-08-31T07:29:37+0000",
+      "from": {
+        "name": "秦羽",
+        "id": "100001543971784"
+      },
+      "message": "就無聊阿，一個圖片，搞到一堆有的沒有。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "970635899625376_970753069613659"
+    },
+    {
+      "created_time": "2015-08-31T07:03:27+0000",
+      "from": {
+        "name": "Zauber Lu",
+        "id": "100001667199496"
+      },
+      "message": "形象大傷...?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "970635899625376_970746836280949"
+    },
+    {
       "created_time": "2015-08-31T07:01:03+0000",
       "from": {
         "name": "Akauto Menshi",
@@ -35,7 +59,7 @@
       },
       "message": "人一藍、腦就殘\n鈕則勳原名「鈕祜祿·則勳」，滿族人，國民黨員，為國民黨五六七大聯盟的成員。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "970635899625376_970734362948863"
     },
@@ -155,7 +179,7 @@
       },
       "message": "行銷手法百百種，不違社會大眾觀感，基本都不是老哏，我也是商業系的，但我教授只告訴我們，只要把別人的錢，以正當的方式賺到手，就是商業廣告的最大目標，在那假道學的人，只有等死比較快⋯",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 7,
       "user_likes": false,
       "id": "970635899625376_970663062955993"
     },
@@ -323,7 +347,7 @@
       },
       "message": "說來說去都是一堆假道學的人，深諳此道的遊戲公司不屑為之？ 呵呵呵。",
       "can_remove": false,
-      "like_count": 7,
+      "like_count": 10,
       "user_likes": false,
       "id": "970635899625376_970642796291353"
     },

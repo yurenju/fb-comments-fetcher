@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150831/681269/",
   "comments": [
     {
+      "created_time": "2015-08-31T07:34:39+0000",
+      "from": {
+        "name": "江爵宇",
+        "id": "100000196539365"
+      },
+      "message": "那個應該不是糖葫蘆啦！應該是X眼塞！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "404251876366232_404300206361399"
+    },
+    {
       "created_time": "2015-08-31T06:55:07+0000",
       "from": {
         "name": "蔡霖偉",
@@ -23,7 +35,7 @@
       },
       "message": "應該還要背萬里長城, 毛公鼎, 翠玉白菜, 清明上河圖, 雷峰塔, 北京烤鴨.",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "404251876366232_404289209695832"
     },
@@ -35,7 +47,7 @@
       },
       "message": "明顯學「維多利亞的秘密」學了個四不像，真是可怕至極的品味，毫無文化底蘊可言。",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 8,
       "user_likes": false,
       "id": "404251876366232_404260526365367"
     },
@@ -59,7 +71,7 @@
       },
       "message": "中國阿土\n的服裝設計發表會\n\n是把涼亭縮小\n\n放在女模頭上\n\n天下第一土.....",
       "can_remove": false,
-      "like_count": 10,
+      "like_count": 15,
       "user_likes": false,
       "id": "404251876366232_404256563032430"
     },
@@ -71,7 +83,7 @@
       },
       "message": "是背糖葫蘆叫賣腳踏車",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "404251876366232_404253019699451"
     }

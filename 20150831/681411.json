@@ -4,6 +4,54 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150831/681411/",
   "comments": [
     {
+      "created_time": "2015-08-31T09:10:41+0000",
+      "from": {
+        "name": "廖綸綸",
+        "id": "100005775102514"
+      },
+      "message": "台灣隊長恰恰呢",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "965529583490439_965665166810214"
+    },
+    {
+      "created_time": "2015-08-31T08:09:27+0000",
+      "from": {
+        "name": "蔡源哲",
+        "id": "100001687715557"
+      },
+      "message": "沒恰恰算什麼12強名單",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "965529583490439_965596483483749"
+    },
+    {
+      "created_time": "2015-08-31T08:07:16+0000",
+      "from": {
+        "name": "孫修米",
+        "id": "100000344471665"
+      },
+      "message": "陳一郎?角度抓的真好。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "965529583490439_965595013483896"
+    },
+    {
+      "created_time": "2015-08-31T07:42:18+0000",
+      "from": {
+        "name": "Ray Wang",
+        "id": "100009574695468"
+      },
+      "message": "如果按照這名單出賽，不弄到冠軍賽很難!可惜~夢幻終究是夢",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "965529583490439_965578570152207"
+    },
+    {
       "created_time": "2015-08-31T06:53:20+0000",
       "from": {
         "name": "林冠峻",
@@ -71,7 +119,7 @@
       },
       "message": "如果國家在不重視這些運動員，我想這名單也只是好看而已",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "965529583490439_965562396820491"
     },
@@ -275,7 +323,7 @@
       },
       "message": "怎麼沒有胡金龍??",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 8,
       "user_likes": false,
       "id": "965529583490439_965542013489196"
     },
@@ -348,7 +396,7 @@
       },
       "message": "基本上陳偉殷不太可能回來吧......",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "965529583490439_965534190156645"
     },
