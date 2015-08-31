@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150831/681268/",
   "comments": [
     {
+      "created_time": "2015-08-31T05:41:48+0000",
+      "from": {
+        "name": "李奐廷",
+        "id": "100000679383706"
+      },
+      "message": "不想開學也不是這樣……",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "905623762839664_905763459492361"
+    },
+    {
+      "created_time": "2015-08-31T04:41:47+0000",
+      "from": {
+        "name": "劉晨霆",
+        "id": "100001754179875"
+      },
+      "message": "你以為這只是街頭幹架！？",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "905623762839664_905753096160064"
+    },
+    {
       "created_time": "2015-08-31T02:39:24+0000",
       "from": {
         "name": "鮑定言",
@@ -23,7 +47,7 @@
       },
       "message": "沒想到台灣人都有強國的基因呀~",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "905623762839664_905710696164304"
     },

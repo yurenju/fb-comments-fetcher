@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150831/681320/",
   "comments": [
     {
+      "created_time": "2015-08-31T05:14:07+0000",
+      "from": {
+        "name": "蔡霖",
+        "id": "100000408595681"
+      },
+      "message": "還是有人喜歡，呿",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "914377455300015_914454851958942"
+    },
+    {
+      "created_time": "2015-08-31T04:10:04+0000",
+      "from": {
+        "name": "Jimmy WU",
+        "id": "100007279548484"
+      },
+      "message": "1000元也要偷！？廢物",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "914377455300015_914424348628659"
+    },
+    {
       "created_time": "2015-08-31T03:40:34+0000",
       "from": {
         "name": "趙延民",
@@ -11,7 +35,7 @@
       },
       "message": "妳男友是人渣無誤",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "914377455300015_914410541963373"
     },
@@ -23,7 +47,7 @@
       },
       "message": "分手後第一件事要去看眼科\n\n加油",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "914377455300015_914378831966544"
     }
