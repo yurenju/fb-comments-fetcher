@@ -4,6 +4,31 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150831/681836/",
   "comments": [
     {
+      "created_time": "2015-08-31T15:28:20+0000",
+      "from": {
+        "name": "吳大中",
+        "id": "100000378159803"
+      },
+      "message": "Good job",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "954801511225436_954887461216841"
+    },
+    {
+      "created_time": "2015-08-31T15:20:43+0000",
+      "from": {
+        "name": "逆天違倫啦﹗",
+        "category": "Community",
+        "id": "456309647787927"
+      },
+      "message": "\"每天高達1400萬筆電子收費交易，成就了世界最高之通行量正確率99.9%，與可收費成功率99.97%\"？\n所有的計費、收費都是黑箱作業，很難有管道查證是否盜收款項，所以都算成功正確？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "954801511225436_954882934550627"
+    },
+    {
       "created_time": "2015-08-31T12:26:18+0000",
       "from": {
         "name": "魏遠平",
@@ -11,7 +36,7 @@
       },
       "message": "真正的台灣之光！交通部與高公局能夠忍辱負重完成這樣艱難的任務，迂迴於台灣這樣紛擾的政治惡鬥中，真正的了不起啊！",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "954801511225436_954814964557424"
     },

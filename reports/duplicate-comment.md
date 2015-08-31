@@ -389,7 +389,7 @@ users:
 * 這什麼「藍」課本　文具大亂鬥諷課綱爭議
 * 連戰赴中閱兵　黃國昌：自私自利無下限
 
-## 重複次數 31
+## 重複次數 32
 
 留言：
 
@@ -425,6 +425,7 @@ users:
 * [白白]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [賴德福]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [潘立晨]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Annma  Lin]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [周廷]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [許順裕]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [Francis Huang]('http://facebook.com/' + users[user].id) (重複 1 次)
@@ -459,6 +460,7 @@ users:
 * 蔡英文談「我眼中的台灣」　網友哭著看完
 * 【更新】連戰不宜赴中閱兵　謝長廷：藍綠共識
 * 【獨家】購買波多野卡粉絲團　破萬人參加
+* 【公庫】不跑紅白帖真能當選？ 專訪立委參選人詹順貴
 * 男童幫阿嬤推車拾荒　「她靠這個把我養大」
 * 新潤興業銷售部門　9月上線
 * 張忠謀對蔡英文投下不信任票

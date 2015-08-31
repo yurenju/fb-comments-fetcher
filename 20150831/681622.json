@@ -4,6 +4,87 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150831/681622/",
   "comments": [
     {
+      "created_time": "2015-08-31T14:56:53+0000",
+      "from": {
+        "name": "呂麗芬",
+        "id": "100009834078817"
+      },
+      "message": "恭喜阿~祝你們幸福喔~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "988805717828654_988933424482550"
+    },
+    {
+      "created_time": "2015-08-31T14:27:22+0000",
+      "from": {
+        "name": "邱建鈞",
+        "id": "100001633999710"
+      },
+      "message": "雷葛爾 哪天有喜貼收><",
+      "can_remove": false,
+      "like_count": 1,
+      "message_tags": [
+        {
+          "id": "100005249260406",
+          "length": 3,
+          "name": "雷葛爾",
+          "offset": 0,
+          "type": "user"
+        }
+      ],
+      "user_likes": false,
+      "id": "988805717828654_988920437817182"
+    },
+    {
+      "created_time": "2015-08-31T13:43:50+0000",
+      "from": {
+        "name": "Bear Kao",
+        "id": "100010281990806"
+      },
+      "message": "服飾店老闆陳郁翔 還蠻帥的....",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "988805717828654_988900641152495"
+    },
+    {
+      "created_time": "2015-08-31T13:25:00+0000",
+      "from": {
+        "name": "Bear Kao",
+        "id": "100010281990806"
+      },
+      "message": "在愛之前 人人平等\n台灣應儘速通過婚姻平權法案\n尊重異己 接納多元 社會更和諧",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "988805717828654_988895017819724"
+    },
+    {
+      "created_time": "2015-08-31T13:17:38+0000",
+      "from": {
+        "name": "林信宇",
+        "id": "100000246087521"
+      },
+      "message": "雷雷恭喜你唷！一定要幸福。",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "988805717828654_988892727819953"
+    },
+    {
+      "created_time": "2015-08-31T13:12:11+0000",
+      "from": {
+        "name": "吳肖恩",
+        "id": "100009518435401"
+      },
+      "message": "鬼火恭喜求婚成功  祝兩人能幸福長久到一輩子~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "988805717828654_988891401153419"
+    },
+    {
       "created_time": "2015-08-31T12:40:13+0000",
       "from": {
         "name": "黃新興",
@@ -47,7 +128,7 @@
       },
       "message": "我越意",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "988805717828654_988860494489843"
     },
@@ -100,18 +181,6 @@
       "id": "988805717828654_988847747824451"
     },
     {
-      "created_time": "2015-08-31T11:00:36+0000",
-      "from": {
-        "name": "邱建鈞",
-        "id": "100001633999710"
-      },
-      "message": "我要喜帖  ((期待",
-      "can_remove": false,
-      "like_count": 0,
-      "user_likes": false,
-      "id": "988805717828654_988841704491722"
-    },
-    {
       "created_time": "2015-08-31T10:55:01+0000",
       "from": {
         "name": "Xiao Mu Chen",
@@ -155,7 +224,7 @@
       },
       "message": "終於可以拿到紅包錢了(握拳",
       "can_remove": false,
-      "like_count": 54,
+      "like_count": 77,
       "user_likes": false,
       "id": "988805717828654_988832517825974"
     },

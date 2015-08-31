@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150831/681778/",
   "comments": [
     {
+      "created_time": "2015-08-31T13:56:29+0000",
+      "from": {
+        "name": "黃永宗",
+        "id": "100006283812543"
+      },
+      "message": "從來就聽不清楚他在講什麼！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "812559862194008_812647435518584"
+    },
+    {
+      "created_time": "2015-08-31T13:49:10+0000",
+      "from": {
+        "name": "Stanley Lin",
+        "id": "100000233656000"
+      },
+      "message": "蘋果對民進黨及時代力量好親密喔",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "812559862194008_812642978852363"
+    },
+    {
+      "created_time": "2015-08-31T13:43:17+0000",
+      "from": {
+        "name": "Chris Shen",
+        "id": "100000913346862"
+      },
+      "message": "他是比較像國民黨的民進黨員，有他在民進黨的形象好不了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "812559862194008_812639825519345"
+    },
+    {
       "created_time": "2015-08-31T12:54:15+0000",
       "from": {
         "name": "Jason Chen",
@@ -59,7 +95,7 @@
       },
       "message": "抓去關一關就很閒了",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "812559862194008_812569912193003"
     }

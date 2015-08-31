@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150831/681595/",
   "comments": [
     {
+      "created_time": "2015-08-31T15:06:24+0000",
+      "from": {
+        "name": "呂麗芬",
+        "id": "100009834078817"
+      },
+      "message": "可是每次我打開goole也都跑出來一些網頁卻都是說我中獎，不然就是色情網頁…這也是招聘的挑戰嗎…",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1199022093448669_1199233456760866"
+    },
+    {
       "created_time": "2015-08-31T08:27:55+0000",
       "from": {
         "name": "Hatter Mad",
@@ -11,7 +23,7 @@
       },
       "message": "google正在走微軟的老路",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1199022093448669_1199048300112715"
     }

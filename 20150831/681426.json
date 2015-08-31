@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150831/681426/",
   "comments": [
     {
+      "created_time": "2015-08-31T13:02:05+0000",
+      "from": {
+        "name": "Stockcancer King",
+        "id": "100002900426696"
+      },
+      "message": "如果可能，記得緊盯蔡英文",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "903383809699403_903493116355139"
+    },
+    {
       "created_time": "2015-08-31T12:35:42+0000",
       "from": {
         "name": "Stanley Lin",
@@ -47,7 +59,7 @@
       },
       "message": "這樣公務員打混時間變少不排除上街頭抗議",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "903383809699403_903417823029335"
     },

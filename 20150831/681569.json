@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150831/681569/",
   "comments": [
     {
+      "created_time": "2015-08-31T15:40:25+0000",
+      "from": {
+        "name": "Chen Mack",
+        "id": "100004640629395"
+      },
+      "message": "這樣的報導\n會令人懷疑",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1189747344375100_1190045181011983"
+    },
+    {
+      "created_time": "2015-08-31T14:18:49+0000",
+      "from": {
+        "name": "徐豫騜",
+        "id": "100007893825758"
+      },
+      "message": "隋堂是愛護動物的藝人\n她的善良\n會為自己帶來好福氣的",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1189747344375100_1190013047681863"
+    },
+    {
+      "created_time": "2015-08-31T13:43:10+0000",
+      "from": {
+        "name": "吳政耀",
+        "id": "100005811101475"
+      },
+      "message": "幸福就是給劈腿男跟小三最好的懲罰",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1189747344375100_1189999891016512"
+    },
+    {
       "created_time": "2015-08-31T12:29:23+0000",
       "from": {
         "name": "蔡蔡",
@@ -91,18 +127,6 @@
     {
       "created_time": "2015-08-31T09:08:36+0000",
       "from": {
-        "name": "咪咪",
-        "id": "100000140465741"
-      },
-      "message": "耶！",
-      "can_remove": false,
-      "like_count": 1,
-      "user_likes": false,
-      "id": "1189747344375100_1189797631036738"
-    },
-    {
-      "created_time": "2015-08-31T09:08:36+0000",
-      "from": {
         "name": "鄭鈞丯",
         "id": "100005050669466"
       },
@@ -111,6 +135,18 @@
       "like_count": 1,
       "user_likes": false,
       "id": "1189747344375100_1189797627703405"
+    },
+    {
+      "created_time": "2015-08-31T09:08:36+0000",
+      "from": {
+        "name": "咪咪",
+        "id": "100000140465741"
+      },
+      "message": "耶！",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1189747344375100_1189797631036738"
     },
     {
       "created_time": "2015-08-31T09:01:28+0000",
@@ -127,18 +163,6 @@
     {
       "created_time": "2015-08-31T08:56:32+0000",
       "from": {
-        "name": "陳怡婷",
-        "id": "100010162689696"
-      },
-      "message": "恭喜",
-      "can_remove": false,
-      "like_count": 1,
-      "user_likes": false,
-      "id": "1189747344375100_1189795324370302"
-    },
-    {
-      "created_time": "2015-08-31T08:56:32+0000",
-      "from": {
         "name": "PinWenot Ning",
         "id": "100010093658805"
       },
@@ -147,6 +171,18 @@
       "like_count": 1,
       "user_likes": false,
       "id": "1189747344375100_1189795334370301"
+    },
+    {
+      "created_time": "2015-08-31T08:56:32+0000",
+      "from": {
+        "name": "陳怡婷",
+        "id": "100010162689696"
+      },
+      "message": "恭喜",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1189747344375100_1189795324370302"
     },
     {
       "created_time": "2015-08-31T08:43:34+0000",
@@ -216,7 +252,7 @@
       },
       "message": "自然產給妳拍拍手！恭喜",
       "can_remove": false,
-      "like_count": 8,
+      "like_count": 9,
       "user_likes": false,
       "id": "1189747344375100_1189777224372112"
     },
@@ -336,7 +372,7 @@
       },
       "message": "終於看到女明星肯自然產了，讚！",
       "can_remove": false,
-      "like_count": 17,
+      "like_count": 18,
       "user_likes": false,
       "id": "1189747344375100_1189754554374379"
     },
@@ -420,7 +456,7 @@
       },
       "message": "這種雞皮蒜毛的事，蘋果也要作快訊…唉哀！",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1189747344375100_1189750334374801"
     },
@@ -444,7 +480,7 @@
       },
       "message": "沒新聞可以報了嗎？",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "1189747344375100_1189747794375055"
     }

@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150831/681792/",
   "comments": [
     {
+      "created_time": "2015-08-31T14:16:24+0000",
+      "from": {
+        "name": "陳律君",
+        "id": "100006474451472"
+      },
+      "message": "我也看成金宇彬，是抱著心碎的心情點進來看的",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "951982511528153_952037981522606"
+    },
+    {
+      "created_time": "2015-08-31T13:39:13+0000",
+      "from": {
+        "name": "Spirit Masau",
+        "id": "100001325354613"
+      },
+      "message": "好像大家都看錯(>﹏<)",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "951982511528153_952025634857174"
+    },
+    {
       "created_time": "2015-08-31T11:38:07+0000",
       "from": {
         "name": "Zuehua Yeh",
@@ -11,7 +35,7 @@
       },
       "message": "只有我看成金宇彬嗎？？@@",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 10,
       "user_likes": false,
       "id": "951982511528153_951990478194023"
     }
