@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/682006/",
   "comments": [
     {
+      "created_time": "2015-08-31T19:05:27+0000",
+      "from": {
+        "name": "李宗諭",
+        "id": "1843881165"
+      },
+      "message": "肯德基也要求停戰，\n邀麥當勞生產象徵和平的\"麥基雞\"....",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "900601300014908_900635956678109"
+    },
+    {
+      "created_time": "2015-08-31T19:03:16+0000",
+      "from": {
+        "name": "陳泓",
+        "id": "100001022505917"
+      },
+      "message": "我覺得弘爺 的漢堡也不錯\n趕快去報名",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "900601300014908_900634576678247"
+    },
+    {
       "created_time": "2015-08-31T18:47:33+0000",
       "from": {
         "name": "James Zhao",
@@ -11,7 +35,7 @@
       },
       "message": "麥：我是龍頭～你是巨頭～也不看看自己～評什麼我要跟你合作！\n\n一個雙贏的活動～但麥沒有意願～\n\n難怪麥近幾年的成長是負的～只想獨占市場～卻沒有想到一張嘴就這麼大能吃多少",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "900601300014908_900627626678942"
     }
