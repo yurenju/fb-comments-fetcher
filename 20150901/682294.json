@@ -4,6 +4,78 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/682294/",
   "comments": [
     {
+      "created_time": "2015-09-01T12:34:34+0000",
+      "from": {
+        "name": "Mero Meow",
+        "id": "1824906159"
+      },
+      "message": "其實這是什么卡來的？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1010365705682030_1010581305660470"
+    },
+    {
+      "created_time": "2015-09-01T12:18:44+0000",
+      "from": {
+        "name": "有電",
+        "id": "100000221867127"
+      },
+      "message": "一卡通阿阿阿阿阿",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1010365705682030_1010574538994480"
+    },
+    {
+      "created_time": "2015-09-01T12:10:33+0000",
+      "from": {
+        "name": "Ted Chen",
+        "id": "100000298912661"
+      },
+      "message": "跟一張啦！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1010365705682030_1010571972328070"
+    },
+    {
+      "created_time": "2015-09-01T11:08:04+0000",
+      "from": {
+        "name": "姚尚易",
+        "id": "100000634531018"
+      },
+      "message": "簽名會順道拜託了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1010365705682030_1010547732330494"
+    },
+    {
+      "created_time": "2015-09-01T11:01:16+0000",
+      "from": {
+        "name": "Erich Yang",
+        "id": "1658932799"
+      },
+      "message": "高手在民間\n政府?呵~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1010365705682030_1010545268997407"
+    },
+    {
+      "created_time": "2015-09-01T10:31:31+0000",
+      "from": {
+        "name": "張庭阪",
+        "id": "100007077469402"
+      },
+      "message": "這年頭要依賴政府的行政效率\n還不如靠各行各業神通廣大的鄉民集思比較快！",
+      "can_remove": false,
+      "like_count": 8,
+      "user_likes": false,
+      "id": "1010365705682030_1010538815664719"
+    },
+    {
       "created_time": "2015-09-01T07:58:39+0000",
       "from": {
         "name": "Olson Deng",
@@ -11,7 +83,7 @@
       },
       "message": "產地直銷( ´▽` )ﾉ",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1010365705682030_1010497639002170"
     },
@@ -47,7 +119,7 @@
       },
       "message": "可以團購製作上原亞衣的嗎?",
       "can_remove": false,
-      "like_count": 14,
+      "like_count": 36,
       "user_likes": false,
       "id": "1010365705682030_1010381012347166"
     },
@@ -59,7 +131,7 @@
       },
       "message": "納入高中課綱就不用印了",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "1010365705682030_1010370825681518"
     }

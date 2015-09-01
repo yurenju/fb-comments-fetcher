@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/682411/",
   "comments": [
     {
+      "created_time": "2015-09-01T10:36:44+0000",
+      "from": {
+        "name": "郭旭",
+        "id": "100002126199220"
+      },
+      "message": "欠錢不還真的很雜碎\n瑞洲電裝有限公司,做光陽跟三陽的生意這麼賺還不還\nhttp://china.motorcycle-components.com/",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "891262560955021_891310020950275"
+    },
+    {
+      "created_time": "2015-09-01T10:13:00+0000",
+      "from": {
+        "name": "Bally Fu",
+        "id": "100000433418156"
+      },
+      "message": "會有報應的！",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "891262560955021_891305067617437"
+    },
+    {
       "created_time": "2015-09-01T09:24:51+0000",
       "from": {
         "name": "Tsung Hung Liu",
@@ -23,7 +47,7 @@
       },
       "message": "會有報應的",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "891262560955021_891275867620357"
     },

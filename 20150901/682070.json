@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/682070/",
   "comments": [
     {
+      "created_time": "2015-09-01T11:57:56+0000",
+      "from": {
+        "name": "崔名緯",
+        "id": "100002553979085"
+      },
+      "message": "還以為是郭泓志中獎了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1160759433940774_1161006563916061"
+    },
+    {
       "created_time": "2015-09-01T09:19:16+0000",
       "from": {
         "name": "黃明家",
@@ -191,7 +203,7 @@
       },
       "message": "台彩這是想吃外國人豆腐用這個來當業配文\n台彩真是極度無恥",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 6,
       "user_likes": false,
       "id": "1160759433940774_1160785480604836"
     },
@@ -299,7 +311,7 @@
       },
       "message": "中大獎，竟然沒打馬賽克，\n是本人帶種？還是記者陷害？",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "1160759433940774_1160764713940246"
     },

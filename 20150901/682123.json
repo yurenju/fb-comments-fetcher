@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/682123/",
   "comments": [
     {
+      "created_time": "2015-09-01T10:45:47+0000",
+      "from": {
+        "name": "Linda Chen",
+        "id": "100008215278482"
+      },
+      "message": "習大大把一些人事省略說了，又混亂了真正台灣人的心智。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "891505537596878_891653560915409"
+    },
+    {
       "created_time": "2015-09-01T09:37:08+0000",
       "from": {
         "name": "詹錦鐘",
@@ -348,7 +360,7 @@
       },
       "message": "70年前絕大多數台灣人忙著躲避來自美軍和中國空軍的轟炸和掃射。",
       "can_remove": false,
-      "like_count": 10,
+      "like_count": 11,
       "user_likes": false,
       "id": "891505537596878_891508017596630"
     },
@@ -384,7 +396,7 @@
       },
       "message": "說竄改史實的話，國共真的無人出其右～",
       "can_remove": false,
-      "like_count": 13,
+      "like_count": 14,
       "user_likes": false,
       "id": "891505537596878_891507690929996"
     },

@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/682013/",
   "comments": [
     {
+      "created_time": "2015-09-01T10:48:33+0000",
+      "from": {
+        "name": "鄭依凡",
+        "id": "100003081387020"
+      },
+      "message": "三蘆藥頭陳阿松與其黨羽幹的好事,因為毒品交易糾紛黑吃黑,陳阿松是目前蘆洲最大藥頭,並且與蘆洲警方新北市政府關係密切.為目前蘆洲幕後最大毒梟,手下小弟引發三蘆大戰/水門棄屍案/錦西街擄人至三重的綁架案,不過以上案件目前皆由小弟頂罪與警方吃案河蟹掉 這起殺人案也不算是大案子",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "938241319556146_938602119520066"
+    },
+    {
+      "created_time": "2015-09-01T10:13:01+0000",
+      "from": {
+        "name": "初志強",
+        "id": "100004555661717"
+      },
+      "message": "朱主席你這下真是屋漏偏逢連夜雨衰微",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "938241319556146_938593809520897"
+    },
+    {
       "created_time": "2015-09-01T09:14:09+0000",
       "from": {
         "name": "Chang Joey",
@@ -473,7 +497,7 @@
       },
       "message": "又會有人說柯文哲負責，柯文哲下台了",
       "can_remove": false,
-      "like_count": 17,
+      "like_count": 19,
       "user_likes": false,
       "id": "938241319556146_938294199550858"
     },
@@ -545,7 +569,7 @@
       },
       "message": "新北真好 都沒人管",
       "can_remove": false,
-      "like_count": 19,
+      "like_count": 21,
       "user_likes": false,
       "id": "938241319556146_938284496218495"
     },

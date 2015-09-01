@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/681777/",
   "comments": [
     {
+      "created_time": "2015-09-01T12:43:51+0000",
+      "from": {
+        "name": "陳懷谿",
+        "id": "100000021292969"
+      },
+      "message": "粉紅色很搶手 但很多是假的",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1216677281681924_1217220294960956"
+    },
+    {
+      "created_time": "2015-09-01T10:45:28+0000",
+      "from": {
+        "name": "Anderson Kung",
+        "id": "100000710670791"
+      },
+      "message": "我的5S終於可以退休了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1216677281681924_1217173614965624"
+    },
+    {
       "created_time": "2015-09-01T09:49:13+0000",
       "from": {
         "name": "傅清詮",
@@ -24,7 +48,7 @@
       },
       "message": "呼叫林志穎.........",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1216677281681924_1217078244975161"
     },
@@ -36,7 +60,7 @@
       },
       "message": "快出吧～二手l6我來了。",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "1216677281681924_1217053194977666"
     },
@@ -85,7 +109,7 @@
       },
       "message": "等好久了，準備要換手機了",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 6,
       "user_likes": false,
       "id": "1216677281681924_1217028784980107"
     },
@@ -124,18 +148,6 @@
       "like_count": 4,
       "user_likes": false,
       "id": "1216677281681924_1216739895008996"
-    },
-    {
-      "created_time": "2015-08-31T16:17:05+0000",
-      "from": {
-        "name": "Js Ch",
-        "id": "100001680761261"
-      },
-      "message": "Nice",
-      "can_remove": false,
-      "like_count": 0,
-      "user_likes": false,
-      "id": "1216677281681924_1216681865014799"
     }
   ]
 }

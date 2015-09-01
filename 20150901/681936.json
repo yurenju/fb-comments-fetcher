@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/681936/",
   "comments": [
     {
+      "created_time": "2015-09-01T12:32:34+0000",
+      "from": {
+        "name": "Tom Fomzan",
+        "id": "100000246246165"
+      },
+      "message": "降腦壓的藥要不要放手阿?這樣藥廠都不賣了~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "893496257396987_894046944008585"
+    },
+    {
       "created_time": "2015-09-01T08:41:26+0000",
       "from": {
         "name": "Huang John",
@@ -11,7 +23,7 @@
       },
       "message": "婦團怎沒有出來靠北這張照片?",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "893496257396987_893930847353528"
     },
@@ -24,7 +36,7 @@
       },
       "message": "這大概近幾年來, 蘋果最有實質意義的新聞了",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "893496257396987_893912480688698"
     },
@@ -168,7 +180,7 @@
       },
       "message": "電子票證iPASS一卡通，\n今起可在北高雙捷運及公共自行車系統使用。\n\n那臺北捷運悠遊卡，可以在高雄使用嗎？\n高雄的卡努力北上，\n你臺北的，是否也該努力一下？\n加油～",
       "can_remove": false,
-      "like_count": 7,
+      "like_count": 8,
       "user_likes": false,
       "id": "893496257396987_893739614039318"
     },

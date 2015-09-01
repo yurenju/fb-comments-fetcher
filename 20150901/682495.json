@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/682495/",
   "comments": [
     {
+      "created_time": "2015-09-01T11:24:24+0000",
+      "from": {
+        "name": "張工皓",
+        "id": "100001116667391"
+      },
+      "message": "七月可賣鬼",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "956812134341090_956863997669237"
+    },
+    {
+      "created_time": "2015-09-01T10:14:48+0000",
+      "from": {
+        "name": "Charles Kou",
+        "id": "100000907865230"
+      },
+      "message": "建商合約書並無代施工夾層，由買方自行違章，且9月1日的新法，並不真的，因為在（建照核准後）建商拿到使用執照後再二工，没舉報……所以沒事。哈哈！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "956812134341090_956844794337824"
+    },
+    {
       "created_time": "2015-09-01T09:24:17+0000",
       "from": {
         "name": "Mark Hsu",
@@ -11,7 +35,7 @@
       },
       "message": "16~18坪，3、4.2米複層式產品的預售屋在9月1日新法施行後還能玩(搞)嗎?\n1550萬買套房，科科~~",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "956812134341090_956833354338968"
     }

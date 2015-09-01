@@ -35,7 +35,7 @@
       },
       "message": "我在很多板看過有人宣稱國民黨黨證的神蹟，快去辦一張保平安吧",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "999937766704583_1000035290028164"
     },
@@ -59,21 +59,9 @@
       },
       "message": "安啦！台南市副市長說過：登革熱死亡率不及1%，不用怕，大家一定要繼續挺花媽和賴神。",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "999937766704583_999992176699142"
-    },
-    {
-      "created_time": "2015-09-01T04:23:26+0000",
-      "from": {
-        "name": "郭雅慧",
-        "id": "100001940981390"
-      },
-      "message": "應該將台南封城全面消毒",
-      "can_remove": false,
-      "like_count": 4,
-      "user_likes": false,
-      "id": "999937766704583_999948516703508"
     },
     {
       "created_time": "2015-09-01T04:21:16+0000",
@@ -83,7 +71,7 @@
       },
       "message": "小小登革熱，南部怎麼那麼容易死人，\n台南１７人，高雄１人。比新北八仙塵爆的人死的還要多人。",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 7,
       "user_likes": false,
       "id": "999937766704583_999948133370213"
     },
@@ -107,7 +95,7 @@
       },
       "message": "如此草菅人命，的市政府，百姓生命如此不值，市長怎麼幹的",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "999937766704583_999944770037216"
     },
