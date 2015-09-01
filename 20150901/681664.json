@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/681664/",
   "comments": [
     {
+      "created_time": "2015-09-01T02:36:42+0000",
+      "from": {
+        "name": "姚玲",
+        "id": "100000310352416"
+      },
+      "message": "現在人民眼睛很雪亮,民進黨若執政疏忽民意,你想,民進黨會有好日子過嗎?反觀,民進黨執政ㄉ縣市民心如何呢?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "947745161930724_947936425244931"
+    },
+    {
+      "created_time": "2015-09-01T02:27:56+0000",
+      "from": {
+        "name": "謝正和",
+        "id": "100007830964258"
+      },
+      "message": "明年大選穩贏，現在可以放假了。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "947745161930724_947931411912099"
+    },
+    {
+      "created_time": "2015-09-01T01:25:29+0000",
+      "from": {
+        "name": "金瑜",
+        "id": "100008437568398"
+      },
+      "message": "民進黨眼中只有政治算計，沒有國家大事！到時候再來一次策動「反 XXXX 黑箱」，到時他們又是正義使者了！誰會去管他監不監督呢?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "947745161930724_947915845246989"
+    },
+    {
       "created_time": "2015-09-01T00:37:29+0000",
       "from": {
         "name": "佘凡",

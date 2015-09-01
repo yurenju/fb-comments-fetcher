@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/681896/",
   "comments": [
     {
+      "created_time": "2015-09-01T06:29:41+0000",
+      "from": {
+        "name": "葉智為",
+        "id": "100001543540382"
+      },
+      "message": "還好這位歐先生 心腸好救了這隻貓",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "953308471393115_953552408035388"
+    },
+    {
+      "created_time": "2015-09-01T04:23:09+0000",
+      "from": {
+        "name": "黃秀琴",
+        "id": "100004847801770"
+      },
+      "message": "好可憐喔",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "953308471393115_953512484706047"
+    },
+    {
       "created_time": "2015-09-01T00:24:26+0000",
       "from": {
         "name": "林明珠",
@@ -11,7 +35,7 @@
       },
       "message": "還好貓咪沒事這樣放心多了",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 3,
       "user_likes": false,
       "id": "953308471393115_953444458046183"
     },
@@ -23,7 +47,7 @@
       },
       "message": "謝謝救貓咪的人.....",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 4,
       "user_likes": false,
       "id": "953308471393115_953416234715672"
     },
@@ -35,7 +59,7 @@
       },
       "message": "加油，喵星人^o^",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "953308471393115_953408934716402"
     },
@@ -47,7 +71,7 @@
       },
       "message": "謝謝!歐陽武先生，徒手救了貓咪，也感謝獸醫生收留救牠，，謝謝二位愛心!!",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "953308471393115_953327218057907"
     },
@@ -59,7 +83,7 @@
       },
       "message": "謝謝您們救了貓咪",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "953308471393115_953321074725188"
     }

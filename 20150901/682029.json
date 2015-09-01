@@ -4,6 +4,78 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/682029/",
   "comments": [
     {
+      "created_time": "2015-09-01T06:41:13+0000",
+      "from": {
+        "name": "成奎安",
+        "id": "100008830353213"
+      },
+      "message": "動手都會後悔的",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "763869790388708_763976777044676"
+    },
+    {
+      "created_time": "2015-09-01T05:03:46+0000",
+      "from": {
+        "name": "Sky Wang",
+        "id": "100003520484613"
+      },
+      "message": "人家家務事幹你屁事啊??",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "763869790388708_763956780380009"
+    },
+    {
+      "created_time": "2015-09-01T03:32:55+0000",
+      "from": {
+        "name": "古瑞特",
+        "id": "100007956706110"
+      },
+      "message": "在那邊亂三小編故事",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "763869790388708_763936630382024"
+    },
+    {
+      "created_time": "2015-09-01T01:52:39+0000",
+      "from": {
+        "name": "Ricky Chung",
+        "id": "100000020972625"
+      },
+      "message": "遠看以為是王偉忠",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "763869790388708_763915443717476"
+    },
+    {
+      "created_time": "2015-09-01T01:44:31+0000",
+      "from": {
+        "name": "Steven Cheng",
+        "id": "100006662683365"
+      },
+      "message": "神經病",
+      "can_remove": false,
+      "like_count": 27,
+      "user_likes": false,
+      "id": "763869790388708_763912147051139"
+    },
+    {
+      "created_time": "2015-09-01T01:01:18+0000",
+      "from": {
+        "name": "洪英傑",
+        "id": "100001666965471"
+      },
+      "message": "傷害罪是告訴乃論！不會有計錄，那是鼓勵我們大眾可以多多傷害別人了唷？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "763869790388708_763902660385421"
+    },
+    {
       "created_time": "2015-08-31T23:30:15+0000",
       "from": {
         "name": "王振宇",
@@ -11,7 +83,7 @@
       },
       "message": "是沒新聞可報，干你啥事哦！",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "763869790388708_763882470387440"
     },
@@ -35,7 +107,7 @@
       },
       "message": "將軍，我一定會判你有罪(咦？！",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 6,
       "user_likes": false,
       "id": "763869790388708_763871557055198"
     }
