@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/682508/",
   "comments": [
     {
+      "created_time": "2015-09-01T15:41:57+0000",
+      "from": {
+        "name": "Eden Cheng",
+        "id": "100006453055252"
+      },
+      "message": "右下方的最好！所有代表nz的元素都有了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "740147196097041_740251679419926"
+    },
+    {
       "created_time": "2015-09-01T10:03:31+0000",
       "from": {
         "name": "Jerry Chien",
@@ -35,7 +47,7 @@
       },
       "message": "請問狗民黨  我們可以換國旗嗎?  不然我搞不懂你們的黨輝跟國旗的差別",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 12,
       "user_likes": false,
       "id": "740147196097041_740152206096540"
     },
@@ -47,7 +59,7 @@
       },
       "message": "台灣應該要換國旗",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "740147196097041_740149019430192"
     }

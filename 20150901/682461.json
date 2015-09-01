@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/682461/",
   "comments": [
     {
+      "created_time": "2015-09-01T15:20:37+0000",
+      "from": {
+        "name": "米立",
+        "id": "100002828868525"
+      },
+      "message": "行人闖紅燈不管是否走在斑馬線是有罰則，不知是警察人太好還是没空管。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "736249253169296_736384933155728"
+    },
+    {
+      "created_time": "2015-09-01T13:33:48+0000",
+      "from": {
+        "name": "許仲賢",
+        "id": "100005223877289"
+      },
+      "message": "我家附近的死老人們也是這麼囂張呀",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "736249253169296_736347183159503"
+    },
+    {
       "created_time": "2015-09-01T11:30:18+0000",
       "from": {
         "name": "張工皓",
@@ -35,7 +59,7 @@
       },
       "message": "有霸王條款當然霸氣，好幹來撞",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "736249253169296_736254173168804"
     },

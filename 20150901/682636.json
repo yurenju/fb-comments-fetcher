@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/682636/",
   "comments": [
     {
+      "created_time": "2015-09-01T14:14:54+0000",
+      "from": {
+        "name": "Yu Chi",
+        "id": "100005356445680"
+      },
+      "message": "倒楣的路燈，不知道會不會被依過失致死移送，好可憐的路燈",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "903955123009301_904022589669221"
+    },
+    {
       "created_time": "2015-09-01T12:04:15+0000",
       "from": {
         "name": "朱柏諺",
@@ -23,7 +35,7 @@
       },
       "message": "酒駕喪命一點都不冤枉，幸好沒波及其他用路人就好",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "903955123009301_903963073008506"
     },
@@ -35,7 +47,7 @@
       },
       "message": "喝酒還是硬要開車，講都講不聽，這下好了，被天收走",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "903955123009301_903958449675635"
     }

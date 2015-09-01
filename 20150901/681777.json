@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/681777/",
   "comments": [
     {
+      "created_time": "2015-09-01T15:58:48+0000",
+      "from": {
+        "name": "BenJamin Pan",
+        "id": "100000194877246"
+      },
+      "message": "台灣(國)!!!!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1216677281681924_1217322621617390"
+    },
+    {
       "created_time": "2015-09-01T12:43:51+0000",
       "from": {
         "name": "陳懷谿",
@@ -97,7 +109,7 @@
       },
       "message": "等很久了  手機都要燒了",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1216677281681924_1217033364979649"
     },
@@ -109,7 +121,7 @@
       },
       "message": "等好久了，準備要換手機了",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 7,
       "user_likes": false,
       "id": "1216677281681924_1217028784980107"
     },
@@ -133,7 +145,7 @@
       },
       "message": "我全包了",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1216677281681924_1216975604985425"
     },
@@ -145,7 +157,7 @@
       },
       "message": "已期待。",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "1216677281681924_1216739895008996"
     }

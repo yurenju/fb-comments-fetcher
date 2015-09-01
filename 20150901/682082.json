@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/682082/",
   "comments": [
     {
+      "created_time": "2015-09-01T13:45:22+0000",
+      "from": {
+        "name": "許迪樓",
+        "id": "100001629212589"
+      },
+      "message": "南無阿彌陀佛",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1093198037358019_1093486027329220"
+    },
+    {
       "created_time": "2015-09-01T09:31:51+0000",
       "from": {
         "name": "南天",
@@ -160,7 +172,7 @@
       },
       "message": "馬：治安20年來最好",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 5,
       "user_likes": false,
       "id": "1093198037358019_1093219787355844"
     },

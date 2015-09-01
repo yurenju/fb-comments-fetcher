@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/682283/",
   "comments": [
     {
+      "created_time": "2015-09-01T14:57:15+0000",
+      "from": {
+        "name": "楊君",
+        "id": "100004574114020"
+      },
+      "message": "意外要發生 就是會發生\n無法預料的",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1059489367402028_1059673610716937"
+    },
+    {
+      "created_time": "2015-09-01T14:00:11+0000",
+      "from": {
+        "name": "李家珍",
+        "id": "100005441837242"
+      },
+      "message": "媽媽是只顧著吃嗎？千錯萬錯都是別人的錯.難道不懂服務業的辛苦嗎？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1059489367402028_1059649460719352"
+    },
+    {
+      "created_time": "2015-09-01T13:56:20+0000",
+      "from": {
+        "name": "劉曉蒨",
+        "id": "100007724199550"
+      },
+      "message": "媽媽有責任！自己應該也要照顧好！倒楣的是那端湯的服務生雖然他不是故意的應該也嚇壞了！身為這間店的老闆娘也應該適時的維護員工還有誠心的道歉才是！畢竟雙方都有點責任…",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1059489367402028_1059648264052805"
+    },
+    {
       "created_time": "2015-09-01T09:04:24+0000",
       "from": {
         "name": "Love Hiro",
@@ -11,7 +47,7 @@
       },
       "message": "小孩自己沒顧好不要只怪店家",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1059489367402028_1059546074063024"
     },
@@ -47,7 +83,7 @@
       },
       "message": "拜託，出去吃飯我都讓小孩遠離可能上菜的地方，最好是內側座位，這媽媽自己也疏忽",
       "can_remove": false,
-      "like_count": 17,
+      "like_count": 19,
       "user_likes": false,
       "id": "1059489367402028_1059494837401481"
     },

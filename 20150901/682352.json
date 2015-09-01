@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/682352/",
   "comments": [
     {
+      "created_time": "2015-09-01T15:53:21+0000",
+      "from": {
+        "name": "Paul Lee",
+        "id": "100009533053219"
+      },
+      "message": "連戰：妳是哪位？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "870175093030975_870328709682280"
+    },
+    {
+      "created_time": "2015-09-01T13:43:28+0000",
+      "from": {
+        "name": "Ching Song Chen",
+        "id": "100000226317197"
+      },
+      "message": "空心蛀 又一次空心發言 連敗會在意就不會去了。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "870175093030975_870288803019604"
+    },
+    {
       "created_time": "2015-09-01T12:23:45+0000",
       "from": {
         "name": "Andy Lu",
@@ -71,7 +95,7 @@
       },
       "message": "顧慮台灣人民的感受？妳就直接講白是要連爺爺顧慮民調最低候選人的立場吧。",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "870175093030975_870176729697478"
     },
@@ -83,7 +107,7 @@
       },
       "message": "國民黨派出這種候選人，簡直在污辱人民的智慧!",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "870175093030975_870176409697510"
     },
@@ -95,7 +119,7 @@
       },
       "message": "我不知道該說什麼…樓下得覺得如何?",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "870175093030975_870175973030887"
     },
@@ -107,7 +131,7 @@
       },
       "message": "看來空心柱不是度辜!就在甲仙咧!",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "870175093030975_870175579697593"
     }

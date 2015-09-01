@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/682118/",
   "comments": [
     {
+      "created_time": "2015-09-01T15:27:15+0000",
+      "from": {
+        "name": "潘詠駿",
+        "id": "100004896516848"
+      },
+      "message": "中央太爛了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "849622725092346_849814865073132"
+    },
+    {
+      "created_time": "2015-09-01T13:28:02+0000",
+      "from": {
+        "name": "孫賢武",
+        "id": "100002216801206"
+      },
+      "message": "抱歉 這就是台灣政府",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "849622725092346_849772798410672"
+    },
+    {
       "created_time": "2015-09-01T12:17:01+0000",
       "from": {
         "name": "Chang Lo",
@@ -47,7 +71,7 @@
       },
       "message": "那大家休息啊   這麼危險出事沒補償   誰要做？",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "849622725092346_849733125081306"
     },
@@ -336,7 +360,7 @@
       },
       "message": "有人不用做事還可爽領 18% ... 一個拿月 47 萬，還能去大陸閱兵，基層因公殉職的卻被駁回 ~ 真的是很無言。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "849622725092346_849660758421876"
     },
@@ -529,7 +553,7 @@
       },
       "message": "八仙塵暴.....\n去玩、去開趴，受難國賠\n颱風天救災受難，你家的事.....",
       "can_remove": false,
-      "like_count": 35,
+      "like_count": 37,
       "user_likes": false,
       "id": "849622725092346_849635891757696"
     },

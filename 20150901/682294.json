@@ -4,6 +4,51 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/682294/",
   "comments": [
     {
+      "created_time": "2015-09-01T14:23:58+0000",
+      "from": {
+        "name": "張康",
+        "id": "1450695270"
+      },
+      "message": "都自己印的話三點因該可以微微的露ㄧ點吧。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1010365705682030_1010621798989754"
+    },
+    {
+      "created_time": "2015-09-01T14:12:10+0000",
+      "from": {
+        "name": "伊達",
+        "id": "100006117547778"
+      },
+      "message": "Shidow Lkc",
+      "can_remove": false,
+      "like_count": 0,
+      "message_tags": [
+        {
+          "id": "100000337961134",
+          "length": 10,
+          "name": "Shidow Lkc",
+          "offset": 0,
+          "type": "user"
+        }
+      ],
+      "user_likes": false,
+      "id": "1010365705682030_1010617092323558"
+    },
+    {
+      "created_time": "2015-09-01T13:48:27+0000",
+      "from": {
+        "name": "康文隆",
+        "id": "100002457693681"
+      },
+      "message": "水啦！人民團結起來自己做主！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1010365705682030_1010608325657768"
+    },
+    {
       "created_time": "2015-09-01T12:34:34+0000",
       "from": {
         "name": "Mero Meow",
@@ -119,7 +164,7 @@
       },
       "message": "可以團購製作上原亞衣的嗎?",
       "can_remove": false,
-      "like_count": 36,
+      "like_count": 41,
       "user_likes": false,
       "id": "1010365705682030_1010381012347166"
     },

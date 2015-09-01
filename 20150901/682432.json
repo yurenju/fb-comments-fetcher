@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/682432/",
   "comments": [
     {
+      "created_time": "2015-09-01T13:16:59+0000",
+      "from": {
+        "name": "Lie-Juian Lin",
+        "id": "100001984320291"
+      },
+      "message": "0團費\n+1條龍的垃圾民\n\n賺死了....",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1142264142456788_1142377475778788"
+    },
+    {
       "created_time": "2015-09-01T12:36:51+0000",
       "from": {
         "name": "吳道紫",
@@ -11,7 +23,7 @@
       },
       "message": "是 台灣蘋果日報 撰稿人、標題編輯？還是 發稿總編輯 專業失職？\n\n標題不可刪、減「在香港遭到強迫購物」關鍵文字。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1142264142456788_1142360719113797"
     },
@@ -23,7 +35,7 @@
       },
       "message": "明明是香港導遊⋯",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1142264142456788_1142294422453760"
     },
@@ -35,7 +47,7 @@
       },
       "message": "这和台湾有什么关系！这是香港导游强迫购物。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1142264142456788_1142286402454562"
     }
