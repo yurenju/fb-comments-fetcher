@@ -4,6 +4,54 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/682235/",
   "comments": [
     {
+      "created_time": "2015-09-01T08:18:49+0000",
+      "from": {
+        "name": "蔡逃櫃",
+        "id": "100000779971052"
+      },
+      "message": "布要完食物",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "873912806024342_873963679352588"
+    },
+    {
+      "created_time": "2015-09-01T07:50:37+0000",
+      "from": {
+        "name": "要努力",
+        "id": "1227826307"
+      },
+      "message": "不藥丸食物",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "873912806024342_873952742687015"
+    },
+    {
+      "created_time": "2015-09-01T07:30:16+0000",
+      "from": {
+        "name": "梁勝傑",
+        "id": "100000253777379"
+      },
+      "message": "好完美的股......",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "873912806024342_873949962687293"
+    },
+    {
+      "created_time": "2015-09-01T07:03:14+0000",
+      "from": {
+        "name": "Ching Song Chen",
+        "id": "100000226317197"
+      },
+      "message": "道德魔人快出來靠背阿。",
+      "can_remove": false,
+      "like_count": 4,
+      "user_likes": false,
+      "id": "873912806024342_873943862687903"
+    },
+    {
       "created_time": "2015-09-01T06:05:07+0000",
       "from": {
         "name": "Daniel Shih",
@@ -23,7 +71,7 @@
       },
       "message": "李負稱還不出來靠杯",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 6,
       "user_likes": false,
       "id": "873912806024342_873929692689320"
     },
@@ -74,18 +122,6 @@
       "like_count": 0,
       "user_likes": false,
       "id": "873912806024342_873917732690516"
-    },
-    {
-      "created_time": "2015-09-01T05:18:17+0000",
-      "from": {
-        "name": "Ching Song Chen",
-        "id": "100000226317197"
-      },
-      "message": "道德魔人快出來靠背阿。",
-      "can_remove": false,
-      "like_count": 3,
-      "user_likes": false,
-      "id": "873912806024342_873917099357246"
     },
     {
       "created_time": "2015-09-01T05:11:55+0000",

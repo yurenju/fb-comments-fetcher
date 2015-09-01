@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/682120/",
   "comments": [
     {
+      "created_time": "2015-09-01T09:00:51+0000",
+      "from": {
+        "name": "王天明",
+        "id": "100009598849551"
+      },
+      "message": "若著乞丐裝入場，豈不更顯得環保?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "956127867762648_956213271087441"
+    },
+    {
       "created_time": "2015-09-01T03:21:14+0000",
       "from": {
         "name": "曾惠美",
@@ -11,7 +23,7 @@
       },
       "message": "被穿小鞋了還沾沾自喜！",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "956127867762648_956136021095166"
     },

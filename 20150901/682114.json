@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/682114/",
   "comments": [
     {
+      "created_time": "2015-09-01T09:05:45+0000",
+      "from": {
+        "name": "黃晴曉",
+        "id": "100000185981050"
+      },
+      "message": "好爽哦~~~~~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "886998054688971_887064901348953"
+    },
+    {
+      "created_time": "2015-09-01T07:16:36+0000",
+      "from": {
+        "name": "Chia-Yu  Chen",
+        "id": "100002959994026"
+      },
+      "message": "台灣的電影和電視 需要更多的新人加入  \n當量越大時 質變就會產生 看看南韓經紀公司造星如何嚴謹 給年輕演員掌聲鼓勵",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "886998054688971_887042941351149"
+    },
+    {
       "created_time": "2015-09-01T06:28:41+0000",
       "from": {
         "name": "魏文偉",
@@ -11,7 +35,7 @@
       },
       "message": "就我狹隘的觀點來看，我喜歡這部「我的少女時代」，裡面有很多有回憶的青春!!\n而且，是「王大陸」用著自己的詮釋 ，讓我認識了 「徐太宇」~",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 4,
       "user_likes": false,
       "id": "886998054688971_887034941351949"
     },

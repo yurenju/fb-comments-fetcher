@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/681905/",
   "comments": [
     {
+      "created_time": "2015-09-01T07:45:49+0000",
+      "from": {
+        "name": "郭透樂",
+        "id": "100002956198988"
+      },
+      "message": "吸毒的比較需要",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "922667251137205_922986941105236"
+    },
+    {
+      "created_time": "2015-09-01T07:23:54+0000",
+      "from": {
+        "name": "William Tu",
+        "id": "100000679908885"
+      },
+      "message": "說穿了就是成人紙尿布",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "922667251137205_922982047772392"
+    },
+    {
       "created_time": "2015-09-01T03:47:03+0000",
       "from": {
         "name": "鄭語潼",
@@ -71,7 +95,7 @@
       },
       "message": "包大人尿布就好了啊~",
       "can_remove": false,
-      "like_count": 9,
+      "like_count": 10,
       "user_likes": false,
       "id": "922667251137205_922819611121969"
     },

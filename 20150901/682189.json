@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/682189/",
   "comments": [
     {
+      "created_time": "2015-09-01T09:22:44+0000",
+      "from": {
+        "name": "廖立偉",
+        "id": "1609844223"
+      },
+      "message": "就本文的描述來看，是滿丟臉的沒錯。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032051600169039_1032272573480275"
+    },
+    {
+      "created_time": "2015-09-01T07:27:41+0000",
+      "from": {
+        "name": "Riah Xueh",
+        "id": "100008911689074"
+      },
+      "message": "待會會不會要來告我們這些留言的?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032051600169039_1032242513483281"
+    },
+    {
       "created_time": "2015-09-01T06:52:17+0000",
       "from": {
         "name": "李光光",
@@ -11,7 +35,7 @@
       },
       "message": "主播記者店家反告污告求償",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1032051600169039_1032233276817538"
     },

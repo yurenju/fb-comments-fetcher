@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/682303/",
   "comments": [
     {
+      "created_time": "2015-09-01T07:07:53+0000",
+      "from": {
+        "name": "Ho Chow Lee",
+        "id": "100007654243742"
+      },
+      "message": "有了異性就失去了母性这是 风流還是下流啊",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872953882740198_872970589405194"
+    },
+    {
       "created_time": "2015-09-01T06:58:28+0000",
       "from": {
         "name": "黃淑慧",
@@ -11,7 +23,7 @@
       },
       "message": "她媽也該打",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "872953882740198_872968959405357"
     },

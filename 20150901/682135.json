@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/682135/",
   "comments": [
     {
+      "created_time": "2015-09-01T08:55:19+0000",
+      "from": {
+        "name": "Jerry Chien",
+        "id": "651853757"
+      },
+      "message": "乾 現代吳三桂 歷史留臭名 子孫敗光財",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "879471358807019_879675412119947"
+    },
+    {
       "created_time": "2015-09-01T03:25:02+0000",
       "from": {
         "name": "張政勛",
@@ -11,7 +23,7 @@
       },
       "message": "老天都看不下去了！就死在那裏別回來了",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "879471358807019_879497812137707"
     },
@@ -23,7 +35,7 @@
       },
       "message": "中華民國烈士們的眼淚\n更是當今許多台灣人的眼淚",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "879471358807019_879487998805355"
     },
@@ -35,7 +47,7 @@
       },
       "message": "下雨，何嘗不是中華民國烈士的眼淚。",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "879471358807019_879482152139273"
     }
