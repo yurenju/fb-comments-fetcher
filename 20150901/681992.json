@@ -4,6 +4,126 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150901/681992/",
   "comments": [
     {
+      "created_time": "2015-09-01T00:50:16+0000",
+      "from": {
+        "name": "南神",
+        "id": "100002155583592"
+      },
+      "message": "好像在看劇情片..兩三個小時的那種..",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "809866519111182_809978929099941"
+    },
+    {
+      "created_time": "2015-09-01T00:39:55+0000",
+      "from": {
+        "name": "彭志翔",
+        "id": "100000713432241"
+      },
+      "message": "就是有這種畜牲",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "809866519111182_809971302434037"
+    },
+    {
+      "created_time": "2015-09-01T00:19:09+0000",
+      "from": {
+        "name": "Iwen Kao",
+        "id": "1412106277"
+      },
+      "message": "身穿背心短褲…",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "809866519111182_809965649101269"
+    },
+    {
+      "created_time": "2015-09-01T00:13:33+0000",
+      "from": {
+        "name": "紅當",
+        "id": "100006452738812"
+      },
+      "message": "接下來就是拿命來換！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "809866519111182_809964115768089"
+    },
+    {
+      "created_time": "2015-08-31T23:59:55+0000",
+      "from": {
+        "name": "廖惟惟",
+        "id": "100008011124093"
+      },
+      "message": "色“新”大起",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "809866519111182_809961169101717"
+    },
+    {
+      "created_time": "2015-08-31T23:34:04+0000",
+      "from": {
+        "name": "袁瑢珈",
+        "id": "100000299511539"
+      },
+      "message": "仙人跳，陳妻穿背心短褲，肯定是太火辣",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "809866519111182_809953342435833"
+    },
+    {
+      "created_time": "2015-08-31T23:27:10+0000",
+      "from": {
+        "name": "原子金剛",
+        "id": "100001446098016"
+      },
+      "message": "為什麼是色新大起？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "809866519111182_809951935769307"
+    },
+    {
+      "created_time": "2015-08-31T23:06:59+0000",
+      "from": {
+        "name": "李偉彥",
+        "id": "100008139912034"
+      },
+      "message": "防人之心不可無。。。",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "809866519111182_809947449103089"
+    },
+    {
+      "created_time": "2015-08-31T23:06:54+0000",
+      "from": {
+        "name": "Junhao Huang",
+        "id": "100000217758356"
+      },
+      "message": "喝藥酒嗎？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "809866519111182_809947429103091"
+    },
+    {
+      "created_time": "2015-08-31T22:16:54+0000",
+      "from": {
+        "name": "Ping Hou Wen",
+        "id": "100002487540710"
+      },
+      "message": "太扯!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "809866519111182_809937002437467"
+    },
+    {
       "created_time": "2015-08-31T21:58:35+0000",
       "from": {
         "name": "彭孝莊",
@@ -11,7 +131,7 @@
       },
       "message": "這下不只是換帖了。。。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 3,
       "user_likes": false,
       "id": "809866519111182_809933242437843"
     },
@@ -50,18 +170,6 @@
       "like_count": 0,
       "user_likes": false,
       "id": "809866519111182_809872882443879"
-    },
-    {
-      "created_time": "2015-08-31T18:06:29+0000",
-      "from": {
-        "name": "周慧慧",
-        "id": "100009933584654"
-      },
-      "message": "加奈：hiy520",
-      "can_remove": false,
-      "like_count": 0,
-      "user_likes": false,
-      "id": "809866519111182_809868165777684"
     }
   ]
 }
