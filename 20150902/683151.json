@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150902/683151/",
   "comments": [
     {
+      "created_time": "2015-09-02T12:53:15+0000",
+      "from": {
+        "name": "陳偉琪",
+        "id": "100000152635476"
+      },
+      "message": "離開那是非不分的國度也好",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "987641357965400_987757001287169"
+    },
+    {
       "created_time": "2015-09-02T09:26:33+0000",
       "from": {
         "name": "簡靜芳",
@@ -24,7 +36,7 @@
       },
       "message": "一定要動不動就用\"！\"結尾嗎...",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 9,
       "user_likes": false,
       "id": "987641357965400_987665501296319"
     },
@@ -48,7 +60,7 @@
       },
       "message": "世間情要是在阿富汗播放，演員都活不成了",
       "can_remove": false,
-      "like_count": 24,
+      "like_count": 34,
       "user_likes": false,
       "id": "987641357965400_987643647965171"
     }

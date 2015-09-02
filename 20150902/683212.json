@@ -4,6 +4,150 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150902/683212/",
   "comments": [
     {
+      "created_time": "2015-09-02T12:47:08+0000",
+      "from": {
+        "name": "Carol Tsai",
+        "id": "100001591650208"
+      },
+      "message": "啊～浪費了一題~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "640389706089921_640480439414181"
+    },
+    {
+      "created_time": "2015-09-02T11:57:20+0000",
+      "from": {
+        "name": "陳冠至",
+        "id": "100001815163331"
+      },
+      "message": "(空)~~~今天是一年一度的中元祭，每一年義民廟做中元祭的時候，人都非常的多，廟方都有安排需要去或想去的社會或政治界的人。她說，今天人真的是非常的多，參與祭拜或頒獎的人都非常的多，這也是難得一見的，不論是那個政黨、對同樣一件事情，尤其是在紀念這些勇敢的義民，全台灣的人，不管在政治上是那種屬性都有一致性的看法，這是一件好事。(空)~~~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "640389706089921_640467982748760"
+    },
+    {
+      "created_time": "2015-09-02T11:56:31+0000",
+      "from": {
+        "name": "陳冠至",
+        "id": "100001815163331"
+      },
+      "message": "空心言論~~",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "640389706089921_640467712748787"
+    },
+    {
+      "created_time": "2015-09-02T11:51:15+0000",
+      "from": {
+        "name": "Sandy Kao",
+        "id": "100007090357646"
+      },
+      "message": "阿拉殅神燈給三個願望,蔡英文只給問2題?",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "640389706089921_640466739415551"
+    },
+    {
+      "created_time": "2015-09-02T10:48:06+0000",
+      "from": {
+        "name": "Nicku Hu",
+        "id": "100001373508561"
+      },
+      "message": "別讓英文不開心。",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "640389706089921_640446469417578"
+    },
+    {
+      "created_time": "2015-09-02T10:44:03+0000",
+      "from": {
+        "name": "黃威智",
+        "id": "100009504409048"
+      },
+      "message": "蔡英文繼續躺吧，呵",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "640389706089921_640445389417686"
+    },
+    {
+      "created_time": "2015-09-02T10:27:44+0000",
+      "from": {
+        "name": "Jiunnfwu  Su",
+        "id": "100005529979220"
+      },
+      "message": "這是陷阱題，最好的回答：謝謝指敎",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "640389706089921_640440776084814"
+    },
+    {
+      "created_time": "2015-09-02T10:27:01+0000",
+      "from": {
+        "name": "Rockber Chiu",
+        "id": "100000525581866"
+      },
+      "message": "真沒風度",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "640389706089921_640440566084835"
+    },
+    {
+      "created_time": "2015-09-02T10:23:59+0000",
+      "from": {
+        "name": "林競",
+        "id": "100002584037542"
+      },
+      "message": "記者也是真的很愛問怪問題……不過麻煩蔡英文拿出點風度來……這樣顯得你毫無禮貌…",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "640389706089921_640438872751671"
+    },
+    {
+      "created_time": "2015-09-02T10:18:53+0000",
+      "from": {
+        "name": "Wayne Chang",
+        "id": "1589838447"
+      },
+      "message": "囂張個屁～～～",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "640389706089921_640437082751850"
+    },
+    {
+      "created_time": "2015-09-02T10:15:21+0000",
+      "from": {
+        "name": "王元萬",
+        "id": "100006112638576"
+      },
+      "message": "贏定了當然這麼囂張",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "640389706089921_640436412751917"
+    },
+    {
+      "created_time": "2015-09-02T10:04:48+0000",
+      "from": {
+        "name": "Kevin Wang",
+        "id": "100000512865021"
+      },
+      "message": "一臉跩樣。",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "640389706089921_640432652752293"
+    },
+    {
       "created_time": "2015-09-02T09:55:33+0000",
       "from": {
         "name": "Sian Kuan Ciou",
@@ -11,7 +155,7 @@
       },
       "message": "呵！說這些五四三的！處女座當然會如此看待！\n又來了！又空心菜！還有別的嗎？",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "640389706089921_640429306085961"
     },
@@ -36,7 +180,7 @@
       },
       "message": "空心菜 你連 記者提問3題還是2題 都要計較…唉…你這樣的格局怎當總統啦！",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 6,
       "user_likes": false,
       "id": "640389706089921_640426382752920"
     },
@@ -48,7 +192,7 @@
       },
       "message": "「這個還需要評論嗎？」 好大的口氣!!!你確定你一定會當選嗎??",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 4,
       "user_likes": false,
       "id": "640389706089921_640425116086380"
     },
@@ -108,7 +252,7 @@
       },
       "message": "真是臭屁",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 3,
       "user_likes": false,
       "id": "640389706089921_640415959420629"
     },
@@ -120,7 +264,7 @@
       },
       "message": "不是傲慢，是因為沒想到記者會這樣問，腦袋空空，無詞應對",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "640389706089921_640415289420696"
     },
@@ -168,7 +312,7 @@
       },
       "message": "洪評論蔡是\"可愛又可敬的對手\",展現風度值得肯定;蔡不回應此空洞提問也可理解!\n倒是記者問這種直白問題比較讓人摸不著邊,想獲得啥結果呢? 徒然造成兩邊網友再度互相口水戰而已!",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "640389706089921_640410066087885"
     },
@@ -204,7 +348,7 @@
       },
       "message": "這需要評論嗎？哈.....一句話完勝啦!!",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 6,
       "user_likes": false,
       "id": "640389706089921_640403746088517"
     },
@@ -216,7 +360,7 @@
       },
       "message": "小時不讀書 長大當妓者",
       "can_remove": false,
-      "like_count": 14,
+      "like_count": 18,
       "user_likes": false,
       "id": "640389706089921_640401376088754"
     },
@@ -228,7 +372,7 @@
       },
       "message": "空心菜就是空心菜，底下就是【空心菜式政策】↓ \n1. 嚴肅面對. \n2. 認真思考. \n3. 大家討論. \n4. 時空不同. \n5. 有些事要執政後才能處理. \n6. 下次再向大家報告. \n7. 上一次不是已經說明過了嗎? \n8. 等我當選總統以後. \n9. 適可而止. \n10. 無可奈何但有必要. \n11. 馬英九應該道歉。\n12. 全民共識.\n13. 國是會議\n14. 維持現狀 \n事實是：空心菜種的再久只會變老，是絕不會變成實心的！ \n這個女人2012年不是當總統的料， \n2016年當然仍然不會是當總統的料！\n\n見人說人話見鬼說鬼話\nhttps://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/11866486_10153475832959178_6159852040488358513_n.jpg?oh=6613a693d3f81b63f95d04f885beb5e9&oe=56763234&__gda__=1447428433_41ab95f41b899194545944bc7d6cabb9\nhttps://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/11659269_1073431376005177_7144224662236074698_n.jpg?oh=fb88049acd93c3bfe9fe869d3cac193a&oe=56735B2B&__gda__=1447533121_f08240ae463bdf76d097763ae6164bbc\n\n等我選上再說\nhttps://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/11934995_1050365588363455_5267452451172668868_n.jpg?oh=62bbd4ab2765412782fecf4157f9d35d&oe=56745758&__gda__=1451399783_c54cb0064bed8ed33a0d7d8e6661ea1a",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 14,
       "user_likes": false,
       "id": "640389706089921_640401119422113"
     },
@@ -240,7 +384,7 @@
       },
       "message": "富貴菜就是出身豪門，一生吃喝玩樂，從來沒有吃過任何苦，所以不知人間疾苦，養成講空話廢話的",
       "can_remove": false,
-      "like_count": 8,
+      "like_count": 16,
       "user_likes": false,
       "id": "640389706089921_640399359422289"
     },
@@ -276,7 +420,7 @@
       },
       "message": "自由時報20100627\n\n冰島的同性婚姻法二十七日生效，\n冰島女總理希古爾達多蒂爾隨即與同居多年的 伴侶、記者兼劇作家女友蕾歐思多蒂爾正式結婚。\n\n空心菜花加油....\n出櫃出櫃出櫃...",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "640389706089921_640398116089080"
     },
@@ -288,7 +432,7 @@
       },
       "message": "小英平時就不會惡言攻擊對手，態度非常一致，也無需刻意表現。",
       "can_remove": false,
-      "like_count": 13,
+      "like_count": 14,
       "user_likes": false,
       "id": "640389706089921_640398076089084"
     },
@@ -300,7 +444,7 @@
       },
       "message": "洪秀柱，妳夠虛偽。蔡英文那副長相德性能稱之為可愛？那個無恥本性能稱之為可敬？",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 5,
       "user_likes": false,
       "id": "640389706089921_640397139422511"
     },
@@ -312,7 +456,7 @@
       },
       "message": "草包蛀外表尖嘴猴腮，內心尖酸刻薄!",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "640389706089921_640396442755914"
     },
@@ -324,7 +468,7 @@
       },
       "message": "蔡英文，妳這叫瘋狗亂咬，給妳臉妳不要臉。",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 7,
       "user_likes": false,
       "id": "640389706089921_640395702755988"
     },
@@ -336,7 +480,7 @@
       },
       "message": "這個... 如果任何人讚揚你、我，禮貌性的回應是必然的，小英主席這樣回應記者，只代表了一個事實，選舉就是比「肚量」，「宰相肚裡能撐船」。",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 5,
       "user_likes": false,
       "id": "640389706089921_640393669422858"
     },
@@ -348,7 +492,7 @@
       },
       "message": "媒體這個提問超無聊的-..-",
       "can_remove": false,
-      "like_count": 11,
+      "like_count": 12,
       "user_likes": false,
       "id": "640389706089921_640391879423037"
     }
