@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150902/683511/",
   "comments": [
     {
+      "created_time": "2015-09-02T15:06:08+0000",
+      "from": {
+        "name": "黃永宗",
+        "id": "100006283812543"
+      },
+      "message": "之前當過立委的演藝人員，似乎都沒什麼表現！連為自己本業的資深藝人的福利好像也沒什麼改善！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "871676916234684_871735466228829"
+    },
+    {
+      "created_time": "2015-09-02T13:25:46+0000",
+      "from": {
+        "name": "Terry Lee",
+        "id": "100000018243277"
+      },
+      "message": "沒請柯屁哦",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "871676916234684_871702509565458"
+    },
+    {
       "created_time": "2015-09-02T13:01:22+0000",
       "from": {
         "name": "Ellen Huang",
@@ -11,7 +35,7 @@
       },
       "message": "對不起，你請誰都沒用。只要你們支持吠死，就是莎喲娜啦了",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "871676916234684_871693236233052"
     },
@@ -35,7 +59,7 @@
       },
       "message": "加油",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "871676916234684_871684092900633"
     }
