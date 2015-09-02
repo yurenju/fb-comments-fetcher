@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150902/682907/",
   "comments": [
     {
+      "created_time": "2015-09-02T08:44:16+0000",
+      "from": {
+        "name": "Yang Chi",
+        "id": "100000374306057"
+      },
+      "message": "勞公你不愛　不然　來當勞工囉",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "926945120712500_927084597365219"
+    },
+    {
+      "created_time": "2015-09-02T08:21:48+0000",
+      "from": {
+        "name": "蔡元培",
+        "id": "100001225482135"
+      },
+      "message": "公務員大都是混吃等死的，衷心建議，不要幹公務員。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "926945120712500_927078887365790"
+    },
+    {
       "created_time": "2015-09-02T07:00:27+0000",
       "from": {
         "name": "陳董",
@@ -145,7 +169,7 @@
       },
       "message": "只要是顧面桶繼續執政，公務人員就永遠是鐵飯碗，鐵票太重要了。",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "926945120712500_926947780712234"
     },

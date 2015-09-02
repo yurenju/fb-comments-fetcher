@@ -4,16 +4,52 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150902/683181/",
   "comments": [
     {
-      "created_time": "2015-09-02T06:45:48+0000",
+      "created_time": "2015-09-02T09:45:08+0000",
       "from": {
-        "name": "李麗雯",
-        "id": "100010186269805"
+        "name": "Beck  Hsu",
+        "id": "100003521283576"
       },
-      "message": "http://lnk.pics/cJW",
+      "message": "在台灣那有公平正義存在",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "996753003678654_996797503674204"
+    },
+    {
+      "created_time": "2015-09-02T08:16:17+0000",
+      "from": {
+        "name": "蘇俊源",
+        "id": "100003084873964"
+      },
+      "message": "國民黨跟中共在比賽，誰最會造假!!",
       "can_remove": false,
       "like_count": 0,
       "user_likes": false,
-      "id": "996753003678654_996753730345248"
+      "id": "996753003678654_996772967009991"
+    },
+    {
+      "created_time": "2015-09-02T07:13:24+0000",
+      "from": {
+        "name": "James Li",
+        "id": "100000273486740"
+      },
+      "message": "加起來的數字對不起來...\n\n就會讓人崩潰了...\n\n用常識就能打敗國民黨\n\n這年頭真的是變了...",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "996753003678654_996760217011266"
+    },
+    {
+      "created_time": "2015-09-02T07:08:59+0000",
+      "from": {
+        "name": "吳博勛",
+        "id": "100008656386561"
+      },
+      "message": "段兄你剩消紅單跟靠北的功能啊太混了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "996753003678654_996758703678084"
     }
   ]
 }

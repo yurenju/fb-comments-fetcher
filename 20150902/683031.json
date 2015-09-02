@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150902/683031/",
   "comments": [
     {
+      "created_time": "2015-09-02T09:39:33+0000",
+      "from": {
+        "name": "黃永宗",
+        "id": "100006283812543"
+      },
+      "message": "幸好是不是當地感染，只是台南帶入！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "886789304748871_886895534738248"
+    },
+    {
       "created_time": "2015-09-02T06:53:37+0000",
       "from": {
         "name": "何昆錫",
@@ -11,7 +23,7 @@
       },
       "message": "圖片中使用噴霧器及熱霧機殺蟲效果很好，大家配合利己利人。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "886789304748871_886847281409740"
     },

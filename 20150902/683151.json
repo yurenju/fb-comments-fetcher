@@ -4,6 +4,31 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150902/683151/",
   "comments": [
     {
+      "created_time": "2015-09-02T09:26:33+0000",
+      "from": {
+        "name": "簡靜芳",
+        "category": "Writer",
+        "id": "418018968388440"
+      },
+      "message": "個別幾個人不用腦想東西我還能接受 一整個民族都不會用腦想一下？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "987641357965400_987695041293365"
+    },
+    {
+      "created_time": "2015-09-02T07:25:36+0000",
+      "from": {
+        "name": "吳沐霖",
+        "id": "100000195415964"
+      },
+      "message": "一定要動不動就用\"！\"結尾嗎...",
+      "can_remove": false,
+      "like_count": 6,
+      "user_likes": false,
+      "id": "987641357965400_987665501296319"
+    },
+    {
       "created_time": "2015-09-02T06:18:32+0000",
       "from": {
         "name": "Eric Yang",
@@ -11,7 +36,7 @@
       },
       "message": "國外已有 美鳳有事嗎 的唷～",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "987641357965400_987647387964797"
     },
@@ -23,7 +48,7 @@
       },
       "message": "世間情要是在阿富汗播放，演員都活不成了",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 24,
       "user_likes": false,
       "id": "987641357965400_987643647965171"
     }

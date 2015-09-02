@@ -4,6 +4,66 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150902/682959/",
   "comments": [
     {
+      "created_time": "2015-09-02T08:48:35+0000",
+      "from": {
+        "name": "李陳",
+        "id": "100009631966271"
+      },
+      "message": "海水倒灌台南市",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1212819192077267_1212951868730666"
+    },
+    {
+      "created_time": "2015-09-02T08:38:18+0000",
+      "from": {
+        "name": "許智新",
+        "id": "100009459699534"
+      },
+      "message": "噴藥有效果嗎\n水溝更裡面的殺得到嗎\n要不要直接灌液體類的進去",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1212819192077267_1212947958731057"
+    },
+    {
+      "created_time": "2015-09-02T08:01:01+0000",
+      "from": {
+        "name": "Mel Lee",
+        "id": "100000215436811"
+      },
+      "message": "現在不要去台南比較好。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1212819192077267_1212930918732761"
+    },
+    {
+      "created_time": "2015-09-02T07:42:06+0000",
+      "from": {
+        "name": "Rex  Chen",
+        "id": "100003350525963"
+      },
+      "message": "人口只有一點點，確比印度更慘，是在搞什麼啊？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1212819192077267_1212925738733279"
+    },
+    {
+      "created_time": "2015-09-02T07:13:31+0000",
+      "from": {
+        "name": "吳博勛",
+        "id": "100008656386561"
+      },
+      "message": "沒事別去吧",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1212819192077267_1212915732067613"
+    },
+    {
       "created_time": "2015-09-02T06:30:24+0000",
       "from": {
         "name": "Carol Lynn",
@@ -11,7 +71,7 @@
       },
       "message": "看來好像愈來愈失控",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1212819192077267_1212903115402208"
     },
@@ -35,7 +95,7 @@
       },
       "message": "這種新聞都不會放入跑馬燈，蘋果刻意讓新聞沈入海底。",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 9,
       "user_likes": false,
       "id": "1212819192077267_1212830578742795"
     },
