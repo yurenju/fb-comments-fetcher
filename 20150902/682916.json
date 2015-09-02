@@ -1,8 +1,668 @@
 {
-  "title": "管中閔罵連戰　閱兵？閱你個「卡蹭」",
+  "title": "【更新】管中閔罵連戰　閱兵？閱你個「卡蹭」",
   "id": "20150902/682916",
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150902/682916/",
   "comments": [
+    {
+      "created_time": "2015-09-02T06:58:08+0000",
+      "from": {
+        "name": "王宏翰",
+        "id": "100001773465969"
+      },
+      "message": "CYLGNB 感覺像是 雞掰啦幹林伯~~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "857088841064735_857217601051859"
+    },
+    {
+      "created_time": "2015-09-02T06:56:41+0000",
+      "from": {
+        "name": "Jack Fang",
+        "id": "100000886975168"
+      },
+      "message": "管爺您是政治素人？我看您的歷史零分計算，自古成王敗寇，歷史對連先生自有評論，看個閱兵有什麼大不了，他看他的，有礙到你我？看完台灣就變了？李登輝說釣魚台是日本的，說了這麼久還不是維持現狀，我們台灣人都這麼忠貞愛國高尚？若您真高尚，就不要接觸與中共有關的任何事務，包括賺大陸錢的公司與人物，要不是選舉，藍綠不知道有多少政治人物要去，又是一堆真矯情，偽君子。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "857088841064735_857217381051881"
+    },
+    {
+      "created_time": "2015-09-02T06:55:26+0000",
+      "from": {
+        "name": "蔡秉勳",
+        "id": "100001664597648"
+      },
+      "message": "就算是切割  也要有切割的勇氣  爺們無誤 連爺爺  我瞧不起你",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "857088841064735_857217194385233"
+    },
+    {
+      "created_time": "2015-09-02T06:48:45+0000",
+      "from": {
+        "name": "Ted Huang",
+        "id": "100001572612540"
+      },
+      "message": "洪秀柱之前說連戰赴中閱兵是件好事，也請管爺評論一下柱柱姐的言論吧，好事個屁？",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "857088841064735_857216074385345"
+    },
+    {
+      "created_time": "2015-09-02T06:42:14+0000",
+      "from": {
+        "name": "台大員",
+        "id": "100000059367034"
+      },
+      "message": "閱兵？準戰爭行為！\n對準假想敵不會只是你台灣？\n美國，日本，韓國，所以只有你連戰投降行為自保嗎？保你連家在中國的資產？所以可以不要臉到可以叛國嗎？您就留在中國不要回台灣了！",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "857088841064735_857215181052101"
+    },
+    {
+      "created_time": "2015-09-02T06:38:40+0000",
+      "from": {
+        "name": "Sun Sum Sun",
+        "id": "100007788344207"
+      },
+      "message": "管也！是漢子！",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "857088841064735_857214771052142"
+    },
+    {
+      "created_time": "2015-09-02T06:38:38+0000",
+      "from": {
+        "name": "Ted Huang",
+        "id": "100001572612540"
+      },
+      "message": "丟人現眼！連家還想在台灣混嗎？留在對岸做中共的傀儡吧，不要回來！",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "857088841064735_857214764385476"
+    },
+    {
+      "created_time": "2015-09-02T06:30:18+0000",
+      "from": {
+        "name": "Daisy Hsu",
+        "id": "100000092892744"
+      },
+      "message": "用台灣人的錢養中華民國，難怪我們會倒。",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "857088841064735_857211414385811"
+    },
+    {
+      "created_time": "2015-09-02T06:29:11+0000",
+      "from": {
+        "name": "Dylan Fjshih",
+        "id": "100009663136274"
+      },
+      "message": "CYLGNB 偶猜 ˋ幹您良機老巴'",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "857088841064735_857211247719161"
+    },
+    {
+      "created_time": "2015-09-02T06:25:14+0000",
+      "from": {
+        "name": "莊盛貿",
+        "id": "100000997860058"
+      },
+      "message": "哈狗黨最會出賣國賊啊",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "857088841064735_857210491052570"
+    },
+    {
+      "created_time": "2015-09-02T06:25:04+0000",
+      "from": {
+        "name": "Ky Tsai",
+        "id": "100001396293244"
+      },
+      "message": "連爺爺又不是馬英九,他才不會閱卡蹭",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "857088841064735_857210474385905"
+    },
+    {
+      "created_time": "2015-09-02T06:24:11+0000",
+      "from": {
+        "name": "Tommy Peng",
+        "id": "100000818820526"
+      },
+      "message": "管爺是真生氣，還是假生氣，反正臺灣太多賣國賊，喜歡就留中國，永遠不要回來。",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "857088841064735_857210297719256"
+    },
+    {
+      "created_time": "2015-09-02T06:17:12+0000",
+      "from": {
+        "name": "吳偉",
+        "id": "100008497081798"
+      },
+      "message": "鴉片有益論，蔣正毛後論。一脈相傳，血濃於水！",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "857088841064735_857209257719360"
+    },
+    {
+      "created_time": "2015-09-02T06:14:09+0000",
+      "from": {
+        "name": "Lee Jim",
+        "id": "100004542616062"
+      },
+      "message": "... 中國人是這樣看台灣的...\nhttp://bbs.tiexue.net/post2_9439712_1.html\n... 看了之後, 很難過. 生氣但是根本回不了嘴. 台灣人自己不爭氣有什麼辦法?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "857088841064735_857208771052742"
+    },
+    {
+      "created_time": "2015-09-02T06:12:25+0000",
+      "from": {
+        "name": "張議濃",
+        "id": "100008044818080"
+      },
+      "message": "夠屌的管爺好一個閱你的個卡蹭(>﹏<)\n連爺爺小心你的卡蹭(>﹏<)",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "857088841064735_857208271052792"
+    },
+    {
+      "created_time": "2015-09-02T06:11:44+0000",
+      "from": {
+        "name": "Danny Woodman",
+        "id": "686651322"
+      },
+      "message": "這才是爺兒們的表現!",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "857088841064735_857207931052826"
+    },
+    {
+      "created_time": "2015-09-02T06:09:18+0000",
+      "from": {
+        "name": "陳同榮",
+        "id": "100009760303013"
+      },
+      "message": "明年大選用選票來讓國民黨吃土，自己家的榮譽主席跑去舔大陸的懶叫，黨裡面沒人敢反對只有小聲講，還是管爺帶種",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "857088841064735_857206201052999"
+    },
+    {
+      "created_time": "2015-09-02T06:09:12+0000",
+      "from": {
+        "name": "Shuo Lin Chen",
+        "id": "100004049015779"
+      },
+      "message": "把連戰驅除出台灣永遠不的入境",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "857088841064735_857206151053004"
+    },
+    {
+      "created_time": "2015-09-02T05:55:33+0000",
+      "from": {
+        "name": "陳百利",
+        "id": "100000772643235"
+      },
+      "message": "說對的話，做對的事，不管你是誰，我都支持你",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "857088841064735_857193891054230"
+    },
+    {
+      "created_time": "2015-09-02T05:52:48+0000",
+      "from": {
+        "name": "王自祥",
+        "id": "100000290128247"
+      },
+      "message": "就是個政治騎牆派的投機分子罷了!!! 台灣人民最可憐只能在一堆爛蘋果裡面選擇....",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "857088841064735_857192081054411"
+    },
+    {
+      "created_time": "2015-09-02T05:45:09+0000",
+      "from": {
+        "name": "Andy Lin",
+        "id": "100000530769879"
+      },
+      "message": "給他洪管配吧！",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "857088841064735_857186494388303"
+    },
+    {
+      "created_time": "2015-09-02T05:43:05+0000",
+      "from": {
+        "name": "黃志宏",
+        "id": "100006406352244"
+      },
+      "message": "典型的賣國求榮吧!",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "857088841064735_857184847721801"
+    },
+    {
+      "created_time": "2015-09-02T05:40:05+0000",
+      "from": {
+        "name": "Danny Ya",
+        "id": "100000608322842"
+      },
+      "message": "何時回來~一起去機場嗆\"閱你個卡蹭!!\n'",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "857088841064735_857182821055337"
+    },
+    {
+      "created_time": "2015-09-02T05:31:14+0000",
+      "from": {
+        "name": "趙敏姊",
+        "id": "100003971126748"
+      },
+      "message": "總算有點風格",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "857088841064735_857178667722419"
+    },
+    {
+      "created_time": "2015-09-02T05:19:15+0000",
+      "from": {
+        "name": "蘇大成",
+        "id": "100002164117959"
+      },
+      "message": "走狗戰!",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "857088841064735_857174747722811"
+    },
+    {
+      "created_time": "2015-09-02T05:17:26+0000",
+      "from": {
+        "name": "Shawn Pan",
+        "id": "759350710"
+      },
+      "message": "台灣沒有叛國罪了嗎？",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "857088841064735_857174247722861"
+    },
+    {
+      "created_time": "2015-09-02T05:10:59+0000",
+      "from": {
+        "name": "徐志釧",
+        "id": "100008563110567"
+      },
+      "message": "不統不武不獨的舔馬「卡蹭」派，無能參與盛閱，甚感吃味不悅?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "857088841064735_857172644389688"
+    },
+    {
+      "created_time": "2015-09-02T05:07:26+0000",
+      "from": {
+        "name": "Dylan Fjshih",
+        "id": "100009663136274"
+      },
+      "message": "建議 糖香龍 跟 趙睄糠 今晚都邀請 管爺 大戰 假髮邱疫 ...",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "857088841064735_857171234389829"
+    },
+    {
+      "created_time": "2015-09-02T05:04:45+0000",
+      "from": {
+        "name": "張建許",
+        "id": "100010120840330"
+      },
+      "message": "罵他的認為沒提中華民國拿國旗，罵他的及綠營那你們先在中國提國號拿國旗，不然只敢在台灣提國號拿國旗有甚麼作秀，在對岸拿旗子才是重點，不然只敢在中國沒統治的地方拿旗子，最好到中國啊去中國共產黨所在地提國號拿國旗",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "857088841064735_857170191056600"
+    },
+    {
+      "created_time": "2015-09-02T05:01:35+0000",
+      "from": {
+        "name": "John H Smith",
+        "id": "100007083345388"
+      },
+      "message": "反正國民黨對連戰一家而言，只是發財的好地方而已",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "857088841064735_857164184390534"
+    },
+    {
+      "created_time": "2015-09-02T04:52:35+0000",
+      "from": {
+        "name": "張玉珍",
+        "id": "100001030995635"
+      },
+      "message": "敢言帥，不像一堆人只會拍馬屁。",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "857088841064735_857152467725039"
+    },
+    {
+      "created_time": "2015-09-02T04:45:02+0000",
+      "from": {
+        "name": "朱育霆",
+        "id": "100007037892415"
+      },
+      "message": "說這話前請去讀點書吧…\n\n連爺爺已經很客氣了\n因為八年抗戰只有打贏過一場，台兒莊大捷\n其實在中國大陸的戰役都是敗退。\n所以別說殲敵了，連驅敵都成問題了!\n話講的很帥，但也只是騙不知道的人罷了",
+      "can_remove": false,
+      "like_count": 5,
+      "user_likes": false,
+      "id": "857088841064735_857150607725225"
+    },
+    {
+      "created_time": "2015-09-02T04:42:57+0000",
+      "from": {
+        "name": "張宸瑜",
+        "id": "100001024391715"
+      },
+      "message": "爺兒罵得好\n賣國賊人人得而誅之",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "857088841064735_857145941059025"
+    },
+    {
+      "created_time": "2015-09-02T04:42:29+0000",
+      "from": {
+        "name": "Jackey Chen",
+        "id": "100002021376957"
+      },
+      "message": "這件事和台灣人無關！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "857088841064735_857145821059037"
+    },
+    {
+      "created_time": "2015-09-02T04:41:43+0000",
+      "from": {
+        "name": "Mingdar Tsai",
+        "id": "100000190447528"
+      },
+      "message": "不因人廢言，這次講得很好",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "857088841064735_857145624392390"
+    },
+    {
+      "created_time": "2015-09-02T04:41:21+0000",
+      "from": {
+        "name": "Xu LienChang",
+        "id": "100002938095393"
+      },
+      "message": "好卡蹭，卡蹭的奧妙之處在於貼身收藏，隨開隨用，用完還可以噴個臭氣噁心對方，就算被小人聞到也告不了你，真不愧七大髒話之首。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "857088841064735_857145594392393"
+    },
+    {
+      "created_time": "2015-09-02T04:41:02+0000",
+      "from": {
+        "name": "Andre Chen",
+        "id": "100001595755326"
+      },
+      "message": "「腳撐」？。中國爺們變成台灣男子漢？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "857088841064735_857145487725737"
+    },
+    {
+      "created_time": "2015-09-02T04:35:22+0000",
+      "from": {
+        "name": "Ian Tsai",
+        "id": "1785238248"
+      },
+      "message": "如果習近平脫下褲子,叫連站舔LP,他應該也會邊舔邊笑吧!!!!",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "857088841064735_857144494392503"
+    },
+    {
+      "created_time": "2015-09-02T04:34:32+0000",
+      "from": {
+        "name": "甘道夫",
+        "id": "100008072945097"
+      },
+      "message": "這是國民黨一場黑白臉的遊戲吧....要不就馬上開除連爺爺黨籍，別再消費連爺爺....",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "857088841064735_857144381059181"
+    },
+    {
+      "created_time": "2015-09-02T04:33:04+0000",
+      "from": {
+        "name": "Rex Lian",
+        "id": "100000284391415"
+      },
+      "message": "連戰等級有那麼高嗎？他去大陸閱兵？他能坐在角落觀禮就很好了，未免太高估了吧",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "857088841064735_857144161059203"
+    },
+    {
+      "created_time": "2015-09-02T04:32:37+0000",
+      "from": {
+        "name": "蘇錫當",
+        "id": "100002140655843"
+      },
+      "message": "果然是個爺們！",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "857088841064735_857144057725880"
+    },
+    {
+      "created_time": "2015-09-02T04:32:37+0000",
+      "from": {
+        "name": "David Lin",
+        "id": "676493761"
+      },
+      "message": "顏行書還不快來痛罵管中閔沒水準？",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "857088841064735_857144064392546"
+    },
+    {
+      "created_time": "2015-09-02T04:31:55+0000",
+      "from": {
+        "name": "志村俊",
+        "id": "100000052227461"
+      },
+      "message": "罵的太好了…第一次欣賞你!!!",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "857088841064735_857143951059224"
+    },
+    {
+      "created_time": "2015-09-02T04:29:58+0000",
+      "from": {
+        "name": "高杉晉作",
+        "id": "100003404251962"
+      },
+      "message": "連儈就是連儈",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "857088841064735_857143544392598"
+    },
+    {
+      "created_time": "2015-09-02T04:28:32+0000",
+      "from": {
+        "name": "Tsai  Alan",
+        "id": "100003241386263"
+      },
+      "message": "CYLGNB?請翻譯",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "857088841064735_857142381059381"
+    },
+    {
+      "created_time": "2015-09-02T04:27:10+0000",
+      "from": {
+        "name": "Browning Chen",
+        "id": "620137141"
+      },
+      "message": "罵的好",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "857088841064735_857141944392758"
+    },
+    {
+      "created_time": "2015-09-02T04:26:47+0000",
+      "from": {
+        "name": "王維民",
+        "id": "100000309940164"
+      },
+      "message": "國民黨連主席是去校閱共軍部隊，要求共軍宣示效忠中華民國……會後頒發秋節加菜金慰勉官兵辛勞。哈哈哈！",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "857088841064735_857141887726097"
+    },
+    {
+      "created_time": "2015-09-02T04:22:51+0000",
+      "from": {
+        "name": "周晉德",
+        "id": "100003052217602"
+      },
+      "message": "姚立明說: 連戰準備做中國人. 一場閱兵看到有多少長期生養在台灣的中國人吃裡扒外, 喔不中國人效忠中國有何不對?不對的是我們對它們的放任",
+      "can_remove": false,
+      "like_count": 6,
+      "user_likes": false,
+      "id": "857088841064735_857141244392828"
+    },
+    {
+      "created_time": "2015-09-02T04:20:19+0000",
+      "from": {
+        "name": "洪嘉玲",
+        "id": "100003470953862"
+      },
+      "message": "罵得好",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "857088841064735_857140567726229"
+    },
+    {
+      "created_time": "2015-09-02T04:16:41+0000",
+      "from": {
+        "name": "Jason Liao",
+        "id": "100010336444296"
+      },
+      "message": "不知蔡依珊如何評論？\n「這是奇蹟呀？」",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "857088841064735_857139407726345"
+    },
+    {
+      "created_time": "2015-09-02T04:11:23+0000",
+      "from": {
+        "name": "Hua Ginger",
+        "id": "100000211098394"
+      },
+      "message": "買辦當然要去參加人家的慶典啊～不然要幹嘛？",
+      "can_remove": false,
+      "like_count": 4,
+      "user_likes": false,
+      "id": "857088841064735_857137641059855"
+    },
+    {
+      "created_time": "2015-09-02T04:07:20+0000",
+      "from": {
+        "name": "林正偉",
+        "id": "100004707675918"
+      },
+      "message": "事實證明\n賣國與無能的基因是會遺傳的",
+      "can_remove": false,
+      "like_count": 8,
+      "user_likes": false,
+      "id": "857088841064735_857136094393343"
+    },
+    {
+      "created_time": "2015-09-02T04:03:14+0000",
+      "from": {
+        "name": "Scott Hsiao",
+        "id": "604688253"
+      },
+      "message": "K黨網軍撤守??!! 我很期待他們的創意也",
+      "can_remove": false,
+      "like_count": 4,
+      "user_likes": false,
+      "id": "857088841064735_857135327726753"
+    },
+    {
+      "created_time": "2015-09-02T04:02:26+0000",
+      "from": {
+        "name": "Marie Hugo",
+        "id": "100008784901616"
+      },
+      "message": "賣台不夠還賣黨.....你叫689情何以堪",
+      "can_remove": false,
+      "like_count": 5,
+      "user_likes": false,
+      "id": "857088841064735_857134477726838"
+    },
+    {
+      "created_time": "2015-09-02T04:01:33+0000",
+      "from": {
+        "name": "陳春霖",
+        "id": "100009391270236"
+      },
+      "message": "如果連戰是國民黨的背骨頭頭，那麼從國民黨的主席到黨工便是背骨子子孫孫！\n國民黨ㄧ大群的投機份子，把出賣台灣利益當做拚經濟，把圖利商人官商勾結當作\n當作黨年度預算審核標準，這是台灣人的悲哀！",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "857088841064735_857134267726859"
+    },
     {
       "created_time": "2015-09-02T03:59:21+0000",
       "from": {
@@ -11,7 +671,7 @@
       },
       "message": "連家也不是第一次了",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 7,
       "user_likes": false,
       "id": "857088841064735_857133727726913"
     },
@@ -24,7 +684,7 @@
       },
       "message": "裝模作樣什麼!!!\n等連戰回來，這位與國民黨政客們還不是爭相向它膜拜，\n而且還一定不忘幫它找無數的台階下，\n或者...與馬英九般，早就不管人民為何物了。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "857088841064735_857133664393586"
     },
@@ -36,7 +696,7 @@
       },
       "message": "閱卡蹭而已啊？舔卡蹭都可以！為了日後家族及親信在中國大陸的發展，笑罵由人，向解放軍行軍禮，我們也不必太訝異。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 4,
       "user_likes": false,
       "id": "857088841064735_857131641060455"
     },
@@ -105,7 +765,7 @@
       },
       "message": "其實連戰這次帶了ㄧ群家犬去北京見習進平只是要「託孤」，他的來日已不多了，他希望習進平在位時，能多照顧他的這一群「家犬」，如連震東在病榻請「蔣經國」多提拔連戰一樣，人世滄桑，是有李登輝先生來提拔連戰，現在中國的最高權力，所以要請多照顧一下 ，必竟來日不多，而他的小犬，小母狗，家犬的事業都在中國啊！",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "857088841064735_857130127727273"
     },
@@ -117,7 +777,7 @@
       },
       "message": "管爺好威好生氣！",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "857088841064735_857129424394010"
     },
@@ -129,7 +789,7 @@
       },
       "message": "管爺真爺們",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "857088841064735_857129394394013"
     },
@@ -141,7 +801,7 @@
       },
       "message": "天佑台灣，臺北市沒讓連戰家族拿走賣給中國",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "857088841064735_857128434394109"
     },
@@ -165,7 +825,7 @@
       },
       "message": "霸氣",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "857088841064735_857128117727474"
     },
@@ -201,7 +861,7 @@
       },
       "message": "管爺\n給你100個讚",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "857088841064735_857127374394215"
     },
@@ -213,7 +873,7 @@
       },
       "message": "真爺們！",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "857088841064735_857127284394224"
     },
@@ -237,7 +897,7 @@
       },
       "message": "反了反了\n同是國民黨竟然罵連爺爺",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "857088841064735_857126607727625"
     },
@@ -249,7 +909,7 @@
       },
       "message": "1.保護中國產業.\n2.有把柄讓人掐著. 不得不去讓人利用.\n3.買辦性格. 有奶是娘.\n4. 兒子選舉慘輸. 耍脾氣.\n5. KMT對她而言是夜壺.用過了.嫌臭.\n6. 宋先生. 你的秦先生一行人一丘之貉.",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "857088841064735_857125934394359"
     },
@@ -285,7 +945,7 @@
       },
       "message": "晚上可能有安排閱女兵的卡蹭,這可能是連站堅持參加主因",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "857088841064735_857125644394388"
     },
@@ -297,7 +957,7 @@
       },
       "message": "管爺罵得好！非常有LP(Love & Peace)。國民政府與中華民國都不敢提，連蔣委員長的稱呼也自動省略，這傢伙賣國求榮甘願當千古台奸，如此歷史定位，真的是心中有人民幣，做人不忠不義。",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "857088841064735_857125537727732"
     },
@@ -321,7 +981,7 @@
       },
       "message": "終於願意尊稱你一聲管爺了",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "857088841064735_857120657728220"
     },
@@ -429,7 +1089,7 @@
       },
       "message": "賣國的基因是會遺傳的 別懷疑",
       "can_remove": false,
-      "like_count": 8,
+      "like_count": 12,
       "user_likes": false,
       "id": "857088841064735_857116934395259"
     },
@@ -441,7 +1101,7 @@
       },
       "message": "鰱椰椰這麼愛當中國奴隸，那就別回來臺灣了啦！臺灣不是你們的國家，你們的主國在中國",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 8,
       "user_likes": false,
       "id": "857088841064735_857116407728645"
     },
@@ -453,7 +1113,7 @@
       },
       "message": "這才是真的擁護中華民國講真話的正宗黨國份子,不稱他黨國餘孽,\n因為他和那些偽稱擁護中華民國私底下諂媚中國,狡詐詭辯,只顧自己利益\n的死黨國餘孽 (如連戰, 洪秀柱,唐湘龍,趙少康,馬英九............)有些不同............",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 6,
       "user_likes": false,
       "id": "857088841064735_857116277728658"
     },
@@ -477,7 +1137,7 @@
       },
       "message": "管爺 是真正的爺呢",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "857088841064735_857115744395378"
     },
@@ -489,7 +1149,7 @@
       },
       "message": "管爺果然霸氣",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "857088841064735_857114821062137"
     },
@@ -537,7 +1197,7 @@
       },
       "message": "閲你個卡蹭？！管爺這句真的俗擱有力！比起一堆有的沒的詭辯鏗鏘有力得太多了！給你拍拍手。",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "857088841064735_857113344395618"
     },
@@ -573,7 +1233,7 @@
       },
       "message": "這句話真性情，管爺還真是個爺們",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "857088841064735_857112854395667"
     },
@@ -585,7 +1245,7 @@
       },
       "message": "管個屁，蔣介石是殺人不抸眼冷酷無情，一個敗軍殘將對得起國家人民嗎？這個人遲早會受到歷史人民公審，管某人不要老是豬腦袋在思考批判！",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "857088841064735_857111751062444"
     },
@@ -646,7 +1306,7 @@
       },
       "message": "管爺好棒",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "857088841064735_857111111062508"
     },
@@ -682,7 +1342,7 @@
       },
       "message": "提出一個另類思考--共產黨此時的閱兵動作親共的政黨怎能不表態.卻又適逢選舉怕過度衝擊選情.只能推出中共認同的連先生帶表出席承受一切罵名.國內的政府與政黨只限於口頭上的不宜.不應.再提出更正用以證明與國人站在一起兩面討好.\n  對於親共的政黨好像穩賺不賠.既可討好中共也可討好選民",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "857088841064735_857109784395974"
     },
@@ -742,7 +1402,7 @@
       },
       "message": "給管爺按個讚！",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "857088841064735_857109337729352"
     },
@@ -754,7 +1414,7 @@
       },
       "message": "國民黨該開鍘連戰全家人，開除黨籍！",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "857088841064735_857108131062806"
     },
@@ -826,7 +1486,7 @@
       },
       "message": "哇！臉書怎不見了，才剛想去按鑽",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "857088841064735_857107397729546"
     },
@@ -850,7 +1510,7 @@
       },
       "message": "這次真爺們",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "857088841064735_857106961062923"
     },
@@ -862,7 +1522,7 @@
       },
       "message": "！果然是爺們！",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "857088841064735_857106221062997"
     },
@@ -958,7 +1618,7 @@
       },
       "message": "罵得好…",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "857088841064735_857104864396466"
     },
@@ -1031,7 +1691,7 @@
       },
       "message": "管爺也開始本土化了?\n\"卡蹭\"也真的比\"屁股\"或\"屁眼\"傳神多了! 哈哈!",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "857088841064735_857103221063297"
     },
@@ -1177,7 +1837,7 @@
       },
       "message": "不能同意你更多了，管爺。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "857088841064735_857101761063443"
     },
@@ -1201,7 +1861,7 @@
       },
       "message": "三代公務員能有310億的身家，全球就連家做的到，真是台灣的另類“卡蹭”!",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "857088841064735_857101691063450"
     },
@@ -1345,7 +2005,7 @@
       },
       "message": "管爺，麻煩波卡的事，處理一下。爺們都買不到。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "857088841064735_857100394396913"
     },
@@ -1369,7 +2029,7 @@
       },
       "message": "偶像!!!",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "857088841064735_857100301063589"
     },
@@ -1381,7 +2041,7 @@
       },
       "message": "罵的真好~讚",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "857088841064735_857099954396957"
     },
@@ -1393,7 +2053,7 @@
       },
       "message": "活到一把年紀了，錢也賺夠了，連一點尊嚴都不留給自己，悲哀。",
       "can_remove": false,
-      "like_count": 7,
+      "like_count": 11,
       "user_likes": false,
       "id": "857088841064735_857099941063625"
     },
@@ -1417,7 +2077,7 @@
       },
       "message": "連戰家族的特性，從他爺爺開始就是搞這種事，只是管爺總算是講出真心話，給你按個讚",
       "can_remove": false,
-      "like_count": 8,
+      "like_count": 13,
       "user_likes": false,
       "id": "857088841064735_857099711063648"
     },
@@ -1453,9 +2113,21 @@
       },
       "message": "雖然不是很喜歡你，但還是要給你按三個讚-讚 讚 讚  !",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "857088841064735_857099111063708"
+    },
+    {
+      "created_time": "2015-09-02T02:14:42+0000",
+      "from": {
+        "name": "林宇庭",
+        "id": "100000095690647"
+      },
+      "message": "管爺就是霸氣!!",
+      "can_remove": false,
+      "like_count": 6,
+      "user_likes": false,
+      "id": "857088841064735_857099037730382"
     },
     {
       "created_time": "2015-09-02T02:14:42+0000",
@@ -1468,18 +2140,6 @@
       "like_count": 0,
       "user_likes": false,
       "id": "857088841064735_857099034397049"
-    },
-    {
-      "created_time": "2015-09-02T02:14:42+0000",
-      "from": {
-        "name": "林宇庭",
-        "id": "100000095690647"
-      },
-      "message": "管爺就是霸氣!!",
-      "can_remove": false,
-      "like_count": 4,
-      "user_likes": false,
-      "id": "857088841064735_857099037730382"
     },
     {
       "created_time": "2015-09-02T02:14:00+0000",
@@ -1501,7 +2161,7 @@
       },
       "message": "就看連戰回台後國民黨怎麼處理連戰，千萬別說一套做一套~",
       "can_remove": false,
-      "like_count": 7,
+      "like_count": 11,
       "user_likes": false,
       "id": "857088841064735_857098827730403"
     },
@@ -1549,7 +2209,7 @@
       },
       "message": "管爺~真的是~~霸氣十足~!\n還有就是~KMT執政下的官員~離職後~好像通通會變另一個高手似的~!\n這是所謂的~反璞歸真??還是~~看清官場文化下的尾勁十足??",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 7,
       "user_likes": false,
       "id": "857088841064735_857097734397179"
     },
@@ -1561,7 +2221,7 @@
       },
       "message": "幸好台北市沒有被（背骨）連家人拿去，真是天佑台灣。",
       "can_remove": false,
-      "like_count": 22,
+      "like_count": 44,
       "user_likes": false,
       "id": "857088841064735_857097591063860"
     },
@@ -1585,7 +2245,7 @@
       },
       "message": "他大陸生意作那麼大，不去抱大腿怎行， 突然覺得還好柯p當選，不然台北就完了。",
       "can_remove": false,
-      "like_count": 14,
+      "like_count": 26,
       "user_likes": false,
       "id": "857088841064735_857097247730561"
     },
@@ -1609,7 +2269,7 @@
       },
       "message": "突然發現KMT也有好人！管爺給你個贊",
       "can_remove": false,
-      "like_count": 22,
+      "like_count": 30,
       "user_likes": false,
       "id": "857088841064735_857096681063951"
     },
@@ -1621,7 +2281,7 @@
       },
       "message": "連榮譽主席怎麼當教授的？他的高中歷史一定是不及格",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 6,
       "user_likes": false,
       "id": "857088841064735_857096654397287"
     },
@@ -1645,7 +2305,7 @@
       },
       "message": "連家 一路走來始終如一  家族特性一直都是這樣",
       "can_remove": false,
-      "like_count": 13,
+      "like_count": 22,
       "user_likes": false,
       "id": "857088841064735_857096157730670"
     },
@@ -1657,7 +2317,7 @@
       },
       "message": "賣台狗vs舔共狗",
       "can_remove": false,
-      "like_count": 12,
+      "like_count": 15,
       "user_likes": false,
       "id": "857088841064735_857096021064017"
     },
@@ -1681,7 +2341,7 @@
       },
       "message": "我們的管爺終於清醒了˙給個讚",
       "can_remove": false,
-      "like_count": 7,
+      "like_count": 9,
       "user_likes": false,
       "id": "857088841064735_857095671064052"
     },
@@ -1741,7 +2401,7 @@
       },
       "message": "你們這些人放馬後砲，敢開除國民黨籍嗎？今天一切後果就是你們造成的，反省吧！",
       "can_remove": false,
-      "like_count": 9,
+      "like_count": 11,
       "user_likes": false,
       "id": "857088841064735_857095221064097"
     },
@@ -1813,7 +2473,7 @@
       },
       "message": "連阿斗(連戰連敗)要的是權與錢 , 耍猴戲沒問題 !",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "857088841064735_857093304397622"
     },
@@ -1861,7 +2521,7 @@
       },
       "message": "有膽量開除他的黨籍",
       "can_remove": false,
-      "like_count": 9,
+      "like_count": 13,
       "user_likes": false,
       "id": "857088841064735_857091174397835"
     },
@@ -1873,7 +2533,7 @@
       },
       "message": "馬阿九的「出賣台灣、羞辱人民、作賤自己」原來是在說連爺爺啊！！！",
       "can_remove": false,
-      "like_count": 44,
+      "like_count": 70,
       "user_likes": false,
       "id": "857088841064735_857089827731303"
     }

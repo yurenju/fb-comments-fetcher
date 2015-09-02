@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150902/682964/",
   "comments": [
     {
+      "created_time": "2015-09-02T04:02:04+0000",
+      "from": {
+        "name": "Jon Lee",
+        "id": "100001907138849"
+      },
+      "message": "我還以為會說用Line在家上班就不會塞車了,還是用Line是2.0版要提出的?哈哈哈",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "992061094191635_992084744189270"
+    },
+    {
       "created_time": "2015-09-02T03:37:40+0000",
       "from": {
         "name": "Mike Kuo",
@@ -11,7 +23,7 @@
       },
       "message": "內科表示.... 他外科的, 不懂拉~~~",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "992061094191635_992077127523365"
     },
@@ -23,7 +35,7 @@
       },
       "message": "有在內科上過班的都知道，會塞車有一半是是因為一人汽車太多，另一半就是公車客運害的。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "992061094191635_992072614190483"
     },
@@ -60,7 +72,7 @@
       },
       "message": "短 中 長 計畫???\n繼續塞吧......",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "992061094191635_992062760858135"
     }
