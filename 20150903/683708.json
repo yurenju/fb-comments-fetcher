@@ -4,6 +4,31 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150903/683708/",
   "comments": [
     {
+      "created_time": "2015-09-03T02:43:35+0000",
+      "from": {
+        "name": "銀行車貸_陳小姐",
+        "category": "Community",
+        "id": "1114539648559967"
+      },
+      "message": "真變態",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "970324386323378_970403829648767"
+    },
+    {
+      "created_time": "2015-09-03T01:06:00+0000",
+      "from": {
+        "name": "Mario Tsai",
+        "id": "100010290512628"
+      },
+      "message": "女優,,,,,可以來拍台北的悠遊卡",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "970324386323378_970364992985984"
+    },
+    {
       "created_time": "2015-09-03T00:43:34+0000",
       "from": {
         "name": "Chandler Lee",
@@ -11,7 +36,7 @@
       },
       "message": "真恐怖",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "970324386323378_970358446319972"
     }
