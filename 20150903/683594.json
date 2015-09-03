@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150903/683594/",
   "comments": [
     {
+      "created_time": "2015-09-02T22:53:38+0000",
+      "from": {
+        "name": "張漢森",
+        "id": "100010210207058"
+      },
+      "message": "聽老婆的話",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "993115414074590_993235530729245"
+    },
+    {
       "created_time": "2015-09-02T18:18:44+0000",
       "from": {
         "name": "陳均",
@@ -11,7 +23,7 @@
       },
       "message": "老婆叫你去吃屎你也會吃嗎",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 4,
       "user_likes": false,
       "id": "993115414074590_993154907403974"
     },
@@ -23,7 +35,7 @@
       },
       "message": "聴老婆的话也错了吗",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "993115414074590_993139777405487"
     },
