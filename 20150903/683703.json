@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150903/683703/",
   "comments": [
     {
+      "created_time": "2015-09-03T07:37:37+0000",
+      "from": {
+        "name": "王家豪",
+        "id": "100006269778734"
+      },
+      "message": "現在的男人太不懂保護自己了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "430472777077328_430538527070753"
+    },
+    {
       "created_time": "2015-09-03T06:54:12+0000",
       "from": {
         "name": "陳百利",
@@ -14,18 +26,6 @@
       "like_count": 0,
       "user_likes": false,
       "id": "430472777077328_430534520404487"
-    },
-    {
-      "created_time": "2015-09-03T03:34:33+0000",
-      "from": {
-        "name": "張漢森",
-        "id": "100010210207058"
-      },
-      "message": "現在年輕人腦袋裝屎哦",
-      "can_remove": false,
-      "like_count": 0,
-      "user_likes": false,
-      "id": "430472777077328_430513467073259"
     },
     {
       "created_time": "2015-09-03T02:46:45+0000",
@@ -60,7 +60,7 @@
       },
       "message": "如果這個國三女生是下標記者的女兒,還會打出[國三女被播種害喜]這樣的標題字眼嗎??",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "430472777077328_430492597075346"
     },
