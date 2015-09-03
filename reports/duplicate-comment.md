@@ -470,6 +470,99 @@ users:
 * 【動新聞】電眼辣模　Ｃ奶水蛇腰好OP
 * 客運野戰實況秀？女趴男跨下　上上下下
 
+## 重複次數 41
+
+留言：
+
+```
+讚
+```
+
+users: 
+
+* [黃小意]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Kate Chu]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [朱義程]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [蔡耀德]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Sian Kuan Ciou]('http://facebook.com/' + users[user].id) (重複 2 次)
+* [金俊浩]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Fenny Chen]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Alan Liu]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [林財生]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [施采岑]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [陳鴻]('http://facebook.com/' + users[user].id) (重複 2 次)
+* [薛千川]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [黃國演]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Vivi Chang]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [周禪]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [東方白]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [王元萬]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [藍祥益]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [葉玲玲]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [黃偉誌]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [賴文賓]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [王姿琇]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [朱小林]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [白白]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [賴德福]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [潘立晨]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Annma  Lin]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [周廷]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [許順裕]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Francis Huang]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [歐八碼]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [張嘉成]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [張文兆]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [謝采潔]('http://facebook.com/' + users[user].id) (重複 2 次)
+* [黃文毅]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Ian Chao]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [楊旺德]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [賴鵬旭]('http://facebook.com/' + users[user].id) (重複 1 次)
+
+新聞：
+
+* 黑手黨老大葬禮浮誇　直升機空灑花瓣
+* 【更新】北市人事超標全國之冠　柯：先除冗事再來瘦身
+* 【更新】想看阿帕契　2名網友衝601旅遭擋門外
+* 【更新】想看阿帕契　2名網友衝601旅遭擋門外
+* 【更新】想看阿帕契　2名網友衝601旅遭擋門外
+* 【更新】真男人　水電工顧罹癌妻與岳母無怨尤
+* 夏天就是要去鄰居家的泳池玩水啊！
+* 劉育志：捐卵女孩險喪命
+* 【數位時代】花36年追上想像，《異形》裡的「工程機器人」Power Loader終於成真
+* 台股暴跌　謝金河：下一個是房市！
+* 觸控展　友達大秀穿戴面板
+* 整合型觸控面板　操控更便利
+* 【狗仔偷拍】寶弟約會落漆　OO沒喬好
+* 誰反對蓋停車場　林佳龍怒：交出議員名單
+* 歐買尬！慧慈好有愛　火車咆哮要人讓座
+* 中山國中LLB連霸　林佳龍頒200萬獎金
+* 你願為「台獨」上戰場嗎？　調查結果是
+* 反對波多野結衣的人　呂秋遠神問答
+* 保證清新　日日春也推「妓念悠遊卡」
+* 保證清新　日日春也推「妓念悠遊卡」
+* 太Pure！星二代美少女　清純爆表
+* 這回不再放羊　愛黛兒新輯11月上市
+* 2萬人抗議貪腐總理　馬國政府已備好水車
+* 從小好成績的柯P　最爛的科目就是.....
+* 客人插隊買食物　饒河夜市老闆霸氣偏不賣
+* 蔡英文談「我眼中的台灣」　網友哭著看完
+* 【更新】連戰不宜赴中閱兵　謝長廷：藍綠共識
+* 【獨家】購買波多野卡粉絲團　破萬人參加
+* 【公庫】不跑紅白帖真能當選？ 專訪立委參選人詹順貴
+* 男童幫阿嬤推車拾荒　「她靠這個把我養大」
+* 新潤興業銷售部門　9月上線
+* 張忠謀對蔡英文投下不信任票
+* 【更新】最高法院決議　正副議長選舉亮票均無罪
+* 【娛樂Online】公開了！許維恩將來有「KID」
+* 爽缺！雄獅徵百萬滑雪特派員
+* 【壹週刊】貶價自售　鄒承恩臉書求代言
+* 地勤小姐好貼心　買早餐溫暖日本老爺爺
+* 【網路溫度計】人美心更美！十大愛動物明星報到
+* 【更新】網友轟丁寧、天心　施蜜娜：禽獸不如
+* 防農舍炒作　《農發條例》修正農民才能購農舍
+* 【獨家】熱心大叔出「機」相救　車輪底下與死神搶人
+
 ## 重複次數 40
 
 留言：
@@ -524,97 +617,6 @@ users:
 * 【民報】換個角度想：日本政府會拿AV女優宣傳政策嗎?
 * 獨遇山難9天沒吃　奇蹟獲救
 * 獨遇山難9天沒吃　奇蹟獲救
-
-## 重複次數 40
-
-留言：
-
-```
-讚
-```
-
-users: 
-
-* [黃小意]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Kate Chu]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [朱義程]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [蔡耀德]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Sian Kuan Ciou]('http://facebook.com/' + users[user].id) (重複 2 次)
-* [金俊浩]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Fenny Chen]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Alan Liu]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [林財生]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [施采岑]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [陳鴻]('http://facebook.com/' + users[user].id) (重複 2 次)
-* [薛千川]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [黃國演]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Vivi Chang]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [周禪]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [東方白]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [王元萬]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [藍祥益]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [葉玲玲]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [黃偉誌]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [賴文賓]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [王姿琇]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [朱小林]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [白白]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [賴德福]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [潘立晨]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Annma  Lin]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [周廷]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [許順裕]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Francis Huang]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [歐八碼]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [張嘉成]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [張文兆]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [謝采潔]('http://facebook.com/' + users[user].id) (重複 2 次)
-* [黃文毅]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Ian Chao]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [楊旺德]('http://facebook.com/' + users[user].id) (重複 1 次)
-
-新聞：
-
-* 黑手黨老大葬禮浮誇　直升機空灑花瓣
-* 【更新】北市人事超標全國之冠　柯：先除冗事再來瘦身
-* 【更新】想看阿帕契　2名網友衝601旅遭擋門外
-* 【更新】想看阿帕契　2名網友衝601旅遭擋門外
-* 【更新】想看阿帕契　2名網友衝601旅遭擋門外
-* 【更新】真男人　水電工顧罹癌妻與岳母無怨尤
-* 夏天就是要去鄰居家的泳池玩水啊！
-* 劉育志：捐卵女孩險喪命
-* 【數位時代】花36年追上想像，《異形》裡的「工程機器人」Power Loader終於成真
-* 台股暴跌　謝金河：下一個是房市！
-* 觸控展　友達大秀穿戴面板
-* 整合型觸控面板　操控更便利
-* 【狗仔偷拍】寶弟約會落漆　OO沒喬好
-* 誰反對蓋停車場　林佳龍怒：交出議員名單
-* 歐買尬！慧慈好有愛　火車咆哮要人讓座
-* 中山國中LLB連霸　林佳龍頒200萬獎金
-* 你願為「台獨」上戰場嗎？　調查結果是
-* 反對波多野結衣的人　呂秋遠神問答
-* 保證清新　日日春也推「妓念悠遊卡」
-* 保證清新　日日春也推「妓念悠遊卡」
-* 太Pure！星二代美少女　清純爆表
-* 這回不再放羊　愛黛兒新輯11月上市
-* 2萬人抗議貪腐總理　馬國政府已備好水車
-* 從小好成績的柯P　最爛的科目就是.....
-* 客人插隊買食物　饒河夜市老闆霸氣偏不賣
-* 蔡英文談「我眼中的台灣」　網友哭著看完
-* 【更新】連戰不宜赴中閱兵　謝長廷：藍綠共識
-* 【獨家】購買波多野卡粉絲團　破萬人參加
-* 【公庫】不跑紅白帖真能當選？ 專訪立委參選人詹順貴
-* 男童幫阿嬤推車拾荒　「她靠這個把我養大」
-* 新潤興業銷售部門　9月上線
-* 張忠謀對蔡英文投下不信任票
-* 【更新】最高法院決議　正副議長選舉亮票均無罪
-* 【娛樂Online】公開了！許維恩將來有「KID」
-* 爽缺！雄獅徵百萬滑雪特派員
-* 【壹週刊】貶價自售　鄒承恩臉書求代言
-* 地勤小姐好貼心　買早餐溫暖日本老爺爺
-* 【網路溫度計】人美心更美！十大愛動物明星報到
-* 【更新】網友轟丁寧、天心　施蜜娜：禽獸不如
-* 防農舍炒作　《農發條例》修正農民才能購農舍
 
 ## 重複次數 37
 
@@ -759,45 +761,47 @@ users:
 留言：
 
 ```
-南無大願地藏王菩薩
+歡迎大家到 宋楚瑜 官方粉絲團 按讚 (妹妹代經營)
+加入 宋楚瑜後援會 臉書社團 
+宋楚瑜找朋友 官方粉絲團按讚 (宋親自貼文)
 ```
 
 users: 
 
-* [Ann Hung]('http://facebook.com/' + users[user].id) (重複 33 次)
+* [宋楚瑜 大家庭]('http://facebook.com/' + users[user].id) (重複 33 次)
 
 新聞：
 
-* 【更新】傳訊友人來送一程　男子自轟亡
-* 2屍多命！　女燒炭拉懷孕吉娃娃陪葬
-* 【更新】阿國走了！　成大人哭哭！
-* 男大生燒炭亡　警封現場調查中
-* 愛女遭椅束帶勒斃　家長怒：孩子是垃圾嗎？
-* 馬航空姐　暴風雨中墜樓身亡
-* ​駕車失控撞護欄翻覆　男子魂斷國道　
-* 男做手術減重卻送命　馬偕醫遭訴
-* 奧地利發現偷渡客卡車　50屍體堆疊發臭
-* 陸女律師飯店泳池溺斃　現場竟沒救生員
-* 地中海難民船翻覆　200難民恐成水流屍
-* 無法走出喪母傷痛　英12歲女童上吊自殺
-* 「不買食物死給你看」　妙齡女跳樓亡
-* 驚！妻吞藥陳屍車內　夫車外上吊同赴黃泉
-* 駕車衝進石門水庫　負氣離家男溺斃
-* 西班牙煙火工廠爆炸　2死6傷
-* 【暗黑城市】宜蘭重大車禍　2人不治
-* 【暗黑城市】暗夜遭轟7槍　男胸部中彈亡
-* 錢塘江觀潮　陸男被沖上道路遭車撞分屍
-* 夫載妻屍討債不成　伴屍2天上吊亡
-* 北市大安森林公園　晨運民眾驚見男子上吊
-* 【獨家】高雄壯男染登革熱　發病到死亡僅6天
-* 花蓮慕谷慕魚溺水　2大一新鮮人不治
-* 單親媽偕妹產檢　獨留小兄妹反鎖命喪火窟
-* 【更新】撞破汽車玻璃　男頸動脈斷裂慘死
-* 【更新】拖板車輾機車騎士　七旬翁爆頭亡
-* 疑交通錐惹禍害摔車　女騎士遭客運輾斃
-* 再也聽不到的琴聲　塵爆傷者吳妍潔不治
-* 七旬婦撿螺徹夜　尋獲已喪命
-* 恐怖醫院　2周內61嬰兒離奇死亡
-* 【更新】年幼難民溺死太催淚　網友P圖祝禱
-* 疑股市投資失利　男開瓦斯自殺亡
-* 港裔女科學家　英國遭男友斬首殺害
+* 宋楚瑜道歉　段宜康批：避重就輕、令我厭惡
+* 【更新】宋楚瑜茄萣參拜　白派大老力挺
+* 老宋扮型男　港都熱情師奶熊抱
+* 淺藍西裝加休閒褲　宋楚瑜變年輕自稱小宋
+* 宋楚瑜林園拜票　承諾「做牛做馬」
+* 【更新】藍提名人公開挺　宋楚瑜：苗栗翻盤
+* 宋楚瑜主題曲《找》　橘將在總部成立後公布
+* 【更新】最沒聲音的副總統：我支持宋楚瑜
+* 宋楚瑜想要什麼樣的「正義」
+* 棄柱挺宋　砰砰阿峰：希望台灣好
+* 大選民調​　近六成民眾支持宋洪配
+* 【獨家】竹市橘營參戰　歐崇敬換區參選
+* 變身「童鞋」　宋楚瑜辦「童鞋會」與民互動
+* 《自由時報》民調　蔡45％宋15％洪12％
+* 【民報獨家快訊】老宋再拔樁？將訪軍公教聯盟喬合作
+* 整軍備戰　宋楚瑜九月初成立競選辦公室
+* 典型在夙昔─李元簇為何挺宋
+* 中國93閱兵　親民黨由秦金生代宋楚瑜出席
+* 【財訊】這哪招？洪秀柱、宋楚瑜搶當老二
+* 最新民調　洪秀柱12.7%再探底
+* 【更新】連赴中閱兵　宋楚瑜打太極：我忙選舉
+* 小英賣茶　柱柱姐要賣面膜嗎？
+* 【更新】反廢棄物掩埋場　宋楚瑜力挺
+* 【更新】小宋眷村開講　搶柱柱姐鐵票
+* 宋楚瑜勤跑台南基層　用台語搏感情
+* 【更新】洪邀蔡辯論　老宋說：別鬥口水了
+* 【更新】宋楚瑜參拜奉天宮　與董座十指相扣
+* 宋楚瑜明到桃園「找朋友」　訪藍委續拔樁
+* TVBS民調：小英支持度衝破四成　柱姐領先宋
+* 宋楚瑜桃園拜票　強調抗戰史實不容扭曲
+* 姚立明指宋可能變無黨派　親民黨：不可能
+* 【更新】親民黨：秦金生今並未出席閱兵
+* 宋楚瑜雲林拔樁　北港黑松父女外出

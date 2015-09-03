@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150903/683727/",
   "comments": [
     {
+      "created_time": "2015-09-03T15:39:44+0000",
+      "from": {
+        "name": "潘粥",
+        "id": "100000308222603"
+      },
+      "message": "他在想我一定要吹倒你~.~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "605584762877577_605820049520715"
+    },
+    {
+      "created_time": "2015-09-03T14:21:39+0000",
+      "from": {
+        "name": "李仁仁",
+        "id": "100000367082288"
+      },
+      "message": "好像萬聖節的南瓜",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "605584762877577_605802449522475"
+    },
+    {
       "created_time": "2015-09-03T13:03:07+0000",
       "from": {
         "name": "王曉明",
@@ -830,7 +854,7 @@
       },
       "message": "他總是對著你笑，笑得你心裡發毛 ͡ʘ ͜‿ ͡ʘ",
       "can_remove": false,
-      "like_count": 36,
+      "like_count": 38,
       "user_likes": false,
       "id": "605584762877577_605591652876888"
     },
@@ -854,7 +878,7 @@
       },
       "message": "阿進～你一定要記住啊，害死你爹爹的人，我見過他，他的樣子很奇怪，他永遠都好像對著你笑，笑到你心裡發寒，你一定要去找那個人～",
       "can_remove": false,
-      "like_count": 246,
+      "like_count": 270,
       "user_likes": false,
       "id": "605584762877577_605588869543833"
     },
@@ -926,7 +950,7 @@
       },
       "message": "萌個屁 詭異的很",
       "can_remove": false,
-      "like_count": 55,
+      "like_count": 58,
       "user_likes": false,
       "id": "605584762877577_605587626210624"
     },

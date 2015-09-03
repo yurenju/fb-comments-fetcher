@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150903/684274/",
   "comments": [
     {
+      "created_time": "2015-09-03T14:02:30+0000",
+      "from": {
+        "name": "梁班長",
+        "id": "100009824565669"
+      },
+      "message": "中國領導人在天安門上排排站.我看他們每個都像命不久",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "825858577483946_825895947480209"
+    },
+    {
       "created_time": "2015-09-03T11:44:14+0000",
       "from": {
         "name": "汪少永",
@@ -11,7 +23,7 @@
       },
       "message": "全死的話誰有救？\n答:426有救了",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "825858577483946_825861094150361"
     }

@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150903/684055/",
   "comments": [
     {
+      "created_time": "2015-09-03T15:51:20+0000",
+      "from": {
+        "name": "林盛",
+        "id": "100004883414502"
+      },
+      "message": "所以說，國民黨總統候選人的政見都是亂開支票的嗎？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "927478180659711_927664477307748"
+    },
+    {
       "created_time": "2015-09-03T12:03:09+0000",
       "from": {
         "name": "林明濬",
@@ -131,7 +143,7 @@
       },
       "message": "募兵廣告結合悠遊卡封面，強制發給未役的役男，大家就會搶著去當兵了!!\n~依某婦聯會的邏輯",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "927478180659711_927485580658971"
     },
@@ -215,7 +227,7 @@
       },
       "message": "國王不相信他沒穿衣服...",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 6,
       "user_likes": false,
       "id": "927478180659711_927480327326163"
     },

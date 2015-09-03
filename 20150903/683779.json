@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150903/683779/",
   "comments": [
     {
+      "created_time": "2015-09-03T15:28:44+0000",
+      "from": {
+        "name": "Jackie Chen",
+        "id": "100005442908496"
+      },
+      "message": "这就是台湾的真正人民 一些说坏话的自己也不照照镜子自己适合什么东西",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "998000096918553_998338866884676"
+    },
+    {
+      "created_time": "2015-09-03T13:58:31+0000",
+      "from": {
+        "name": "薛遐",
+        "id": "100004610561990"
+      },
+      "message": "好帥阿    堪稱奇葩",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "998000096918553_998304033554826"
+    },
+    {
       "created_time": "2015-09-03T12:45:22+0000",
       "from": {
         "name": "蘇傑克",
@@ -926,7 +950,7 @@
       },
       "message": "果然紅了\n爛到極致也是一種勝利~",
       "can_remove": false,
-      "like_count": 28,
+      "like_count": 29,
       "user_likes": false,
       "id": "998000096918553_998008370251059"
     },
@@ -1046,7 +1070,7 @@
       },
       "message": "這種咖~值得報導嗎?腫哇敏狗~~腫哇敏勾~~~",
       "can_remove": false,
-      "like_count": 47,
+      "like_count": 49,
       "user_likes": false,
       "id": "998000096918553_998003956918167"
     },

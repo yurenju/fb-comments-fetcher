@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150903/683867/",
   "comments": [
     {
+      "created_time": "2015-09-03T15:00:45+0000",
+      "from": {
+        "name": "蕭逸名",
+        "id": "100000400939609"
+      },
+      "message": "丟臉",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "919394378133594_919628048110227"
+    },
+    {
       "created_time": "2015-09-03T12:07:37+0000",
       "from": {
         "name": "Chichi Liou",
@@ -1131,7 +1143,7 @@
       },
       "message": "原來 國民黨 新黨 親民黨 無黨團結聯盟\n都是心中早就沒有中華民國的人\n還死不要臉的替自己辯解\n可憐的台灣人 足足被他們騙了70年",
       "can_remove": false,
-      "like_count": 21,
+      "like_count": 22,
       "user_likes": false,
       "id": "919394378133594_919400494799649"
     },
@@ -1203,7 +1215,7 @@
       },
       "message": "連爺爺，幫我們確認好了，是哪一顆飛彈要打我們了嗎？",
       "can_remove": false,
-      "like_count": 54,
+      "like_count": 55,
       "user_likes": false,
       "id": "919394378133594_919398491466516"
     },
@@ -1251,7 +1263,7 @@
       },
       "message": "明明就是港澳台區！還臨近外國元首勒",
       "can_remove": false,
-      "like_count": 41,
+      "like_count": 43,
       "user_likes": false,
       "id": "919394378133594_919397324799966"
     },
@@ -1275,7 +1287,7 @@
       },
       "message": "連戰，可恥！！",
       "can_remove": false,
-      "like_count": 96,
+      "like_count": 97,
       "user_likes": false,
       "id": "919394378133594_919396401466725"
     }

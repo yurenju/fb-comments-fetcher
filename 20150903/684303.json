@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150903/684303/",
   "comments": [
     {
+      "created_time": "2015-09-03T15:40:28+0000",
+      "from": {
+        "name": "Patrick Lee",
+        "id": "100003595662250"
+      },
+      "message": "激出成交量,但沒說成交價如何",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "705781336194819_705853289520957"
+    },
+    {
+      "created_time": "2015-09-03T14:58:23+0000",
+      "from": {
+        "name": "Richard Yang",
+        "id": "100001965303063"
+      },
+      "message": "這麼屌，就不給你們家賺！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "705781336194819_705840386188914"
+    },
+    {
+      "created_time": "2015-09-03T14:08:37+0000",
+      "from": {
+        "name": "朝鴻昊",
+        "id": "100000970424199"
+      },
+      "message": "不知說亦",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "705781336194819_705823109523975"
+    },
+    {
       "created_time": "2015-09-03T11:31:16+0000",
       "from": {
         "name": "張文兆",
@@ -11,7 +47,7 @@
       },
       "message": "有夢最美，繼續炒房",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "705781336194819_705785982861021"
     }
