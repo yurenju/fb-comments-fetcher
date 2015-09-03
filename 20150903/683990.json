@@ -4,6 +4,66 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150903/683990/",
   "comments": [
     {
+      "created_time": "2015-09-03T12:16:59+0000",
+      "from": {
+        "name": "吳根茅",
+        "id": "100005159117447"
+      },
+      "message": "檳榔一百",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "715416258565166_715472751892850"
+    },
+    {
+      "created_time": "2015-09-03T12:14:19+0000",
+      "from": {
+        "name": "陳達逸",
+        "id": "100000117201576"
+      },
+      "message": "拎北想看麥，讓你賊（坐）",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "715416258565166_715472221892903"
+    },
+    {
+      "created_time": "2015-09-03T11:44:27+0000",
+      "from": {
+        "name": "沈育全",
+        "id": "1680698399"
+      },
+      "message": "豬大哥真的是沒架子阿",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "715416258565166_715464685226990"
+    },
+    {
+      "created_time": "2015-09-03T11:35:08+0000",
+      "from": {
+        "name": "陳霖",
+        "id": "100001726093814"
+      },
+      "message": "讓個座有那麼偉大嗎?是否意味演藝人員都很大牌?",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "715416258565166_715462641893861"
+    },
+    {
+      "created_time": "2015-09-03T10:28:45+0000",
+      "from": {
+        "name": "Hou Szu-Chi",
+        "id": "1060381544"
+      },
+      "message": "這好像是商務車廂吧！ 那對夫妻寧願花比較多的錢分開坐也不要選一般車廂坐在一起---怪怪的",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "715416258565166_715449255228533"
+    },
+    {
       "created_time": "2015-09-03T09:22:15+0000",
       "from": {
         "name": "黃愛莉",
@@ -23,7 +83,7 @@
       },
       "message": "麥穗越飽滿越低頭",
       "can_remove": false,
-      "like_count": 10,
+      "like_count": 33,
       "user_likes": false,
       "id": "715416258565166_715429825230476"
     },
@@ -59,7 +119,7 @@
       },
       "message": "幾年前，我也在烏日高鐵站遇過，那時候剛要復出。",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "715416258565166_715421835231275"
     },
@@ -71,7 +131,7 @@
       },
       "message": "大國永遠是您忠誠的粉絲，每週日就靠您的節目與家人同歡！",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "715416258565166_715419408564851"
     }

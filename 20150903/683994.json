@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150903/683994/",
   "comments": [
     {
+      "created_time": "2015-09-03T11:40:30+0000",
+      "from": {
+        "name": "王金姆",
+        "id": "100002501161496"
+      },
+      "message": "假環團真腦洞",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "744845385626873_744941658950579"
+    },
+    {
       "created_time": "2015-09-03T07:28:53+0000",
       "from": {
         "name": "水里奈",
@@ -11,7 +23,7 @@
       },
       "message": "誰來告訴我環團裡面有幾個有腦袋的?",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "744845385626873_744870088957736"
     },

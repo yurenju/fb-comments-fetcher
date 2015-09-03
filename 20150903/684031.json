@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150903/684031/",
   "comments": [
     {
+      "created_time": "2015-09-03T12:13:15+0000",
+      "from": {
+        "name": "羅鴻毅",
+        "id": "1404316373"
+      },
+      "message": "能夠創作各種不同風格的漫畫、插畫，\n他是我心目中的漫畫之神！！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872705382820629_872784169479417"
+    },
+    {
       "created_time": "2015-09-03T07:18:21+0000",
       "from": {
         "name": "John Chai",
@@ -11,7 +23,7 @@
       },
       "message": "一路好走 rip",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "872705382820629_872713716153129"
     },
@@ -23,7 +35,7 @@
       },
       "message": "畫工洗練札實，少見的寫實派漫畫家，\n壯年驟逝，空留嘆息！永別。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "872705382820629_872707869487047"
     }
