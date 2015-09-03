@@ -4,6 +4,246 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150903/683727/",
   "comments": [
     {
+      "created_time": "2015-09-03T06:55:13+0000",
+      "from": {
+        "name": "梁美雪",
+        "id": "100008615792392"
+      },
+      "message": "不舒服",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "605584762877577_605660129536707"
+    },
+    {
+      "created_time": "2015-09-03T06:32:56+0000",
+      "from": {
+        "name": "顏志達",
+        "id": "100000136382845"
+      },
+      "message": "感覺像恐怖大師伊藤潤二畫的圖,毛毛的!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "605584762877577_605656236203763"
+    },
+    {
+      "created_time": "2015-09-03T06:23:22+0000",
+      "from": {
+        "name": "上官家駒",
+        "id": "100000318693951"
+      },
+      "message": "靠么勒 跨丟貴",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "605584762877577_605655096203877"
+    },
+    {
+      "created_time": "2015-09-03T06:23:09+0000",
+      "from": {
+        "name": "Alex Lee",
+        "id": "830111519"
+      },
+      "message": "想到伊藤潤二的漩渦~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "605584762877577_605655066203880"
+    },
+    {
+      "created_time": "2015-09-03T06:05:40+0000",
+      "from": {
+        "name": "吳欣叡",
+        "id": "100000130475781"
+      },
+      "message": "果然是七月的颱風",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "605584762877577_605653089537411"
+    },
+    {
+      "created_time": "2015-09-03T05:53:10+0000",
+      "from": {
+        "name": "謝金篂",
+        "id": "100000032992503"
+      },
+      "message": "明明就是富江",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "605584762877577_605650896204297"
+    },
+    {
+      "created_time": "2015-09-03T05:32:46+0000",
+      "from": {
+        "name": "YiFong Huang",
+        "id": "100001044903530"
+      },
+      "message": "這真像嬰靈",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "605584762877577_605647649537955"
+    },
+    {
+      "created_time": "2015-09-03T05:27:26+0000",
+      "from": {
+        "name": "葉治湧",
+        "id": "100009964963434"
+      },
+      "message": "靠腰 我覺得他笑得很 鞋餓 很恐怖 還很......他叉的 七月",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "605584762877577_605647079538012"
+    },
+    {
+      "created_time": "2015-09-03T05:27:12+0000",
+      "from": {
+        "name": "仲良",
+        "id": "1218595225"
+      },
+      "message": "我還以為是伊藤潤二，原來是萌颱風啊～",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "605584762877577_605647049538015"
+    },
+    {
+      "created_time": "2015-09-03T05:05:28+0000",
+      "from": {
+        "name": "江彥勳",
+        "id": "100000130749093"
+      },
+      "message": "超可怕的好嗎？....",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "605584762877577_605643732871680"
+    },
+    {
+      "created_time": "2015-09-03T04:53:56+0000",
+      "from": {
+        "name": "Ho Cheng Han",
+        "id": "687242400"
+      },
+      "message": "嬰靈⋯⋯⋯⋯⋯⋯⋯⋯⋯",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "605584762877577_605641916205195"
+    },
+    {
+      "created_time": "2015-09-03T04:50:42+0000",
+      "from": {
+        "name": "Jiete Assistant",
+        "id": "100000138278569"
+      },
+      "message": "眼窩呈空洞狀，黑一圈根本就如同農曆七月的...",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "605584762877577_605641442871909"
+    },
+    {
+      "created_time": "2015-09-03T04:39:48+0000",
+      "from": {
+        "name": "廖英明",
+        "id": "100000562126210"
+      },
+      "message": "有怪獸",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "605584762877577_605639702872083"
+    },
+    {
+      "created_time": "2015-09-03T04:39:14+0000",
+      "from": {
+        "name": "廖英明",
+        "id": "100000562126210"
+      },
+      "message": "有怪獸",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "605584762877577_605639646205422"
+    },
+    {
+      "created_time": "2015-09-03T04:35:31+0000",
+      "from": {
+        "name": "林家維",
+        "id": "100000888270315"
+      },
+      "message": "愛因斯坦顯靈了.......",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "605584762877577_605639216205465"
+    },
+    {
+      "created_time": "2015-09-03T04:30:46+0000",
+      "from": {
+        "name": "張宏淦",
+        "id": "100009091984708"
+      },
+      "message": "大自然的傑作﹏太神奇的圖案﹏",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "605584762877577_605638579538862"
+    },
+    {
+      "created_time": "2015-09-03T04:19:18+0000",
+      "from": {
+        "name": "Li Li Hua",
+        "id": "1638219542"
+      },
+      "message": "看下面的留言~原來不只我覺得像靈異照片XDDD\nOK，這一次與中央山脈挑戰的年輕騷年〈X〉是個愛笑的孩子?！\n只好....操到他哭〈X，公開場所開黃腔，小心被檢舉\nH文下收，BL慎點〈X",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "605584762877577_605636702872383"
+    },
+    {
+      "created_time": "2015-09-03T04:16:37+0000",
+      "from": {
+        "name": "簡小傑",
+        "id": "100000217590706"
+      },
+      "message": "很可怕⋯",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "605584762877577_605636442872409"
+    },
+    {
+      "created_time": "2015-09-03T04:16:24+0000",
+      "from": {
+        "name": "謝天語",
+        "id": "100003353616700"
+      },
+      "message": "他會一直笑 笑得你發寒",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "605584762877577_605636426205744"
+    },
+    {
+      "created_time": "2015-09-03T04:02:28+0000",
+      "from": {
+        "name": "袂小庭",
+        "id": "100000726415295"
+      },
+      "message": "聖嬰本尊出現?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "605584762877577_605634879539232"
+    },
+    {
       "created_time": "2015-09-03T04:00:21+0000",
       "from": {
         "name": "呂麗芬",
@@ -11,7 +251,7 @@
       },
       "message": "我怎麼直接想到伊藤潤二的作品去了.....",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "605584762877577_605634739539246"
     },
@@ -47,7 +287,7 @@
       },
       "message": "颱風能照到這樣的一張圖真的很難耶！",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "605584762877577_605626692873384"
     },
@@ -119,7 +359,7 @@
       },
       "message": "超可愛的咩⋯",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "605584762877577_605606799542040"
     },
@@ -217,7 +457,7 @@
       },
       "message": "我怎麼看都只看到行政院人事行政局的畫面\n只有我這樣嗎?",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "605584762877577_605602632875790"
     },
@@ -277,7 +517,7 @@
       },
       "message": "這是一個殺人鬼娃臉",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "605584762877577_605598309542889"
     },
@@ -313,7 +553,7 @@
       },
       "message": "第一次感覺笑裡藏刀的真正意涵，現在的微笑很有可能會帶來可怕的颱風。不過這張圖真的超可愛的說。",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "605584762877577_605594882876565"
     },
@@ -398,7 +638,7 @@
       },
       "message": "他總是對著你笑，笑得你心裡發毛 ͡ʘ ͜‿ ͡ʘ",
       "can_remove": false,
-      "like_count": 15,
+      "like_count": 24,
       "user_likes": false,
       "id": "605584762877577_605591652876888"
     },
@@ -410,7 +650,7 @@
       },
       "message": "古有明訓農曆七月一日若有雷雨那颱風就較頻繁。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "605584762877577_605591412876912"
     },
@@ -422,7 +662,7 @@
       },
       "message": "阿進～你一定要記住啊，害死你爹爹的人，我見過他，他的樣子很奇怪，他永遠都好像對著你笑，笑到你心裡發寒，你一定要去找那個人～",
       "can_remove": false,
-      "like_count": 112,
+      "like_count": 187,
       "user_likes": false,
       "id": "605584762877577_605588869543833"
     },
@@ -434,7 +674,7 @@
       },
       "message": "哇…七月還沒過完哩…",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "605584762877577_605587926210594"
     },
@@ -470,7 +710,7 @@
       },
       "message": "好在没有停在台灣上空、要不然又有政治陰謀了",
       "can_remove": false,
-      "like_count": 8,
+      "like_count": 14,
       "user_likes": false,
       "id": "605584762877577_605587762877277"
     },
@@ -494,7 +734,7 @@
       },
       "message": "萌個屁 詭異的很",
       "can_remove": false,
-      "like_count": 29,
+      "like_count": 39,
       "user_likes": false,
       "id": "605584762877577_605587626210624"
     },
@@ -530,7 +770,7 @@
       },
       "message": "上蒼給你一個慧心微笑(大自然的巧妙安排)。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "605584762877577_605586672877386"
     },

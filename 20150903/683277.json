@@ -1,8 +1,784 @@
 {
-  "title": "胖胖情侶超勵志　4個月逆轉變「超閃筋肉人」",
+  "title": "【更新】胖胖情侶超勵志　逆轉變超閃筋肉人",
   "id": "20150903/683277",
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150903/683277/",
   "comments": [
+    {
+      "created_time": "2015-09-03T06:54:29+0000",
+      "from": {
+        "name": "黃虎",
+        "id": "100009751577669"
+      },
+      "message": "我覺得那個男生胖的剛剛好，不難看啊…",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670724066360548"
+    },
+    {
+      "created_time": "2015-09-03T06:48:07+0000",
+      "from": {
+        "name": "Jacklyn Lee",
+        "id": "100001784840210"
+      },
+      "message": "四个月就有这样的身材？绝对不可能",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670723183027303"
+    },
+    {
+      "created_time": "2015-09-03T06:37:48+0000",
+      "from": {
+        "name": "Keith Kwan Fung",
+        "id": "582715085"
+      },
+      "message": "現在我每星期街頭健身五天，每天訓練一小時多，現在剛好二星期半，輕了2公斤不夠，但我是有節食，小了吃碳水化合物，小甜，未來有空的日子應該會加上帶氧一試，未必像這對情侶一樣，因為我體重，體脂是84，26 到現在 82.5 ， 23",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670721476360807"
+    },
+    {
+      "created_time": "2015-09-03T06:33:07+0000",
+      "from": {
+        "name": "楊笠宏",
+        "id": "100000738996504"
+      },
+      "message": "簡單~兩個多月瘦9公斤!\n拒絕復胖 不用吃藥\n也沒運動也沒多花錢\n想瘦得趕快加我好友\n或Line 777dss81",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670720156360939"
+    },
+    {
+      "created_time": "2015-09-03T06:30:56+0000",
+      "from": {
+        "name": "Robert Huang",
+        "id": "853164705"
+      },
+      "message": "男的那樣只有16%？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670719853027636"
+    },
+    {
+      "created_time": "2015-09-03T06:28:52+0000",
+      "from": {
+        "name": "毛魯魯",
+        "id": "1795731833"
+      },
+      "message": "不是在酸，一般在跑健身房的都知道，普通人要肌肉練成型最少要1-2年，要不是有很深的底子，4個月根本練不出八塊肌，用禁藥就另當別論",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670719623027659"
+    },
+    {
+      "created_time": "2015-09-03T06:26:39+0000",
+      "from": {
+        "name": "曹修修",
+        "id": "100001738397136"
+      },
+      "message": "嗯嗯 的確神奇呀正面的東西\n都能夠讓你們犯起原罪忌妒傲慢暴怒\n真是可愛的臺灣人",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670719323027689"
+    },
+    {
+      "created_time": "2015-09-03T06:23:52+0000",
+      "from": {
+        "name": "嚴嘉隆",
+        "id": "1670715810"
+      },
+      "message": "大家用正面點的態度看\n或許這就是他們努力的結果",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670718519694436"
+    },
+    {
+      "created_time": "2015-09-03T06:18:49+0000",
+      "from": {
+        "name": "Guo Chiang Jung",
+        "id": "100000432416331"
+      },
+      "message": "整出來的吧～明顯是含狗人的廣告",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670717719694516"
+    },
+    {
+      "created_time": "2015-09-03T06:16:37+0000",
+      "from": {
+        "name": "Kevin Huang",
+        "id": "100001628075257"
+      },
+      "message": "我覺得肉肉的看起來比較\"正常\"ㄟ",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670717283027893"
+    },
+    {
+      "created_time": "2015-09-03T06:04:27+0000",
+      "from": {
+        "name": "Alex Lin",
+        "id": "100000112536146"
+      },
+      "message": "男主角從體重83kg減為71kg，體脂肪從16%降到5%\n由此猜測是有點底子的 進化到5%可比天堂路的煎熬\n運動後成效皆是勵志的故事 欣賞即可\n設定目標的是自己 只要用對方式訓練按部就班不是不可能的\n如一休的粉絲分享都是正面積極的\n戰這個實在是....",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670715033028118"
+    },
+    {
+      "created_time": "2015-09-03T06:03:12+0000",
+      "from": {
+        "name": "大昌證券新竹葉亞菁",
+        "category": "Public Figure",
+        "id": "1083449035016156"
+      },
+      "message": "我也覺得四個月不可能~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670714876361467"
+    },
+    {
+      "created_time": "2015-09-03T05:59:32+0000",
+      "from": {
+        "name": "黃聖智",
+        "id": "100000140571710"
+      },
+      "message": "悲劇瘦",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670714309694857"
+    },
+    {
+      "created_time": "2015-09-03T05:59:31+0000",
+      "from": {
+        "name": "Kun Wu",
+        "id": "100000225951916"
+      },
+      "message": "找個人 PO 到 01 健身版，說小弟花了四個月練成這樣，保證 臉腫到連你媽媽都不認得你....XD",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670714303028191"
+    },
+    {
+      "created_time": "2015-09-03T05:57:40+0000",
+      "from": {
+        "name": "王元萬",
+        "id": "100006112638576"
+      },
+      "message": "死含狗人  幹",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670714069694881"
+    },
+    {
+      "created_time": "2015-09-03T05:50:30+0000",
+      "from": {
+        "name": "黃駿憲",
+        "id": "1466613403"
+      },
+      "message": "女的真的肥，男的本來就有曲線",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670713049694983"
+    },
+    {
+      "created_time": "2015-09-03T05:49:44+0000",
+      "from": {
+        "name": "黃志宏",
+        "id": "100006406352244"
+      },
+      "message": "還需要4個月整形太慢了.5分鐘給我用photoshop整形就夠了!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670712979694990"
+    },
+    {
+      "created_time": "2015-09-03T05:41:51+0000",
+      "from": {
+        "name": "Hao-an Jhuang",
+        "id": "100000435906084"
+      },
+      "message": "訓練菜單拿出來瞧瞧?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670712036361751"
+    },
+    {
+      "created_time": "2015-09-03T05:36:33+0000",
+      "from": {
+        "name": "江權倫",
+        "id": "100000298164120"
+      },
+      "message": "這個………\n我相信\n親身經歷\n胖到95\n4個月\n飲食控制\n一直有運動\n可以變這樣",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670711336361821"
+    },
+    {
+      "created_time": "2015-09-03T05:32:10+0000",
+      "from": {
+        "name": "Vivian Chao",
+        "id": "1673680908"
+      },
+      "message": "年齡有很大的關係啊..........",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670710113028610"
+    },
+    {
+      "created_time": "2015-09-03T05:29:57+0000",
+      "from": {
+        "name": "鄭人豪",
+        "id": "1196512870"
+      },
+      "message": "主角本身就有肌肉量，有在健身都看的出來，這四個月他們減脂並維持肌肉量，就有這個成果",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670705293029092"
+    },
+    {
+      "created_time": "2015-09-03T05:29:03+0000",
+      "from": {
+        "name": "Cherry Lin",
+        "id": "100000300982130"
+      },
+      "message": "肌肉線條是可以畫出來的～",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670703999695888"
+    },
+    {
+      "created_time": "2015-09-03T05:25:55+0000",
+      "from": {
+        "name": "羅小穎",
+        "id": "100000171445163"
+      },
+      "message": "為什麼我想到整形後的正多豔………",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670697643029857"
+    },
+    {
+      "created_time": "2015-09-03T05:23:27+0000",
+      "from": {
+        "name": "Dawan Xiu Bh'ee",
+        "id": "1723010440"
+      },
+      "message": "Alice Yeah",
+      "can_remove": false,
+      "like_count": 0,
+      "message_tags": [
+        {
+          "id": "100001173654574",
+          "length": 10,
+          "name": "Alice Yeah",
+          "offset": 0,
+          "type": "user"
+        }
+      ],
+      "user_likes": false,
+      "id": "670524583047163_670697363029885"
+    },
+    {
+      "created_time": "2015-09-03T05:15:38+0000",
+      "from": {
+        "name": "李亞迅",
+        "id": "100009557384228"
+      },
+      "message": "好勵志喔！\n我也要加油了！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670696263029995"
+    },
+    {
+      "created_time": "2015-09-03T05:15:31+0000",
+      "from": {
+        "name": "Nicole Yang",
+        "id": "100000118432549"
+      },
+      "message": "我怎麼反而覺得健身過後的樣子好難看啊…",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670696186363336"
+    },
+    {
+      "created_time": "2015-09-03T05:07:55+0000",
+      "from": {
+        "name": "Woods Koala",
+        "id": "740633820"
+      },
+      "message": "很多葡萄人",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670694416363513"
+    },
+    {
+      "created_time": "2015-09-03T05:07:33+0000",
+      "from": {
+        "name": "余雅綠",
+        "id": "100005698566480"
+      },
+      "message": "男的n塊肌太不科學了!!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670694396363515"
+    },
+    {
+      "created_time": "2015-09-03T05:05:39+0000",
+      "from": {
+        "name": "紀名優",
+        "id": "100002640658007"
+      },
+      "message": "看完只覺得DH先生像極了一個哈韓智障哈哈",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670694136363541"
+    },
+    {
+      "created_time": "2015-09-03T05:05:27+0000",
+      "from": {
+        "name": "Zhixiang Zhang",
+        "id": "100003093763830"
+      },
+      "message": "韓國…噗～   整型就好啦",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670694039696884"
+    },
+    {
+      "created_time": "2015-09-03T05:03:57+0000",
+      "from": {
+        "name": "Stanley Hsieh",
+        "id": "100000042131736"
+      },
+      "message": "反過來練好像比較合理…",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670693876363567"
+    },
+    {
+      "created_time": "2015-09-03T05:01:55+0000",
+      "from": {
+        "name": "Jeffrey Choy",
+        "id": "1002688042"
+      },
+      "message": "男生原本不像體脂16%吧",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670693506363604"
+    },
+    {
+      "created_time": "2015-09-03T04:59:01+0000",
+      "from": {
+        "name": "李羿諆",
+        "id": "100001513130900"
+      },
+      "message": "瘦是很好！但是我看了怎麼覺得有點x",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670693156363639"
+    },
+    {
+      "created_time": "2015-09-03T04:57:14+0000",
+      "from": {
+        "name": "耿浚瑋",
+        "id": "100000534577637"
+      },
+      "message": "感覺連五官都變了....是我的錯覺？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670692743030347"
+    },
+    {
+      "created_time": "2015-09-03T04:57:05+0000",
+      "from": {
+        "name": "施澎澎",
+        "id": "100000181973134"
+      },
+      "message": "不信的人可以自己挑戰看看4個月，便見真章是否XD",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670692713030350"
+    },
+    {
+      "created_time": "2015-09-03T04:54:41+0000",
+      "from": {
+        "name": "蘇威仲",
+        "id": "100000409983310"
+      },
+      "message": "太扯了吧~~XDD\n沒一起變胖就偷笑了~ \n佩服阿~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670692076363747"
+    },
+    {
+      "created_time": "2015-09-03T04:52:51+0000",
+      "from": {
+        "name": "Kidd Lin",
+        "id": "100000071745156"
+      },
+      "message": "怎麼還是會有一堆人相信記者的報導，動一下腦好嗎",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670691383030483"
+    },
+    {
+      "created_time": "2015-09-03T04:52:49+0000",
+      "from": {
+        "name": "莊鈞翔",
+        "id": "100000169183815"
+      },
+      "message": "四個月......四個月.....確定四個月?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670691366363818"
+    },
+    {
+      "created_time": "2015-09-03T04:47:21+0000",
+      "from": {
+        "name": "莊仁傑",
+        "id": "100000502037210"
+      },
+      "message": "虎爛文，男的胖時這樣子體指只有16，我不相信，要四個月變只有5那跟本是虎爛，有在健身的人都知道，要減重量不難，最難的是體脂肪要低於10都很難，\n而且一星期兩次一個半小時的重量，這樣子的程度跟本四個月減不了什麼，",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670689943030627"
+    },
+    {
+      "created_time": "2015-09-03T04:40:08+0000",
+      "from": {
+        "name": "Chuan Chien Peng",
+        "id": "100000339984058"
+      },
+      "message": "總覺得那男的肌肉太完美了\n看起來怪怪的",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670688669697421"
+    },
+    {
+      "created_time": "2015-09-03T04:38:17+0000",
+      "from": {
+        "name": "李震廷",
+        "id": "100000149929546"
+      },
+      "message": "左邊胖的時候仔細看已經有胸肌腹肌了 所以應該是原本就有在練 起跑線已經比一般完全不運動的肥宅好了 完全不運動的肥宅身材不是那樣的 所以四個月好好練是可能 唯一比較不可信的是一星期只運動兩次 一星期至少要五天 持續四個月配合乳清 BCAA 肌酸 飲食控制是可以的",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "670524583047163_670688459697442"
+    },
+    {
+      "created_time": "2015-09-03T04:36:41+0000",
+      "from": {
+        "name": "Calven Cai",
+        "id": "755917386"
+      },
+      "message": "四個月要變筋肉人有難度\n但要變胖很簡單\n好厲害，拍手",
+      "can_remove": false,
+      "like_count": 6,
+      "user_likes": false,
+      "id": "670524583047163_670687076364247"
+    },
+    {
+      "created_time": "2015-09-03T04:34:27+0000",
+      "from": {
+        "name": "我不是叫你變成塑膠臉",
+        "category": "Community",
+        "id": "875794845842343"
+      },
+      "message": "重點是穿塑膠防水台高跟涼鞋，是哪來的想法？",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "670524583047163_670686193031002"
+    },
+    {
+      "created_time": "2015-09-03T04:29:50+0000",
+      "from": {
+        "name": "陳力",
+        "id": "100009208194435"
+      },
+      "message": "確定沒整型體雕嗎……",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670685456364409"
+    },
+    {
+      "created_time": "2015-09-03T04:28:35+0000",
+      "from": {
+        "name": "高華宏",
+        "id": "100009480653261"
+      },
+      "message": "再想怎麼減個肥長相會跟著變\n往下看到韓國 我想通了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670683316364623"
+    },
+    {
+      "created_time": "2015-09-03T04:26:04+0000",
+      "from": {
+        "name": "林奕妏",
+        "id": "100001463869245"
+      },
+      "message": "沒有人發現那女的穿高跟鞋打球很怪嗎",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670682139698074"
+    },
+    {
+      "created_time": "2015-09-03T04:22:04+0000",
+      "from": {
+        "name": "蔡育哲",
+        "id": "100007319139465"
+      },
+      "message": "作假?噱頭?會比較紅?",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "670524583047163_670681616364793"
+    },
+    {
+      "created_time": "2015-09-03T04:21:09+0000",
+      "from": {
+        "name": "許惠婷",
+        "id": "100000358540729"
+      },
+      "message": "平常有在補充營養品嗎\n常常覺得精神不濟或身體疼痛的情形嗎\n現在精緻外食那麼多\n補充純天然營養品\n是我們所必須\n我有！你呢！\n或是你有想減重的 月瘦3-6公斤\n可以詢問我哦\n想讓大家變健康美麗 所以選擇分享\n想了解可加line哦\nID：maggie8844",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "670524583047163_670681479698140"
+    },
+    {
+      "created_time": "2015-09-03T04:19:38+0000",
+      "from": {
+        "name": "黃宥心",
+        "id": "100000386122732"
+      },
+      "message": "來到這裡我只聞到一股好濃的臭酸味,只會上網到處酸的人真的很悲哀",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670681069698181"
+    },
+    {
+      "created_time": "2015-09-03T04:16:07+0000",
+      "from": {
+        "name": "廖蛞蝓",
+        "id": "100000243343152"
+      },
+      "message": "感覺兩個本來就有練  那男的肌肉線條連胖的時候都那麼明顯",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "670524583047163_670679936364961"
+    },
+    {
+      "created_time": "2015-09-03T04:14:30+0000",
+      "from": {
+        "name": "林笠萍",
+        "id": "100000085625609"
+      },
+      "message": "蔡秉盛",
+      "can_remove": false,
+      "like_count": 0,
+      "message_tags": [
+        {
+          "id": "100000100226693",
+          "length": 3,
+          "name": "蔡秉盛",
+          "offset": 0,
+          "type": "user"
+        }
+      ],
+      "user_likes": false,
+      "id": "670524583047163_670679483031673"
+    },
+    {
+      "created_time": "2015-09-03T04:14:10+0000",
+      "from": {
+        "name": "胡愛珠",
+        "id": "100002910284770"
+      },
+      "message": "我覺得有可能耶~因為我自己目前花了一個月的時間幾乎每天都去健身房重訓+有氧1.5~2小時,飲食也有控制已經瘦了將近5公斤而且體脂也掉了快5%~快50歲的大嬸都能有這樣的成果更何況年輕人呢?不過就是要有相當的毅力~持續不能懶~不能停阿~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670679399698348"
+    },
+    {
+      "created_time": "2015-09-03T04:13:58+0000",
+      "from": {
+        "name": "Dc- Bryan",
+        "id": "100000142262977"
+      },
+      "message": "感覺假假的圖片 哈哈",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "670524583047163_670679336365021"
+    },
+    {
+      "created_time": "2015-09-03T04:13:48+0000",
+      "from": {
+        "name": "Ho Ward",
+        "id": "100001866693650"
+      },
+      "message": "四個月，不太可能",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670679313031690"
+    },
+    {
+      "created_time": "2015-09-03T04:13:04+0000",
+      "from": {
+        "name": "周倍祺",
+        "id": "100002226115468"
+      },
+      "message": "就算是真的，\n減肥減太快對健康有危險，\n這不是常識嗎。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670679133031708"
+    },
+    {
+      "created_time": "2015-09-03T04:11:24+0000",
+      "from": {
+        "name": "Ray Artice",
+        "id": "749380197"
+      },
+      "message": "最後的結果是：\n男主角從體重83kg減為71kg，體脂肪從16%降到5%\n女主角從體重71kg減為49kg，體脂肪從32%減到18%\n\n左邊胖男的體脂只有16% ?? 鬼才相信",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670678959698392"
+    },
+    {
+      "created_time": "2015-09-03T04:11:13+0000",
+      "from": {
+        "name": "蔡曜年",
+        "id": "1801947781"
+      },
+      "message": "健身房廣告而已",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "670524583047163_670678929698395"
+    },
+    {
+      "created_time": "2015-09-03T04:10:59+0000",
+      "from": {
+        "name": "Adolf Hsieh",
+        "id": "100000233236303"
+      },
+      "message": "4個月?\n\n抱歉, 哪一國人我都不信.\n\n我自己是每天持續運動鍛鍊那種, 我還算了解運動量跟身材的關係.\n\n先別說長肌肉長成這樣, 光是減肥要去降那個1%體脂就可以搞死這兩個.\n\n所以, 要說服我這個沒有動手腳, 蠻難的.",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "670524583047163_670678903031731"
+    },
+    {
+      "created_time": "2015-09-03T04:08:52+0000",
+      "from": {
+        "name": "Man Kit Wong",
+        "id": "100000153231121"
+      },
+      "message": "男生本身已有些身材",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670678483031773"
+    },
+    {
+      "created_time": "2015-09-03T04:08:51+0000",
+      "from": {
+        "name": "Ben Lu",
+        "id": "1391325141"
+      },
+      "message": "唉  看看就好  又是討砲的新聞! 說相信的 請拿出證據  如果你本身沒在健身 那您說相信  就是在汙辱專業的健身者或健身教練!\n別人練多久才有跟照片中一樣的線條? 四個月 每周兩天  每次一個半小時可以這樣?請問誰可以  我馬上花四個月跟他學!\n而且照片中那個男的 這樣的身材體脂才16? 總之  正常練法四個月是不可能啦!\n這種新聞都會看到很多相信的擁護者  麻煩給小弟指點迷津  我好想看那種三四個月練成猛男的實例  拜託了!\n肌肉的長成和線條的雕塑不是什麼魔鬼訓練或下定決心 還是過人毅力就可以達成  需要的還有\"時間\" 肌肉的生長是需要破壞 養分 和修復的 這過程不可能在四個月完成 不是狂練它就有肌肉!",
+      "can_remove": false,
+      "like_count": 11,
+      "user_likes": false,
+      "id": "670524583047163_670678473031774"
+    },
+    {
+      "created_time": "2015-09-03T04:08:07+0000",
+      "from": {
+        "name": "陳揚恩",
+        "id": "100001745787959"
+      },
+      "message": "天下無難事,只怕有心人.....BJ4",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670678276365127"
+    },
+    {
+      "created_time": "2015-09-03T04:06:18+0000",
+      "from": {
+        "name": "紅豆妮",
+        "id": "1665547090"
+      },
+      "message": "哇靠～太址啦",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670524583047163_670677819698506"
+    },
+    {
+      "created_time": "2015-09-03T04:02:52+0000",
+      "from": {
+        "name": "林璟安",
+        "id": "100000186627230"
+      },
+      "message": "先別說是整的\n\n但我覺得不可能四個月\n\n記者新聞要勵志可以\n\n但是不要跟李一休一樣不專業!!",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "670524583047163_670677229698565"
+    },
     {
       "created_time": "2015-09-03T04:01:48+0000",
       "from": {
@@ -23,7 +799,7 @@
       },
       "message": "矮呃。。一股臭酸味",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "670524583047163_670676133032008"
     },
@@ -47,7 +823,7 @@
       },
       "message": "總覺得數據有點怪怪的\n光就男的來看\n4個月要從胖子變成照片那樣的肌肉身材也太難了\n而且一個禮拜才做兩次重訓\n肥胖的照片看起來也不像體脂肪16\n起碼都有破20了\n要練到像他肌肉的照片那樣 應該也要花個一年吧(抓頭",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 7,
       "user_likes": false,
       "id": "670524583047163_670675676365387"
     },
@@ -59,7 +835,7 @@
       },
       "message": "其實那是他們以前在健身房認識的照片，在一起後胖成現在這付德性",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 526,
       "user_likes": false,
       "id": "670524583047163_670674969698791"
     },
@@ -131,7 +907,7 @@
       },
       "message": "這一看就是原本就很壯 故意吃胖在瘦回來的啊",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 4,
       "user_likes": false,
       "id": "670524583047163_670673489698939"
     },
@@ -179,7 +955,7 @@
       },
       "message": "這邊留言怎麼發酸成這樣⋯",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 7,
       "user_likes": false,
       "id": "670524583047163_670672419699046"
     },
@@ -215,7 +991,7 @@
       },
       "message": "四個月根本不可能這樣",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 16,
       "user_likes": false,
       "id": "670524583047163_670672243032397"
     },
@@ -275,7 +1051,7 @@
       },
       "message": "男的胖的時候怎麼看都不像體脂16",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "670524583047163_670671496365805"
     },
@@ -299,7 +1075,7 @@
       },
       "message": "臉都能作假了  更何況身材",
       "can_remove": false,
-      "like_count": 19,
+      "like_count": 38,
       "user_likes": false,
       "id": "670524583047163_670670849699203"
     },
@@ -323,7 +1099,7 @@
       },
       "message": "韓國。。。恩",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "670524583047163_670580356374919"
     },
@@ -335,7 +1111,7 @@
       },
       "message": "是先吃胖再瘦回來吧",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 6,
       "user_likes": false,
       "id": "670524583047163_670562589710029"
     }

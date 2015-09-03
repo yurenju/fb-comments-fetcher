@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150903/683733/",
   "comments": [
     {
+      "created_time": "2015-09-03T05:28:31+0000",
+      "from": {
+        "name": "王天明",
+        "id": "100009598849551"
+      },
+      "message": "說實在的，閉不閉關有差嗎?也沒人在看她的新聞，感覺她在選2020年的那一場。",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1008945265823881_1009023282482746"
+    },
+    {
+      "created_time": "2015-09-03T05:02:50+0000",
+      "from": {
+        "name": "林立翔",
+        "id": "100000407169531"
+      },
+      "message": "這種人的胡扯文也能當新聞，蘋果記者也太沒料了…真是夠了…",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1008945265823881_1009016232483451"
+    },
+    {
       "created_time": "2015-09-03T03:27:13+0000",
       "from": {
         "name": "我是綠吱我支持柱柱姊到11月27",
@@ -12,7 +36,7 @@
       },
       "message": "柱柱姊千萬不能退啊\n挺柱!挺柱!挺柱!",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1008945265823881_1008992395819168"
     },
@@ -24,7 +48,7 @@
       },
       "message": "RC婆！不可以不玩了。趕快來，有妳才好笑。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1008945265823881_1008991499152591"
     },
@@ -120,7 +144,7 @@
       },
       "message": "人渣...\n\n輔大教師周偉航 《特急件小周的人渣文本》",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "1008945265823881_1008947955823612"
     }
