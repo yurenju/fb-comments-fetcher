@@ -194,22 +194,22 @@
 
 ## Like: 468
 
-* Author: [鄭博綸](http://facebook.com/100000086808857)
-* Article: 【更新】賣波多野悠遊卡　柯文哲、戴季全挨告
-
-```
-賣國都沒事了，賣個悠遊卡是在告怎樣?是沒拿到惱羞成怒是不是?
-```
-
-
-## Like: 468
-
 * Author: [李亦庭](http://facebook.com/100008483558000)
 * Article: 募兵制跳票　府：扁政府縮役期的必然結果
 
 ```
 都做到第八年了還在call陳水扁救援
 有沒有一點羞恥心啊廢物
+```
+
+
+## Like: 468
+
+* Author: [鄭博綸](http://facebook.com/100000086808857)
+* Article: 【更新】賣波多野悠遊卡　柯文哲、戴季全挨告
+
+```
+賣國都沒事了，賣個悠遊卡是在告怎樣?是沒拿到惱羞成怒是不是?
 ```
 
 
@@ -673,20 +673,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 270
 
-* Author: [9.2%的blue](http://facebook.com/166284357037138)
-* Article: 陳水扁散步活跳跳　邊走還可邊滑手機
-
-```
-「周刊王」在幫馬英九鋪路，
-準備把阿扁隨時關回牢裡，
-趁機轉移經濟崩壞、執政無能的焦點。
-
-雖然我不喜歡阿扁，但我越來越同情他~
-```
-
-
-## Like: 270
-
 * Author: [Ching Wen Huang](http://facebook.com/100000310422454)
 * Article: 史上最萌颱風　水汪汪大眼對著你笑
 
@@ -704,6 +690,20 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 開一個月冷氣的電費只要4500日圓，就台幣1500左右。
 再照日本物價來算，再除3... 一個月的支出感覺只有我們的500元。
 幹！我們的油電雙高是怎麼回事？
+```
+
+
+## Like: 270
+
+* Author: [9.2%的blue](http://facebook.com/166284357037138)
+* Article: 陳水扁散步活跳跳　邊走還可邊滑手機
+
+```
+「周刊王」在幫馬英九鋪路，
+準備把阿扁隨時關回牢裡，
+趁機轉移經濟崩壞、執政無能的焦點。
+
+雖然我不喜歡阿扁，但我越來越同情他~
 ```
 
 
@@ -753,6 +753,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
+## Like: 260
+
+* Author: [趙政宏](http://facebook.com/100000264435422)
+* Article: 小鮮肉送上門　單親媽竟把女兒14歲男友吞了
+
+```
+終於可以對她說 我幹你娘
+```
+
+
 ## Like: 259
 
 * Author: [Joy Chien](http://facebook.com/1265613382)
@@ -799,21 +809,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 252
 
-* Author: [Ho Chow Lee](http://facebook.com/100007654243742)
-* Article: 【更新】要客點餐　麥當勞女服務生竟遭罵「像你這種貨色」
-
-```
-人也是分很多等級看你的談吐應該也是下下等级吧
-```
-
-
-## Like: 252
-
 * Author: [王佩瑛](http://facebook.com/1389173988)
 * Article: 養這等軍官、檢察官何用？
 
 ```
 這不是權貴，那什麼是權貴
+```
+
+
+## Like: 252
+
+* Author: [Ho Chow Lee](http://facebook.com/100007654243742)
+* Article: 【更新】要客點餐　麥當勞女服務生竟遭罵「像你這種貨色」
+
+```
+人也是分很多等級看你的談吐應該也是下下等级吧
 ```
 
 
@@ -1002,16 +1012,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 231
 
-* Author: [Andrew Jao](http://facebook.com/1103784944)
-* Article: 發現男友找援交妹性愛影片　她的報復太駭人
-
-```
-難怪我今早醒來變光頭
-```
-
-
-## Like: 231
-
 * Author: [曾彥屏](http://facebook.com/100003805046456)
 * Article: 小六女兒問波多野是誰　媽媽的回應超級棒
 
@@ -1021,6 +1021,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 說不歧視性工作者,表現出來就是從骨子裡歧視
 還要說漂亮話當正義魔人
 笑話
+```
+
+
+## Like: 231
+
+* Author: [Andrew Jao](http://facebook.com/1103784944)
+* Article: 發現男友找援交妹性愛影片　她的報復太駭人
+
+```
+難怪我今早醒來變光頭
 ```
 
 
@@ -1088,11 +1098,11 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 220
 
-* Author: [Ming Yu Lee](http://facebook.com/1370877556)
-* Article: 報復性漲房租　投資客打趴15年小店
+* Author: [劉宇](http://facebook.com/100006213755698)
+* Article: PTT名人蘇溫永又告人　結果這次...
 
 ```
-好想看炒房客、奸建商和惡房東自殺喔～～
+我又上新聞惹 @@
 ```
 
 
@@ -1108,11 +1118,11 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 220
 
-* Author: [劉宇](http://facebook.com/100006213755698)
-* Article: PTT名人蘇溫永又告人　結果這次...
+* Author: [Ming Yu Lee](http://facebook.com/1370877556)
+* Article: 報復性漲房租　投資客打趴15年小店
 
 ```
-我又上新聞惹 @@
+好想看炒房客、奸建商和惡房東自殺喔～～
 ```
 
 
@@ -1152,21 +1162,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 212
 
-* Author: [陳名仰](http://facebook.com/1250598839)
-* Article: 請給我一百億的真相
-
-```
-小孩子戳破的不是畫 是戳破了這個展
-```
-
-
-## Like: 212
-
 * Author: [林奎伯](http://facebook.com/100000237751282)
 * Article: 會流汗的小鮮肉奶茶　遭爆「抄襲」日本
 
 ```
 男身上半身赤裸的形狀可以拿來當保特瓶包裝，AV女優的臉不能當悠遊卡封面！？贛林良的一堆假道學跟婦女團體！噁心！
+```
+
+
+## Like: 212
+
+* Author: [陳名仰](http://facebook.com/1250598839)
+* Article: 請給我一百億的真相
+
+```
+小孩子戳破的不是畫 是戳破了這個展
 ```
 
 
@@ -1194,33 +1204,19 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 205
 
-* Author: [鄭堯](http://facebook.com/100009614601357)
-* Article: 蔡英文談「我眼中的台灣」　網友哭著看完
-
-```
-我只有一句話告訴蔡，勿忘你所說的話。
-```
-
-
-## Like: 205
-
-* Author: [張凱翔](http://facebook.com/100000179728138)
-* Article: 7旬嬤撿3元紙箱　所有人堅持告竊盜
-
-```
-我還曾經被走進來的三寶，把紙箱內垃圾倒在我的桌上，打算把紙箱幹走的哩。
-
-只是當時我走出來出聲警告，這種的告下去剛好而已。
-
-你告他一次微罪被放回來，下次他就不敢來，不說話他就把垃圾留你家，他要的全部幹走，再來一次有前紀錄看檢察官敢不敢亂放人。
-```
-
-
-## Like: 205
-
 * Author: [何明](http://facebook.com/793218045)
 * Article: 他一掌打爆IKEA桌子　吐槽結果變宣傳
 
 ```
 $245/36個月，每個月才$6.8，一天才$0.283,好了我認輸，因為我認真了。
+```
+
+
+## Like: 205
+
+* Author: [鄭堯](http://facebook.com/100009614601357)
+* Article: 蔡英文談「我眼中的台灣」　網友哭著看完
+
+```
+我只有一句話告訴蔡，勿忘你所說的話。
 ```
