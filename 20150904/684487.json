@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150904/684487/",
   "comments": [
     {
+      "created_time": "2015-09-04T11:48:52+0000",
+      "from": {
+        "name": "張誠宗",
+        "id": "100006551624407"
+      },
+      "message": "小日本打跨大中國。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1043778542322582_1044199598947143"
+    },
+    {
       "created_time": "2015-09-04T02:21:58+0000",
       "from": {
         "name": "Chen Jerome",
@@ -11,7 +23,7 @@
       },
       "message": "我比較關心天津氣爆的污染毒物報告",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1043778542322582_1044049982295438"
     },
@@ -59,7 +71,7 @@
       },
       "message": "凸顯不少中國人對於閱兵，其實並不關心←這才是重點!!",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "1043778542322582_1044009148966188"
     },

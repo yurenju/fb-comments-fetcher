@@ -4,6 +4,37 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150904/684472/",
   "comments": [
     {
+      "created_time": "2015-09-04T12:47:42+0000",
+      "from": {
+        "name": "胡仙仙",
+        "id": "100010016892619"
+      },
+      "message": "此時此刻   假如你正在讀這條短信 說明我們很有緣分加line:19955yy給你驚喜",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "860756547341283_861060953977509"
+    },
+    {
+      "created_time": "2015-09-04T10:41:12+0000",
+      "from": {
+        "name": "穆宏偉",
+        "id": "100000359762537"
+      },
+      "message": "請大家多多支持還有幫我點個讚歐~~\nhttps://m.facebook.com/photo.php?fbid=1006374406051209&id=100000359762537&set=o.503158159841176&ref=bookmarks",
+      "can_remove": false,
+      "like_count": 0,
+      "message_tags": [
+        {
+          "id": "1006374406051209",
+          "length": 109,
+          "offset": 18
+        }
+      ],
+      "user_likes": false,
+      "id": "860756547341283_861023870647884"
+    },
+    {
       "created_time": "2015-09-03T23:36:00+0000",
       "from": {
         "name": "霆鋒",

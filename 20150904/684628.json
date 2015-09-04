@@ -28,18 +28,6 @@
       "id": "1033527830004251_1033573213333046"
     },
     {
-      "created_time": "2015-09-04T05:49:09+0000",
-      "from": {
-        "name": "趙儷影",
-        "id": "100010258148247"
-      },
-      "message": "http://tinyurl.com/qwasz666",
-      "can_remove": false,
-      "like_count": 0,
-      "user_likes": false,
-      "id": "1033527830004251_1033571419999892"
-    },
-    {
       "created_time": "2015-09-04T05:35:36+0000",
       "from": {
         "name": "陳明靖",
@@ -47,7 +35,7 @@
       },
       "message": "標題改成四個熱太氣旋會比較好，媒體能教育大眾也能誤導大眾\n東太平洋的新熱太氣旋叫做颶風不叫颱風",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1033527830004251_1033568783333489"
     },
@@ -72,21 +60,9 @@
       },
       "message": "看到當下..覺得像梵谷的星空",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 7,
       "user_likes": false,
       "id": "1033527830004251_1033565186667182"
-    },
-    {
-      "created_time": "2015-09-04T05:01:52+0000",
-      "from": {
-        "name": "任靜茹",
-        "id": "100010002795407"
-      },
-      "message": "環太平洋",
-      "can_remove": false,
-      "like_count": 1,
-      "user_likes": false,
-      "id": "1033527830004251_1033560766667624"
     },
     {
       "created_time": "2015-09-04T04:45:54+0000",
@@ -96,7 +72,7 @@
       },
       "message": "...至少比薏仁的關係有意思˙3˙",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1033527830004251_1033555010001533"
     },

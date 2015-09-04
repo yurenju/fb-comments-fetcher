@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150904/684768/",
   "comments": [
     {
+      "created_time": "2015-09-04T10:30:34+0000",
+      "from": {
+        "name": "Ceci Chang",
+        "id": "100006464662202"
+      },
+      "message": "光那個鑽石墜頭都不只5000塊",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1195392630486220_1195495797142570"
+    },
+    {
       "created_time": "2015-09-04T07:48:12+0000",
       "from": {
         "name": "Justin Taylor",
@@ -11,7 +23,7 @@
       },
       "message": "5000元是成本價.....內行",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1195392630486220_1195413947150755"
     },

@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150904/684701/",
   "comments": [
     {
+      "created_time": "2015-09-04T12:15:20+0000",
+      "from": {
+        "name": "Bob Cheng",
+        "id": "1239862897"
+      },
+      "message": "沒事啦,高雄滿意度調查僅次於台南得全台灣第二名",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "878771912207621_878901118861367"
+    },
+    {
       "created_time": "2015-09-04T06:55:27+0000",
       "from": {
         "name": "陳致文",
@@ -23,7 +35,7 @@
       },
       "message": "中鋼轉爐石 鋼鐵廠以後都要交代去向!  公開透明",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "878771912207621_878823308869148"
     },

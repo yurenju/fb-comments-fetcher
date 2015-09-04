@@ -11,7 +11,7 @@
       },
       "message": "Ptt很多板主其實是垃圾，以為自己是法官，動不動就刪他人文章，以為自己是正義的化身，其實是垃圾一堆!",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "915934425147162_916191571788114"
     },
@@ -111,18 +111,6 @@
       "like_count": 0,
       "user_likes": false,
       "id": "915934425147162_915978985142706"
-    },
-    {
-      "created_time": "2015-09-04T05:07:19+0000",
-      "from": {
-        "name": "任靜茹",
-        "id": "100010002795407"
-      },
-      "message": "我知道你們都上ptt抄新聞，但這種小事也抄就太離譜了",
-      "can_remove": false,
-      "like_count": 3,
-      "user_likes": false,
-      "id": "915934425147162_915978275142777"
     },
     {
       "created_time": "2015-09-04T04:51:19+0000",
@@ -433,7 +421,7 @@
       },
       "message": "可見PTT比KMT有制度的多，你看KMT對連戰的事情裝死到現在",
       "can_remove": false,
-      "like_count": 38,
+      "like_count": 40,
       "user_likes": false,
       "id": "915934425147162_915942591813012"
     },
@@ -469,7 +457,7 @@
       },
       "message": "無聊，只會抄PTT，而且這只是PTT的八卦，也要抄上新聞？",
       "can_remove": false,
-      "like_count": 12,
+      "like_count": 14,
       "user_likes": false,
       "id": "915934425147162_915940158479922"
     },
@@ -529,7 +517,7 @@
       },
       "message": "我也沒看過一個討論版的版主下臺\n會被做成新聞...",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 7,
       "user_likes": false,
       "id": "915934425147162_915938148480123"
     },
@@ -649,7 +637,7 @@
       },
       "message": "我不知道西斯版主的事情重要到用快訊插播新聞==",
       "can_remove": false,
-      "like_count": 38,
+      "like_count": 40,
       "user_likes": false,
       "id": "915934425147162_915936341813637"
     },
@@ -674,7 +662,7 @@
       },
       "message": "ttb終於被大家幹死了\n(咦",
       "can_remove": false,
-      "like_count": 23,
+      "like_count": 24,
       "user_likes": false,
       "id": "915934425147162_915935528480385"
     }

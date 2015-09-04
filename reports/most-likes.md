@@ -1,7 +1,7 @@
 # Top 100 按讚數最多
 
 
-## Like: 1130
+## Like: 1311
 
 * Author: [趙政宏](http://facebook.com/100000264435422)
 * Article: 【更新】小鮮肉送上門　單親媽竟把女兒14歲男友吞了
@@ -104,17 +104,7 @@
 ```
 
 
-## Like: 747
-
-* Author: [冰月](http://facebook.com/100003098352800)
-* Article: 【更新】硬撐引路救4幼犬　重病狗媽噴血亡
-
-```
-我可以收養這4隻幼犬，完成母犬的遺願
-```
-
-
-## Like: 723
+## Like: 806
 
 * Author: [Yung-Chien Chou](http://facebook.com/100005668369242)
 * Article: 【更新】小鮮肉送上門　單親媽竟把女兒14歲男友吞了
@@ -125,6 +115,16 @@
 
 莫怨阿姨急下手，迷途羔羊入虎口，
 未明珠胎是否留，網開一面免成囚。
+```
+
+
+## Like: 747
+
+* Author: [冰月](http://facebook.com/100003098352800)
+* Article: 【更新】硬撐引路救4幼犬　重病狗媽噴血亡
+
+```
+我可以收養這4隻幼犬，完成母犬的遺願
 ```
 
 
@@ -218,22 +218,35 @@
 
 ## Like: 468
 
-* Author: [鄭博綸](http://facebook.com/100000086808857)
-* Article: 【更新】賣波多野悠遊卡　柯文哲、戴季全挨告
-
-```
-賣國都沒事了，賣個悠遊卡是在告怎樣?是沒拿到惱羞成怒是不是?
-```
-
-
-## Like: 468
-
 * Author: [李亦庭](http://facebook.com/100008483558000)
 * Article: 募兵制跳票　府：扁政府縮役期的必然結果
 
 ```
 都做到第八年了還在call陳水扁救援
 有沒有一點羞恥心啊廢物
+```
+
+
+## Like: 468
+
+* Author: [王柏堯](http://facebook.com/100001274978498)
+* Article: 【更新】小鮮肉送上門　單親媽竟把女兒14歲男友吞了
+
+```
+換個角色
+一個41歲單親爸爸
+在客廳與兒子14歲女友發生關係
+你看他會怎麼死
+```
+
+
+## Like: 468
+
+* Author: [鄭博綸](http://facebook.com/100000086808857)
+* Article: 【更新】賣波多野悠遊卡　柯文哲、戴季全挨告
+
+```
+賣國都沒事了，賣個悠遊卡是在告怎樣?是沒拿到惱羞成怒是不是?
 ```
 
 
@@ -327,19 +340,6 @@
 
 ```
 吃麥當勞，想享受五星飯店的服務，花兩百塊，想買經久耐用的桌子，這就是可憐人的大爺心態，拜託。
-```
-
-
-## Like: 412
-
-* Author: [王柏堯](http://facebook.com/100001274978498)
-* Article: 【更新】小鮮肉送上門　單親媽竟把女兒14歲男友吞了
-
-```
-換個角色
-一個41歲單親爸爸
-在客廳與兒子14歲女友發生關係
-你看他會怎麼死
 ```
 
 
@@ -442,6 +442,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 358
 
+* Author: [Roderick Lai](http://facebook.com/100000344530126)
+* Article: 布丁為何「一組3入」？　原來有典故
+
+```
+養樂多一組五罐，該不會是一家四口，爸爸下班後口渴還要多喝一罐
+```
+
+
+## Like: 358
+
 * Author: [張宏德](http://facebook.com/100001352602343)
 * Article: 【讀者直擊】叫我自己收餐盤！　不收哥暴怒！
 
@@ -450,13 +460,13 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
-## Like: 358
+## Like: 357
 
-* Author: [Roderick Lai](http://facebook.com/100000344530126)
-* Article: 布丁為何「一組3入」？　原來有典故
+* Author: [柯諭驊](http://facebook.com/100001856221254)
+* Article: 產後借籃球瘦身　人妻遭男大生硬上
 
 ```
-養樂多一組五罐，該不會是一家四口，爸爸下班後口渴還要多喝一罐
+女的本身也有錯，搞瞹眛，玩火上身。
 ```
 
 
@@ -802,16 +812,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
-## Like: 259
-
-* Author: [柯諭驊](http://facebook.com/100001856221254)
-* Article: 產後借籃球瘦身　人妻遭男大生硬上
-
-```
-女的本身也有錯，搞瞹眛，玩火上身。
-```
-
-
 ## Like: 256
 
 * Author: [Chia-ming Chen](http://facebook.com/100001482906125)
@@ -856,6 +856,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 252
 
+* Author: [Ho Chow Lee](http://facebook.com/100007654243742)
+* Article: 【更新】要客點餐　麥當勞女服務生竟遭罵「像你這種貨色」
+
+```
+人也是分很多等級看你的談吐應該也是下下等级吧
+```
+
+
+## Like: 252
+
 * Author: [春米六](http://facebook.com/100000280839720)
 * Article: 【更新】冷氣開24小時　電費只比正常開關多一點
 
@@ -865,16 +875,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 晚上也只要有電風扇就能睡
 現在裝冷氣真的變得很不耐熱 回房就想開冷氣
 長期下來電費又貴 又讓自己變的嫩嫩的 真的要克制一下
-```
-
-
-## Like: 252
-
-* Author: [Ho Chow Lee](http://facebook.com/100007654243742)
-* Article: 【更新】要客點餐　麥當勞女服務生竟遭罵「像你這種貨色」
-
-```
-人也是分很多等級看你的談吐應該也是下下等级吧
 ```
 
 
@@ -1049,16 +1049,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 231
 
-* Author: [Andrew Jao](http://facebook.com/1103784944)
-* Article: 發現男友找援交妹性愛影片　她的報復太駭人
-
-```
-難怪我今早醒來變光頭
-```
-
-
-## Like: 231
-
 * Author: [曾彥屏](http://facebook.com/100003805046456)
 * Article: 小六女兒問波多野是誰　媽媽的回應超級棒
 
@@ -1068,6 +1058,26 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 說不歧視性工作者,表現出來就是從骨子裡歧視
 還要說漂亮話當正義魔人
 笑話
+```
+
+
+## Like: 231
+
+* Author: [Andrew Jao](http://facebook.com/1103784944)
+* Article: 發現男友找援交妹性愛影片　她的報復太駭人
+
+```
+難怪我今早醒來變光頭
+```
+
+
+## Like: 227
+
+* Author: [洪米政](http://facebook.com/100009341471616)
+* Article: 人妻借籃球被硬上　對話紀錄超展開
+
+```
+這跟本就是仙人跳。
 ```
 
 
@@ -1094,21 +1104,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 226
 
-* Author: [鐘通豪](http://facebook.com/100000046993690)
-* Article: 【更新】超商拒賣AV悠遊卡　他用一張圖酸假掰
-
-```
-四大超商應該是受到政治壓力的介入才取消販賣的？最可恥的是那些政治人物跟衛道人士假道學的團體，自己骯髒還嫌人家齷齪～
-```
-
-
-## Like: 226
-
 * Author: [Jason Chiu](http://facebook.com/100003293039029)
 * Article: 7旬嬤撿3元紙箱　所有人堅持告竊盜
 
 ```
 重點不是紙箱只值3元，而是進入私人領域未經允許拿走紙箱且也跟年紀無關
+```
+
+
+## Like: 226
+
+* Author: [鐘通豪](http://facebook.com/100000046993690)
+* Article: 【更新】超商拒賣AV悠遊卡　他用一張圖酸假掰
+
+```
+四大超商應該是受到政治壓力的介入才取消販賣的？最可恥的是那些政治人物跟衛道人士假道學的團體，自己骯髒還嫌人家齷齪～
 ```
 
 
@@ -1130,16 +1140,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ```
 那個媽的馬畜總統...要八年了...還可以推給前朝...真是夠了...; 無能倒是睡得粉甜...起早晨跑了沒? 馬畜?...
-```
-
-
-## Like: 220
-
-* Author: [Ming Yu Lee](http://facebook.com/1370877556)
-* Article: 報復性漲房租　投資客打趴15年小店
-
-```
-好想看炒房客、奸建商和惡房東自殺喔～～
 ```
 
 
@@ -1183,6 +1183,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
+## Like: 220
+
+* Author: [Ming Yu Lee](http://facebook.com/1370877556)
+* Article: 報復性漲房租　投資客打趴15年小店
+
+```
+好想看炒房客、奸建商和惡房東自殺喔～～
+```
+
+
 ## Like: 219
 
 * Author: [James Li](http://facebook.com/100000273486740)
@@ -1199,16 +1209,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 212
 
-* Author: [陳名仰](http://facebook.com/1250598839)
-* Article: 請給我一百億的真相
-
-```
-小孩子戳破的不是畫 是戳破了這個展
-```
-
-
-## Like: 212
-
 * Author: [林奎伯](http://facebook.com/100000237751282)
 * Article: 會流汗的小鮮肉奶茶　遭爆「抄襲」日本
 
@@ -1217,13 +1217,11 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
-## Like: 211
+## Like: 212
 
-* Author: [玉蘋](http://facebook.com/100003022822434)
-* Article: 20個高中生不可能知道的東西
+* Author: [陳名仰](http://facebook.com/1250598839)
+* Article: 請給我一百億的真相
 
 ```
-現在學生不知道的是
-老師說一就是一，被老師打要說謝謝老師。
-而且被老師打還要擔心回家會不會再被父母打一次。
+小孩子戳破的不是畫 是戳破了這個展
 ```
