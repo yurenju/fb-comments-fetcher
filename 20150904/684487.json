@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150904/684487/",
   "comments": [
     {
+      "created_time": "2015-09-04T02:21:58+0000",
+      "from": {
+        "name": "Chen Jerome",
+        "id": "100000244634510"
+      },
+      "message": "我比較關心天津氣爆的污染毒物報告",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1043778542322582_1044049982295438"
+    },
+    {
+      "created_time": "2015-09-04T02:06:18+0000",
+      "from": {
+        "name": "王爽",
+        "id": "100001191762981"
+      },
+      "message": "这个问题看收视率就知道了呗",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1043778542322582_1044045568962546"
+    },
+    {
+      "created_time": "2015-09-04T01:02:52+0000",
+      "from": {
+        "name": "Pin Chi Shih",
+        "id": "1437733205"
+      },
+      "message": "陸客請把台灣外省人趕回中國。",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1043778542322582_1044026202297816"
+    },
+    {
       "created_time": "2015-09-04T00:28:24+0000",
       "from": {
         "name": "李蜗牛",
@@ -23,7 +59,7 @@
       },
       "message": "凸顯不少中國人對於閱兵，其實並不關心←這才是重點!!",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1043778542322582_1044009148966188"
     },

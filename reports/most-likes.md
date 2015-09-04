@@ -136,6 +136,16 @@
 ```
 
 
+## Like: 621
+
+* Author: [趙政宏](http://facebook.com/100000264435422)
+* Article: 【更新】小鮮肉送上門　單親媽竟把女兒14歲男友吞了
+
+```
+終於可以對她說 我幹你娘
+```
+
+
 ## Like: 618
 
 * Author: [鄭豊宸](http://facebook.com/100009638948463)
@@ -194,22 +204,22 @@
 
 ## Like: 468
 
+* Author: [鄭博綸](http://facebook.com/100000086808857)
+* Article: 【更新】賣波多野悠遊卡　柯文哲、戴季全挨告
+
+```
+賣國都沒事了，賣個悠遊卡是在告怎樣?是沒拿到惱羞成怒是不是?
+```
+
+
+## Like: 468
+
 * Author: [李亦庭](http://facebook.com/100008483558000)
 * Article: 募兵制跳票　府：扁政府縮役期的必然結果
 
 ```
 都做到第八年了還在call陳水扁救援
 有沒有一點羞恥心啊廢物
-```
-
-
-## Like: 468
-
-* Author: [鄭博綸](http://facebook.com/100000086808857)
-* Article: 【更新】賣波多野悠遊卡　柯文哲、戴季全挨告
-
-```
-賣國都沒事了，賣個悠遊卡是在告怎樣?是沒拿到惱羞成怒是不是?
 ```
 
 
@@ -316,13 +326,17 @@
 ```
 
 
-## Like: 392
+## Like: 390
 
-* Author: [趙政宏](http://facebook.com/100000264435422)
-* Article: 小鮮肉送上門　單親媽竟把女兒14歲男友吞了
+* Author: [Yung-Chien Chou](http://facebook.com/100005668369242)
+* Article: 【更新】小鮮肉送上門　單親媽竟把女兒14歲男友吞了
 
 ```
-終於可以對她說 我幹你娘
+都怪女兒早交友，害得老媽嚐鮮肉，
+哪知天雷地火勾，剎那蚌裡裝蝌蚪。
+
+莫怨阿姨急下手，迷途羔羊入虎口，
+未明珠胎是否留，網開一面免成囚。
 ```
 
 
@@ -809,6 +823,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 252
 
+* Author: [Ho Chow Lee](http://facebook.com/100007654243742)
+* Article: 【更新】要客點餐　麥當勞女服務生竟遭罵「像你這種貨色」
+
+```
+人也是分很多等級看你的談吐應該也是下下等级吧
+```
+
+
+## Like: 252
+
 * Author: [王佩瑛](http://facebook.com/1389173988)
 * Article: 養這等軍官、檢察官何用？
 
@@ -828,16 +852,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 晚上也只要有電風扇就能睡
 現在裝冷氣真的變得很不耐熱 回房就想開冷氣
 長期下來電費又貴 又讓自己變的嫩嫩的 真的要克制一下
-```
-
-
-## Like: 252
-
-* Author: [Ho Chow Lee](http://facebook.com/100007654243742)
-* Article: 【更新】要客點餐　麥當勞女服務生竟遭罵「像你這種貨色」
-
-```
-人也是分很多等級看你的談吐應該也是下下等级吧
 ```
 
 
@@ -989,6 +1003,19 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
+## Like: 237
+
+* Author: [王柏堯](http://facebook.com/100001274978498)
+* Article: 【更新】小鮮肉送上門　單親媽竟把女兒14歲男友吞了
+
+```
+換個角色
+一個41歲單親爸爸
+在客廳與兒子14歲女友發生關係
+你看他會怎麼死
+```
+
+
 ## Like: 235
 
 * Author: [林正偉](http://facebook.com/100004707675918)
@@ -1012,16 +1039,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 231
 
-* Author: [Andrew Jao](http://facebook.com/1103784944)
-* Article: 發現男友找援交妹性愛影片　她的報復太駭人
-
-```
-難怪我今早醒來變光頭
-```
-
-
-## Like: 231
-
 * Author: [曾彥屏](http://facebook.com/100003805046456)
 * Article: 小六女兒問波多野是誰　媽媽的回應超級棒
 
@@ -1034,13 +1051,13 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
-## Like: 226
+## Like: 231
 
-* Author: [Jason Chiu](http://facebook.com/100003293039029)
-* Article: 7旬嬤撿3元紙箱　所有人堅持告竊盜
+* Author: [Andrew Jao](http://facebook.com/1103784944)
+* Article: 發現男友找援交妹性愛影片　她的報復太駭人
 
 ```
-重點不是紙箱只值3元，而是進入私人領域未經允許拿走紙箱且也跟年紀無關
+難怪我今早醒來變光頭
 ```
 
 
@@ -1051,6 +1068,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ```
 四大超商應該是受到政治壓力的介入才取消販賣的？最可恥的是那些政治人物跟衛道人士假道學的團體，自己骯髒還嫌人家齷齪～
+```
+
+
+## Like: 226
+
+* Author: [Jason Chiu](http://facebook.com/100003293039029)
+* Article: 7旬嬤撿3元紙箱　所有人堅持告竊盜
+
+```
+重點不是紙箱只值3元，而是進入私人領域未經允許拿走紙箱且也跟年紀無關
 ```
 
 
@@ -1108,6 +1135,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 220
 
+* Author: [劉宇](http://facebook.com/100006213755698)
+* Article: PTT名人蘇溫永又告人　結果這次...
+
+```
+我又上新聞惹 @@
+```
+
+
+## Like: 220
+
 * Author: [康鳳涵](http://facebook.com/100001437584311)
 * Article: 台灣媽瘋月子中心　荷蘭爸一句話懂了
 
@@ -1136,16 +1173,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
-## Like: 220
-
-* Author: [劉宇](http://facebook.com/100006213755698)
-* Article: PTT名人蘇溫永又告人　結果這次...
-
-```
-我又上新聞惹 @@
-```
-
-
 ## Like: 219
 
 * Author: [James Li](http://facebook.com/100000273486740)
@@ -1157,20 +1184,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 但是自己人的貪污洗錢官商勾結的道德標準是低到沒有...
 
 還會很大聲地問別人有沒有道德...
-```
-
-
-## Like: 212
-
-* Author: [Yung-Chien Chou](http://facebook.com/100005668369242)
-* Article: 小鮮肉送上門　單親媽竟把女兒14歲男友吞了
-
-```
-都怪女兒早交友，害得老媽嚐鮮肉，
-哪知天雷地火勾，剎那蚌裡裝蝌蚪。
-
-莫怨阿姨急下手，迷途羔羊入虎口，
-未明珠胎是否留，網開一面免成囚。
 ```
 
 
@@ -1213,14 +1226,4 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ```
 以牙還牙 剛好而以 對這些is的人 不用抱著同理心
-```
-
-
-## Like: 205
-
-* Author: [何明](http://facebook.com/793218045)
-* Article: 他一掌打爆IKEA桌子　吐槽結果變宣傳
-
-```
-$245/36個月，每個月才$6.8，一天才$0.283,好了我認輸，因為我認真了。
 ```

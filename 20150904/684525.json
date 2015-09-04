@@ -4,6 +4,150 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150904/684525/",
   "comments": [
     {
+      "created_time": "2015-09-04T03:56:18+0000",
+      "from": {
+        "name": "范詠菘",
+        "id": "100009997744388"
+      },
+      "message": "我的這一班",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "813861528726340_814019052043921"
+    },
+    {
+      "created_time": "2015-09-04T03:35:09+0000",
+      "from": {
+        "name": "Jasmin Ho",
+        "id": "100002387930651"
+      },
+      "message": "一早嚮領導面前曝光了。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "813861528726340_814014042044422"
+    },
+    {
+      "created_time": "2015-09-04T03:06:44+0000",
+      "from": {
+        "name": "林俊安",
+        "id": "100000289490009"
+      },
+      "message": "人民幣太神拉　　哈哈哈",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "813861528726340_814008362044990"
+    },
+    {
+      "created_time": "2015-09-04T02:15:40+0000",
+      "from": {
+        "name": "板本厲",
+        "id": "100004607265217"
+      },
+      "message": "六線合一...太複雜了!\n主流要求是一線..亦是最不可能有的 \"一線天\" !",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "813861528726340_813973892048437"
+    },
+    {
+      "created_time": "2015-09-04T02:06:44+0000",
+      "from": {
+        "name": "林建志",
+        "id": "100000290959082"
+      },
+      "message": "講那麼多！？就被標題給騙進來的嘛！\n\n就老實的承認嘛！\n\n包括我在內那麼多的表兄弟做陪，\n\n有什麼好丟臉的！？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "813861528726340_813969232048903"
+    },
+    {
+      "created_time": "2015-09-04T02:06:10+0000",
+      "from": {
+        "name": "鍾心米",
+        "id": "100003911878712"
+      },
+      "message": "一個月踢壞一雙靴,根本是鞋子爛",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "813861528726340_813969178715575"
+    },
+    {
+      "created_time": "2015-09-04T02:00:38+0000",
+      "from": {
+        "name": "蘇信寬",
+        "id": "100001006419048"
+      },
+      "message": "所以我說那個秘密呢？",
+      "can_remove": false,
+      "like_count": 4,
+      "user_likes": false,
+      "id": "813861528726340_813967945382365"
+    },
+    {
+      "created_time": "2015-09-04T01:58:35+0000",
+      "from": {
+        "name": "江志龍",
+        "id": "100000081542296"
+      },
+      "message": "騙人的新聞.怎訓練女兵的??????????????????????????????????????????????????????????????????????????",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "813861528726340_813967348715758"
+    },
+    {
+      "created_time": "2015-09-04T01:48:29+0000",
+      "from": {
+        "name": "Gerpye  Hau",
+        "id": "100004150535242"
+      },
+      "message": "長官手伸直滑過去，手摸不到胸部的淘汰....",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "813861528726340_813958082050018"
+    },
+    {
+      "created_time": "2015-09-04T01:40:02+0000",
+      "from": {
+        "name": "王天明",
+        "id": "100009598849551"
+      },
+      "message": "都什麼年代了，美國研發機器人上戰場，中國找人扮演機器人，這仗就甭打了，再打一次，台灣又要割讓了。",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "813861528726340_813949888717504"
+    },
+    {
+      "created_time": "2015-09-04T01:22:39+0000",
+      "from": {
+        "name": "Alex Lee",
+        "id": "830111519"
+      },
+      "message": "胸腺對齊的秘密咧~記者騙點閱~有夠不要臉~",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "813861528726340_813941555385004"
+    },
+    {
+      "created_time": "2015-09-04T01:21:53+0000",
+      "from": {
+        "name": "Zhao Anna",
+        "id": "100006401020957"
+      },
+      "message": "一份報紙長期報奶，可見一斑",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "813861528726340_813940962051730"
+    },
+    {
       "created_time": "2015-09-04T00:28:35+0000",
       "from": {
         "name": "宋震遠",
@@ -11,7 +155,7 @@
       },
       "message": "脫光也不要。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "813861528726340_813920952053731"
     },
@@ -23,7 +167,7 @@
       },
       "message": "閱兵後..準備給共產黨高官.輪姦用",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 14,
       "user_likes": false,
       "id": "813861528726340_813919585387201"
     },
@@ -35,7 +179,7 @@
       },
       "message": "胸部整齊劃一的秘密曝光?曝光在哪裡? 秘密在哪裡? 幹你阿呆喔?",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 8,
       "user_likes": false,
       "id": "813861528726340_813918458720647"
     },
@@ -71,7 +215,7 @@
       },
       "message": "這些女兵都是未來中央領導的後宮佳麗後選人阿！",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 10,
       "user_likes": false,
       "id": "813861528726340_813913302054496"
     },
@@ -107,7 +251,7 @@
       },
       "message": "窮兵黷武\n狗腿雀舞\n只為家族\n無視民苦",
       "can_remove": false,
-      "like_count": 9,
+      "like_count": 27,
       "user_likes": false,
       "id": "813861528726340_813909748721518"
     },
@@ -119,7 +263,7 @@
       },
       "message": "最後習近平喊：人民幣勝？其實記者字幕打錯，應該是「人民幣升」值，國家主席都高呼升值了，中國央行一定會照做啊！",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "813861528726340_813907982055028"
     },
@@ -131,7 +275,7 @@
       },
       "message": "人民幣勝 ... 我笑了 ~",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 25,
       "user_likes": false,
       "id": "813861528726340_813906828721810"
     },

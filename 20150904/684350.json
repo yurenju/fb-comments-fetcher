@@ -4,6 +4,31 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150904/684350/",
   "comments": [
     {
+      "created_time": "2015-09-04T03:29:21+0000",
+      "from": {
+        "name": "達克duck-找東西、找電影、找音樂",
+        "category": "Community",
+        "id": "495716607221225"
+      },
+      "message": "我都起來了你睡什麼啦  快陪我玩~~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1107528882595032_1107731255908128"
+    },
+    {
+      "created_time": "2015-09-04T01:06:19+0000",
+      "from": {
+        "name": "Yuki Tsai",
+        "id": "100008790133393"
+      },
+      "message": "我的狗只會陪我一起睡",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1107528882595032_1107690932578827"
+    },
+    {
       "created_time": "2015-09-04T00:23:32+0000",
       "from": {
         "name": "Chen Jerome",
@@ -11,7 +36,7 @@
       },
       "message": "叫老哥起床的方法：\n就是你了黃金獵犬，使用飛撲！",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1107528882595032_1107678752580045"
     }
