@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150904/684527/",
   "comments": [
     {
+      "created_time": "2015-09-04T04:29:37+0000",
+      "from": {
+        "name": "Christine Bosse Hsu",
+        "id": "1064406548"
+      },
+      "message": "柯團隊是一群豬玀",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "850126181730260_850224031720475"
+    },
+    {
       "created_time": "2015-09-04T03:25:17+0000",
       "from": {
         "name": "David Chen",
@@ -35,7 +47,7 @@
       },
       "message": "一個怪咖加上一堆爛咖．有好戲看了民調會剩多少．",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "850126181730260_850178385058373"
     },
@@ -47,7 +59,7 @@
       },
       "message": "「有這種朋友，我還需要敵人嗎？」哈哈",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 7,
       "user_likes": false,
       "id": "850126181730260_850165501726328"
     },

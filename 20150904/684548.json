@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150904/684548/",
   "comments": [
     {
+      "created_time": "2015-09-04T04:04:37+0000",
+      "from": {
+        "name": "Tsai Tze-Hsun",
+        "id": "100000687582070"
+      },
+      "message": "玩22天DOTA 只死了一次 好強",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "978971055492731_979038755485961"
+    },
+    {
       "created_time": "2015-09-04T02:21:49+0000",
       "from": {
         "name": "豪宅玩具",
@@ -12,7 +24,7 @@
       },
       "message": "量力而為",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "978971055492731_979001545489682"
     },
@@ -24,7 +36,7 @@
       },
       "message": "他一下子把一輩子玩電玩的\"扣打\"用光了",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 5,
       "user_likes": false,
       "id": "978971055492731_978999418823228"
     },
@@ -60,7 +72,7 @@
       },
       "message": "是有些多好玩= =   現在坐在電腦前面玩一個小時遊戲就想離開了",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "978971055492731_978992812157222"
     },
@@ -72,7 +84,7 @@
       },
       "message": "厲害!!!~果然戰鬥民族...",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "978971055492731_978972825492554"
     }

@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150904/684520/",
   "comments": [
     {
+      "created_time": "2015-09-04T06:58:51+0000",
+      "from": {
+        "name": "蘇傑克",
+        "id": "100001214843401"
+      },
+      "message": "王金平嫁女兒時不是很利害，再來個連爺爺大獸嘿!",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "891453904262932_891606940914295"
+    },
+    {
+      "created_time": "2015-09-04T05:16:15+0000",
+      "from": {
+        "name": "李金家",
+        "id": "1033288663"
+      },
+      "message": "宣旨  朕\"深表遺憾\"  欽止。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "891453904262932_891579694250353"
+    },
+    {
       "created_time": "2015-09-04T03:49:07+0000",
       "from": {
         "name": "Dylan Su",
@@ -23,7 +47,7 @@
       },
       "message": "殺紀國棟多乾脆？殺連戰那麼囉唆？",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "891453904262932_891540480920941"
     },
