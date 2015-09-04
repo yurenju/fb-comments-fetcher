@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150904/684445/",
   "comments": [
     {
+      "created_time": "2015-09-03T23:17:27+0000",
+      "from": {
+        "name": "嘉祐",
+        "id": "100000296811548"
+      },
+      "message": "哪天當這些都不再吸引人了之後\n會不會出現直播殺人片段？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "981527431869643_981647068524346"
+    },
+    {
       "created_time": "2015-09-03T21:08:44+0000",
       "from": {
         "name": "Rain Rain",
@@ -11,7 +23,7 @@
       },
       "message": "就跟波多一樣，不知道她是女優但新聞一直吵到大家都認識她與天的職業",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "981527431869643_981614065194313"
     },
@@ -23,7 +35,7 @@
       },
       "message": "蘋果拼命幫１７打免錢的廣告真好",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 9,
       "user_likes": false,
       "id": "981527431869643_981575818531471"
     },
@@ -35,7 +47,7 @@
       },
       "message": "說實話吧~ 記者這篇的\"宣傳\" 是需要收費還是不收費?",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "981527431869643_981565121865874"
     },

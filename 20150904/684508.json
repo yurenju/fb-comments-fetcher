@@ -4,6 +4,126 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150904/684508/",
   "comments": [
     {
+      "created_time": "2015-09-04T00:29:30+0000",
+      "from": {
+        "name": "李振中",
+        "id": "1547886190"
+      },
+      "message": "瞎爆的假新聞，吃紙吃半年吃不出來",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1012767515429517_1012848428754759"
+    },
+    {
+      "created_time": "2015-09-03T23:50:34+0000",
+      "from": {
+        "name": "蔡敏惠",
+        "id": "100000215452600"
+      },
+      "message": "最好有那麼蝦，米跟紙會分不清",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1012767515429517_1012838238755778"
+    },
+    {
+      "created_time": "2015-09-03T23:48:00+0000",
+      "from": {
+        "name": "YuNin Zin",
+        "id": "100002621526905"
+      },
+      "message": "假雞蛋、假吻仔魚，什麼都可以假！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1012767515429517_1012837805422488"
+    },
+    {
+      "created_time": "2015-09-03T23:24:35+0000",
+      "from": {
+        "name": "連凱翔",
+        "id": "100006876155619"
+      },
+      "message": "屁",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1012767515429517_1012828742090061"
+    },
+    {
+      "created_time": "2015-09-03T23:22:49+0000",
+      "from": {
+        "name": "馬良",
+        "id": "100009029417290"
+      },
+      "message": "假新聞開始學習制造新聞了嗎？\n別學自由時報搞這套",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1012767515429517_1012828158756786"
+    },
+    {
+      "created_time": "2015-09-03T23:16:31+0000",
+      "from": {
+        "name": "Bear Ku",
+        "id": "100000336570558"
+      },
+      "message": "中國人…真行…！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1012767515429517_1012826752090260"
+    },
+    {
+      "created_time": "2015-09-03T23:04:00+0000",
+      "from": {
+        "name": "陳爾萍",
+        "id": "100006613027223"
+      },
+      "message": "好想買一包來吃",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1012767515429517_1012824248757177"
+    },
+    {
+      "created_time": "2015-09-03T22:39:05+0000",
+      "from": {
+        "name": "董彥承",
+        "id": "1614327947"
+      },
+      "message": "這新聞假爆了\n紙米的成本比真米貴吧",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1012767515429517_1012818915424377"
+    },
+    {
+      "created_time": "2015-09-03T22:34:05+0000",
+      "from": {
+        "name": "鄭克安",
+        "id": "100000333605101"
+      },
+      "message": "記者去捲一包賣我吧",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1012767515429517_1012815922091343"
+    },
+    {
+      "created_time": "2015-09-03T22:05:57+0000",
+      "from": {
+        "name": "施永恒",
+        "id": "100007367077049"
+      },
+      "message": "中國之最！無所不假",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1012767515429517_1012809248758677"
+    },
+    {
       "created_time": "2015-09-03T21:57:03+0000",
       "from": {
         "name": "朱大常",
@@ -47,7 +167,7 @@
       },
       "message": "中國電梯很恐怖，連米也是",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "1012767515429517_1012769178762684"
     }
