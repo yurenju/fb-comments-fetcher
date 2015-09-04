@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150904/684565/",
   "comments": [
     {
+      "created_time": "2015-09-04T09:41:46+0000",
+      "from": {
+        "name": "蔡學甫",
+        "id": "100002657907911"
+      },
+      "message": "說的太好了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1140083969338296_1140209692659057"
+    },
+    {
+      "created_time": "2015-09-04T09:30:20+0000",
+      "from": {
+        "name": "林木森",
+        "id": "100007090037806"
+      },
+      "message": "自拍到可以發行悠遊卡",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1140083969338296_1140206845992675"
+    },
+    {
       "created_time": "2015-09-04T06:02:47+0000",
       "from": {
         "name": "Daniel Shih",
@@ -11,7 +35,7 @@
       },
       "message": "第一張的那種女性朋友自拍我不反對他每天拍",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "1140083969338296_1140157062664320"
     },
@@ -35,7 +59,7 @@
       },
       "message": "現在自拍打卡已經成為一種病態了\n以前看楚門的世界，認為主角很可憐\n活在完全透明裏，可現在人人都想活在楚門的世界。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "1140083969338296_1140085989338094"
     }

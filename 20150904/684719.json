@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150904/684719/",
   "comments": [
     {
+      "created_time": "2015-09-04T09:18:26+0000",
+      "from": {
+        "name": "田立新",
+        "id": "100005214254059"
+      },
+      "message": "大嘴炮台湾人人是叫兽！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "955144144532103_955308517848999"
+    },
+    {
+      "created_time": "2015-09-04T07:05:37+0000",
+      "from": {
+        "name": "吳煥中",
+        "id": "100001617351690"
+      },
+      "message": "跟本沒空鳥中國好嗎！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "955144144532103_955166177863233"
+    },
+    {
       "created_time": "2015-09-04T06:57:32+0000",
       "from": {
         "name": "江智焓",
@@ -59,7 +83,7 @@
       },
       "message": "農曆七月鬼事多..自嗨到這程度..真了然...",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "955144144532103_955152851197899"
     },
@@ -107,7 +131,7 @@
       },
       "message": "支那人再次證明了平行世界的存在。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "955144144532103_955146827865168"
     }

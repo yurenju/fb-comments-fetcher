@@ -2,5 +2,42 @@
   "title": "今明好天氣　後天起變天",
   "id": "20150904/684567",
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150904/684567/",
-  "comments": []
+  "comments": [
+    {
+      "created_time": "2015-09-04T09:51:24+0000",
+      "from": {
+        "name": "沈安安",
+        "id": "100001040767665"
+      },
+      "message": "又來！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "898908526851128_899056576836323"
+    },
+    {
+      "created_time": "2015-09-04T08:59:06+0000",
+      "from": {
+        "name": "Jones Stone",
+        "id": "100006109005925"
+      },
+      "message": "氣溫稍微降低一點明明就比較好 比較涼爽 ，為什麼新聞老是對於氣溫降低，都要寫成”要變天了”呢",
+      "can_remove": false,
+      "like_count": 4,
+      "user_likes": false,
+      "id": "898908526851128_899046166837364"
+    },
+    {
+      "created_time": "2015-09-04T08:44:05+0000",
+      "from": {
+        "name": "林大雄",
+        "id": "100002258230440"
+      },
+      "message": "叮噹法術變變變！",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "898908526851128_899042550171059"
+    }
+  ]
 }

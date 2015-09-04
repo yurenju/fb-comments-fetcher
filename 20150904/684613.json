@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150904/684613/",
   "comments": [
     {
+      "created_time": "2015-09-04T08:31:42+0000",
+      "from": {
+        "name": "Wen Yuan Hsu",
+        "id": "100000107030688"
+      },
+      "message": "看起來明明超酸...",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "939490072788755_939600462777716"
+    },
+    {
       "created_time": "2015-09-04T05:27:12+0000",
       "from": {
         "name": "Luke Yao Luke Yao",
@@ -203,7 +215,7 @@
       },
       "message": "這記者連酸文都看不懂\n果然是小時不讀書長大當記者",
       "can_remove": false,
-      "like_count": 21,
+      "like_count": 23,
       "user_likes": false,
       "id": "939490072788755_939505656120530"
     },
@@ -251,7 +263,7 @@
       },
       "message": "僅次於普丁是因為主要國家元首沒一個肯賞臉的 就俄韓兩國去撐撐場",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "939490072788755_939499716121124"
     },
@@ -311,7 +323,7 @@
       },
       "message": "確定不是反串嗎? 怎麼聽起來像反串",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 7,
       "user_likes": false,
       "id": "939490072788755_939492226121873"
     }
