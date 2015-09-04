@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150904/684532/",
   "comments": [
     {
+      "created_time": "2015-09-04T15:00:17+0000",
+      "from": {
+        "name": "侯守仁",
+        "id": "100000277599450"
+      },
+      "message": "別嫌這篇新聞短\n能寫成這這樣\n已經是冒著銷售量下降的風險\n在寫的了",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "912256448848190_912521175488384"
+    },
+    {
       "created_time": "2015-09-04T09:19:07+0000",
       "from": {
         "name": "Map Le",
@@ -28,18 +40,6 @@
       "id": "912256448848190_912381762168992"
     },
     {
-      "created_time": "2015-09-04T07:13:14+0000",
-      "from": {
-        "name": "Xiaolang Tsai",
-        "id": "100000589806519"
-      },
-      "message": "五星級的幸福城市啊",
-      "can_remove": false,
-      "like_count": 1,
-      "user_likes": false,
-      "id": "912256448848190_912379225502579"
-    },
-    {
       "created_time": "2015-09-04T05:43:46+0000",
       "from": {
         "name": "陳光彥",
@@ -47,7 +47,7 @@
       },
       "message": "賴某的支持度完全是靠台南人的意識形態撐起來的，換去台北看他剩幾趴？幾年前兩岸要直航時他還說了白痴話說怕阿共仔會來「木馬屠城」，從這點就知道他的智商和能力。",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 7,
       "user_likes": false,
       "id": "912256448848190_912358285504673"
     },
@@ -59,7 +59,7 @@
       },
       "message": "請大家暫時不要去台南由是老人小孩&孕婦，小心得到登革熱",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 6,
       "user_likes": false,
       "id": "912256448848190_912355558838279"
     },
@@ -119,7 +119,7 @@
       },
       "message": "當人民把政客當神  政客就不把人民當人\n阿扁8年 阿馬8年  大家清醒點吧",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 6,
       "user_likes": false,
       "id": "912256448848190_912314278842407"
     },

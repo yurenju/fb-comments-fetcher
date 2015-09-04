@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150904/684954/",
   "comments": [
     {
+      "created_time": "2015-09-04T13:12:24+0000",
+      "from": {
+        "name": "簡源良",
+        "id": "1458085576"
+      },
+      "message": "您好！請更正\n僅剩台東、澎湖、馬祖、連江等4縣尚無登革熱病例\n馬祖就是連江縣喔～",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "993263124046828_993325250707282"
+    },
+    {
       "created_time": "2015-09-04T10:13:43+0000",
       "from": {
         "name": "倪志豪",
@@ -11,7 +23,7 @@
       },
       "message": "時間早晚的問題",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "993263124046828_993267330713074"
     }

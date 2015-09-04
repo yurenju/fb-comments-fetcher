@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150904/684911/",
   "comments": [
     {
+      "created_time": "2015-09-04T15:04:05+0000",
+      "from": {
+        "name": "迷迭香",
+        "id": "100001927067377"
+      },
+      "message": "完全看不懂",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1038491176184179_1038732566160040"
+    },
+    {
       "created_time": "2015-09-04T10:41:07+0000",
       "from": {
         "name": "Gang Roy",
@@ -35,7 +47,7 @@
       },
       "message": "這什麼啊？",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1038491176184179_1038510859515544"
     }

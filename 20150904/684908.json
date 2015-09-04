@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150904/684908/",
   "comments": [
     {
+      "created_time": "2015-09-04T15:39:22+0000",
+      "from": {
+        "name": "Billy Li",
+        "id": "100002693495826"
+      },
+      "message": "又一個預謀奧客了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "742018529243391_742302889214955"
+    },
+    {
+      "created_time": "2015-09-04T14:46:51+0000",
+      "from": {
+        "name": "黃宥心",
+        "id": "100000386122732"
+      },
+      "message": "老闆說..我們已經關火了...又不是要持續保持溫度,...,中華炒鍋炒個飯,跟關火不關火有啥關係....什麼叫做已關火...難道他家的鍋子只要開火直到休息都不關的嗎....",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "742018529243391_742263042552273"
+    },
+    {
+      "created_time": "2015-09-04T13:33:42+0000",
+      "from": {
+        "name": "陳霖",
+        "id": "100001726093814"
+      },
+      "message": "哈",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "742018529243391_742244782554099"
+    },
+    {
       "created_time": "2015-09-04T12:30:18+0000",
       "from": {
         "name": "PuYi Fu",
@@ -11,7 +47,7 @@
       },
       "message": "重點是人家買炒飯事情最後也圓滿解決，到底關你們屁事？",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "742018529243391_742170789228165"
     },
@@ -23,7 +59,7 @@
       },
       "message": "少油少鹽自己煮   師傅都賭爛還要另外為你炒",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "742018529243391_742131329232111"
     },
@@ -47,7 +83,7 @@
       },
       "message": "每個人都要客製化的...那老闆還要做生意嗎?\n第一次聽到說在外面買便當說要少油少鹽的...頂多也只說不加味精而已...\n而且外面的鍋子不用多一點油怎炒飯....不黏鍋才怪...",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 3,
       "user_likes": false,
       "id": "742018529243391_742074459237798"
     },
@@ -59,7 +95,7 @@
       },
       "message": "老闆，你累了嗎?",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 3,
       "user_likes": false,
       "id": "742018529243391_742041815907729"
     },
@@ -120,7 +156,7 @@
       },
       "message": "有老虎懶懶的味道～～",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 8,
       "user_likes": false,
       "id": "742018529243391_742023465909564"
     },
@@ -132,7 +168,7 @@
       },
       "message": "要少油少鹽請自己煮",
       "can_remove": false,
-      "like_count": 13,
+      "like_count": 25,
       "user_likes": false,
       "id": "742018529243391_742020089243235"
     }

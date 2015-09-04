@@ -1,7 +1,7 @@
 # Top 100 按讚數最多
 
 
-## Like: 1311
+## Like: 1457
 
 * Author: [趙政宏](http://facebook.com/100000264435422)
 * Article: 【更新】小鮮肉送上門　單親媽竟把女兒14歲男友吞了
@@ -80,6 +80,20 @@
 ```
 
 
+## Like: 896
+
+* Author: [Yung-Chien Chou](http://facebook.com/100005668369242)
+* Article: 【更新】小鮮肉送上門　單親媽竟把女兒14歲男友吞了
+
+```
+都怪女兒早交友，害得老媽嚐鮮肉，
+哪知天雷地火勾，剎那蚌裡裝蝌蚪。
+
+莫怨阿姨急下手，迷途羔羊入虎口，
+未明珠胎是否留，網開一面免成囚。
+```
+
+
 ## Like: 831
 
 * Author: [楊忠偉](http://facebook.com/100000430958436)
@@ -101,20 +115,6 @@
 噁心的東西
 農曆7月
 一起燒給好兄弟
-```
-
-
-## Like: 806
-
-* Author: [Yung-Chien Chou](http://facebook.com/100005668369242)
-* Article: 【更新】小鮮肉送上門　單親媽竟把女兒14歲男友吞了
-
-```
-都怪女兒早交友，害得老媽嚐鮮肉，
-哪知天雷地火勾，剎那蚌裡裝蝌蚪。
-
-莫怨阿姨急下手，迷途羔羊入虎口，
-未明珠胎是否留，網開一面免成囚。
 ```
 
 
@@ -216,18 +216,7 @@
 ```
 
 
-## Like: 468
-
-* Author: [李亦庭](http://facebook.com/100008483558000)
-* Article: 募兵制跳票　府：扁政府縮役期的必然結果
-
-```
-都做到第八年了還在call陳水扁救援
-有沒有一點羞恥心啊廢物
-```
-
-
-## Like: 468
+## Like: 507
 
 * Author: [王柏堯](http://facebook.com/100001274978498)
 * Article: 【更新】小鮮肉送上門　單親媽竟把女兒14歲男友吞了
@@ -237,6 +226,17 @@
 一個41歲單親爸爸
 在客廳與兒子14歲女友發生關係
 你看他會怎麼死
+```
+
+
+## Like: 468
+
+* Author: [李亦庭](http://facebook.com/100008483558000)
+* Article: 募兵制跳票　府：扁政府縮役期的必然結果
+
+```
+都做到第八年了還在call陳水扁救援
+有沒有一點羞恥心啊廢物
 ```
 
 
@@ -282,6 +282,16 @@
 
 開玩笑的，別當真！
 平安最重要！
+```
+
+
+## Like: 442
+
+* Author: [柯諭驊](http://facebook.com/100001856221254)
+* Article: 產後借籃球瘦身　人妻遭男大生硬上
+
+```
+女的本身也有錯，搞瞹眛，玩火上身。
 ```
 
 
@@ -460,16 +470,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
-## Like: 357
-
-* Author: [柯諭驊](http://facebook.com/100001856221254)
-* Article: 產後借籃球瘦身　人妻遭男大生硬上
-
-```
-女的本身也有錯，搞瞹眛，玩火上身。
-```
-
-
 ## Like: 356
 
 * Author: [Kai Ting](http://facebook.com/100000398389477)
@@ -618,6 +618,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
+## Like: 291
+
+* Author: [洪米政](http://facebook.com/100009341471616)
+* Article: 人妻借籃球被硬上　對話紀錄超展開
+
+```
+這跟本就是仙人跳。
+```
+
+
 ## Like: 289
 
 * Author: [魯德志](http://facebook.com/100009754457464)
@@ -720,6 +730,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 270
 
+* Author: [Ching Wen Huang](http://facebook.com/100000310422454)
+* Article: 史上最萌颱風　水汪汪大眼對著你笑
+
+```
+阿進～你一定要記住啊，害死你爹爹的人，我見過他，他的樣子很奇怪，他永遠都好像對著你笑，笑到你心裡發寒，你一定要去找那個人～
+```
+
+
+## Like: 270
+
 * Author: [9.2%的blue](http://facebook.com/166284357037138)
 * Article: 陳水扁散步活跳跳　邊走還可邊滑手機
 
@@ -729,16 +749,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 趁機轉移經濟崩壞、執政無能的焦點。
 
 雖然我不喜歡阿扁，但我越來越同情他~
-```
-
-
-## Like: 270
-
-* Author: [Ching Wen Huang](http://facebook.com/100000310422454)
-* Article: 史上最萌颱風　水汪汪大眼對著你笑
-
-```
-阿進～你一定要記住啊，害死你爹爹的人，我見過他，他的樣子很奇怪，他永遠都好像對著你笑，笑到你心裡發寒，你一定要去找那個人～
 ```
 
 
@@ -846,16 +856,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 252
 
-* Author: [王佩瑛](http://facebook.com/1389173988)
-* Article: 養這等軍官、檢察官何用？
-
-```
-這不是權貴，那什麼是權貴
-```
-
-
-## Like: 252
-
 * Author: [Ho Chow Lee](http://facebook.com/100007654243742)
 * Article: 【更新】要客點餐　麥當勞女服務生竟遭罵「像你這種貨色」
 
@@ -875,6 +875,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 晚上也只要有電風扇就能睡
 現在裝冷氣真的變得很不耐熱 回房就想開冷氣
 長期下來電費又貴 又讓自己變的嫩嫩的 真的要克制一下
+```
+
+
+## Like: 252
+
+* Author: [王佩瑛](http://facebook.com/1389173988)
+* Article: 養這等軍官、檢察官何用？
+
+```
+這不是權貴，那什麼是權貴
 ```
 
 
@@ -1026,6 +1036,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
+## Like: 240
+
+* Author: [高暉恩](http://facebook.com/1731572034)
+* Article: 高中課本有亮點　試圖讓人戀愛惹
+
+```
+校方：最近接到很多學生反應黏頁的問題，正了解原因並與廠商溝通處理中。
+```
+
+
 ## Like: 235
 
 * Author: [林正偉](http://facebook.com/100004707675918)
@@ -1071,16 +1091,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
-## Like: 227
-
-* Author: [洪米政](http://facebook.com/100009341471616)
-* Article: 人妻借籃球被硬上　對話紀錄超展開
-
-```
-這跟本就是仙人跳。
-```
-
-
 ## Like: 226
 
 * Author: [陳律君](http://facebook.com/100002020977515)
@@ -1088,6 +1098,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ```
 記者朋友你好，我是現場執勤的員警，此報導中有提及督察組有派員到場，但就小弟本人親眼所見並未觀察到督察組的長官有前來關切，我也相信本分局的督察系統不會因民眾的無理取鬧，便派員至現場徒增基層同仁們的困擾，希望蘋果媒體向本分局督查室再次確認該事，如與事實有出入的話煩請更正報導，感謝你們，辛苦了！
+```
+
+
+## Like: 226
+
+* Author: [鐘通豪](http://facebook.com/100000046993690)
+* Article: 【更新】超商拒賣AV悠遊卡　他用一張圖酸假掰
+
+```
+四大超商應該是受到政治壓力的介入才取消販賣的？最可恥的是那些政治人物跟衛道人士假道學的團體，自己骯髒還嫌人家齷齪～
 ```
 
 
@@ -1109,16 +1129,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ```
 重點不是紙箱只值3元，而是進入私人領域未經允許拿走紙箱且也跟年紀無關
-```
-
-
-## Like: 226
-
-* Author: [鐘通豪](http://facebook.com/100000046993690)
-* Article: 【更新】超商拒賣AV悠遊卡　他用一張圖酸假掰
-
-```
-四大超商應該是受到政治壓力的介入才取消販賣的？最可恥的是那些政治人物跟衛道人士假道學的團體，自己骯髒還嫌人家齷齪～
 ```
 
 
@@ -1145,21 +1155,11 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 220
 
-* Author: [劉宇](http://facebook.com/100006213755698)
-* Article: PTT名人蘇溫永又告人　結果這次...
+* Author: [Ming Yu Lee](http://facebook.com/1370877556)
+* Article: 報復性漲房租　投資客打趴15年小店
 
 ```
-我又上新聞惹 @@
-```
-
-
-## Like: 220
-
-* Author: [諸葛雲](http://facebook.com/100001497283554)
-* Article: 【更新】球場掛台灣就是台灣　顏行書：聖地淪陷
-
-```
-不能掛台灣 難道要掛中國台灣?
+好想看炒房客、奸建商和惡房東自殺喔～～
 ```
 
 
@@ -1185,11 +1185,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 220
 
-* Author: [Ming Yu Lee](http://facebook.com/1370877556)
-* Article: 報復性漲房租　投資客打趴15年小店
+* Author: [諸葛雲](http://facebook.com/100001497283554)
+* Article: 【更新】球場掛台灣就是台灣　顏行書：聖地淪陷
 
 ```
-好想看炒房客、奸建商和惡房東自殺喔～～
+不能掛台灣 難道要掛中國台灣?
+```
+
+
+## Like: 220
+
+* Author: [劉宇](http://facebook.com/100006213755698)
+* Article: PTT名人蘇溫永又告人　結果這次...
+
+```
+我又上新聞惹 @@
 ```
 
 
@@ -1207,21 +1217,18 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
-## Like: 212
+## Like: 217
 
-* Author: [林奎伯](http://facebook.com/100000237751282)
-* Article: 會流汗的小鮮肉奶茶　遭爆「抄襲」日本
-
-```
-男身上半身赤裸的形狀可以拿來當保特瓶包裝，AV女優的臉不能當悠遊卡封面！？贛林良的一堆假道學跟婦女團體！噁心！
-```
-
-
-## Like: 212
-
-* Author: [陳名仰](http://facebook.com/1250598839)
-* Article: 請給我一百億的真相
+* Author: [羅至欽](http://facebook.com/100001526493927)
+* Article: 陸軍333旅上校　狂操軍官到深夜
 
 ```
-小孩子戳破的不是畫 是戳破了這個展
+慶生的條目沒安排好
+被飆是正常的吧
+戰略表被雨淋濕重做
+明知天氣不可違
+不做好防範工作
+要你重做 這樣也狂操?
+士兵被玩都該死
+軍官就不能被長官盯?
 ```

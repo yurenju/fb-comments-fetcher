@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150904/684725/",
   "comments": [
     {
+      "created_time": "2015-09-04T14:11:51+0000",
+      "from": {
+        "name": "蔡瑋軒",
+        "id": "100001339748769"
+      },
+      "message": "呵呵重點是還不是用我們的錢罰，之後學生申請經費再靠北我們沒錢",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "921197031284965_921517651252903"
+    },
+    {
       "created_time": "2015-09-04T12:44:37+0000",
       "from": {
         "name": "黃家畇",
@@ -23,7 +35,7 @@
       },
       "message": "完蛋了，要開學了，受死吧。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "921197031284965_921463201258348"
     },

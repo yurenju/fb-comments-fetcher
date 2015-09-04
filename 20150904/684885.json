@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150904/684885/",
   "comments": [
     {
+      "created_time": "2015-09-04T15:08:56+0000",
+      "from": {
+        "name": "陳朝尉",
+        "id": "100004251222691"
+      },
+      "message": "國民黨被這一堆老人害慘了 , 這麼不退休安安靜靜的過下輩子 , 還這麼高調",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "861002350658484_861115757313810"
+    },
+    {
+      "created_time": "2015-09-04T14:44:50+0000",
+      "from": {
+        "name": "吳門",
+        "id": "1246298499"
+      },
+      "message": "快去請支那國的麻吉習主席來祝福吧",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "861002350658484_861108767314509"
+    },
+    {
       "created_time": "2015-09-04T12:55:27+0000",
       "from": {
         "name": "吳宗哲",
@@ -119,7 +143,7 @@
       },
       "message": "忌日吧\n是不是報導錯了",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "861002350658484_861007577324628"
     },

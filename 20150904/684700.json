@@ -4,16 +4,73 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150904/684700/",
   "comments": [
     {
-      "created_time": "2015-09-04T12:37:08+0000",
+      "created_time": "2015-09-04T14:57:10+0000",
       "from": {
-        "name": "胡仙仙",
-        "id": "100010016892619"
+        "name": "何瀛州",
+        "id": "1600092265"
       },
-      "message": "此時此刻   假如你正在讀這條短信 說明我們很有緣分加line:19955yy給你驚喜",
+      "message": "我也要再回去念高中了",
       "can_remove": false,
       "like_count": 0,
       "user_likes": false,
-      "id": "904248846316402_904474042960549"
+      "id": "904248846316402_904531902954763"
+    },
+    {
+      "created_time": "2015-09-04T14:57:03+0000",
+      "from": {
+        "name": "辜士豪",
+        "id": "100000228920256"
+      },
+      "message": "這樣才讀的下去阿!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "904248846316402_904531822954771"
+    },
+    {
+      "created_time": "2015-09-04T14:33:38+0000",
+      "from": {
+        "name": "曾惠芳",
+        "id": "100010005735126"
+      },
+      "message": "同學 ：老師他的課本都黏黏的欸",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "904248846316402_904521632955790"
+    },
+    {
+      "created_time": "2015-09-04T13:41:58+0000",
+      "from": {
+        "name": "宋拓",
+        "id": "1455132485"
+      },
+      "message": "吳孟軒是我們崇光的！！！",
+      "can_remove": false,
+      "like_count": 0,
+      "message_tags": [
+        {
+          "id": "100000371502715",
+          "length": 3,
+          "name": "吳孟軒",
+          "offset": 0,
+          "type": "user"
+        }
+      ],
+      "user_likes": false,
+      "id": "904248846316402_904502876290999"
+    },
+    {
+      "created_time": "2015-09-04T13:20:34+0000",
+      "from": {
+        "name": "Anthony Wong",
+        "id": "553547512"
+      },
+      "message": "在蘋果記者眼裡現在是女人都是正妹了。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "904248846316402_904496726291614"
     },
     {
       "created_time": "2015-09-04T12:27:38+0000",
@@ -83,7 +140,7 @@
       },
       "message": "眼睛都盯著妹妹....課本內容根本沒心看.....",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "904248846316402_904404076300879"
     },
@@ -131,7 +188,7 @@
       },
       "message": "真的不錯，蠻可愛的！",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "904248846316402_904343502973603"
     },
@@ -155,7 +212,7 @@
       },
       "message": "老濕 我想要課本教我們正確的游泳姿勢",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 4,
       "user_likes": false,
       "id": "904248846316402_904330742974879"
     },
@@ -167,7 +224,7 @@
       },
       "message": "許多男同學的課本在開學沒幾天都已破的不堪使用了",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "904248846316402_904330446308242"
     },
@@ -191,7 +248,7 @@
       },
       "message": "校方：最近接到很多學生反應黏頁的問題，正了解原因並與廠商溝通處理中。",
       "can_remove": false,
-      "like_count": 139,
+      "like_count": 240,
       "user_likes": false,
       "id": "904248846316402_904320696309217"
     },
@@ -203,7 +260,7 @@
       },
       "message": "...",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "904248846316402_904318649642755"
     },
@@ -263,7 +320,7 @@
       },
       "message": "改用日漫風格畫人物、小說口吻介紹知識，或大幅增進學習效率～",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 7,
       "user_likes": false,
       "id": "904248846316402_904312089643411"
     },
@@ -275,7 +332,7 @@
       },
       "message": "該回去考高中惹",
       "can_remove": false,
-      "like_count": 10,
+      "like_count": 11,
       "user_likes": false,
       "id": "904248846316402_904251682982785"
     },
@@ -287,7 +344,7 @@
       },
       "message": "改成悠遊卡代言人如何？",
       "can_remove": false,
-      "like_count": 53,
+      "like_count": 64,
       "user_likes": false,
       "id": "904248846316402_904249979649622"
     }
