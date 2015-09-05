@@ -4,6 +4,19 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150905/685294/",
   "comments": [
     {
+      "created_time": "2015-09-05T11:44:08+0000",
+      "from": {
+        "name": "二手汽車第三方鑑價",
+        "category": "Cars",
+        "id": "782336051883017"
+      },
+      "message": "歐美有這種老車很正常",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "763534677108017_763658873762264"
+    },
+    {
       "created_time": "2015-09-05T09:12:28+0000",
       "from": {
         "name": "遊民",
@@ -71,7 +84,7 @@
       },
       "message": "太靠北的好笑\n這台車年紀可能比車主大\n笑鼠我了~幹",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "763534677108017_763552693772882"
     },
@@ -119,7 +132,7 @@
       },
       "message": "這個中古車大概有二十年以上了吧!!",
       "can_remove": false,
-      "like_count": 7,
+      "like_count": 8,
       "user_likes": false,
       "id": "763534677108017_763540300440788"
     },

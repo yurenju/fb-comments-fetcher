@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150905/685288/",
   "comments": [
     {
+      "created_time": "2015-09-05T11:29:36+0000",
+      "from": {
+        "name": "Albert Lo",
+        "id": "100000176450488"
+      },
+      "message": "北捷怎麼不趕快推個波卡貼圖?",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "1009047902469807_1009188895789041"
+    },
+    {
+      "created_time": "2015-09-05T11:18:44+0000",
+      "from": {
+        "name": "陳胤瑄",
+        "id": "100000989043508"
+      },
+      "message": "場外之光",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1009047902469807_1009185132456084"
+    },
+    {
       "created_time": "2015-09-05T07:29:25+0000",
       "from": {
         "name": "藍經漁",
@@ -11,7 +35,7 @@
       },
       "message": "那個標題上的梗圖可是我做的啊ww這應該沒辦法拿來當LINE貼圖吧...",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 15,
       "user_likes": false,
       "id": "1009047902469807_1009097072464890"
     },

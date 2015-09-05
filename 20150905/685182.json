@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150905/685182/",
   "comments": [
     {
+      "created_time": "2015-09-05T11:36:18+0000",
+      "from": {
+        "name": "Chih Jung Chiu",
+        "id": "100004688298434"
+      },
+      "message": "還有專屬停車位，厲害!!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "891896360898075_892223244198720"
+    },
+    {
+      "created_time": "2015-09-05T11:15:05+0000",
+      "from": {
+        "name": "黃宥誠",
+        "id": "100007897727105"
+      },
+      "message": "不會被開走嗎？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "891896360898075_892217030866008"
+    },
+    {
       "created_time": "2015-09-05T09:32:19+0000",
       "from": {
         "name": "龍勁飆",
@@ -36,7 +60,7 @@
       },
       "message": ".這是個重新開始的故事.....開車還是別喝酒吧",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "891896360898075_892153107539067"
     },
@@ -120,7 +144,7 @@
       },
       "message": "Charlene為何會翻作查倫？記者不曉得這名字怎麼發音是不是？",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "891896360898075_892084967545881"
     },

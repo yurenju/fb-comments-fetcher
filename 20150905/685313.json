@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150905/685313/",
   "comments": [
     {
+      "created_time": "2015-09-05T10:56:42+0000",
+      "from": {
+        "name": "成奎安",
+        "id": "100008830353213"
+      },
+      "message": "跌倒糞坑裡，要被笑一輩子了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "817626735001152_817682831662209"
+    },
+    {
       "created_time": "2015-09-05T09:24:50+0000",
       "from": {
         "name": "陳宥寧",
@@ -11,7 +23,7 @@
       },
       "message": "女兒和朋友都很乖\n是糞坑帶壞她的",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "817626735001152_817660271664465"
     }
