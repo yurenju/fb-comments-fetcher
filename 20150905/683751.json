@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150905/683751/",
   "comments": [
     {
+      "created_time": "2015-09-05T09:36:04+0000",
+      "from": {
+        "name": "陳其麟",
+        "id": "100004453185618"
+      },
+      "message": "我的朋友，一百萬投資買未上市股票100張，三年後上市高點出脫，淨賺1000萬。之後以這桶金繼續拗，如今近三億，一生財富皆來自股\n市，快樂過活……",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "862505673841293_862616880496839"
+    },
+    {
+      "created_time": "2015-09-05T07:52:23+0000",
+      "from": {
+        "name": "Robert Chao",
+        "id": "100001847347903"
+      },
+      "message": "低價股最容易踩到地雷(下市)，股票40%報酬沒有年年的，那可以當世界首富了。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "862505673841293_862591807166013"
+    },
+    {
       "created_time": "2015-09-05T05:33:46+0000",
       "from": {
         "name": "兩光水",
@@ -71,7 +95,7 @@
       },
       "message": "千萬不要相信這完全不負責任的鬼扯淡，我曾任職證券市場，這種不正確的投資觀念，正是散戶的悲哀，報導這篇廢文的人該抓去槍斃。",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "862505673841293_862512060507321"
     },
@@ -86,18 +110,6 @@
       "like_count": 2,
       "user_likes": false,
       "id": "862505673841293_862509980507529"
-    },
-    {
-      "created_time": "2015-09-05T02:21:53+0000",
-      "from": {
-        "name": "陳秉宏",
-        "id": "100005929926435"
-      },
-      "message": "真夭壽的報導，是讓雞蛋水餃股的大股東能倒貨嗎？",
-      "can_remove": false,
-      "like_count": 4,
-      "user_likes": false,
-      "id": "862505673841293_862508137174380"
     }
   ]
 }

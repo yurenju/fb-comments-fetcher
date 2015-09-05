@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150905/685219/",
   "comments": [
     {
+      "created_time": "2015-09-05T09:35:01+0000",
+      "from": {
+        "name": "顏孝丞",
+        "id": "100000074966267"
+      },
+      "message": "報警開他罰單",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "993148557402478_993325200718147"
+    },
+    {
+      "created_time": "2015-09-05T09:33:19+0000",
+      "from": {
+        "name": "侯雋蘌",
+        "id": "100002199692955"
+      },
+      "message": "是往太空運送途中磨擦大氣+太陽光反射所產生的光芒嗎??",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "993148557402478_993324584051542"
+    },
+    {
+      "created_time": "2015-09-05T07:57:09+0000",
+      "from": {
+        "name": "You Cheng Chen",
+        "id": "100000235604320"
+      },
+      "message": "一看就不是其它星球的飛行器啊..........\n\n整個太陽系裡  目前只有地球人是在用燃料的推進器在飛行\n\n你有看過外星人的飛行器後面會排煙排廢氣的嗎....",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "993148557402478_993270537390280"
+    },
+    {
       "created_time": "2015-09-05T05:25:44+0000",
       "from": {
         "name": "Jason Chong",
@@ -11,7 +47,7 @@
       },
       "message": "好像巨大精虫",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "993148557402478_993225847394749"
     },
