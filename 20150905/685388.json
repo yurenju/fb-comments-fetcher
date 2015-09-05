@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150905/685388/",
   "comments": [
     {
+      "created_time": "2015-09-05T15:36:05+0000",
+      "from": {
+        "name": "許迪樓",
+        "id": "100001629212589"
+      },
+      "message": "最討厭批評別人時，那位批評者不敢正面對。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "721511421287691_721606964611470"
+    },
+    {
+      "created_time": "2015-09-05T14:48:13+0000",
+      "from": {
+        "name": "夏綠蒂",
+        "id": "100000391222258"
+      },
+      "message": "家人也不喜歡聽她愛鬼吼鬼叫，所以不准讓我們看來自星星的你，唉！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "721511421287691_721592397946260"
+    },
+    {
       "created_time": "2015-09-05T12:44:40+0000",
       "from": {
         "name": "粉絲團 TraderClub 期貨交易俱樂部",
@@ -12,7 +36,7 @@
       },
       "message": "甲八想贏",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "721511421287691_721557094616457"
     }

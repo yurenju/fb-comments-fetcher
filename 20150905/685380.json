@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150905/685380/",
   "comments": [
     {
+      "created_time": "2015-09-05T13:15:35+0000",
+      "from": {
+        "name": "Brain Lee",
+        "id": "100007925473615"
+      },
+      "message": "沒有賣不出去的房子,   只有賣不出去的價格。少貪一點, 實現居住正義, 以天下蒼生為念。",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "733024273476341_733108390134596"
+    },
+    {
       "created_time": "2015-09-05T11:28:10+0000",
       "from": {
         "name": "Michael Lin",
@@ -59,7 +71,7 @@
       },
       "message": "只有賣不出去的價格, 沒有賣不出去的商品",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "733024273476341_733040326808069"
     },
@@ -95,7 +107,7 @@
       },
       "message": "葉佩文，之前賺錢怎麼不出來講!",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "733024273476341_733030226809079"
     }

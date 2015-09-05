@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150905/685410/",
   "comments": [
     {
+      "created_time": "2015-09-05T14:47:45+0000",
+      "from": {
+        "name": "李佩琪",
+        "id": "100010100082456"
+      },
+      "message": "http://lnk.pics/cMU",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "989496417738941_989614311060485"
+    },
+    {
+      "created_time": "2015-09-05T14:16:51+0000",
+      "from": {
+        "name": "侯曉言",
+        "id": "1404871923"
+      },
+      "message": "耶！耶耶！",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "989496417738941_989598237728759"
+    },
+    {
       "created_time": "2015-09-05T12:12:32+0000",
       "from": {
         "name": "桑啟榮",
@@ -35,7 +59,7 @@
       },
       "message": "義大加油！ㄧ定要贏喲！",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "989496417738941_989511184404131"
     },
