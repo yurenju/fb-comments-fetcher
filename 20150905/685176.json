@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150905/685176/",
   "comments": [
     {
+      "created_time": "2015-09-05T01:08:03+0000",
+      "from": {
+        "name": "陳志宗",
+        "id": "100000675376951"
+      },
+      "message": "沒事幹嘛切腹？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "875480885869722_875639792520498"
+    },
+    {
       "created_time": "2015-09-05T00:19:59+0000",
       "from": {
         "name": "成奎安",
@@ -23,7 +35,7 @@
       },
       "message": "幹嘛拿刀捅肚勒，痛的還不是自己\n下次心情不好，可以換拿按摩棒捅……",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "875480885869722_875607932523684"
     }
