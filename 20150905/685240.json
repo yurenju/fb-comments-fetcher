@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150905/685240/",
   "comments": [
     {
+      "created_time": "2015-09-05T06:00:31+0000",
+      "from": {
+        "name": "Derhwa Liu",
+        "id": "100008962565998"
+      },
+      "message": "被中國統治的下場。",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "967995999910684_968047766572174"
+    },
+    {
+      "created_time": "2015-09-05T04:49:48+0000",
+      "from": {
+        "name": "黃漢賢",
+        "id": "100000277403881"
+      },
+      "message": "有錢能使鬼推磨,沒錢寧當鬼推磨",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "967995999910684_968020913241526"
+    },
+    {
+      "created_time": "2015-09-05T04:35:29+0000",
+      "from": {
+        "name": "Ming Tzann Pai",
+        "id": "100000282714879"
+      },
+      "message": "鬼不可怕，窮困才可怕。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "967995999910684_968018516575099"
+    },
+    {
       "created_time": "2015-09-05T03:32:40+0000",
       "from": {
         "name": "李昌霖",
@@ -23,7 +59,7 @@
       },
       "message": "真的是「人一窮,連鬼都怕!」",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 5,
       "user_likes": false,
       "id": "967995999910684_967999853243632"
     }

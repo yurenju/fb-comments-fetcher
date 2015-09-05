@@ -452,21 +452,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 358
 
-* Author: [Roderick Lai](http://facebook.com/100000344530126)
-* Article: 布丁為何「一組3入」？　原來有典故
-
-```
-養樂多一組五罐，該不會是一家四口，爸爸下班後口渴還要多喝一罐
-```
-
-
-## Like: 358
-
 * Author: [張宏德](http://facebook.com/100001352602343)
 * Article: 【讀者直擊】叫我自己收餐盤！　不收哥暴怒！
 
 ```
 本來就要自己收啊，不然你這位仁兄是比較大牌膩，
+```
+
+
+## Like: 358
+
+* Author: [Roderick Lai](http://facebook.com/100000344530126)
+* Article: 布丁為何「一組3入」？　原來有典故
+
+```
+養樂多一組五罐，該不會是一家四口，爸爸下班後口渴還要多喝一罐
 ```
 
 
@@ -610,21 +610,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 291
 
-* Author: [陳力](http://facebook.com/100009208194435)
-* Article: 【更新】軍官：募兵很好找人　但找來的盡是...
-
-```
-受刑人都拉去當兵，增加募兵量，身上綁上炸彈，然後空投到大陸，一個願望，二種滿足
-```
-
-
-## Like: 291
-
 * Author: [洪米政](http://facebook.com/100009341471616)
 * Article: 人妻借籃球被硬上　對話紀錄超展開
 
 ```
 這跟本就是仙人跳。
+```
+
+
+## Like: 291
+
+* Author: [陳力](http://facebook.com/100009208194435)
+* Article: 【更新】軍官：募兵很好找人　但找來的盡是...
+
+```
+受刑人都拉去當兵，增加募兵量，身上綁上炸彈，然後空投到大陸，一個願望，二種滿足
 ```
 
 
@@ -730,11 +730,15 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 270
 
-* Author: [Ching Wen Huang](http://facebook.com/100000310422454)
-* Article: 史上最萌颱風　水汪汪大眼對著你笑
+* Author: [9.2%的blue](http://facebook.com/166284357037138)
+* Article: 陳水扁散步活跳跳　邊走還可邊滑手機
 
 ```
-阿進～你一定要記住啊，害死你爹爹的人，我見過他，他的樣子很奇怪，他永遠都好像對著你笑，笑到你心裡發寒，你一定要去找那個人～
+「周刊王」在幫馬英九鋪路，
+準備把阿扁隨時關回牢裡，
+趁機轉移經濟崩壞、執政無能的焦點。
+
+雖然我不喜歡阿扁，但我越來越同情他~
 ```
 
 
@@ -752,15 +756,11 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 270
 
-* Author: [9.2%的blue](http://facebook.com/166284357037138)
-* Article: 陳水扁散步活跳跳　邊走還可邊滑手機
+* Author: [Ching Wen Huang](http://facebook.com/100000310422454)
+* Article: 史上最萌颱風　水汪汪大眼對著你笑
 
 ```
-「周刊王」在幫馬英九鋪路，
-準備把阿扁隨時關回牢裡，
-趁機轉移經濟崩壞、執政無能的焦點。
-
-雖然我不喜歡阿扁，但我越來越同情他~
+阿進～你一定要記住啊，害死你爹爹的人，我見過他，他的樣子很奇怪，他永遠都好像對著你笑，笑到你心裡發寒，你一定要去找那個人～
 ```
 
 
@@ -856,20 +856,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 252
 
-* Author: [春米六](http://facebook.com/100000280839720)
-* Article: 【更新】冷氣開24小時　電費只比正常開關多一點
-
-```
-我發現吹冷氣真的沒比較好
-我以前房間沒冷氣 都能在大台陽下做事
-晚上也只要有電風扇就能睡
-現在裝冷氣真的變得很不耐熱 回房就想開冷氣
-長期下來電費又貴 又讓自己變的嫩嫩的 真的要克制一下
-```
-
-
-## Like: 252
-
 * Author: [Ho Chow Lee](http://facebook.com/100007654243742)
 * Article: 【更新】要客點餐　麥當勞女服務生竟遭罵「像你這種貨色」
 
@@ -885,6 +871,20 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ```
 這不是權貴，那什麼是權貴
+```
+
+
+## Like: 252
+
+* Author: [春米六](http://facebook.com/100000280839720)
+* Article: 【更新】冷氣開24小時　電費只比正常開關多一點
+
+```
+我發現吹冷氣真的沒比較好
+我以前房間沒冷氣 都能在大台陽下做事
+晚上也只要有電風扇就能睡
+現在裝冷氣真的變得很不耐熱 回房就想開冷氣
+長期下來電費又貴 又讓自己變的嫩嫩的 真的要克制一下
 ```
 
 
@@ -952,6 +952,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 一定是太小工作才會泡湯，
 夠大的話女主管立刻約你去泡湯............
+```
+
+
+## Like: 240
+
+* Author: [高暉恩](http://facebook.com/1731572034)
+* Article: 高中課本有亮點　試圖讓人戀愛惹
+
+```
+校方：最近接到很多學生反應黏頁的問題，正了解原因並與廠商溝通處理中。
 ```
 
 
@@ -1036,16 +1046,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
-## Like: 240
-
-* Author: [高暉恩](http://facebook.com/1731572034)
-* Article: 高中課本有亮點　試圖讓人戀愛惹
-
-```
-校方：最近接到很多學生反應黏頁的問題，正了解原因並與廠商溝通處理中。
-```
-
-
 ## Like: 235
 
 * Author: [林正偉](http://facebook.com/100004707675918)
@@ -1069,6 +1069,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 231
 
+* Author: [Andrew Jao](http://facebook.com/1103784944)
+* Article: 發現男友找援交妹性愛影片　她的報復太駭人
+
+```
+難怪我今早醒來變光頭
+```
+
+
+## Like: 231
+
 * Author: [曾彥屏](http://facebook.com/100003805046456)
 * Article: 小六女兒問波多野是誰　媽媽的回應超級棒
 
@@ -1081,13 +1091,14 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
-## Like: 231
+## Like: 226
 
-* Author: [Andrew Jao](http://facebook.com/1103784944)
-* Article: 發現男友找援交妹性愛影片　她的報復太駭人
+* Author: [Che Tsai](http://facebook.com/100000838277343)
+* Article: 抗議「波卡」　婦團要求市府妥善處理已售卡
 
 ```
-難怪我今早醒來變光頭
+對於波多悠遊卡後續處理最好的方法就是，悠遊卡公司立刻發行孔子像的悠遊卡，台北市立刻變成文質彬彬，大人小孩都溫如有禮，專心向上的文化都市，這樣比叫
+戴下台還有用，是不是阿，白癡婦聯會
 ```
 
 
@@ -1103,16 +1114,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 226
 
-* Author: [Jason Chiu](http://facebook.com/100003293039029)
-* Article: 7旬嬤撿3元紙箱　所有人堅持告竊盜
-
-```
-重點不是紙箱只值3元，而是進入私人領域未經允許拿走紙箱且也跟年紀無關
-```
-
-
-## Like: 226
-
 * Author: [陳律君](http://facebook.com/100002020977515)
 * Article: 直擊！依法盤查遭民眾咆嘯　警嘆尊嚴掃地
 
@@ -1123,12 +1124,11 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 226
 
-* Author: [Che Tsai](http://facebook.com/100000838277343)
-* Article: 抗議「波卡」　婦團要求市府妥善處理已售卡
+* Author: [Jason Chiu](http://facebook.com/100003293039029)
+* Article: 7旬嬤撿3元紙箱　所有人堅持告竊盜
 
 ```
-對於波多悠遊卡後續處理最好的方法就是，悠遊卡公司立刻發行孔子像的悠遊卡，台北市立刻變成文質彬彬，大人小孩都溫如有禮，專心向上的文化都市，這樣比叫
-戴下台還有用，是不是阿，白癡婦聯會
+重點不是紙箱只值3元，而是進入私人領域未經允許拿走紙箱且也跟年紀無關
 ```
 
 
@@ -1150,6 +1150,26 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ```
 那個媽的馬畜總統...要八年了...還可以推給前朝...真是夠了...; 無能倒是睡得粉甜...起早晨跑了沒? 馬畜?...
+```
+
+
+## Like: 220
+
+* Author: [劉宇](http://facebook.com/100006213755698)
+* Article: PTT名人蘇溫永又告人　結果這次...
+
+```
+我又上新聞惹 @@
+```
+
+
+## Like: 220
+
+* Author: [Ming Yu Lee](http://facebook.com/1370877556)
+* Article: 報復性漲房租　投資客打趴15年小店
+
+```
+好想看炒房客、奸建商和惡房東自殺喔～～
 ```
 
 
@@ -1180,26 +1200,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ```
 不能掛台灣 難道要掛中國台灣?
-```
-
-
-## Like: 220
-
-* Author: [Ming Yu Lee](http://facebook.com/1370877556)
-* Article: 報復性漲房租　投資客打趴15年小店
-
-```
-好想看炒房客、奸建商和惡房東自殺喔～～
-```
-
-
-## Like: 220
-
-* Author: [劉宇](http://facebook.com/100006213755698)
-* Article: PTT名人蘇溫永又告人　結果這次...
-
-```
-我又上新聞惹 @@
 ```
 
 

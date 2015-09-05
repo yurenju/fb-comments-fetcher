@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150905/685169/",
   "comments": [
     {
+      "created_time": "2015-09-05T04:34:07+0000",
+      "from": {
+        "name": "趙一奎",
+        "id": "1344025340"
+      },
+      "message": "紙作的天燈直接撞上是ok的\n閃避摔車是自己技術差",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "930081567048521_930343643688980"
+    },
+    {
       "created_time": "2015-09-05T03:08:36+0000",
       "from": {
         "name": "卜隆貢",
@@ -71,7 +83,7 @@
       },
       "message": "已經看到天燈掉下來了！\n為什麼要蛇行呢？\n直接閃開不就好了？",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "930081567048521_930176140372397"
     },
@@ -155,7 +167,7 @@
       },
       "message": "天燈許願若能成真，狗屎也能入口吃了。",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 7,
       "user_likes": false,
       "id": "930081567048521_930104673712877"
     },

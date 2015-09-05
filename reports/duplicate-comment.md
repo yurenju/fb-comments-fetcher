@@ -486,7 +486,7 @@ users:
 * 【悠遊卡KUSO大賽】水林投稿：召喚！波多野結衣！
 * 讓人發火的「波卡」語錄　《蘋果》整理在此
 
-## 重複次數 41
+## 重複次數 42
 
 留言：
 
@@ -534,6 +534,7 @@ users:
 * [Ian Chao]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [楊旺德]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [賴鵬旭]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [石菲特]('http://facebook.com/' + users[user].id) (重複 1 次)
 
 新聞：
 
@@ -578,6 +579,7 @@ users:
 * 【更新】網友轟丁寧、天心　施蜜娜：禽獸不如
 * 防農舍炒作　《農發條例》修正農民才能購農舍
 * 【獨家】熱心大叔出「機」相救　車輪底下與死神搶人
+* FED升息疑慮　美股大跌272點
 
 ## 重複次數 40
 
