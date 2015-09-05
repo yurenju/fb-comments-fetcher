@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150906/685607/",
   "comments": [
     {
+      "created_time": "2015-09-05T19:21:04+0000",
+      "from": {
+        "name": "Spark Liu",
+        "id": "100000919047853"
+      },
+      "message": "------即使不計入蘋果產品,中國智慧手機的平均單價也在成長------這句話很有問題,明明就在下跌,android新機出的速度太快,跌價也很快,價錢明明都主打低價,看小米的興起跟三星的衰退,就很明顯了.",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "975967032441498_976001245771410"
+    },
+    {
       "created_time": "2015-09-05T18:28:20+0000",
       "from": {
         "name": "泰坤",
@@ -11,7 +23,7 @@
       },
       "message": "那就賣給中國就好了其他國不賣無所謂",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "975967032441498_975984105773124"
     },
