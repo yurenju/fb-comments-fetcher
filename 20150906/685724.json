@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150906/685724/",
   "comments": [
     {
+      "created_time": "2015-09-06T15:00:46+0000",
+      "from": {
+        "name": "山田奈奈",
+        "id": "100004704704288"
+      },
+      "message": "飼主視其親人般照護，\n而部份人棄養、虐待，\n反差好大喲……",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "877442305659630_877612862309241"
+    },
+    {
       "created_time": "2015-09-06T12:33:29+0000",
       "from": {
         "name": "陳力",
@@ -11,7 +23,7 @@
       },
       "message": "有沒有人要去菜市場念經超渡的",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "877442305659630_877566458980548"
     }

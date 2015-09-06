@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150906/685814/",
   "comments": [
     {
+      "created_time": "2015-09-06T14:28:10+0000",
+      "from": {
+        "name": "Cheng-ju Yeh",
+        "id": "100001204182144"
+      },
+      "message": "感覺回到玩命關頭的場景了。旁邊多些辣妹伴舞更好",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "767663846677457_767842259992949"
+    },
+    {
+      "created_time": "2015-09-06T13:22:56+0000",
+      "from": {
+        "name": "鐘沛翔",
+        "id": "100000658682621"
+      },
+      "message": "改音響無罪!!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "767663846677457_767824183328090"
+    },
+    {
       "created_time": "2015-09-06T13:01:02+0000",
       "from": {
         "name": "李昭德",
@@ -47,7 +71,7 @@
       },
       "message": "什麼爛新聞",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "767663846677457_767691933341315"
     },
@@ -71,7 +95,7 @@
       },
       "message": "對於不好此道的人來說，真的會對這種噪音感到很困擾。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 8,
       "user_likes": false,
       "id": "767663846677457_767667006677141"
     }

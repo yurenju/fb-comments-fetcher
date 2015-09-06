@@ -1,7 +1,7 @@
 # Top 100 按讚數最多
 
 
-## Like: 2898
+## Like: 3181
 
 * Author: [Chris Hsu](http://facebook.com/100000193352971)
 * Article: 【更新】短褲妹挨撞命危　影片曝光
@@ -58,6 +58,23 @@
 ```
 
 
+## Like: 986
+
+* Author: [Kuan Huang](http://facebook.com/100000991085886)
+* Article: 【更新】短褲妹挨撞命危　影片曝光
+
+```
+今天警察不管做什麼事都會被質疑
+如果不作為
+就說縱容青少年闖紅燈
+如果作為
+又說警方追車執法過當
+只能說現在這個社會部分人對警察是仇視的
+警察真的很需要社會大眾支持與鼓勵
+這是很重要的動力
+```
+
+
 ## Like: 971
 
 * Author: [謝明勳](http://facebook.com/100009925093552)
@@ -101,23 +118,6 @@
 
 莫怨阿姨急下手，迷途羔羊入虎口，
 未明珠胎是否留，網開一面免成囚。
-```
-
-
-## Like: 873
-
-* Author: [Kuan Huang](http://facebook.com/100000991085886)
-* Article: 【更新】短褲妹挨撞命危　影片曝光
-
-```
-今天警察不管做什麼事都會被質疑
-如果不作為
-就說縱容青少年闖紅燈
-如果作為
-又說警方追車執法過當
-只能說現在這個社會部分人對警察是仇視的
-警察真的很需要社會大眾支持與鼓勵
-這是很重要的動力
 ```
 
 
@@ -266,6 +266,16 @@
 一個41歲單親爸爸
 在客廳與兒子14歲女友發生關係
 你看他會怎麼死
+```
+
+
+## Like: 479
+
+* Author: [邱冠群](http://facebook.com/100000484039679)
+* Article: 帥哥色狼有明星臉　4女遭摸下體心軟撤告
+
+```
+人帥性高潮，人醜性騷擾…
 ```
 
 
@@ -424,16 +434,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
-## Like: 379
-
-* Author: [邱冠群](http://facebook.com/100000484039679)
-* Article: 帥哥色狼有明星臉　4女遭摸下體心軟撤告
-
-```
-人帥性高潮，人醜性騷擾…
-```
-
-
 ## Like: 378
 
 * Author: [Ria Kiki](http://facebook.com/100000436807707)
@@ -512,21 +512,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 358
 
-* Author: [Roderick Lai](http://facebook.com/100000344530126)
-* Article: 布丁為何「一組3入」？　原來有典故
-
-```
-養樂多一組五罐，該不會是一家四口，爸爸下班後口渴還要多喝一罐
-```
-
-
-## Like: 358
-
 * Author: [張宏德](http://facebook.com/100001352602343)
 * Article: 【讀者直擊】叫我自己收餐盤！　不收哥暴怒！
 
 ```
 本來就要自己收啊，不然你這位仁兄是比較大牌膩，
+```
+
+
+## Like: 358
+
+* Author: [Roderick Lai](http://facebook.com/100000344530126)
+* Article: 布丁為何「一組3入」？　原來有典故
+
+```
+養樂多一組五罐，該不會是一家四口，爸爸下班後口渴還要多喝一罐
 ```
 
 
@@ -619,6 +619,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 318
 
+* Author: [Mubetei Sai](http://facebook.com/100000951205185)
+* Article: 不切割！　洪秀柱：為何馬英九聲望比扁低
+
+```
+以你的智慧我很難跟你解釋啊…
+```
+
+
+## Like: 318
+
 * Author: [Chieh Chou](http://facebook.com/100007754260230)
 * Article: 邱毅嘲諷ＡＶ女優　網友整理犯罪史神打臉
 
@@ -668,13 +678,13 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
-## Like: 293
+## Like: 291
 
-* Author: [Mubetei Sai](http://facebook.com/100000951205185)
-* Article: 不切割！　洪秀柱：為何馬英九聲望比扁低
+* Author: [洪米政](http://facebook.com/100009341471616)
+* Article: 人妻借籃球被硬上　對話紀錄超展開
 
 ```
-以你的智慧我很難跟你解釋啊…
+這跟本就是仙人跳。
 ```
 
 
@@ -685,16 +695,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ```
 受刑人都拉去當兵，增加募兵量，身上綁上炸彈，然後空投到大陸，一個願望，二種滿足
-```
-
-
-## Like: 291
-
-* Author: [洪米政](http://facebook.com/100009341471616)
-* Article: 人妻借籃球被硬上　對話紀錄超展開
-
-```
-這跟本就是仙人跳。
 ```
 
 
@@ -814,6 +814,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 270
 
+* Author: [Ching Wen Huang](http://facebook.com/100000310422454)
+* Article: 史上最萌颱風　水汪汪大眼對著你笑
+
+```
+阿進～你一定要記住啊，害死你爹爹的人，我見過他，他的樣子很奇怪，他永遠都好像對著你笑，笑到你心裡發寒，你一定要去找那個人～
+```
+
+
+## Like: 270
+
 * Author: [DrAgo](http://facebook.com/788860367897002)
 * Article: 【更新】冷氣開24小時　電費只比正常開關多一點
 
@@ -821,16 +831,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 開一個月冷氣的電費只要4500日圓，就台幣1500左右。
 再照日本物價來算，再除3... 一個月的支出感覺只有我們的500元。
 幹！我們的油電雙高是怎麼回事？
-```
-
-
-## Like: 270
-
-* Author: [Ching Wen Huang](http://facebook.com/100000310422454)
-* Article: 史上最萌颱風　水汪汪大眼對著你笑
-
-```
-阿進～你一定要記住啊，害死你爹爹的人，我見過他，他的樣子很奇怪，他永遠都好像對著你笑，笑到你心裡發寒，你一定要去找那個人～
 ```
 
 
@@ -892,6 +892,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
+## Like: 259
+
+* Author: [Jm Tseng](http://facebook.com/100000170151566)
+* Article: 【更新】短褲妹挨撞命危　影片曝光
+
+```
+等下就有親友團上來了…………
+```
+
+
 ## Like: 256
 
 * Author: [Chia-ming Chen](http://facebook.com/100001482906125)
@@ -926,16 +936,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 252
 
-* Author: [Ho Chow Lee](http://facebook.com/100007654243742)
-* Article: 【更新】要客點餐　麥當勞女服務生竟遭罵「像你這種貨色」
-
-```
-人也是分很多等級看你的談吐應該也是下下等级吧
-```
-
-
-## Like: 252
-
 * Author: [王佩瑛](http://facebook.com/1389173988)
 * Article: 養這等軍官、檢察官何用？
 
@@ -958,6 +958,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
+## Like: 252
+
+* Author: [Ho Chow Lee](http://facebook.com/100007654243742)
+* Article: 【更新】要客點餐　麥當勞女服務生竟遭罵「像你這種貨色」
+
+```
+人也是分很多等級看你的談吐應該也是下下等级吧
+```
+
+
 ## Like: 251
 
 * Author: [Paul Lin](http://facebook.com/100006016860740)
@@ -975,6 +985,20 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ```
 為何兩套標準那些貴婦團參觀有經過國防部審核嗎？那一般民眾要參觀為何要經國防部審核
+```
+
+
+## Like: 249
+
+* Author: [Yung-Chien Chou](http://facebook.com/100005668369242)
+* Article: 「女友懷孕了」　接下來4個字綠綠der
+
+```
+佳人無故懷珠胎，誰向藍田種玉來？
+兩坤何以生太極，半畝方塘幾時開？
+
+曾經巫山共徘徊，明鏡哪堪惹塵埃，
+莫問伴侶過往事，懊惱只是添疑猜！
 ```
 
 
@@ -1022,6 +1046,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 一定是太小工作才會泡湯，
 夠大的話女主管立刻約你去泡湯............
+```
+
+
+## Like: 240
+
+* Author: [高暉恩](http://facebook.com/1731572034)
+* Article: 高中課本有亮點　試圖讓人戀愛惹
+
+```
+校方：最近接到很多學生反應黏頁的問題，正了解原因並與廠商溝通處理中。
 ```
 
 
@@ -1106,16 +1140,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
-## Like: 240
-
-* Author: [高暉恩](http://facebook.com/1731572034)
-* Article: 高中課本有亮點　試圖讓人戀愛惹
-
-```
-校方：最近接到很多學生反應黏頁的問題，正了解原因並與廠商溝通處理中。
-```
-
-
 ## Like: 235
 
 * Author: [林正偉](http://facebook.com/100004707675918)
@@ -1134,16 +1158,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ```
 珍惜台灣日漸稀少的婦產科醫師
-```
-
-
-## Like: 232
-
-* Author: [Jm Tseng](http://facebook.com/100000170151566)
-* Article: 【更新】短褲妹挨撞命危　影片曝光
-
-```
-等下就有親友團上來了…………
 ```
 
 
@@ -1183,11 +1197,11 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 226
 
-* Author: [鐘通豪](http://facebook.com/100000046993690)
-* Article: 【更新】超商拒賣AV悠遊卡　他用一張圖酸假掰
+* Author: [陳律君](http://facebook.com/100002020977515)
+* Article: 直擊！依法盤查遭民眾咆嘯　警嘆尊嚴掃地
 
 ```
-四大超商應該是受到政治壓力的介入才取消販賣的？最可恥的是那些政治人物跟衛道人士假道學的團體，自己骯髒還嫌人家齷齪～
+記者朋友你好，我是現場執勤的員警，此報導中有提及督察組有派員到場，但就小弟本人親眼所見並未觀察到督察組的長官有前來關切，我也相信本分局的督察系統不會因民眾的無理取鬧，便派員至現場徒增基層同仁們的困擾，希望蘋果媒體向本分局督查室再次確認該事，如與事實有出入的話煩請更正報導，感謝你們，辛苦了！
 ```
 
 
@@ -1204,20 +1218,9 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 226
 
-* Author: [陳律君](http://facebook.com/100002020977515)
-* Article: 直擊！依法盤查遭民眾咆嘯　警嘆尊嚴掃地
+* Author: [鐘通豪](http://facebook.com/100000046993690)
+* Article: 【更新】超商拒賣AV悠遊卡　他用一張圖酸假掰
 
 ```
-記者朋友你好，我是現場執勤的員警，此報導中有提及督察組有派員到場，但就小弟本人親眼所見並未觀察到督察組的長官有前來關切，我也相信本分局的督察系統不會因民眾的無理取鬧，便派員至現場徒增基層同仁們的困擾，希望蘋果媒體向本分局督查室再次確認該事，如與事實有出入的話煩請更正報導，感謝你們，辛苦了！
-```
-
-
-## Like: 223
-
-* Author: [Cheng-Yin Wu](http://facebook.com/1626174500)
-* Article: 是先知？半年前的柯P　打臉現在的連戰
-
-```
-也不算先知，
-連家歷代的走狗行為有點常識的人都懂。
+四大超商應該是受到政治壓力的介入才取消販賣的？最可恥的是那些政治人物跟衛道人士假道學的團體，自己骯髒還嫌人家齷齪～
 ```
