@@ -619,21 +619,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 318
 
-* Author: [Mubetei Sai](http://facebook.com/100000951205185)
-* Article: 不切割！　洪秀柱：為何馬英九聲望比扁低
-
-```
-以你的智慧我很難跟你解釋啊…
-```
-
-
-## Like: 318
-
 * Author: [Chieh Chou](http://facebook.com/100007754260230)
 * Article: 邱毅嘲諷ＡＶ女優　網友整理犯罪史神打臉
 
 ```
 波多野結衣最基本分辨的出香蕉與太陽花，光這點邱毅就可以洗洗睡了....
+```
+
+
+## Like: 318
+
+* Author: [Mubetei Sai](http://facebook.com/100000951205185)
+* Article: 不切割！　洪秀柱：為何馬英九聲望比扁低
+
+```
+以你的智慧我很難跟你解釋啊…
 ```
 
 
@@ -800,6 +800,18 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 270
 
+* Author: [DrAgo](http://facebook.com/788860367897002)
+* Article: 【更新】冷氣開24小時　電費只比正常開關多一點
+
+```
+開一個月冷氣的電費只要4500日圓，就台幣1500左右。
+再照日本物價來算，再除3... 一個月的支出感覺只有我們的500元。
+幹！我們的油電雙高是怎麼回事？
+```
+
+
+## Like: 270
+
 * Author: [9.2%的blue](http://facebook.com/166284357037138)
 * Article: 陳水扁散步活跳跳　邊走還可邊滑手機
 
@@ -819,18 +831,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ```
 阿進～你一定要記住啊，害死你爹爹的人，我見過他，他的樣子很奇怪，他永遠都好像對著你笑，笑到你心裡發寒，你一定要去找那個人～
-```
-
-
-## Like: 270
-
-* Author: [DrAgo](http://facebook.com/788860367897002)
-* Article: 【更新】冷氣開24小時　電費只比正常開關多一點
-
-```
-開一個月冷氣的電費只要4500日圓，就台幣1500左右。
-再照日本物價來算，再除3... 一個月的支出感覺只有我們的500元。
-幹！我們的油電雙高是怎麼回事？
 ```
 
 
@@ -882,6 +882,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 259
 
+* Author: [Jm Tseng](http://facebook.com/100000170151566)
+* Article: 【更新】短褲妹挨撞命危　影片曝光
+
+```
+等下就有親友團上來了…………
+```
+
+
+## Like: 259
+
 * Author: [Joy Chien](http://facebook.com/1265613382)
 * Article: 16歲少女問「什麼是砲友？」　爸媽竟然...
 
@@ -889,16 +899,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 16歲了父母什麼都不教
 
 結果被外人帶去體驗營了
-```
-
-
-## Like: 259
-
-* Author: [Jm Tseng](http://facebook.com/100000170151566)
-* Article: 【更新】短褲妹挨撞命危　影片曝光
-
-```
-等下就有親友團上來了…………
 ```
 
 
@@ -936,16 +936,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 252
 
-* Author: [王佩瑛](http://facebook.com/1389173988)
-* Article: 養這等軍官、檢察官何用？
-
-```
-這不是權貴，那什麼是權貴
-```
-
-
-## Like: 252
-
 * Author: [春米六](http://facebook.com/100000280839720)
 * Article: 【更新】冷氣開24小時　電費只比正常開關多一點
 
@@ -955,6 +945,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 晚上也只要有電風扇就能睡
 現在裝冷氣真的變得很不耐熱 回房就想開冷氣
 長期下來電費又貴 又讓自己變的嫩嫩的 真的要克制一下
+```
+
+
+## Like: 252
+
+* Author: [王佩瑛](http://facebook.com/1389173988)
+* Article: 養這等軍官、檢察官何用？
+
+```
+這不是權貴，那什麼是權貴
 ```
 
 
@@ -1051,16 +1051,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 240
 
-* Author: [高暉恩](http://facebook.com/1731572034)
-* Article: 高中課本有亮點　試圖讓人戀愛惹
-
-```
-校方：最近接到很多學生反應黏頁的問題，正了解原因並與廠商溝通處理中。
-```
-
-
-## Like: 240
-
 * Author: [柯忠賢](http://facebook.com/100004713195753)
 * Article: 律師談AV產業　要你別看波多野只想色
 
@@ -1140,6 +1130,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
+## Like: 240
+
+* Author: [高暉恩](http://facebook.com/1731572034)
+* Article: 高中課本有亮點　試圖讓人戀愛惹
+
+```
+校方：最近接到很多學生反應黏頁的問題，正了解原因並與廠商溝通處理中。
+```
+
+
 ## Like: 235
 
 * Author: [林正偉](http://facebook.com/100004707675918)
@@ -1163,6 +1163,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 231
 
+* Author: [Andrew Jao](http://facebook.com/1103784944)
+* Article: 發現男友找援交妹性愛影片　她的報復太駭人
+
+```
+難怪我今早醒來變光頭
+```
+
+
+## Like: 231
+
 * Author: [曾彥屏](http://facebook.com/100003805046456)
 * Article: 小六女兒問波多野是誰　媽媽的回應超級棒
 
@@ -1172,26 +1182,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 說不歧視性工作者,表現出來就是從骨子裡歧視
 還要說漂亮話當正義魔人
 笑話
-```
-
-
-## Like: 231
-
-* Author: [Andrew Jao](http://facebook.com/1103784944)
-* Article: 發現男友找援交妹性愛影片　她的報復太駭人
-
-```
-難怪我今早醒來變光頭
-```
-
-
-## Like: 226
-
-* Author: [Jason Chiu](http://facebook.com/100003293039029)
-* Article: 7旬嬤撿3元紙箱　所有人堅持告竊盜
-
-```
-重點不是紙箱只值3元，而是進入私人領域未經允許拿走紙箱且也跟年紀無關
 ```
 
 
@@ -1207,20 +1197,30 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 226
 
+* Author: [鐘通豪](http://facebook.com/100000046993690)
+* Article: 【更新】超商拒賣AV悠遊卡　他用一張圖酸假掰
+
+```
+四大超商應該是受到政治壓力的介入才取消販賣的？最可恥的是那些政治人物跟衛道人士假道學的團體，自己骯髒還嫌人家齷齪～
+```
+
+
+## Like: 226
+
+* Author: [Jason Chiu](http://facebook.com/100003293039029)
+* Article: 7旬嬤撿3元紙箱　所有人堅持告竊盜
+
+```
+重點不是紙箱只值3元，而是進入私人領域未經允許拿走紙箱且也跟年紀無關
+```
+
+
+## Like: 226
+
 * Author: [Che Tsai](http://facebook.com/100000838277343)
 * Article: 抗議「波卡」　婦團要求市府妥善處理已售卡
 
 ```
 對於波多悠遊卡後續處理最好的方法就是，悠遊卡公司立刻發行孔子像的悠遊卡，台北市立刻變成文質彬彬，大人小孩都溫如有禮，專心向上的文化都市，這樣比叫
 戴下台還有用，是不是阿，白癡婦聯會
-```
-
-
-## Like: 226
-
-* Author: [鐘通豪](http://facebook.com/100000046993690)
-* Article: 【更新】超商拒賣AV悠遊卡　他用一張圖酸假掰
-
-```
-四大超商應該是受到政治壓力的介入才取消販賣的？最可恥的是那些政治人物跟衛道人士假道學的團體，自己骯髒還嫌人家齷齪～
 ```
