@@ -497,7 +497,7 @@ users:
 * 【悠遊卡KUSO大賽】水林投稿：召喚！波多野結衣！
 * 讓人發火的「波卡」語錄　《蘋果》整理在此
 
-## 重複次數 50
+## 重複次數 51
 
 留言：
 
@@ -554,6 +554,7 @@ users:
 * [張佑嘉]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [盧猛浪]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [Juilk Lin]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [蔡翔宇]('http://facebook.com/' + users[user].id) (重複 1 次)
 
 新聞：
 
@@ -607,6 +608,7 @@ users:
 * 偷捐款箱就是不行！　正義哥壓制逮小偷
 * 合歡山最美風景　路人徒手清落石
 * 瓊斯盃壓軸台韓大戰　《蘋果》360帶你現場直擊
+* 德國這樣紀念終戰70年
 
 ## 重複次數 45
 

@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150907/685854/",
   "comments": [
     {
+      "created_time": "2015-09-06T21:53:16+0000",
+      "from": {
+        "name": "馬沙",
+        "id": "100008990437731"
+      },
+      "message": "公的你也要…白痴…絲賀",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "939302122800034_939374379459475"
+    },
+    {
+      "created_time": "2015-09-06T20:41:58+0000",
+      "from": {
+        "name": "王元萬",
+        "id": "100006112638576"
+      },
+      "message": "靠北哦………食品路那間欸    還沒倒哦",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "939302122800034_939349926128587"
+    },
+    {
+      "created_time": "2015-09-06T19:01:37+0000",
+      "from": {
+        "name": "陳豪傑",
+        "id": "100003982388403"
+      },
+      "message": "又一個...麥可傑克森 !",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "939302122800034_939314369465476"
+    },
+    {
       "created_time": "2015-09-06T18:59:35+0000",
       "from": {
         "name": "Lisa Chang",
@@ -11,7 +47,7 @@
       },
       "message": "這種爛人，也配當父親…",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "939302122800034_939313722798874"
     },
@@ -23,7 +59,7 @@
       },
       "message": "唉！",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "939302122800034_939306296132950"
     }
