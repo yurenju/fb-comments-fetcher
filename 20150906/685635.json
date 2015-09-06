@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150906/685635/",
   "comments": [
     {
+      "created_time": "2015-09-06T12:34:14+0000",
+      "from": {
+        "name": "郭增壽",
+        "id": "100009371676503"
+      },
+      "message": "真的!真的!不得不尊敬德國這個國家!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "902441063166056_902904579786371"
+    },
+    {
       "created_time": "2015-09-05T18:09:33+0000",
       "from": {
         "name": "Ping Yu Wu",
@@ -11,7 +23,7 @@
       },
       "message": "美麗的國家美好的人民",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "902441063166056_902480506495445"
     }

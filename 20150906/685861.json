@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150906/685861/",
   "comments": [
     {
+      "created_time": "2015-09-06T12:02:13+0000",
+      "from": {
+        "name": "陳雅禎",
+        "id": "100001616058573"
+      },
+      "message": "記者在睡覺ㄇ？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1191864094173963_1191966027497103"
+    },
+    {
       "created_time": "2015-09-06T09:58:16+0000",
       "from": {
         "name": "劉子豪",
@@ -11,7 +23,7 @@
       },
       "message": "到底是劉曉明還是劉曉波？  沒人校稿嗎？",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "1191864094173963_1191903097503396"
     },
@@ -107,7 +119,7 @@
       },
       "message": "到底劉曉明還是劉曉波\n還是他們是好基友",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "1191864094173963_1191867960840243"
     },

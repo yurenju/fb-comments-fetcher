@@ -497,7 +497,7 @@ users:
 * 【悠遊卡KUSO大賽】水林投稿：召喚！波多野結衣！
 * 讓人發火的「波卡」語錄　《蘋果》整理在此
 
-## 重複次數 47
+## 重複次數 49
 
 留言：
 
@@ -551,6 +551,8 @@ users:
 * [劉圳鎮]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [馬良]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [陸昫葶]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [張佑嘉]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [盧猛浪]('http://facebook.com/' + users[user].id) (重複 1 次)
 
 新聞：
 
@@ -601,8 +603,10 @@ users:
 * 【獨家直擊】驚悚！捷運站旁開槍　警當場制伏槍手
 * 臉書慶祝艾倫溺死　德國酸民遭逮捕
 * ​牧羊犬落難黃石公園　流浪42天奇蹟生還
+* 偷捐款箱就是不行！　正義哥壓制逮小偷
+* 合歡山最美風景　路人徒手清落石
 
-## 重複次數 41
+## 重複次數 42
 
 留言：
 
@@ -612,7 +616,7 @@ users:
 
 users: 
 
-* [Ann Hung]('http://facebook.com/' + users[user].id) (重複 41 次)
+* [Ann Hung]('http://facebook.com/' + users[user].id) (重複 42 次)
 
 新聞：
 
@@ -657,6 +661,98 @@ users:
 * 婚外情引殺機　狠妻放血殺夫再輕生
 * 東南旅行社峨嵋山遇難旅客下午返台
 * 透露選課不順利　男大生竟墜樓亡
+* 小孩未滿月　新手爸自撞亡
+
+## 重複次數 40
+
+留言：
+
+```
+加油
+```
+
+users: 
+
+* [洪本源]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Betsy Deng]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Nini Chang]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [宋正挺]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [周曉楓]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Beefun01 趣味新聞]('http://facebook.com/' + users[user].id) (重複 2 次)
+* [吳璋]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [高森蔓]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [五木大學]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [林建興]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [范綱智]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [簡欣瑜]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [游秋雲]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [秦羽]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [鄭帥]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [劉淑敏]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [蔡佩芸]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [吳晉維]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [陳俊元]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [靜遠]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [叮噹泰]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [田鈞哲]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [林吉男]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [陳柏豪]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [邱俊螢]('http://facebook.com/' + users[user].id) (重複 3 次)
+* [Starki Lam]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [李筱儒]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [林薇薇]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [馬沙]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [鄭在熊]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Xianzai Xie]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [薛義蔚]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [露露]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [蘇冠軍]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Gerpye  Hau]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [林建忠]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Kate Chu]('http://facebook.com/' + users[user].id) (重複 1 次)
+
+新聞：
+
+* 李慶元宣布選立委　柯P「勇則無懼」匾額相贈
+* 國新將宣布合作不分區立委
+* 美女主播慘遭霸凌　現在的她正翻了
+* 蘭嶼護理師病倒　居民祈禱：快回來
+* 蘭嶼護理師病倒　居民祈禱：快回來
+* 台股收盤大漲265點　44個月單日新高
+* 月薪19K難阻黃培閎逐夢　臺灣排球旅歐第一人
+* 台股逆轟高灰惹！　網友卻不爽...
+* 【更新】Freddy邀柯P飆歌　非典型助選
+* 他挺波多野結衣　「邊手淫邊罵髒代表啥？」
+* 7年拍600部片　波多野結衣最想變成她
+* 大哥不當大哥了！　只因女兒一句話
+* 欲走正途屢碰壁　更生人向警求助 
+* 欲走正途屢碰壁　更生人向警求助 
+* 欲走正途屢碰壁　更生人向警求助 
+* 欲走正途屢碰壁　更生人向警求助 
+* 欲走正途屢碰壁　更生人向警求助 
+* 欲走正途屢碰壁　更生人向警求助 
+* 欲走正途屢碰壁　更生人向警求助 
+* 欲走正途屢碰壁　更生人向警求助 
+* 手無寸鐵的社工急需任意門？
+* 無限期支持波多野結衣　1.6萬人挺
+* 加巡大航道菁英賽第2回合　潘政琮並列第2
+* 【更新】LPGA橫濱菁英賽補賽完成　曾雅妮-10獨走
+* 「外婆是撿資源回收的」　網友道盡人間冷暖
+* 大馬反貪黃潮洶湧　準備紮營過夜
+* 大馬反貪腐集會　自由廣場千人隔海聲援
+* 大馬反貪腐集會　自由廣場千人隔海聲援
+* 【更新】塵爆80%燒傷　陳佑仁奇蹟出院
+* 被譏長相「像魔鬼」！生命鬥士逼哭陶晶瑩
+* 李亞明盼兒別丟臉　李玉璽「吸精」嚇到　
+* 前進立院 台語歌王、歌后齊挺林昶佐
+* 閉關爆退選　洪營：絕對參選到底
+* 首次跨黨站台　蔡英文：我們民進黨支持洪慈庸
+* 洪秀柱閉關1天　發臉書求菩薩賜給智慧
+* 【獨家】妻血癌又中風　丈夫打工病妻車上等
+* 【出關全文】　洪秀柱：該是放下屠刀的時候
+* 【更新】昔賣餅救兒　今帶兒幫修屋頂
+* 【更新】昔賣餅救兒　今帶兒幫修屋頂
+* 施明德公布微電影　用「線」切西瓜
 
 ## 重複次數 40
 
@@ -712,95 +808,6 @@ users:
 * 【民報】換個角度想：日本政府會拿AV女優宣傳政策嗎?
 * 獨遇山難9天沒吃　奇蹟獲救
 * 獨遇山難9天沒吃　奇蹟獲救
-
-## 重複次數 39
-
-留言：
-
-```
-加油
-```
-
-users: 
-
-* [洪本源]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Betsy Deng]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Nini Chang]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [宋正挺]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [周曉楓]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Beefun01 趣味新聞]('http://facebook.com/' + users[user].id) (重複 2 次)
-* [吳璋]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [高森蔓]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [五木大學]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [林建興]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [范綱智]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [簡欣瑜]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [游秋雲]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [秦羽]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [鄭帥]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [劉淑敏]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [蔡佩芸]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [吳晉維]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [陳俊元]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [靜遠]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [叮噹泰]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [田鈞哲]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [林吉男]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [陳柏豪]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [邱俊螢]('http://facebook.com/' + users[user].id) (重複 3 次)
-* [Starki Lam]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [李筱儒]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [林薇薇]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [馬沙]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [鄭在熊]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Xianzai Xie]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [薛義蔚]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [露露]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [蘇冠軍]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Gerpye  Hau]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [林建忠]('http://facebook.com/' + users[user].id) (重複 1 次)
-
-新聞：
-
-* 李慶元宣布選立委　柯P「勇則無懼」匾額相贈
-* 國新將宣布合作不分區立委
-* 美女主播慘遭霸凌　現在的她正翻了
-* 蘭嶼護理師病倒　居民祈禱：快回來
-* 蘭嶼護理師病倒　居民祈禱：快回來
-* 台股收盤大漲265點　44個月單日新高
-* 月薪19K難阻黃培閎逐夢　臺灣排球旅歐第一人
-* 台股逆轟高灰惹！　網友卻不爽...
-* 【更新】Freddy邀柯P飆歌　非典型助選
-* 他挺波多野結衣　「邊手淫邊罵髒代表啥？」
-* 7年拍600部片　波多野結衣最想變成她
-* 大哥不當大哥了！　只因女兒一句話
-* 欲走正途屢碰壁　更生人向警求助 
-* 欲走正途屢碰壁　更生人向警求助 
-* 欲走正途屢碰壁　更生人向警求助 
-* 欲走正途屢碰壁　更生人向警求助 
-* 欲走正途屢碰壁　更生人向警求助 
-* 欲走正途屢碰壁　更生人向警求助 
-* 欲走正途屢碰壁　更生人向警求助 
-* 欲走正途屢碰壁　更生人向警求助 
-* 手無寸鐵的社工急需任意門？
-* 無限期支持波多野結衣　1.6萬人挺
-* 加巡大航道菁英賽第2回合　潘政琮並列第2
-* 【更新】LPGA橫濱菁英賽補賽完成　曾雅妮-10獨走
-* 「外婆是撿資源回收的」　網友道盡人間冷暖
-* 大馬反貪黃潮洶湧　準備紮營過夜
-* 大馬反貪腐集會　自由廣場千人隔海聲援
-* 大馬反貪腐集會　自由廣場千人隔海聲援
-* 【更新】塵爆80%燒傷　陳佑仁奇蹟出院
-* 被譏長相「像魔鬼」！生命鬥士逼哭陶晶瑩
-* 李亞明盼兒別丟臉　李玉璽「吸精」嚇到　
-* 前進立院 台語歌王、歌后齊挺林昶佐
-* 閉關爆退選　洪營：絕對參選到底
-* 首次跨黨站台　蔡英文：我們民進黨支持洪慈庸
-* 洪秀柱閉關1天　發臉書求菩薩賜給智慧
-* 【獨家】妻血癌又中風　丈夫打工病妻車上等
-* 【出關全文】　洪秀柱：該是放下屠刀的時候
-* 昔賣餅救兒　今帶兒幫修屋頂
-* 昔賣餅救兒　今帶兒幫修屋頂
 
 ## 重複次數 37
 

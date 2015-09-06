@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150906/685721/",
   "comments": [
     {
+      "created_time": "2015-09-06T10:31:11+0000",
+      "from": {
+        "name": "鍾家榮",
+        "id": "100000150438309"
+      },
+      "message": "[月光下我記得]的導演，不認識就不要留言暴露自己淺",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "890113894407487_890249357727274"
+    },
+    {
       "created_time": "2015-09-06T08:36:12+0000",
       "from": {
         "name": "朱嘉壬",
@@ -35,7 +47,7 @@
       },
       "message": "水喔! 祝福你們",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "890113894407487_890156551069888"
     }

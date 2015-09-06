@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150906/685637/",
   "comments": [
     {
+      "created_time": "2015-09-06T10:56:58+0000",
+      "from": {
+        "name": "楊承憲",
+        "id": "100000834887421"
+      },
+      "message": "女神多到可以拿來作肥料了！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1053681528000045_1054000567968141"
+    },
+    {
       "created_time": "2015-09-06T05:05:45+0000",
       "from": {
         "name": "Mercury Chen",
@@ -47,7 +59,7 @@
       },
       "message": "這真的是免疫系統的問題.這真的很痛的.我看了都心疼.請大家不要亂講了.沒有人想自己的臉上這樣好嗎！壓力跟睡眠不足真的是很大的原因.好好休息放輕鬆會好一點喔。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1053681528000045_1053889117979286"
     },
@@ -131,9 +143,21 @@
       },
       "message": "少沒知識了，這是免疫系統問題",
       "can_remove": false,
-      "like_count": 8,
+      "like_count": 9,
       "user_likes": false,
       "id": "1053681528000045_1053811411320390"
+    },
+    {
+      "created_time": "2015-09-05T23:39:57+0000",
+      "from": {
+        "name": "張漢翔",
+        "id": "100010311156952"
+      },
+      "message": "射到不乾淨的吧",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1053681528000045_1053798844654980"
     },
     {
       "created_time": "2015-09-05T23:22:27+0000",
