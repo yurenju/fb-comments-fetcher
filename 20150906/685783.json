@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150906/685783/",
   "comments": [
     {
+      "created_time": "2015-09-06T08:16:11+0000",
+      "from": {
+        "name": "趙天龍",
+        "id": "100009811668206"
+      },
+      "message": "阿兜仔，好像腦袋有問題喔，小的不移，移大的。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1068052236540053_1068089253203018"
+    },
+    {
+      "created_time": "2015-09-06T07:18:09+0000",
+      "from": {
+        "name": "王建文",
+        "id": "100000337336628"
+      },
+      "message": "堵啥小 前面機車牽一下就好了 白痴",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1068052236540053_1068072426538034"
+    },
+    {
       "created_time": "2015-09-06T06:40:32+0000",
       "from": {
         "name": "馬良",
@@ -14,19 +38,6 @@
       "like_count": 0,
       "user_likes": false,
       "id": "1068052236540053_1068061346539142"
-    },
-    {
-      "created_time": "2015-09-06T06:12:52+0000",
-      "from": {
-        "name": "P l a y娛樂城返水最高097真人返水06儲值在送10％網址:a a 6.p l a y1 6 8.c c",
-        "category": "Public Figure",
-        "id": "730823113711811"
-      },
-      "message": "讚...",
-      "can_remove": false,
-      "like_count": 0,
-      "user_likes": false,
-      "id": "1068052236540053_1068055003206443"
     }
   ]
 }

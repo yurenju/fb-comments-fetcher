@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150906/685559/",
   "comments": [
     {
+      "created_time": "2015-09-06T09:50:14+0000",
+      "from": {
+        "name": "Ar Sun",
+        "id": "100005203890902"
+      },
+      "message": "看過各大媒體報道，果然蘋果的最難聽，留言也最髒",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "894392950598132_894643183906442"
+    },
+    {
+      "created_time": "2015-09-06T09:10:24+0000",
+      "from": {
+        "name": "Lee  Frank",
+        "id": "100003619440063"
+      },
+      "message": "林永健他看上去像鼠 為了收視率演古裝丐幫 LP還可舔",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "894392950598132_894632697240824"
+    },
+    {
       "created_time": "2015-09-06T06:51:00+0000",
       "from": {
         "name": "議鶴",
@@ -59,7 +83,7 @@
       },
       "message": "假掰",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "894392950598132_894499967254097"
     },
@@ -83,7 +107,7 @@
       },
       "message": "好假的電視節目",
       "can_remove": false,
-      "like_count": 9,
+      "like_count": 11,
       "user_likes": false,
       "id": "894392950598132_894414533929307"
     }

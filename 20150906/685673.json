@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150906/685673/",
   "comments": [
     {
+      "created_time": "2015-09-06T07:51:58+0000",
+      "from": {
+        "name": "Andy Chen",
+        "id": "100008708460727"
+      },
+      "message": "那麼假拜託練一下好嗎",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "815041918565537_815128781890184"
+    },
+    {
       "created_time": "2015-09-06T05:17:40+0000",
       "from": {
         "name": "白羽勳",
@@ -23,7 +35,7 @@
       },
       "message": "當年雙胞胎在我肚子裡跳波浪舞時也沒這麼誇張啊！她懷的真的是人類嗎？",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "815041918565537_815096355226760"
     },
@@ -107,7 +119,7 @@
       },
       "message": "看就知道，是假的啦！",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "815041918565537_815054831897579"
     },
