@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150906/685673/",
   "comments": [
     {
+      "created_time": "2015-09-06T05:17:40+0000",
+      "from": {
+        "name": "白羽勳",
+        "id": "100006321013950"
+      },
+      "message": "不可能…假斃了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "815041918565537_815100211893041"
+    },
+    {
+      "created_time": "2015-09-06T04:56:03+0000",
+      "from": {
+        "name": "陳月鳳",
+        "id": "100000193377864"
+      },
+      "message": "當年雙胞胎在我肚子裡跳波浪舞時也沒這麼誇張啊！她懷的真的是人類嗎？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "815041918565537_815096355226760"
+    },
+    {
+      "created_time": "2015-09-06T04:35:08+0000",
+      "from": {
+        "name": "徐梓耘",
+        "id": "100002470207680"
+      },
+      "message": "也太好動了吧…  有點嚇人",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "815041918565537_815092588560470"
+    },
+    {
       "created_time": "2015-09-06T03:55:46+0000",
       "from": {
         "name": "Jun Long Wang",
@@ -71,7 +107,7 @@
       },
       "message": "看就知道，是假的啦！",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "815041918565537_815054831897579"
     },

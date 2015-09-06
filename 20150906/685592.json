@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150906/685592/",
   "comments": [
     {
+      "created_time": "2015-09-06T06:54:08+0000",
+      "from": {
+        "name": "Michelle Dai",
+        "id": "100001708063352"
+      },
+      "message": "要不要戒菸，本身的意志力也是很重要的啊",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "942736472455442_942972955765127"
+    },
+    {
+      "created_time": "2015-09-06T04:59:05+0000",
+      "from": {
+        "name": "陳朝清",
+        "id": "100001648614164"
+      },
+      "message": "戒煙只是想別死的那樣痛苦",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "942736472455442_942949492434140"
+    },
+    {
       "created_time": "2015-09-06T01:27:07+0000",
       "from": {
         "name": "洪緯捷",
@@ -83,7 +107,7 @@
       },
       "message": "靠妖，嚇死我了!\n趕緊抽根菸壓壓驚....",
       "can_remove": false,
-      "like_count": 12,
+      "like_count": 14,
       "user_likes": false,
       "id": "942736472455442_942766509119105"
     },
@@ -95,7 +119,7 @@
       },
       "message": "戒菸沒那麼容易。說不定他們卸完妝之後，走出去又是一根",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "942736472455442_942753199120436"
     },

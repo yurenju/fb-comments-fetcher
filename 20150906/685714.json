@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150906/685714/",
   "comments": [
     {
+      "created_time": "2015-09-06T05:54:36+0000",
+      "from": {
+        "name": "Ho Chow Lee",
+        "id": "100007654243742"
+      },
+      "message": "還好是只是皮肉之苦不然你一可要自责一世",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "883937918360161_883981361689150"
+    },
+    {
+      "created_time": "2015-09-06T04:03:38+0000",
+      "from": {
+        "name": "李光光",
+        "id": "100002270186322"
+      },
+      "message": "這位小姐也真倒霉",
+      "can_remove": false,
+      "like_count": 4,
+      "user_likes": false,
+      "id": "883937918360161_883954395025180"
+    },
+    {
       "created_time": "2015-09-06T03:23:09+0000",
       "from": {
         "name": "唐小萍",
@@ -11,7 +35,7 @@
       },
       "message": "父母疏失..早晚斷送小孩的一條命~",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 3,
       "user_likes": false,
       "id": "883937918360161_883944091692877"
     }

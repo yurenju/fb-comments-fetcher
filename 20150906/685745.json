@@ -2,5 +2,30 @@
   "title": "網路瀏覽研究  使用者愛看新聞勝於廣告",
   "id": "20150906/685745",
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150906/685745/",
-  "comments": []
+  "comments": [
+    {
+      "created_time": "2015-09-06T05:14:45+0000",
+      "from": {
+        "name": "Kenny  Lobo",
+        "id": "100002778770341"
+      },
+      "message": "這個人家都早知道了，不然幹嘛總是把廣告弄成像是新聞？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "314836915306696_314844535305934"
+    },
+    {
+      "created_time": "2015-09-06T04:03:03+0000",
+      "from": {
+        "name": "胡雅葉",
+        "id": "100004136796812"
+      },
+      "message": "這什麼爛標題?我不用研究就可以告訴你，看電視看報紙都愛看新聞勝於廣告。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "314836915306696_314838021973252"
+    }
+  ]
 }
