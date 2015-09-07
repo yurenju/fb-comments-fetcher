@@ -512,21 +512,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 358
 
-* Author: [張宏德](http://facebook.com/100001352602343)
-* Article: 【讀者直擊】叫我自己收餐盤！　不收哥暴怒！
-
-```
-本來就要自己收啊，不然你這位仁兄是比較大牌膩，
-```
-
-
-## Like: 358
-
 * Author: [Roderick Lai](http://facebook.com/100000344530126)
 * Article: 布丁為何「一組3入」？　原來有典故
 
 ```
 養樂多一組五罐，該不會是一家四口，爸爸下班後口渴還要多喝一罐
+```
+
+
+## Like: 358
+
+* Author: [張宏德](http://facebook.com/100001352602343)
+* Article: 【讀者直擊】叫我自己收餐盤！　不收哥暴怒！
+
+```
+本來就要自己收啊，不然你這位仁兄是比較大牌膩，
 ```
 
 
@@ -619,21 +619,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 318
 
-* Author: [Chieh Chou](http://facebook.com/100007754260230)
-* Article: 邱毅嘲諷ＡＶ女優　網友整理犯罪史神打臉
-
-```
-波多野結衣最基本分辨的出香蕉與太陽花，光這點邱毅就可以洗洗睡了....
-```
-
-
-## Like: 318
-
 * Author: [Mubetei Sai](http://facebook.com/100000951205185)
 * Article: 不切割！　洪秀柱：為何馬英九聲望比扁低
 
 ```
 以你的智慧我很難跟你解釋啊…
+```
+
+
+## Like: 318
+
+* Author: [Chieh Chou](http://facebook.com/100007754260230)
+* Article: 邱毅嘲諷ＡＶ女優　網友整理犯罪史神打臉
+
+```
+波多野結衣最基本分辨的出香蕉與太陽花，光這點邱毅就可以洗洗睡了....
 ```
 
 
@@ -800,15 +800,13 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 270
 
-* Author: [9.2%的blue](http://facebook.com/166284357037138)
-* Article: 陳水扁散步活跳跳　邊走還可邊滑手機
+* Author: [DrAgo](http://facebook.com/788860367897002)
+* Article: 【更新】冷氣開24小時　電費只比正常開關多一點
 
 ```
-「周刊王」在幫馬英九鋪路，
-準備把阿扁隨時關回牢裡，
-趁機轉移經濟崩壞、執政無能的焦點。
-
-雖然我不喜歡阿扁，但我越來越同情他~
+開一個月冷氣的電費只要4500日圓，就台幣1500左右。
+再照日本物價來算，再除3... 一個月的支出感覺只有我們的500元。
+幹！我們的油電雙高是怎麼回事？
 ```
 
 
@@ -824,13 +822,15 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 270
 
-* Author: [DrAgo](http://facebook.com/788860367897002)
-* Article: 【更新】冷氣開24小時　電費只比正常開關多一點
+* Author: [9.2%的blue](http://facebook.com/166284357037138)
+* Article: 陳水扁散步活跳跳　邊走還可邊滑手機
 
 ```
-開一個月冷氣的電費只要4500日圓，就台幣1500左右。
-再照日本物價來算，再除3... 一個月的支出感覺只有我們的500元。
-幹！我們的油電雙高是怎麼回事？
+「周刊王」在幫馬英九鋪路，
+準備把阿扁隨時關回牢裡，
+趁機轉移經濟崩壞、執政無能的焦點。
+
+雖然我不喜歡阿扁，但我越來越同情他~
 ```
 
 
@@ -950,21 +950,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 252
 
-* Author: [王佩瑛](http://facebook.com/1389173988)
-* Article: 養這等軍官、檢察官何用？
-
-```
-這不是權貴，那什麼是權貴
-```
-
-
-## Like: 252
-
 * Author: [Ho Chow Lee](http://facebook.com/100007654243742)
 * Article: 【更新】要客點餐　麥當勞女服務生竟遭罵「像你這種貨色」
 
 ```
 人也是分很多等級看你的談吐應該也是下下等级吧
+```
+
+
+## Like: 252
+
+* Author: [王佩瑛](http://facebook.com/1389173988)
+* Article: 養這等軍官、檢察官何用？
+
+```
+這不是權貴，那什麼是權貴
 ```
 
 
@@ -1051,6 +1051,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 240
 
+* Author: [高暉恩](http://facebook.com/1731572034)
+* Article: 高中課本有亮點　試圖讓人戀愛惹
+
+```
+校方：最近接到很多學生反應黏頁的問題，正了解原因並與廠商溝通處理中。
+```
+
+
+## Like: 240
+
 * Author: [柯忠賢](http://facebook.com/100004713195753)
 * Article: 律師談AV產業　要你別看波多野只想色
 
@@ -1130,16 +1140,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
-## Like: 240
-
-* Author: [高暉恩](http://facebook.com/1731572034)
-* Article: 高中課本有亮點　試圖讓人戀愛惹
-
-```
-校方：最近接到很多學生反應黏頁的問題，正了解原因並與廠商溝通處理中。
-```
-
-
 ## Like: 235
 
 * Author: [林正偉](http://facebook.com/100004707675918)
@@ -1163,6 +1163,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 231
 
+* Author: [Andrew Jao](http://facebook.com/1103784944)
+* Article: 發現男友找援交妹性愛影片　她的報復太駭人
+
+```
+難怪我今早醒來變光頭
+```
+
+
+## Like: 231
+
 * Author: [曾彥屏](http://facebook.com/100003805046456)
 * Article: 小六女兒問波多野是誰　媽媽的回應超級棒
 
@@ -1175,16 +1185,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
-## Like: 231
-
-* Author: [Andrew Jao](http://facebook.com/1103784944)
-* Article: 發現男友找援交妹性愛影片　她的報復太駭人
-
-```
-難怪我今早醒來變光頭
-```
-
-
 ## Like: 226
 
 * Author: [陳律君](http://facebook.com/100002020977515)
@@ -1192,17 +1192,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ```
 記者朋友你好，我是現場執勤的員警，此報導中有提及督察組有派員到場，但就小弟本人親眼所見並未觀察到督察組的長官有前來關切，我也相信本分局的督察系統不會因民眾的無理取鬧，便派員至現場徒增基層同仁們的困擾，希望蘋果媒體向本分局督查室再次確認該事，如與事實有出入的話煩請更正報導，感謝你們，辛苦了！
-```
-
-
-## Like: 226
-
-* Author: [Che Tsai](http://facebook.com/100000838277343)
-* Article: 抗議「波卡」　婦團要求市府妥善處理已售卡
-
-```
-對於波多悠遊卡後續處理最好的方法就是，悠遊卡公司立刻發行孔子像的悠遊卡，台北市立刻變成文質彬彬，大人小孩都溫如有禮，專心向上的文化都市，這樣比叫
-戴下台還有用，是不是阿，白癡婦聯會
 ```
 
 
@@ -1223,4 +1212,15 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ```
 重點不是紙箱只值3元，而是進入私人領域未經允許拿走紙箱且也跟年紀無關
+```
+
+
+## Like: 226
+
+* Author: [Che Tsai](http://facebook.com/100000838277343)
+* Article: 抗議「波卡」　婦團要求市府妥善處理已售卡
+
+```
+對於波多悠遊卡後續處理最好的方法就是，悠遊卡公司立刻發行孔子像的悠遊卡，台北市立刻變成文質彬彬，大人小孩都溫如有禮，專心向上的文化都市，這樣比叫
+戴下台還有用，是不是阿，白癡婦聯會
 ```

@@ -4,6 +4,102 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150907/686129/",
   "comments": [
     {
+      "created_time": "2015-09-07T03:51:53+0000",
+      "from": {
+        "name": "Sha Dow Wu",
+        "id": "100002938936770"
+      },
+      "message": "南投從凌晨就開始下雨了，那裡沒受影響=…=",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "883817278354747_883896491680159"
+    },
+    {
+      "created_time": "2015-09-07T03:19:21+0000",
+      "from": {
+        "name": "Jones Stone",
+        "id": "100006109005925"
+      },
+      "message": "轉涼好啊  不要報的好像 好天氣over了  要開始受苦一樣",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "883817278354747_883889651680843"
+    },
+    {
+      "created_time": "2015-09-07T03:15:40+0000",
+      "from": {
+        "name": "鍾庭軒",
+        "id": "100003689840287"
+      },
+      "message": "薑母鴨的季節到……\n醉不上路！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "883817278354747_883888928347582"
+    },
+    {
+      "created_time": "2015-09-07T02:56:51+0000",
+      "from": {
+        "name": "曾惠芳",
+        "id": "100010005735126"
+      },
+      "message": "天氣改變的只有下起雨而已，還是很熱吖",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "883817278354747_883880341681774"
+    },
+    {
+      "created_time": "2015-09-07T02:45:07+0000",
+      "from": {
+        "name": "黎柏賢",
+        "id": "100000332517190"
+      },
+      "message": "羊跟鴨將往生不少。。。。。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "883817278354747_883877821682026"
+    },
+    {
+      "created_time": "2015-09-07T02:25:14+0000",
+      "from": {
+        "name": "周宜靜",
+        "id": "100009318468868"
+      },
+      "message": "秋天真的到了~~涼快一些比較舒服",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "883817278354747_883872781682530"
+    },
+    {
+      "created_time": "2015-09-07T01:49:45+0000",
+      "from": {
+        "name": "林奎伯",
+        "id": "100000237751282"
+      },
+      "message": "我承認我是看到那個咩點進來的，但....為什麼就看不到了！",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "883817278354747_883865265016615"
+    },
+    {
+      "created_time": "2015-09-07T01:41:21+0000",
+      "from": {
+        "name": "Jung Jiun",
+        "id": "100000369438422"
+      },
+      "message": "可以吃羊肉爐了",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "883817278354747_883863285016813"
+    },
+    {
       "created_time": "2015-09-06T23:57:45+0000",
       "from": {
         "name": "Ellen Huang",
@@ -11,7 +107,7 @@
       },
       "message": "也好啦！涼一點也比較舒服",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "883817278354747_883836855019456"
     },

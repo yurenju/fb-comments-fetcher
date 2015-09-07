@@ -4,6 +4,54 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150907/686136/",
   "comments": [
     {
+      "created_time": "2015-09-07T03:07:38+0000",
+      "from": {
+        "name": "林家維",
+        "id": "100000888270315"
+      },
+      "message": "看來大家都在等親友團",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "901303909906540_901381313232133"
+    },
+    {
+      "created_time": "2015-09-07T02:34:44+0000",
+      "from": {
+        "name": "劉元慶",
+        "id": "1832970427"
+      },
+      "message": "為什麼好像聽到某種聲音，仔細聽似乎是:水啦！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "901303909906540_901371473233117"
+    },
+    {
+      "created_time": "2015-09-07T01:24:14+0000",
+      "from": {
+        "name": "蔡坤宏",
+        "id": "100000939701735"
+      },
+      "message": "夕鶴是一種很美的景色",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "901303909906540_901345879902343"
+    },
+    {
+      "created_time": "2015-09-07T01:11:05+0000",
+      "from": {
+        "name": "許明賢",
+        "id": "1785086809"
+      },
+      "message": "俠盜獵車手只是遊戲別當真丫！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "901303909906540_901341269902804"
+    },
+    {
       "created_time": "2015-09-07T00:36:46+0000",
       "from": {
         "name": "Che Tsai",
@@ -11,7 +59,7 @@
       },
       "message": "你們不懂事情真相就不要亂說!!!\n\n~先幫親友團說了",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "901303909906540_901335163236748"
     },
@@ -23,7 +71,7 @@
       },
       "message": "測試改裝機車性能??\n死的那個....要等七天後才能回家，之後每年七月才能出來\n傷的那個....復健一輩子，可能比死更慘\n\n是要改多快、多趴?? =.=",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "901303909906540_901331719903759"
     },
@@ -59,7 +107,7 @@
       },
       "message": "只能說屁孩真的不尊重生命\n被老天爺收回去重新修煉\n\n我心裡真的只有一句想說，真的太白目了",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "901303909906540_901329099904021"
     },
@@ -95,7 +143,7 @@
       },
       "message": "腦殘親友團要出來護駕嗎？",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "901303909906540_901318979905033"
     },
@@ -114,18 +162,6 @@
     {
       "created_time": "2015-09-06T23:12:50+0000",
       "from": {
-        "name": "Tzu Yuan Tseng",
-        "id": "100004866287644"
-      },
-      "message": "讚啦",
-      "can_remove": false,
-      "like_count": 4,
-      "user_likes": false,
-      "id": "901303909906540_901308539906077"
-    },
-    {
-      "created_time": "2015-09-06T23:12:50+0000",
-      "from": {
         "name": "陳泰周",
         "id": "100000485172542"
       },
@@ -134,6 +170,18 @@
       "like_count": 2,
       "user_likes": false,
       "id": "901303909906540_901308546572743"
+    },
+    {
+      "created_time": "2015-09-06T23:12:50+0000",
+      "from": {
+        "name": "Tzu Yuan Tseng",
+        "id": "100004866287644"
+      },
+      "message": "讚啦",
+      "can_remove": false,
+      "like_count": 4,
+      "user_likes": false,
+      "id": "901303909906540_901308539906077"
     },
     {
       "created_time": "2015-09-06T23:09:53+0000",
@@ -167,7 +215,7 @@
       },
       "message": "他們是自殺不是在試車吧！?",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "901303909906540_901305773239687"
     }

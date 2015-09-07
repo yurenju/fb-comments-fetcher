@@ -4,6 +4,66 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150907/686157/",
   "comments": [
     {
+      "created_time": "2015-09-07T02:28:39+0000",
+      "from": {
+        "name": "Paul Lee",
+        "id": "100009533053219"
+      },
+      "message": "套句北京朋友的話，乾火柴堆，ㄧ點就著",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1046714785372632_1046763565367754"
+    },
+    {
+      "created_time": "2015-09-07T02:28:06+0000",
+      "from": {
+        "name": "歐巴",
+        "id": "100004428858095"
+      },
+      "message": "有什麼好協商的?這是蓄意謀殺ㄟ，天龍國就是天龍國。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1046714785372632_1046763428701101"
+    },
+    {
+      "created_time": "2015-09-07T01:56:11+0000",
+      "from": {
+        "name": "Noei Katsu",
+        "id": "100004478718744"
+      },
+      "message": "不要說中國人人加強國不意外!!!臺灣人一天到晚被人按個喇叭就~追砍打人或逼車下來叫囂了踹門了!!!臺灣人比強國人更媽寶!!!",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1046714785372632_1046755032035274"
+    },
+    {
+      "created_time": "2015-09-07T01:21:02+0000",
+      "from": {
+        "name": "Jiaweei Tzeng",
+        "id": "100000374441149"
+      },
+      "message": "共畜就是共畜，永遠也不會懂人類的道德禮儀",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1046714785372632_1046742175369893"
+    },
+    {
+      "created_time": "2015-09-07T01:20:58+0000",
+      "from": {
+        "name": "唐小萍",
+        "id": "100000420324168"
+      },
+      "message": "抗壓性真差的媽寶~",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "1046714785372632_1046742145369896"
+    },
+    {
       "created_time": "2015-09-07T01:06:32+0000",
       "from": {
         "name": "陳驀",
@@ -23,7 +83,7 @@
       },
       "message": "中國人\n不意外",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "1046714785372632_1046722305371880"
     },

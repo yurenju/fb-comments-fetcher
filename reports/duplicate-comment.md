@@ -674,7 +674,7 @@ users:
 * 殺女友後合照PO網　稱「原諒我這自私的愛」
 * 【更新】茂林情人谷瀑布　17歲高中生溺斃
 
-## 重複次數 40
+## 重複次數 41
 
 留言：
 
@@ -721,6 +721,7 @@ users:
 * [Gerpye  Hau]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [林建忠]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [Kate Chu]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [邱湘玲]('http://facebook.com/' + users[user].id) (重複 1 次)
 
 新聞：
 
@@ -764,6 +765,7 @@ users:
 * 【更新】昔賣餅救兒　今帶兒幫修屋頂
 * 【更新】昔賣餅救兒　今帶兒幫修屋頂
 * 施明德公布微電影　用「線」切西瓜
+* 洪秀柱閉關3天的地方　竟然是這裡
 
 ## 重複次數 40
 
