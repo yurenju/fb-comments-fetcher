@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150907/686266/",
   "comments": [
     {
+      "created_time": "2015-09-07T05:00:07+0000",
+      "from": {
+        "name": "Andy Liu",
+        "id": "100000144377465"
+      },
+      "message": "錯字好多，霉體ㄚ",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1047150171976020_1047167108640993"
+    },
+    {
+      "created_time": "2015-09-07T04:55:43+0000",
+      "from": {
+        "name": "John Chai",
+        "id": "100000010329723"
+      },
+      "message": "好在俺以前高中唸得是男生眾多得\"男校\"，所以俺更不會感到遺憾&感嘆！(　^ω^)",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1047150171976020_1047166131974424"
+    },
+    {
+      "created_time": "2015-09-07T04:29:41+0000",
+      "from": {
+        "name": "Peter Bishop",
+        "id": "100003159040720"
+      },
+      "message": "還有一種就是人見人插的……",
+      "can_remove": false,
+      "like_count": 6,
+      "user_likes": false,
+      "id": "1047150171976020_1047160038641700"
+    },
+    {
       "created_time": "2015-09-07T03:59:39+0000",
       "from": {
         "name": "Eric Win",
@@ -11,7 +47,7 @@
       },
       "message": "野花就只有一種~浪花朵朵開",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1047150171976020_1047153298642374"
     }

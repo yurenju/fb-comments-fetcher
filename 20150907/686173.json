@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150907/686173/",
   "comments": [
     {
+      "created_time": "2015-09-07T04:44:49+0000",
+      "from": {
+        "name": "陳柏豪",
+        "id": "100000400519103"
+      },
+      "message": "GDP成長率都快不能保1%\n  股市，虛胖也信...。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1137169659631884_1137240736291443"
+    },
+    {
       "created_time": "2015-09-07T02:34:26+0000",
       "from": {
         "name": "曾惠芳",
@@ -11,7 +23,7 @@
       },
       "message": "股市本來就不是要追求平靜的，平靜就一灘死水了",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1137169659631884_1137208109628039"
     }

@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150907/686244/",
   "comments": [
     {
+      "created_time": "2015-09-07T04:03:04+0000",
+      "from": {
+        "name": "古懷月",
+        "id": "100000088131302"
+      },
+      "message": "看第一低血第三集吧",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1063877750312565_1063908383642835"
+    },
+    {
       "created_time": "2015-09-07T03:51:59+0000",
       "from": {
         "name": "Tsu Shun Yao",
@@ -11,7 +23,7 @@
       },
       "message": "金正恩看的比誰都要多。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1063877750312565_1063904893643184"
     }

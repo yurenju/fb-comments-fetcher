@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150907/686228/",
   "comments": [
     {
+      "created_time": "2015-09-07T06:10:20+0000",
+      "from": {
+        "name": "賴良良",
+        "id": "100002038244652"
+      },
+      "message": "我操你X ，畜生不如",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "677180979049997_677225665712195"
+    },
+    {
+      "created_time": "2015-09-07T04:16:30+0000",
+      "from": {
+        "name": "Tsung Hung Liu",
+        "id": "100009633305034"
+      },
+      "message": "懺悔",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "677180979049997_677203222381106"
+    },
+    {
+      "created_time": "2015-09-07T04:08:06+0000",
+      "from": {
+        "name": "栢淑楨",
+        "id": "100000108050990"
+      },
+      "message": "這種就要切下來喂狗",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "677180979049997_677196235715138"
+    },
+    {
       "created_time": "2015-09-07T03:24:13+0000",
       "from": {
         "name": "Lisa Chang",
@@ -60,7 +96,7 @@
       },
       "message": "真是垃圾..自己是不會花錢去嫖嗎! \n這小女孩的一生都被你毀了...",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "677180979049997_677184295716332"
     },
@@ -84,7 +120,7 @@
       },
       "message": "比畜牲還畜牲、親生女兒耶、而且才4歲。",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 4,
       "user_likes": false,
       "id": "677180979049997_677183785716383"
     },

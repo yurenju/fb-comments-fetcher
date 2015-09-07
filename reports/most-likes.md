@@ -223,6 +223,16 @@
 ```
 
 
+## Like: 578
+
+* Author: [提摩《TEEMO》](http://facebook.com/235452736628106)
+* Article: 台大教授給新生的10建議　「LOL很可怕」
+
+```
+玩歸玩 書還是要讀唷！沒被二一的提摩關心您^^
+```
+
+
 ## Like: 557
 
 * Author: [莊智能](http://facebook.com/1089158338)
@@ -253,6 +263,16 @@
 
 ```
 我喜歡這老闆！並非顧客就是至上，無理的行為和沒秩序就是需要被教育。
+```
+
+
+## Like: 508
+
+* Author: [Garena《英雄聯盟 LOL》](http://facebook.com/179663418728712)
+* Article: 台大教授給新生的10建議　「LOL很可怕」
+
+```
+真的很可怕 難道 提摩《TEEMO》 不用負責嗎？
 ```
 
 
@@ -512,21 +532,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 358
 
-* Author: [Roderick Lai](http://facebook.com/100000344530126)
-* Article: 布丁為何「一組3入」？　原來有典故
-
-```
-養樂多一組五罐，該不會是一家四口，爸爸下班後口渴還要多喝一罐
-```
-
-
-## Like: 358
-
 * Author: [張宏德](http://facebook.com/100001352602343)
 * Article: 【讀者直擊】叫我自己收餐盤！　不收哥暴怒！
 
 ```
 本來就要自己收啊，不然你這位仁兄是比較大牌膩，
+```
+
+
+## Like: 358
+
+* Author: [Roderick Lai](http://facebook.com/100000344530126)
+* Article: 布丁為何「一組3入」？　原來有典故
+
+```
+養樂多一組五罐，該不會是一家四口，爸爸下班後口渴還要多喝一罐
 ```
 
 
@@ -680,21 +700,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 291
 
-* Author: [洪米政](http://facebook.com/100009341471616)
-* Article: 人妻借籃球被硬上　對話紀錄超展開
-
-```
-這跟本就是仙人跳。
-```
-
-
-## Like: 291
-
 * Author: [陳力](http://facebook.com/100009208194435)
 * Article: 【更新】軍官：募兵很好找人　但找來的盡是...
 
 ```
 受刑人都拉去當兵，增加募兵量，身上綁上炸彈，然後空投到大陸，一個願望，二種滿足
+```
+
+
+## Like: 291
+
+* Author: [洪米政](http://facebook.com/100009341471616)
+* Article: 人妻借籃球被硬上　對話紀錄超展開
+
+```
+這跟本就是仙人跳。
 ```
 
 
@@ -800,18 +820,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 270
 
-* Author: [DrAgo](http://facebook.com/788860367897002)
-* Article: 【更新】冷氣開24小時　電費只比正常開關多一點
-
-```
-開一個月冷氣的電費只要4500日圓，就台幣1500左右。
-再照日本物價來算，再除3... 一個月的支出感覺只有我們的500元。
-幹！我們的油電雙高是怎麼回事？
-```
-
-
-## Like: 270
-
 * Author: [Ching Wen Huang](http://facebook.com/100000310422454)
 * Article: 史上最萌颱風　水汪汪大眼對著你笑
 
@@ -831,6 +839,18 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 趁機轉移經濟崩壞、執政無能的焦點。
 
 雖然我不喜歡阿扁，但我越來越同情他~
+```
+
+
+## Like: 270
+
+* Author: [DrAgo](http://facebook.com/788860367897002)
+* Article: 【更新】冷氣開24小時　電費只比正常開關多一點
+
+```
+開一個月冷氣的電費只要4500日圓，就台幣1500左右。
+再照日本物價來算，再除3... 一個月的支出感覺只有我們的500元。
+幹！我們的油電雙高是怎麼回事？
 ```
 
 
@@ -936,6 +956,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 252
 
+* Author: [Ho Chow Lee](http://facebook.com/100007654243742)
+* Article: 【更新】要客點餐　麥當勞女服務生竟遭罵「像你這種貨色」
+
+```
+人也是分很多等級看你的談吐應該也是下下等级吧
+```
+
+
+## Like: 252
+
 * Author: [春米六](http://facebook.com/100000280839720)
 * Article: 【更新】冷氣開24小時　電費只比正常開關多一點
 
@@ -945,16 +975,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 晚上也只要有電風扇就能睡
 現在裝冷氣真的變得很不耐熱 回房就想開冷氣
 長期下來電費又貴 又讓自己變的嫩嫩的 真的要克制一下
-```
-
-
-## Like: 252
-
-* Author: [Ho Chow Lee](http://facebook.com/100007654243742)
-* Article: 【更新】要客點餐　麥當勞女服務生竟遭罵「像你這種貨色」
-
-```
-人也是分很多等級看你的談吐應該也是下下等级吧
 ```
 
 
@@ -1051,16 +1071,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 240
 
-* Author: [高暉恩](http://facebook.com/1731572034)
-* Article: 高中課本有亮點　試圖讓人戀愛惹
-
-```
-校方：最近接到很多學生反應黏頁的問題，正了解原因並與廠商溝通處理中。
-```
-
-
-## Like: 240
-
 * Author: [柯忠賢](http://facebook.com/100004713195753)
 * Article: 律師談AV產業　要你別看波多野只想色
 
@@ -1140,6 +1150,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
+## Like: 240
+
+* Author: [高暉恩](http://facebook.com/1731572034)
+* Article: 高中課本有亮點　試圖讓人戀愛惹
+
+```
+校方：最近接到很多學生反應黏頁的問題，正了解原因並與廠商溝通處理中。
+```
+
+
 ## Like: 235
 
 * Author: [林正偉](http://facebook.com/100004707675918)
@@ -1163,16 +1183,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 231
 
-* Author: [Andrew Jao](http://facebook.com/1103784944)
-* Article: 發現男友找援交妹性愛影片　她的報復太駭人
-
-```
-難怪我今早醒來變光頭
-```
-
-
-## Like: 231
-
 * Author: [曾彥屏](http://facebook.com/100003805046456)
 * Article: 小六女兒問波多野是誰　媽媽的回應超級棒
 
@@ -1185,13 +1195,13 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
-## Like: 226
+## Like: 231
 
-* Author: [陳律君](http://facebook.com/100002020977515)
-* Article: 直擊！依法盤查遭民眾咆嘯　警嘆尊嚴掃地
+* Author: [Andrew Jao](http://facebook.com/1103784944)
+* Article: 發現男友找援交妹性愛影片　她的報復太駭人
 
 ```
-記者朋友你好，我是現場執勤的員警，此報導中有提及督察組有派員到場，但就小弟本人親眼所見並未觀察到督察組的長官有前來關切，我也相信本分局的督察系統不會因民眾的無理取鬧，便派員至現場徒增基層同仁們的困擾，希望蘋果媒體向本分局督查室再次確認該事，如與事實有出入的話煩請更正報導，感謝你們，辛苦了！
+難怪我今早醒來變光頭
 ```
 
 
@@ -1202,16 +1212,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ```
 四大超商應該是受到政治壓力的介入才取消販賣的？最可恥的是那些政治人物跟衛道人士假道學的團體，自己骯髒還嫌人家齷齪～
-```
-
-
-## Like: 226
-
-* Author: [Jason Chiu](http://facebook.com/100003293039029)
-* Article: 7旬嬤撿3元紙箱　所有人堅持告竊盜
-
-```
-重點不是紙箱只值3元，而是進入私人領域未經允許拿走紙箱且也跟年紀無關
 ```
 
 

@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150907/686200/",
   "comments": [
     {
+      "created_time": "2015-09-07T05:01:39+0000",
+      "from": {
+        "name": "陳福龍",
+        "id": "100002350389355"
+      },
+      "message": "可請法務部長告知國人現要犯多大罪才會辨死刑",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "874071709308691_874104689305393"
+    },
+    {
       "created_time": "2015-09-07T03:48:18+0000",
       "from": {
         "name": "曾安良",
@@ -23,7 +35,7 @@
       },
       "message": "拜託！還以為無期徒刑就是囚終身哦？以前是平均13年，現在就是25年。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "874071709308691_874073589308503"
     }
