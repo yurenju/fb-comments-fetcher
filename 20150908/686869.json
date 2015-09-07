@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150908/686869/",
   "comments": [
     {
+      "created_time": "2015-09-07T21:55:12+0000",
+      "from": {
+        "name": "黃邵白",
+        "id": "100000235848261"
+      },
+      "message": "台南人太寵賴清德、嬌傲自滿、疏於防範。.............真是該死！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "955935804473460_956068647793509"
+    },
+    {
       "created_time": "2015-09-07T18:53:06+0000",
       "from": {
         "name": "Vivian Lin",
@@ -11,7 +23,7 @@
       },
       "message": "賴神忙著政治鬥爭~哪有空裡你們這些凡人阿",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "955935804473460_956004324466608"
     },
