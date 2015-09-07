@@ -4,6 +4,138 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150907/686224/",
   "comments": [
     {
+      "created_time": "2015-09-07T09:35:52+0000",
+      "from": {
+        "name": "藍亦貞",
+        "id": "100005741045596"
+      },
+      "message": "太陽太大了！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670483209721174_670561369713358"
+    },
+    {
+      "created_time": "2015-09-07T09:31:41+0000",
+      "from": {
+        "name": "張維陞",
+        "id": "100000188829847"
+      },
+      "message": "樓仔厝起歸排",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670483209721174_670560826380079"
+    },
+    {
+      "created_time": "2015-09-07T09:29:11+0000",
+      "from": {
+        "name": "Alistar Chen",
+        "id": "100000204117061"
+      },
+      "message": "阿土伯：我這台丟三顆骰子就可以從屏東跑到宜蘭了吶!!!蓋賀蓋賀~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670483209721174_670560499713445"
+    },
+    {
+      "created_time": "2015-09-07T09:18:14+0000",
+      "from": {
+        "name": "陳珮雯",
+        "id": "100000449687446"
+      },
+      "message": "哈哈  ！！！！好哭喔",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670483209721174_670558899713605"
+    },
+    {
+      "created_time": "2015-09-07T08:21:51+0000",
+      "from": {
+        "name": "王彥貞",
+        "id": "1045716190"
+      },
+      "message": "怕熱不會關蓬開冷氣嗎?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670483209721174_670546459714849"
+    },
+    {
+      "created_time": "2015-09-07T08:14:21+0000",
+      "from": {
+        "name": "Hung Lun Chueh",
+        "id": "100000089732011"
+      },
+      "message": "為什麼大家都一直認為開車的是老人～",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670483209721174_670545513048277"
+    },
+    {
+      "created_time": "2015-09-07T07:50:40+0000",
+      "from": {
+        "name": "Peter Wu",
+        "id": "100000069220957"
+      },
+      "message": "上次在基隆漁港看到賓士500後行李箱打開， 搬出一簍蔞漁貨....有碎冰塊那種",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670483209721174_670541576382004"
+    },
+    {
+      "created_time": "2015-09-07T07:30:30+0000",
+      "from": {
+        "name": "阙志霖",
+        "id": "100000047430886"
+      },
+      "message": "農家 大地主",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670483209721174_670538176382344"
+    },
+    {
+      "created_time": "2015-09-07T07:15:28+0000",
+      "from": {
+        "name": "黃啟斌",
+        "id": "100000187194922"
+      },
+      "message": "田橋仔出門戴斗笠開豪車很奇怪嗎？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670483209721174_670535346382627"
+    },
+    {
+      "created_time": "2015-09-07T07:09:29+0000",
+      "from": {
+        "name": "陳正隆",
+        "id": "100010092157630"
+      },
+      "message": "那個是先前熱透幸運兒ok",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670483209721174_670534196382742"
+    },
+    {
+      "created_time": "2015-09-07T07:06:26+0000",
+      "from": {
+        "name": "帥到被",
+        "id": "100002151061736"
+      },
+      "message": "哈哈～",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "670483209721174_670532366382925"
+    },
+    {
       "created_time": "2015-09-07T06:58:19+0000",
       "from": {
         "name": "Che Yu Jan",
@@ -11,7 +143,7 @@
       },
       "message": "貪財 貪財",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "670483209721174_670530603049768"
     },
@@ -35,7 +167,7 @@
       },
       "message": "我們在裡的種田阿公，至從他們的農地變建地後，個個都開保時捷出門買菜了，",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "670483209721174_670528676383294"
     },
@@ -128,7 +260,7 @@
       },
       "message": "但也有人認為可能是駕駛不熟悉跑車，才會傻傻戴斗笠，不熟悉跑車跟戴斗笠有甚麼關聯？",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "670483209721174_670521799717315"
     },
@@ -176,7 +308,7 @@
       },
       "message": "求正面照，，好吸引喔",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "670483209721174_670518533050975"
     },
@@ -188,7 +320,7 @@
       },
       "message": "可以丟三個骰子了…",
       "can_remove": false,
-      "like_count": 9,
+      "like_count": 31,
       "user_likes": false,
       "id": "670483209721174_670517949717700"
     },
@@ -201,7 +333,7 @@
       },
       "message": "阿土伯：「老伙仔未堪咧用走耶！開跑車不累不累~」",
       "can_remove": false,
-      "like_count": 28,
+      "like_count": 99,
       "user_likes": false,
       "id": "670483209721174_670516613051167"
     },
@@ -213,7 +345,7 @@
       },
       "message": "哈哈。。。。防曬",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "670483209721174_670514676384694"
     },
@@ -225,7 +357,7 @@
       },
       "message": "樓仔厝起歸排",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 17,
       "user_likes": false,
       "id": "670483209721174_670512793051549"
     },
@@ -237,7 +369,7 @@
       },
       "message": "只有七年級生會有感，其他人會疑問號，我以為是股市名人咧",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "670483209721174_670511506385011"
     },
@@ -261,7 +393,7 @@
       },
       "message": "在我們這裡賓士BMW開到田邊從後車廂拿出鋤頭下田很多，這不算什麼",
       "can_remove": false,
-      "like_count": 31,
+      "like_count": 53,
       "user_likes": false,
       "id": "670483209721174_670509719718523"
     },
@@ -333,7 +465,7 @@
       },
       "message": "這個真的有台味！開敞篷還要注意保護髮線與膚質。",
       "can_remove": false,
-      "like_count": 14,
+      "like_count": 17,
       "user_likes": false,
       "id": "670483209721174_670484583054370"
     }

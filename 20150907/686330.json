@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150907/686330/",
   "comments": [
     {
+      "created_time": "2015-09-07T09:20:22+0000",
+      "from": {
+        "name": "熊維尼",
+        "id": "100007223539178"
+      },
+      "message": "其實就從後腿的地方拿個小椅子還什麼的讓他墊腳不就能自己脫困了?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1052163258135021_1052259244792089"
+    },
+    {
+      "created_time": "2015-09-07T07:59:21+0000",
+      "from": {
+        "name": "黃秀琴",
+        "id": "100004847801770"
+      },
+      "message": "好難過",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1052163258135021_1052220528129294"
+    },
+    {
+      "created_time": "2015-09-07T07:46:45+0000",
+      "from": {
+        "name": "賴雅妍",
+        "id": "100007039305721"
+      },
+      "message": "還好沒事....",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1052163258135021_1052215794796434"
+    },
+    {
       "created_time": "2015-09-07T06:36:02+0000",
       "from": {
         "name": "呂逸凡",
@@ -23,7 +59,7 @@
       },
       "message": "還好不是電動的",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1052163258135021_1052197641464916"
     },
@@ -59,7 +95,7 @@
       },
       "message": "聽狗狗哀嚎好難過.......",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 4,
       "user_likes": false,
       "id": "1052163258135021_1052189168132430"
     }

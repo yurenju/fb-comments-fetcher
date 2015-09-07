@@ -4,6 +4,51 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150907/686068/",
   "comments": [
     {
+      "created_time": "2015-09-07T08:24:56+0000",
+      "from": {
+        "name": "TC Youn",
+        "id": "1055172470"
+      },
+      "message": "廖大牌 這個你吃過嗎？",
+      "can_remove": false,
+      "like_count": 0,
+      "message_tags": [
+        {
+          "id": "100000229690580",
+          "length": 3,
+          "name": "廖大牌",
+          "offset": 0,
+          "type": "user"
+        }
+      ],
+      "user_likes": false,
+      "id": "1001872193209068_1002273426502278"
+    },
+    {
+      "created_time": "2015-09-07T08:06:20+0000",
+      "from": {
+        "name": "Shana Wu",
+        "id": "100000126426279"
+      },
+      "message": "在蜷尾家想吃義式的要到安平店~正興店是日式的霜淇淋喔~光頭真的很努力蜷尾家才能走到這天為台爭光, 正興店時常人潮爆滿導致無法一一替顧客詳解, 也許有些誤會讓人覺得態度不佳, 或許有任何的意見都可以到粉絲葉留言~^^\n不管怎樣都替他們恭喜吧~~~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1001872193209068_1002263153169972"
+    },
+    {
+      "created_time": "2015-09-07T07:59:22+0000",
+      "from": {
+        "name": "傑納斯",
+        "id": "100000216502497"
+      },
+      "message": "慘了 台南又要被擠爆了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1001872193209068_1002260886503532"
+    },
+    {
       "created_time": "2015-09-07T04:07:00+0000",
       "from": {
         "name": "Ian Cheng",
@@ -35,7 +80,7 @@
       },
       "message": "有次到去買冰，看到前面有個8-9歲小妹妹問那光頭老板冰淇淋有什麼口味,那光頭連正眼都不瞧人家一眼就叫人自己看黑板，小妹妹愣了一下又再問一次，他又叫人自己去看，重點是口味只有兩種，每種兩個字，說四個字而已很要緊嗎?\n\n從此後不會想再去買了!!!",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 6,
       "user_likes": false,
       "id": "1001872193209068_1002149986514622"
     },
@@ -47,7 +92,7 @@
       },
       "message": "台南最好吃的並不是這家",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "1001872193209068_1002148356514785"
     },
@@ -71,7 +116,7 @@
       },
       "message": "蜷尾家得獎的義式冰淇淋是在安平店 才新開一年多 ～不是正興街本店的霜淇淋哦～以健康取向製作的口感和口味 我家小朋友跟我是還滿愛的 ～",
       "can_remove": false,
-      "like_count": 28,
+      "like_count": 29,
       "user_likes": false,
       "id": "1001872193209068_1002049173191370"
     },

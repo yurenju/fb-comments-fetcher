@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150907/686159/",
   "comments": [
     {
+      "created_time": "2015-09-07T09:08:18+0000",
+      "from": {
+        "name": "張雪芳",
+        "id": "100000085069251"
+      },
+      "message": "唉~我的病人是說：我只是踢腳而已，是護士自己靠過來給我踢的......",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "997100277026958_997264627010523"
+    },
+    {
       "created_time": "2015-09-07T04:50:41+0000",
       "from": {
         "name": "Melody Lee",
@@ -47,7 +59,7 @@
       },
       "message": "可不可以，以後有傷害醫護人員 直接不能保健保阿?",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "997100277026958_997144520355867"
     },
@@ -60,7 +72,7 @@
       },
       "message": "抽不抽血都不能打人，急診室暴力零容忍！請護士告到底！",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 6,
       "user_likes": false,
       "id": "997100277026958_997116740358645"
     },
@@ -108,7 +120,7 @@
       },
       "message": "病人就很了不起一樣 三天沒睡覺關我屁事",
       "can_remove": false,
-      "like_count": 10,
+      "like_count": 12,
       "user_likes": false,
       "id": "997100277026958_997107830359536"
     }

@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150907/686129/",
   "comments": [
     {
+      "created_time": "2015-09-07T08:11:47+0000",
+      "from": {
+        "name": "陳麗珠",
+        "id": "100008352489624"
+      },
+      "message": "秋風起，秋雨下，天涼好個秋",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "883817278354747_883969051672903"
+    },
+    {
+      "created_time": "2015-09-07T07:07:27+0000",
+      "from": {
+        "name": "黃聖智",
+        "id": "100000140571710"
+      },
+      "message": "明天范特西，後天85度c...順間掉8度c是世界末日嗎？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "883817278354747_883948938341581"
+    },
+    {
       "created_time": "2015-09-07T05:34:54+0000",
       "from": {
         "name": "陳家輝",
@@ -95,7 +119,7 @@
       },
       "message": "天氣改變的只有下起雨而已，還是很熱吖",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 4,
       "user_likes": false,
       "id": "883817278354747_883880341681774"
     },
@@ -107,7 +131,7 @@
       },
       "message": "羊跟鴨將往生不少。。。。。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "883817278354747_883877821682026"
     },
@@ -143,7 +167,7 @@
       },
       "message": "可以吃羊肉爐了",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "883817278354747_883863285016813"
     },
@@ -155,7 +179,7 @@
       },
       "message": "也好啦！涼一點也比較舒服",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "883817278354747_883836855019456"
     },

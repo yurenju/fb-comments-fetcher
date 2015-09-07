@@ -155,6 +155,16 @@
 ```
 
 
+## Like: 746
+
+* Author: [提摩《TEEMO》](http://facebook.com/235452736628106)
+* Article: 台大教授給新生的10建議　小心二一是因為它
+
+```
+玩歸玩 書還是要讀唷！沒被二一的提摩關心您^^
+```
+
+
 ## Like: 681
 
 * Author: [陳均](http://facebook.com/100000280441294)
@@ -174,6 +184,16 @@
 但學生卻覺得「沒那麼嚴重」，留給"詐欺罪"的案底就知道嚴不嚴重了ˊ_>ˋ⋯
 那就可以看看自己的良民證上面如果有"刑事"這個紀錄，就知道嚴不嚴重~
 人家上網一查發現你有"前科"，就知道嚴不嚴重~
+```
+
+
+## Like: 652
+
+* Author: [Garena《英雄聯盟 LOL》](http://facebook.com/179663418728712)
+* Article: 台大教授給新生的10建議　小心二一是因為它
+
+```
+真的很可怕 難道 提摩《TEEMO》 不用負責嗎？
 ```
 
 
@@ -223,16 +243,6 @@
 ```
 
 
-## Like: 578
-
-* Author: [提摩《TEEMO》](http://facebook.com/235452736628106)
-* Article: 台大教授給新生的10建議　「LOL很可怕」
-
-```
-玩歸玩 書還是要讀唷！沒被二一的提摩關心您^^
-```
-
-
 ## Like: 557
 
 * Author: [莊智能](http://facebook.com/1089158338)
@@ -263,16 +273,6 @@
 
 ```
 我喜歡這老闆！並非顧客就是至上，無理的行為和沒秩序就是需要被教育。
-```
-
-
-## Like: 508
-
-* Author: [Garena《英雄聯盟 LOL》](http://facebook.com/179663418728712)
-* Article: 台大教授給新生的10建議　「LOL很可怕」
-
-```
-真的很可怕 難道 提摩《TEEMO》 不用負責嗎？
 ```
 
 
@@ -532,21 +532,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 358
 
-* Author: [張宏德](http://facebook.com/100001352602343)
-* Article: 【讀者直擊】叫我自己收餐盤！　不收哥暴怒！
-
-```
-本來就要自己收啊，不然你這位仁兄是比較大牌膩，
-```
-
-
-## Like: 358
-
 * Author: [Roderick Lai](http://facebook.com/100000344530126)
 * Article: 布丁為何「一組3入」？　原來有典故
 
 ```
 養樂多一組五罐，該不會是一家四口，爸爸下班後口渴還要多喝一罐
+```
+
+
+## Like: 358
+
+* Author: [張宏德](http://facebook.com/100001352602343)
+* Article: 【讀者直擊】叫我自己收餐盤！　不收哥暴怒！
+
+```
+本來就要自己收啊，不然你這位仁兄是比較大牌膩，
 ```
 
 
@@ -639,21 +639,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 318
 
-* Author: [Mubetei Sai](http://facebook.com/100000951205185)
-* Article: 不切割！　洪秀柱：為何馬英九聲望比扁低
-
-```
-以你的智慧我很難跟你解釋啊…
-```
-
-
-## Like: 318
-
 * Author: [Chieh Chou](http://facebook.com/100007754260230)
 * Article: 邱毅嘲諷ＡＶ女優　網友整理犯罪史神打臉
 
 ```
 波多野結衣最基本分辨的出香蕉與太陽花，光這點邱毅就可以洗洗睡了....
+```
+
+
+## Like: 318
+
+* Author: [Mubetei Sai](http://facebook.com/100000951205185)
+* Article: 不切割！　洪秀柱：為何馬英九聲望比扁低
+
+```
+以你的智慧我很難跟你解釋啊…
 ```
 
 
@@ -674,6 +674,17 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ```
 判得太輕，出來又是一匹狼，司改會到底在幹什麼
+```
+
+
+## Like: 302
+
+* Author: [郭欽協](http://facebook.com/100000178975389)
+* Article: 等不到奇蹟　短褲妹宣告不治
+
+```
+誠心的祝福給
+希望mini車主無罪........
 ```
 
 
@@ -700,21 +711,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 291
 
-* Author: [陳力](http://facebook.com/100009208194435)
-* Article: 【更新】軍官：募兵很好找人　但找來的盡是...
-
-```
-受刑人都拉去當兵，增加募兵量，身上綁上炸彈，然後空投到大陸，一個願望，二種滿足
-```
-
-
-## Like: 291
-
 * Author: [洪米政](http://facebook.com/100009341471616)
 * Article: 人妻借籃球被硬上　對話紀錄超展開
 
 ```
 這跟本就是仙人跳。
+```
+
+
+## Like: 291
+
+* Author: [陳力](http://facebook.com/100009208194435)
+* Article: 【更新】軍官：募兵很好找人　但找來的盡是...
+
+```
+受刑人都拉去當兵，增加募兵量，身上綁上炸彈，然後空投到大陸，一個願望，二種滿足
 ```
 
 
@@ -820,11 +831,13 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 270
 
-* Author: [Ching Wen Huang](http://facebook.com/100000310422454)
-* Article: 史上最萌颱風　水汪汪大眼對著你笑
+* Author: [DrAgo](http://facebook.com/788860367897002)
+* Article: 【更新】冷氣開24小時　電費只比正常開關多一點
 
 ```
-阿進～你一定要記住啊，害死你爹爹的人，我見過他，他的樣子很奇怪，他永遠都好像對著你笑，笑到你心裡發寒，你一定要去找那個人～
+開一個月冷氣的電費只要4500日圓，就台幣1500左右。
+再照日本物價來算，再除3... 一個月的支出感覺只有我們的500元。
+幹！我們的油電雙高是怎麼回事？
 ```
 
 
@@ -844,13 +857,11 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 270
 
-* Author: [DrAgo](http://facebook.com/788860367897002)
-* Article: 【更新】冷氣開24小時　電費只比正常開關多一點
+* Author: [Ching Wen Huang](http://facebook.com/100000310422454)
+* Article: 史上最萌颱風　水汪汪大眼對著你笑
 
 ```
-開一個月冷氣的電費只要4500日圓，就台幣1500左右。
-再照日本物價來算，再除3... 一個月的支出感覺只有我們的500元。
-幹！我們的油電雙高是怎麼回事？
+阿進～你一定要記住啊，害死你爹爹的人，我見過他，他的樣子很奇怪，他永遠都好像對著你笑，笑到你心裡發寒，你一定要去找那個人～
 ```
 
 
@@ -902,16 +913,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 259
 
-* Author: [Jm Tseng](http://facebook.com/100000170151566)
-* Article: 【更新】短褲妹挨撞命危　影片曝光
-
-```
-等下就有親友團上來了…………
-```
-
-
-## Like: 259
-
 * Author: [Joy Chien](http://facebook.com/1265613382)
 * Article: 16歲少女問「什麼是砲友？」　爸媽竟然...
 
@@ -919,6 +920,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 16歲了父母什麼都不教
 
 結果被外人帶去體驗營了
+```
+
+
+## Like: 259
+
+* Author: [Jm Tseng](http://facebook.com/100000170151566)
+* Article: 【更新】短褲妹挨撞命危　影片曝光
+
+```
+等下就有親友團上來了…………
 ```
 
 
@@ -956,11 +967,11 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 252
 
-* Author: [Ho Chow Lee](http://facebook.com/100007654243742)
-* Article: 【更新】要客點餐　麥當勞女服務生竟遭罵「像你這種貨色」
+* Author: [王佩瑛](http://facebook.com/1389173988)
+* Article: 養這等軍官、檢察官何用？
 
 ```
-人也是分很多等級看你的談吐應該也是下下等级吧
+這不是權貴，那什麼是權貴
 ```
 
 
@@ -980,11 +991,11 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 252
 
-* Author: [王佩瑛](http://facebook.com/1389173988)
-* Article: 養這等軍官、檢察官何用？
+* Author: [Ho Chow Lee](http://facebook.com/100007654243742)
+* Article: 【更新】要客點餐　麥當勞女服務生竟遭罵「像你這種貨色」
 
 ```
-這不是權貴，那什麼是權貴
+人也是分很多等級看你的談吐應該也是下下等级吧
 ```
 
 
@@ -1010,6 +1021,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 249
 
+* Author: [Jack Lin](http://facebook.com/100000630294768)
+* Article: 【更新】硬撐引路救4幼犬　重病狗媽噴血亡
+
+```
+請問如何領養
+```
+
+
+## Like: 249
+
 * Author: [Yung-Chien Chou](http://facebook.com/100005668369242)
 * Article: 「女友懷孕了」　接下來4個字綠綠der
 
@@ -1019,16 +1040,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 曾經巫山共徘徊，明鏡哪堪惹塵埃，
 莫問伴侶過往事，懊惱只是添疑猜！
-```
-
-
-## Like: 249
-
-* Author: [Jack Lin](http://facebook.com/100000630294768)
-* Article: 【更新】硬撐引路救4幼犬　重病狗媽噴血亡
-
-```
-請問如何領養
 ```
 
 
@@ -1162,6 +1173,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 235
 
+* Author: [Alex Chen Alex](http://facebook.com/100000515083216)
+* Article: 感動！台灣合唱團　德國街頭唱國歌
+
+```
+不管你喜不喜歡這面國旗或國歌、重要的是這群小朋友太可愛了、我們應該給他們鼓勵和掌聲。不要用政治觀點或語言去看待。
+```
+
+
+## Like: 235
+
 * Author: [林正偉](http://facebook.com/100004707675918)
 * Article: 抗議「波卡」　婦團要求市府妥善處理已售卡
 
@@ -1183,6 +1204,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 231
 
+* Author: [Andrew Jao](http://facebook.com/1103784944)
+* Article: 發現男友找援交妹性愛影片　她的報復太駭人
+
+```
+難怪我今早醒來變光頭
+```
+
+
+## Like: 231
+
 * Author: [曾彥屏](http://facebook.com/100003805046456)
 * Article: 小六女兒問波多野是誰　媽媽的回應超級棒
 
@@ -1192,35 +1223,4 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 說不歧視性工作者,表現出來就是從骨子裡歧視
 還要說漂亮話當正義魔人
 笑話
-```
-
-
-## Like: 231
-
-* Author: [Andrew Jao](http://facebook.com/1103784944)
-* Article: 發現男友找援交妹性愛影片　她的報復太駭人
-
-```
-難怪我今早醒來變光頭
-```
-
-
-## Like: 226
-
-* Author: [鐘通豪](http://facebook.com/100000046993690)
-* Article: 【更新】超商拒賣AV悠遊卡　他用一張圖酸假掰
-
-```
-四大超商應該是受到政治壓力的介入才取消販賣的？最可恥的是那些政治人物跟衛道人士假道學的團體，自己骯髒還嫌人家齷齪～
-```
-
-
-## Like: 226
-
-* Author: [Che Tsai](http://facebook.com/100000838277343)
-* Article: 抗議「波卡」　婦團要求市府妥善處理已售卡
-
-```
-對於波多悠遊卡後續處理最好的方法就是，悠遊卡公司立刻發行孔子像的悠遊卡，台北市立刻變成文質彬彬，大人小孩都溫如有禮，專心向上的文化都市，這樣比叫
-戴下台還有用，是不是阿，白癡婦聯會
 ```

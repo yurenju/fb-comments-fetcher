@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150907/686298/",
   "comments": [
     {
+      "created_time": "2015-09-07T09:46:41+0000",
+      "from": {
+        "name": "Albert Zx",
+        "id": "100003100720685"
+      },
+      "message": "一陷進去ptt 沒多久就變成酸民 開始憤世嫉俗",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1014953135211568_1015039381869610"
+    },
+    {
       "created_time": "2015-09-07T04:37:55+0000",
       "from": {
         "name": "Jesse Chen",
@@ -23,7 +35,7 @@
       },
       "message": "網路世界中，PH質偏低的人特別多\nPTT也造就了一群網路酸民",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "1014953135211568_1014962681877280"
     },
@@ -35,7 +47,7 @@
       },
       "message": "最可怕是民進黨與無恥柯呸",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "1014953135211568_1014953738544841"
     }

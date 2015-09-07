@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150907/686401/",
   "comments": [
     {
+      "created_time": "2015-09-07T08:14:25+0000",
+      "from": {
+        "name": "張漢翔",
+        "id": "100010311156952"
+      },
+      "message": "日本女不要娶。 被錶到就好小了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1226947283989503_1226993323984899"
+    },
+    {
+      "created_time": "2015-09-07T07:45:34+0000",
+      "from": {
+        "name": "Selena Lim",
+        "id": "100009121221316"
+      },
+      "message": "有七成老婆死都不會說…性事不好。「有面子，就沒裡子」…男人…活該倒楣!!!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1226947283989503_1226983207319244"
+    },
+    {
+      "created_time": "2015-09-07T07:45:01+0000",
+      "from": {
+        "name": "夏啟民",
+        "id": "100006399333949"
+      },
+      "message": "不和諧就閃吧～雙方都好。。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1226947283989503_1226983140652584"
+    },
+    {
       "created_time": "2015-09-07T06:53:47+0000",
       "from": {
         "name": "粉絲團 TraderClub 期貨交易俱樂部",
@@ -12,7 +48,7 @@
       },
       "message": "做久了可能兩邊都會膩",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1226947283989503_1226966377320927"
     },

@@ -4,6 +4,102 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150907/686164/",
   "comments": [
     {
+      "created_time": "2015-09-07T10:02:07+0000",
+      "from": {
+        "name": "En Sheng",
+        "id": "100008114850597"
+      },
+      "message": "算到腦筋打結還不一定算得出來",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872623149453316"
+    },
+    {
+      "created_time": "2015-09-07T10:00:31+0000",
+      "from": {
+        "name": "Terri Hsu",
+        "id": "100000473985503"
+      },
+      "message": "完全正確",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872622922786672"
+    },
+    {
+      "created_time": "2015-09-07T09:56:49+0000",
+      "from": {
+        "name": "揪自然",
+        "id": "100003770334474"
+      },
+      "message": "莊孝ㄟ。算起來後面都23",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872622369453394"
+    },
+    {
+      "created_time": "2015-09-07T09:55:51+0000",
+      "from": {
+        "name": "Chiu-Yu Lu",
+        "id": "100000167869390"
+      },
+      "message": "新聞竟然報這種無聊的題目，他叫你減生日那年還能沒發覺的人，真的也太單純。",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "872453999470231_872621992786765"
+    },
+    {
+      "created_time": "2015-09-07T09:55:26+0000",
+      "from": {
+        "name": "林澤俞",
+        "id": "100006779076531"
+      },
+      "message": "這樣也他媽的一篇，還是用去年的梗，我們的ㄐㄧˋ者真的是好棒棒",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872621389453492"
+    },
+    {
+      "created_time": "2015-09-07T09:54:56+0000",
+      "from": {
+        "name": "郝聪智",
+        "id": "100009874270114"
+      },
+      "message": "搞什么？根本不准",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872620846120213"
+    },
+    {
+      "created_time": "2015-09-07T09:54:13+0000",
+      "from": {
+        "name": "吳漢剛",
+        "id": "1793922584"
+      },
+      "message": "哪個智障想的",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "872453999470231_872620752786889"
+    },
+    {
+      "created_time": "2015-09-07T09:49:36+0000",
+      "from": {
+        "name": "詹喬瑋",
+        "id": "1786237535"
+      },
+      "message": "會差一歲是因為這算式是去年的\n今年的要改成+1765..............",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "872453999470231_872620056120292"
+    },
+    {
       "created_time": "2015-09-07T03:49:56+0000",
       "from": {
         "name": "張漢翔",
@@ -11,7 +107,7 @@
       },
       "message": "不準啊",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "872453999470231_872526396129658"
     },
@@ -23,7 +119,7 @@
       },
       "message": "內行看門道，數字遊戲而已，每年都有人在傳。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 4,
       "user_likes": false,
       "id": "872453999470231_872522906130007"
     },
@@ -71,7 +167,7 @@
       },
       "message": "設計原理是一開始乘二再乘50剛好是百位數，那為什麼要加五再乘50呢，是因為1764+250=2014，所以只要這樣設計你用年齡減就等於實際年齡，網友們少一歲是因為今年是2015所以題目要把1764改1765即可",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 10,
       "user_likes": false,
       "id": "872453999470231_872504979465133"
     },
@@ -131,7 +227,7 @@
       },
       "message": "N年前的老騙局。只要用X代替最後一碼列出運算式就可以知道原因。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 7,
       "user_likes": false,
       "id": "872453999470231_872462806136017"
     },
@@ -143,7 +239,7 @@
       },
       "message": "好準喔！只有0不準。",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "872453999470231_872462332802731"
     },

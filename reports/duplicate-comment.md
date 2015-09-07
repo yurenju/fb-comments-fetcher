@@ -154,7 +154,7 @@ users:
 * 【蘋果足球】紐卡索聯VS曼聯先發名單
 * 【蘋果足球】紐卡索聯VS曼聯先發名單
 
-## 重複次數 79
+## 重複次數 80
 
 留言：
 
@@ -164,7 +164,7 @@ users:
 
 users: 
 
-* [18禁]('http://facebook.com/' + users[user].id) (重複 79 次)
+* [18禁]('http://facebook.com/' + users[user].id) (重複 80 次)
 
 新聞：
 
@@ -247,6 +247,7 @@ users:
 * 好多美腿照！　正妹瘋響應「黑褲襪之日」
 * 就是要滑！　BWS車主邊騎邊看手機撞別人
 * 選美比賽千奇百怪　潛水小姐濕身秀身材
+* 淫男靠「分析表」　最快2天騙少女上床
 
 ## 重複次數 73
 
@@ -502,7 +503,7 @@ users:
 * 【悠遊卡KUSO大賽】水林投稿：召喚！波多野結衣！
 * 讓人發火的「波卡」語錄　《蘋果》整理在此
 
-## 重複次數 53
+## 重複次數 54
 
 留言：
 
@@ -562,6 +563,7 @@ users:
 * [蔡翔宇]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [Hsun Chen]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [游捷]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [宋正挺]('http://facebook.com/' + users[user].id) (重複 1 次)
 
 新聞：
 
@@ -618,8 +620,9 @@ users:
 * 德國這樣紀念終戰70年
 * 【暗黑城市】深夜公車326
 * 【暗黑城市】深夜公車326
+* 【更新】駕駛昏迷車滑行　路人驚險救援
 
-## 重複次數 46
+## 重複次數 48
 
 留言：
 
@@ -629,7 +632,7 @@ users:
 
 users: 
 
-* [Ann Hung]('http://facebook.com/' + users[user].id) (重複 46 次)
+* [Ann Hung]('http://facebook.com/' + users[user].id) (重複 48 次)
 
 新聞：
 
@@ -679,8 +682,10 @@ users:
 * 殺女友後合照PO網　稱「原諒我這自私的愛」
 * 【更新】茂林情人谷瀑布　17歲高中生溺斃
 * 好心借住竟成凶宅　女上吊送醫不治
+* 港女在新疆冰川被水沖走　遺體今被發現
+* 溺死的何止小艾倫　利比亞沙灘又見5童屍
 
-## 重複次數 42
+## 重複次數 45
 
 留言：
 
@@ -693,7 +698,7 @@ users:
 * [洪本源]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [Betsy Deng]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [Nini Chang]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [宋正挺]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [宋正挺]('http://facebook.com/' + users[user].id) (重複 2 次)
 * [周曉楓]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [Beefun01 趣味新聞]('http://facebook.com/' + users[user].id) (重複 2 次)
 * [吳璋]('http://facebook.com/' + users[user].id) (重複 1 次)
@@ -729,6 +734,8 @@ users:
 * [Kate Chu]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [邱湘玲]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [Chiou Bill]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [別鬧了]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Lu Yishun]('http://facebook.com/' + users[user].id) (重複 1 次)
 
 新聞：
 
@@ -774,6 +781,9 @@ users:
 * 施明德公布微電影　用「線」切西瓜
 * 洪秀柱閉關3天的地方　竟然是這裡
 * 父母以死相逼　農村窮兄妹含淚跪別上大學
+* 他每天工作18小時病倒　女友得知真相淚崩
+* 他每天工作18小時病倒　女友得知真相淚崩
+* 他每天工作18小時病倒　女友得知真相淚崩
 
 ## 重複次數 40
 
