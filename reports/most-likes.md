@@ -553,21 +553,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 358
 
-* Author: [張宏德](http://facebook.com/100001352602343)
-* Article: 【讀者直擊】叫我自己收餐盤！　不收哥暴怒！
-
-```
-本來就要自己收啊，不然你這位仁兄是比較大牌膩，
-```
-
-
-## Like: 358
-
 * Author: [Roderick Lai](http://facebook.com/100000344530126)
 * Article: 布丁為何「一組3入」？　原來有典故
 
 ```
 養樂多一組五罐，該不會是一家四口，爸爸下班後口渴還要多喝一罐
+```
+
+
+## Like: 358
+
+* Author: [張宏德](http://facebook.com/100001352602343)
+* Article: 【讀者直擊】叫我自己收餐盤！　不收哥暴怒！
+
+```
+本來就要自己收啊，不然你這位仁兄是比較大牌膩，
 ```
 
 
@@ -673,21 +673,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 318
 
-* Author: [Mubetei Sai](http://facebook.com/100000951205185)
-* Article: 不切割！　洪秀柱：為何馬英九聲望比扁低
-
-```
-以你的智慧我很難跟你解釋啊…
-```
-
-
-## Like: 318
-
 * Author: [Chieh Chou](http://facebook.com/100007754260230)
 * Article: 邱毅嘲諷ＡＶ女優　網友整理犯罪史神打臉
 
 ```
 波多野結衣最基本分辨的出香蕉與太陽花，光這點邱毅就可以洗洗睡了....
+```
+
+
+## Like: 318
+
+* Author: [Mubetei Sai](http://facebook.com/100000951205185)
+* Article: 不切割！　洪秀柱：為何馬英九聲望比扁低
+
+```
+以你的智慧我很難跟你解釋啊…
 ```
 
 
@@ -734,21 +734,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 291
 
-* Author: [陳力](http://facebook.com/100009208194435)
-* Article: 【更新】軍官：募兵很好找人　但找來的盡是...
-
-```
-受刑人都拉去當兵，增加募兵量，身上綁上炸彈，然後空投到大陸，一個願望，二種滿足
-```
-
-
-## Like: 291
-
 * Author: [洪米政](http://facebook.com/100009341471616)
 * Article: 人妻借籃球被硬上　對話紀錄超展開
 
 ```
 這跟本就是仙人跳。
+```
+
+
+## Like: 291
+
+* Author: [陳力](http://facebook.com/100009208194435)
+* Article: 【更新】軍官：募兵很好找人　但找來的盡是...
+
+```
+受刑人都拉去當兵，增加募兵量，身上綁上炸彈，然後空投到大陸，一個願望，二種滿足
 ```
 
 
@@ -864,21 +864,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 272
 
-* Author: [Alex Chen Alex](http://facebook.com/100000515083216)
-* Article: 感動！台灣合唱團　德國街頭唱國歌
-
-```
-不管你喜不喜歡這面國旗或國歌、重要的是這群小朋友太可愛了、我們應該給他們鼓勵和掌聲。不要用政治觀點或語言去看待。
-```
-
-
-## Like: 272
-
 * Author: [黃健豪](http://facebook.com/100000110539798)
 * Article: 這張繳費單　讓他被遠通害慘了
 
 ```
 只賠償3000  難怪遠通會氣燄囂張
+```
+
+
+## Like: 272
+
+* Author: [Alex Chen Alex](http://facebook.com/100000515083216)
+* Article: 感動！台灣合唱團　德國街頭唱國歌
+
+```
+不管你喜不喜歡這面國旗或國歌、重要的是這群小朋友太可愛了、我們應該給他們鼓勵和掌聲。不要用政治觀點或語言去看待。
 ```
 
 
@@ -898,6 +898,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 270
 
+* Author: [Ching Wen Huang](http://facebook.com/100000310422454)
+* Article: 史上最萌颱風　水汪汪大眼對著你笑
+
+```
+阿進～你一定要記住啊，害死你爹爹的人，我見過他，他的樣子很奇怪，他永遠都好像對著你笑，笑到你心裡發寒，你一定要去找那個人～
+```
+
+
+## Like: 270
+
 * Author: [DrAgo](http://facebook.com/788860367897002)
 * Article: 【更新】冷氣開24小時　電費只比正常開關多一點
 
@@ -905,16 +915,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 開一個月冷氣的電費只要4500日圓，就台幣1500左右。
 再照日本物價來算，再除3... 一個月的支出感覺只有我們的500元。
 幹！我們的油電雙高是怎麼回事？
-```
-
-
-## Like: 270
-
-* Author: [Ching Wen Huang](http://facebook.com/100000310422454)
-* Article: 史上最萌颱風　水汪汪大眼對著你笑
-
-```
-阿進～你一定要記住啊，害死你爹爹的人，我見過他，他的樣子很奇怪，他永遠都好像對著你笑，笑到你心裡發寒，你一定要去找那個人～
 ```
 
 
@@ -966,6 +966,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 259
 
+* Author: [Jm Tseng](http://facebook.com/100000170151566)
+* Article: 【更新】短褲妹挨撞命危　影片曝光
+
+```
+等下就有親友團上來了…………
+```
+
+
+## Like: 259
+
 * Author: [Joy Chien](http://facebook.com/1265613382)
 * Article: 16歲少女問「什麼是砲友？」　爸媽竟然...
 
@@ -973,16 +983,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 16歲了父母什麼都不教
 
 結果被外人帶去體驗營了
-```
-
-
-## Like: 259
-
-* Author: [Jm Tseng](http://facebook.com/100000170151566)
-* Article: 【更新】短褲妹挨撞命危　影片曝光
-
-```
-等下就有親友團上來了…………
 ```
 
 
@@ -1074,16 +1074,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 249
 
-* Author: [Jack Lin](http://facebook.com/100000630294768)
-* Article: 【更新】硬撐引路救4幼犬　重病狗媽噴血亡
-
-```
-請問如何領養
-```
-
-
-## Like: 249
-
 * Author: [Yung-Chien Chou](http://facebook.com/100005668369242)
 * Article: 「女友懷孕了」　接下來4個字綠綠der
 
@@ -1093,6 +1083,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 曾經巫山共徘徊，明鏡哪堪惹塵埃，
 莫問伴侶過往事，懊惱只是添疑猜！
+```
+
+
+## Like: 249
+
+* Author: [Jack Lin](http://facebook.com/100000630294768)
+* Article: 【更新】硬撐引路救4幼犬　重病狗媽噴血亡
+
+```
+請問如何領養
 ```
 
 
