@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150907/686400/",
   "comments": [
     {
+      "created_time": "2015-09-07T15:20:06+0000",
+      "from": {
+        "name": "Liu Te Hsing",
+        "id": "100002104090495"
+      },
+      "message": "學什麼就去做什麽就好。想做農。。可要利用下班後。或假日。何必。浪費所學。。。。阿呆",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "892773524149754_892920484135058"
+    },
+    {
+      "created_time": "2015-09-07T13:15:09+0000",
+      "from": {
+        "name": "張添畝",
+        "id": "100009852458418"
+      },
+      "message": "大才小用",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "892773524149754_892884097472030"
+    },
+    {
       "created_time": "2015-09-07T12:59:13+0000",
       "from": {
         "name": "許智新",
@@ -47,7 +71,7 @@
       },
       "message": "讚! 為理想繼續加油!",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "892773524149754_892781747482265"
     }

@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150907/686658/",
   "comments": [
     {
+      "created_time": "2015-09-07T15:09:55+0000",
+      "from": {
+        "name": "Hans Lu",
+        "id": "592687298"
+      },
+      "message": "賽亞人",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "823705604412602_823802334402929"
+    },
+    {
+      "created_time": "2015-09-07T15:07:29+0000",
+      "from": {
+        "name": "老爹",
+        "id": "100000225191209"
+      },
+      "message": "當兵時站哨在屏東枋山看過一次。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "823705604412602_823799341069895"
+    },
+    {
+      "created_time": "2015-09-07T14:20:21+0000",
+      "from": {
+        "name": "曾惠芳",
+        "id": "100010005735126"
+      },
+      "message": "變形金剛來地球了嗎？??",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "823705604412602_823777447738751"
+    },
+    {
       "created_time": "2015-09-07T12:56:12+0000",
       "from": {
         "name": "Edward Yang",
@@ -11,7 +47,7 @@
       },
       "message": "不就是墜落的隕石嗎？其實外太空，每天都有行經地球附近的數萬顆碎片顆粒，被地球地心引力吸引，穿越大大氣層時摩擦燃燒，形成急墜的火球。何必解讀為凶兆？天行有常，不為堯存，不為桀亡，應之以治則吉，應之以亂則凶。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 3,
       "user_likes": false,
       "id": "823705604412602_823748541074975"
     },
@@ -83,7 +119,7 @@
       },
       "message": "不先許願？",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "823705604412602_823718547744641"
     },

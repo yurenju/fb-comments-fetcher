@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150907/686120/",
   "comments": [
     {
+      "created_time": "2015-09-07T15:51:14+0000",
+      "from": {
+        "name": "黃義超",
+        "id": "100000674168210"
+      },
+      "message": "半夜12點 每小時都能坐到公車 真的是方便又貼心",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1162189837128343_1162613020419358"
+    },
+    {
+      "created_time": "2015-09-07T15:50:57+0000",
+      "from": {
+        "name": "黎美中",
+        "id": "100008450400823"
+      },
+      "message": "很棒的回饋。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1162189837128343_1162612877086039"
+    },
+    {
       "created_time": "2015-09-07T09:42:05+0000",
       "from": {
         "name": "錢奕翔",
@@ -23,7 +47,7 @@
       },
       "message": "反觀台北。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1162189837128343_1162443870436273"
     },
@@ -35,7 +59,7 @@
       },
       "message": "我就有載過金錢豹的小姐咧",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 6,
       "user_likes": false,
       "id": "1162189837128343_1162397400440920"
     },
@@ -47,7 +71,7 @@
       },
       "message": "有溫度的報導",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 6,
       "user_likes": false,
       "id": "1162189837128343_1162368680443792"
     },
@@ -59,7 +83,7 @@
       },
       "message": "嗯!!\n統聯很貼心\n司機、記者辛苦了\n晚歸的人都平安到達了目的地\n真好 ^ω^",
       "can_remove": false,
-      "like_count": 8,
+      "like_count": 10,
       "user_likes": false,
       "id": "1162189837128343_1162257050454955"
     },
@@ -71,7 +95,7 @@
       },
       "message": "揪甘心!",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1162189837128343_1162256200455040"
     },
@@ -83,7 +107,7 @@
       },
       "message": "什麼時候台北也會有24小時公車……………",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "1162189837128343_1162239397123387"
     },
@@ -95,7 +119,7 @@
       },
       "message": "司機辛苦了",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "1162189837128343_1162239320456728"
     },
@@ -131,7 +155,7 @@
       },
       "message": "這個報導很好，統聯也很好。",
       "can_remove": false,
-      "like_count": 11,
+      "like_count": 14,
       "user_likes": false,
       "id": "1162189837128343_1162203380460322"
     }

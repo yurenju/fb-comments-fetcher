@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150907/686724/",
   "comments": [
     {
+      "created_time": "2015-09-07T15:14:14+0000",
+      "from": {
+        "name": "严明",
+        "id": "100010038404521"
+      },
+      "message": "还是SANDISK吧，稳定些",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "930569503648963_930658703640043"
+    },
+    {
+      "created_time": "2015-09-07T14:26:37+0000",
+      "from": {
+        "name": "田智程",
+        "id": "599552763"
+      },
+      "message": "使用創建拍照的感想:\n【創】意無限，照片不【見】",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "930569503648963_930631263642787"
+    },
+    {
+      "created_time": "2015-09-07T13:17:18+0000",
+      "from": {
+        "name": "Tangsheng Lee",
+        "id": "1147216835"
+      },
+      "message": "拍照用創見",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "930569503648963_930612786977968"
+    },
+    {
       "created_time": "2015-09-07T12:10:58+0000",
       "from": {
         "name": "林坤達",
@@ -11,7 +47,7 @@
       },
       "message": "珍惜照片",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "930569503648963_930582136981033"
     }

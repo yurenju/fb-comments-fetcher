@@ -4,6 +4,37 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150907/686633/",
   "comments": [
     {
+      "created_time": "2015-09-07T15:53:12+0000",
+      "from": {
+        "name": "親民黨全國聯合服務中心",
+        "category": "Political Organization",
+        "category_list": [
+          {
+            "id": "373543049350668",
+            "name": "Political Organization"
+          }
+        ],
+        "id": "466284113479413"
+      },
+      "message": "將心比心 一起打拼\n 宋楚瑜邀老朋友與新朋友 一起為台灣找出路!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "913954855351635_914085535338567"
+    },
+    {
+      "created_time": "2015-09-07T15:04:39+0000",
+      "from": {
+        "name": "Aldev Giovano",
+        "id": "100000633895170"
+      },
+      "message": "這話題沒得討論，開除了秦檜，不然再談宋三鬼也沒必要!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "913954855351635_914067482007039"
+    },
+    {
       "created_time": "2015-09-07T12:18:00+0000",
       "from": {
         "name": "陳泓",
@@ -107,7 +138,7 @@
       },
       "message": "想選，先解釋為何親民黨團跑去閱兵",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "913954855351635_913957088684745"
     }
