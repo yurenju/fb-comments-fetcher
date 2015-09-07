@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150907/685902/",
   "comments": [
     {
+      "created_time": "2015-09-06T23:26:22+0000",
+      "from": {
+        "name": "Hsieh Minang",
+        "id": "1494160008"
+      },
+      "message": "黑寡婦才是最強的吧，人家有復仇者聯盟，妳們有嗎？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "780897225353369_781003752009383"
+    },
+    {
+      "created_time": "2015-09-06T22:03:30+0000",
+      "from": {
+        "name": "Yu Cheng Hsiao",
+        "id": "1175827392"
+      },
+      "message": "露西能列入嗎？\"我無所不在\"",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "780897225353369_780984432011315"
+    },
+    {
       "created_time": "2015-09-06T21:57:28+0000",
       "from": {
         "name": "馬沙",
@@ -35,7 +59,7 @@
       },
       "message": "胡扯什麼鬼東西, 東方不敗是女的嗎???",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "780897225353369_780933502016408"
     }
