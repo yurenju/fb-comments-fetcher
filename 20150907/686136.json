@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150907/686136/",
   "comments": [
     {
+      "created_time": "2015-09-07T10:51:15+0000",
+      "from": {
+        "name": "顏大帥",
+        "id": "100000335148094"
+      },
+      "message": "唉....",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "901303909906540_901499096553688"
+    },
+    {
       "created_time": "2015-09-07T06:59:46+0000",
       "from": {
         "name": "Fily Hsiang",
@@ -179,7 +191,7 @@
       },
       "message": "為何不兩個都撞成重傷殘廢呢？真是可惜啊！",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "901303909906540_901308929906038"
     },

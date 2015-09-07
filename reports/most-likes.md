@@ -121,6 +121,16 @@
 ```
 
 
+## Like: 864
+
+* Author: [提摩《TEEMO》](http://facebook.com/235452736628106)
+* Article: 台大教授給新生的10建議　小心二一是因為它
+
+```
+玩歸玩 書還是要讀唷！沒被二一的提摩關心您^^
+```
+
+
 ## Like: 831
 
 * Author: [楊忠偉](http://facebook.com/100000430958436)
@@ -155,13 +165,13 @@
 ```
 
 
-## Like: 746
+## Like: 741
 
-* Author: [提摩《TEEMO》](http://facebook.com/235452736628106)
+* Author: [Garena《英雄聯盟 LOL》](http://facebook.com/179663418728712)
 * Article: 台大教授給新生的10建議　小心二一是因為它
 
 ```
-玩歸玩 書還是要讀唷！沒被二一的提摩關心您^^
+真的很可怕 難道 提摩《TEEMO》 不用負責嗎？
 ```
 
 
@@ -184,16 +194,6 @@
 但學生卻覺得「沒那麼嚴重」，留給"詐欺罪"的案底就知道嚴不嚴重了ˊ_>ˋ⋯
 那就可以看看自己的良民證上面如果有"刑事"這個紀錄，就知道嚴不嚴重~
 人家上網一查發現你有"前科"，就知道嚴不嚴重~
-```
-
-
-## Like: 652
-
-* Author: [Garena《英雄聯盟 LOL》](http://facebook.com/179663418728712)
-* Article: 台大教授給新生的10建議　小心二一是因為它
-
-```
-真的很可怕 難道 提摩《TEEMO》 不用負責嗎？
 ```
 
 
@@ -240,6 +240,17 @@
 我們的心很痛
 阿婆已經過世了
 最氣的是車主到現在不承認過錯
+```
+
+
+## Like: 584
+
+* Author: [郭欽協](http://facebook.com/100000178975389)
+* Article: 等不到奇蹟　短褲妹宣告不治
+
+```
+誠心的祝福給
+希望mini車主無罪........
 ```
 
 
@@ -301,22 +312,22 @@
 
 ## Like: 468
 
+* Author: [鄭博綸](http://facebook.com/100000086808857)
+* Article: 【更新】賣波多野悠遊卡　柯文哲、戴季全挨告
+
+```
+賣國都沒事了，賣個悠遊卡是在告怎樣?是沒拿到惱羞成怒是不是?
+```
+
+
+## Like: 468
+
 * Author: [李亦庭](http://facebook.com/100008483558000)
 * Article: 募兵制跳票　府：扁政府縮役期的必然結果
 
 ```
 都做到第八年了還在call陳水扁救援
 有沒有一點羞恥心啊廢物
-```
-
-
-## Like: 468
-
-* Author: [鄭博綸](http://facebook.com/100000086808857)
-* Article: 【更新】賣波多野悠遊卡　柯文哲、戴季全挨告
-
-```
-賣國都沒事了，賣個悠遊卡是在告怎樣?是沒拿到惱羞成怒是不是?
 ```
 
 
@@ -532,21 +543,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 358
 
-* Author: [Roderick Lai](http://facebook.com/100000344530126)
-* Article: 布丁為何「一組3入」？　原來有典故
-
-```
-養樂多一組五罐，該不會是一家四口，爸爸下班後口渴還要多喝一罐
-```
-
-
-## Like: 358
-
 * Author: [張宏德](http://facebook.com/100001352602343)
 * Article: 【讀者直擊】叫我自己收餐盤！　不收哥暴怒！
 
 ```
 本來就要自己收啊，不然你這位仁兄是比較大牌膩，
+```
+
+
+## Like: 358
+
+* Author: [Roderick Lai](http://facebook.com/100000344530126)
+* Article: 布丁為何「一組3入」？　原來有典故
+
+```
+養樂多一組五罐，該不會是一家四口，爸爸下班後口渴還要多喝一罐
 ```
 
 
@@ -677,17 +688,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
-## Like: 302
-
-* Author: [郭欽協](http://facebook.com/100000178975389)
-* Article: 等不到奇蹟　短褲妹宣告不治
-
-```
-誠心的祝福給
-希望mini車主無罪........
-```
-
-
 ## Like: 300
 
 * Author: [戴福吉](http://facebook.com/100004656670299)
@@ -706,6 +706,19 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ```
 天下喔，以前劉政鴻都名列前茅啦，遠見還五顆星哩....
+```
+
+
+## Like: 294
+
+* Author: [金價系](http://facebook.com/1830176012)
+* Article: 他每天工作18小時病倒　女友得知真相淚崩
+
+```
+雖然是笨蛋！但這是男人該有的態度！為了自己心愛的女人衝！
+不過衝過頭了，身體都不顧怎麼給幸福呢？
+比那些廢渣小白臉騙甲拐幹好太多了！
+希望這對佳偶能渡過難關，
 ```
 
 
@@ -843,6 +856,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 270
 
+* Author: [Ching Wen Huang](http://facebook.com/100000310422454)
+* Article: 史上最萌颱風　水汪汪大眼對著你笑
+
+```
+阿進～你一定要記住啊，害死你爹爹的人，我見過他，他的樣子很奇怪，他永遠都好像對著你笑，笑到你心裡發寒，你一定要去找那個人～
+```
+
+
+## Like: 270
+
 * Author: [9.2%的blue](http://facebook.com/166284357037138)
 * Article: 陳水扁散步活跳跳　邊走還可邊滑手機
 
@@ -852,16 +875,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 趁機轉移經濟崩壞、執政無能的焦點。
 
 雖然我不喜歡阿扁，但我越來越同情他~
-```
-
-
-## Like: 270
-
-* Author: [Ching Wen Huang](http://facebook.com/100000310422454)
-* Article: 史上最萌颱風　水汪汪大眼對著你笑
-
-```
-阿進～你一定要記住啊，害死你爹爹的人，我見過他，他的樣子很奇怪，他永遠都好像對著你笑，笑到你心裡發寒，你一定要去找那個人～
 ```
 
 
@@ -886,6 +899,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 我們不要特展
 我們只想要常態性參觀
 不用特別作業 只要依現行李倩蓉參觀申請流程的SOP準則即可
+```
+
+
+## Like: 263
+
+* Author: [Alex Chen Alex](http://facebook.com/100000515083216)
+* Article: 感動！台灣合唱團　德國街頭唱國歌
+
+```
+不管你喜不喜歡這面國旗或國歌、重要的是這群小朋友太可愛了、我們應該給他們鼓勵和掌聲。不要用政治觀點或語言去看待。
 ```
 
 
@@ -967,11 +990,11 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 252
 
-* Author: [王佩瑛](http://facebook.com/1389173988)
-* Article: 養這等軍官、檢察官何用？
+* Author: [Ho Chow Lee](http://facebook.com/100007654243742)
+* Article: 【更新】要客點餐　麥當勞女服務生竟遭罵「像你這種貨色」
 
 ```
-這不是權貴，那什麼是權貴
+人也是分很多等級看你的談吐應該也是下下等级吧
 ```
 
 
@@ -991,11 +1014,11 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 252
 
-* Author: [Ho Chow Lee](http://facebook.com/100007654243742)
-* Article: 【更新】要客點餐　麥當勞女服務生竟遭罵「像你這種貨色」
+* Author: [王佩瑛](http://facebook.com/1389173988)
+* Article: 養這等軍官、檢察官何用？
 
 ```
-人也是分很多等級看你的談吐應該也是下下等级吧
+這不是權貴，那什麼是權貴
 ```
 
 
@@ -1021,16 +1044,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 249
 
-* Author: [Jack Lin](http://facebook.com/100000630294768)
-* Article: 【更新】硬撐引路救4幼犬　重病狗媽噴血亡
-
-```
-請問如何領養
-```
-
-
-## Like: 249
-
 * Author: [Yung-Chien Chou](http://facebook.com/100005668369242)
 * Article: 「女友懷孕了」　接下來4個字綠綠der
 
@@ -1040,6 +1053,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 曾經巫山共徘徊，明鏡哪堪惹塵埃，
 莫問伴侶過往事，懊惱只是添疑猜！
+```
+
+
+## Like: 249
+
+* Author: [Jack Lin](http://facebook.com/100000630294768)
+* Article: 【更新】硬撐引路救4幼犬　重病狗媽噴血亡
+
+```
+請問如何領養
 ```
 
 
@@ -1077,6 +1100,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 一定是太小工作才會泡湯，
 夠大的話女主管立刻約你去泡湯............
+```
+
+
+## Like: 240
+
+* Author: [高暉恩](http://facebook.com/1731572034)
+* Article: 高中課本有亮點　試圖讓人戀愛惹
+
+```
+校方：最近接到很多學生反應黏頁的問題，正了解原因並與廠商溝通處理中。
 ```
 
 
@@ -1161,26 +1194,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
-## Like: 240
-
-* Author: [高暉恩](http://facebook.com/1731572034)
-* Article: 高中課本有亮點　試圖讓人戀愛惹
-
-```
-校方：最近接到很多學生反應黏頁的問題，正了解原因並與廠商溝通處理中。
-```
-
-
-## Like: 235
-
-* Author: [Alex Chen Alex](http://facebook.com/100000515083216)
-* Article: 感動！台灣合唱團　德國街頭唱國歌
-
-```
-不管你喜不喜歡這面國旗或國歌、重要的是這群小朋友太可愛了、我們應該給他們鼓勵和掌聲。不要用政治觀點或語言去看待。
-```
-
-
 ## Like: 235
 
 * Author: [林正偉](http://facebook.com/100004707675918)
@@ -1202,25 +1215,11 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
-## Like: 231
+## Like: 234
 
-* Author: [Andrew Jao](http://facebook.com/1103784944)
-* Article: 發現男友找援交妹性愛影片　她的報復太駭人
-
-```
-難怪我今早醒來變光頭
-```
-
-
-## Like: 231
-
-* Author: [曾彥屏](http://facebook.com/100003805046456)
-* Article: 小六女兒問波多野是誰　媽媽的回應超級棒
+* Author: [Mubetei Sai](http://facebook.com/100000951205185)
+* Article: 等不到奇蹟　短褲妹宣告不治
 
 ```
-白痴,為什麼拿波卡就會遇到癡漢???
-真替妳女兒感到可憐!!!
-說不歧視性工作者,表現出來就是從骨子裡歧視
-還要說漂亮話當正義魔人
-笑話
+可憐的汽車駕駛，要變成過失致死了，只祈禱檢察官能不起訴
 ```

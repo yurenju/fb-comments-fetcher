@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150907/686168/",
   "comments": [
     {
+      "created_time": "2015-09-07T12:04:37+0000",
+      "from": {
+        "name": "陳伯昇",
+        "id": "100009859086527"
+      },
+      "message": "費文",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1135479543147939_1135687126460514"
+    },
+    {
+      "created_time": "2015-09-07T11:14:41+0000",
+      "from": {
+        "name": "Wu Kuan-Yi",
+        "id": "100002622954140"
+      },
+      "message": "真資八！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1135479543147939_1135666096462617"
+    },
+    {
+      "created_time": "2015-09-07T10:14:19+0000",
+      "from": {
+        "name": "蔡丞勛",
+        "id": "100008973435251"
+      },
+      "message": "我才不當白老鼠",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1135479543147939_1135649599797600"
+    },
+    {
       "created_time": "2015-09-07T09:19:31+0000",
       "from": {
         "name": "紋菁",
@@ -168,7 +204,7 @@
       },
       "message": "有夠腦殘的新聞內容.",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 7,
       "user_likes": false,
       "id": "1135479543147939_1135527539809806"
     },
@@ -192,7 +228,7 @@
       },
       "message": "無聊",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "1135479543147939_1135514659811094"
     },
@@ -216,7 +252,7 @@
       },
       "message": "廢文",
       "can_remove": false,
-      "like_count": 11,
+      "like_count": 12,
       "user_likes": false,
       "id": "1135479543147939_1135501579812402"
     },

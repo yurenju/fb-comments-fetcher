@@ -503,7 +503,7 @@ users:
 * 【悠遊卡KUSO大賽】水林投稿：召喚！波多野結衣！
 * 讓人發火的「波卡」語錄　《蘋果》整理在此
 
-## 重複次數 54
+## 重複次數 55
 
 留言：
 
@@ -564,6 +564,7 @@ users:
 * [Hsun Chen]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [游捷]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [宋正挺]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Huang Giga]('http://facebook.com/' + users[user].id) (重複 1 次)
 
 新聞：
 
@@ -621,6 +622,7 @@ users:
 * 【暗黑城市】深夜公車326
 * 【暗黑城市】深夜公車326
 * 【更新】駕駛昏迷車滑行　路人驚險救援
+* 台聯推有線電視100元政策　網友讚：早就不爽了
 
 ## 重複次數 48
 
@@ -685,7 +687,7 @@ users:
 * 港女在新疆冰川被水沖走　遺體今被發現
 * 溺死的何止小艾倫　利比亞沙灘又見5童屍
 
-## 重複次數 45
+## 重複次數 47
 
 留言：
 
@@ -734,6 +736,8 @@ users:
 * [Kate Chu]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [邱湘玲]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [Chiou Bill]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [蕭旭峰]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [呂佳傑]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [別鬧了]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [Lu Yishun]('http://facebook.com/' + users[user].id) (重複 1 次)
 
@@ -780,7 +784,9 @@ users:
 * 【更新】昔賣餅救兒　今帶兒幫修屋頂
 * 施明德公布微電影　用「線」切西瓜
 * 洪秀柱閉關3天的地方　竟然是這裡
-* 父母以死相逼　農村窮兄妹含淚跪別上大學
+* 【更新】父母以死相逼　農村窮兄妹含淚跪別上大學
+* 他每天工作18小時病倒　女友得知真相淚崩
+* 他每天工作18小時病倒　女友得知真相淚崩
 * 他每天工作18小時病倒　女友得知真相淚崩
 * 他每天工作18小時病倒　女友得知真相淚崩
 * 他每天工作18小時病倒　女友得知真相淚崩

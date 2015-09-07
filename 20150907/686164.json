@@ -4,6 +4,402 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150907/686164/",
   "comments": [
     {
+      "created_time": "2015-09-07T12:20:44+0000",
+      "from": {
+        "name": "林家家",
+        "id": "100005090626721"
+      },
+      "message": "準",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872654559450175"
+    },
+    {
+      "created_time": "2015-09-07T12:16:00+0000",
+      "from": {
+        "name": "吳銘郎",
+        "id": "100009688901095"
+      },
+      "message": "笨蛋，減去出生年齡時已洩露年齡了，別人的年齡妳不知道時，根本得不到最後數字。既知出生年齡還算幹嘛?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872653656116932"
+    },
+    {
+      "created_time": "2015-09-07T12:13:46+0000",
+      "from": {
+        "name": "謝其林",
+        "id": "1442586198"
+      },
+      "message": "不準",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872653222783642"
+    },
+    {
+      "created_time": "2015-09-07T12:12:22+0000",
+      "from": {
+        "name": "邱淑珍",
+        "id": "100003202008859"
+      },
+      "message": "我816但我在8月28號生日過了就17了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872652656117032"
+    },
+    {
+      "created_time": "2015-09-07T12:03:13+0000",
+      "from": {
+        "name": "孫庭",
+        "id": "100000114623362"
+      },
+      "message": "這是新聞嗎==",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872650686117229"
+    },
+    {
+      "created_time": "2015-09-07T12:01:53+0000",
+      "from": {
+        "name": "俞富南",
+        "id": "100009463776202"
+      },
+      "message": "莊肖維",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872650442783920"
+    },
+    {
+      "created_time": "2015-09-07T11:55:09+0000",
+      "from": {
+        "name": "陳琪木",
+        "id": "100000399652879"
+      },
+      "message": "不準，差好多歲耶@@",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872648426117455"
+    },
+    {
+      "created_time": "2015-09-07T11:41:20+0000",
+      "from": {
+        "name": "簡志名",
+        "id": "100000227169201"
+      },
+      "message": "我想請問這個官方網站，有使用這種方式計算出自己今天的\"榮景\"嗎?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872644666117831"
+    },
+    {
+      "created_time": "2015-09-07T11:40:28+0000",
+      "from": {
+        "name": "莊賢迅",
+        "id": "100000844821059"
+      },
+      "message": "625 我手機尾數是6沒錯 但是年齡我是27",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872644416117856"
+    },
+    {
+      "created_time": "2015-09-07T11:36:50+0000",
+      "from": {
+        "name": "吳小白",
+        "id": "100000143546090"
+      },
+      "message": "現在是2015，應該要加1765吧",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872643702784594"
+    },
+    {
+      "created_time": "2015-09-07T11:30:10+0000",
+      "from": {
+        "name": "川原豹 ひょう",
+        "id": "100001775419378"
+      },
+      "message": "還不是要知道出生的那一年",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872642212784743"
+    },
+    {
+      "created_time": "2015-09-07T11:28:35+0000",
+      "from": {
+        "name": "子皓",
+        "id": "1053877158"
+      },
+      "message": "廢話嗎？都需要提供出生年了還會算不出來嗎⋯⋯",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872641956118102"
+    },
+    {
+      "created_time": "2015-09-07T11:26:07+0000",
+      "from": {
+        "name": "沈小鳳",
+        "id": "100000432935771"
+      },
+      "message": "真的準",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872641129451518"
+    },
+    {
+      "created_time": "2015-09-07T11:22:00+0000",
+      "from": {
+        "name": "柯育勝",
+        "id": "100000427487795"
+      },
+      "message": "不準",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872640319451599"
+    },
+    {
+      "created_time": "2015-09-07T11:18:25+0000",
+      "from": {
+        "name": "林展煥",
+        "id": "100002044363240"
+      },
+      "message": "94歲",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872639716118326"
+    },
+    {
+      "created_time": "2015-09-07T11:13:04+0000",
+      "from": {
+        "name": "陳璽任",
+        "id": "100000342500224"
+      },
+      "message": "屁﹏",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872636849451946"
+    },
+    {
+      "created_time": "2015-09-07T11:09:42+0000",
+      "from": {
+        "name": "Jeffrey Han",
+        "id": "100000160102353"
+      },
+      "message": "遜把戲，我的手機號碼後兩碼，就是我的出生年，根本不用加加減減。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872635792785385"
+    },
+    {
+      "created_time": "2015-09-07T11:08:44+0000",
+      "from": {
+        "name": "Naogun Koii",
+        "id": "100000531005203"
+      },
+      "message": "真的好準喔",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872635596118738"
+    },
+    {
+      "created_time": "2015-09-07T11:06:53+0000",
+      "from": {
+        "name": "Msj Danny",
+        "id": "100006531672350"
+      },
+      "message": "為什麼算那麼累、裡面不是要減去自己出生年、那不是知道自己年齡了幹嘛還算",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872635132785451"
+    },
+    {
+      "created_time": "2015-09-07T11:03:26+0000",
+      "from": {
+        "name": "陳石偉",
+        "id": "633114312"
+      },
+      "message": "完全沒中",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "872453999470231_872634599452171"
+    },
+    {
+      "created_time": "2015-09-07T10:48:17+0000",
+      "from": {
+        "name": "劉大叔",
+        "id": "539732434"
+      },
+      "message": "不準內....",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872631439452487"
+    },
+    {
+      "created_time": "2015-09-07T10:38:33+0000",
+      "from": {
+        "name": "戴茂林",
+        "id": "100005217556267"
+      },
+      "message": "胡說八道",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872629416119356"
+    },
+    {
+      "created_time": "2015-09-07T10:34:52+0000",
+      "from": {
+        "name": "周子倢",
+        "id": "100006903274172"
+      },
+      "message": "我差4歲欸",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872628786119419"
+    },
+    {
+      "created_time": "2015-09-07T10:31:06+0000",
+      "from": {
+        "name": "錢妹",
+        "id": "100001258374268"
+      },
+      "message": "不準。。。差了12歲＝0＝",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872628192786145"
+    },
+    {
+      "created_time": "2015-09-07T10:27:56+0000",
+      "from": {
+        "name": "Joe  Lin",
+        "id": "100003598090121"
+      },
+      "message": "好爛喔…爛梗",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872627726119525"
+    },
+    {
+      "created_time": "2015-09-07T10:25:25+0000",
+      "from": {
+        "name": "魏宏杰",
+        "id": "100001408875153"
+      },
+      "message": "已知用火",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872627299452901"
+    },
+    {
+      "created_time": "2015-09-07T10:20:24+0000",
+      "from": {
+        "name": "黃秋一",
+        "id": "100006256055990"
+      },
+      "message": "把今年減掉出生年 = 歲數\n數字遊戲好玩就好  原創用心良苦  謝謝",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872626179453013"
+    },
+    {
+      "created_time": "2015-09-07T10:17:45+0000",
+      "from": {
+        "name": "施禹安",
+        "id": "100005306386485"
+      },
+      "message": "Ｘ*2=2Ｘ\n（2Ｘ+5）50=100ｘ+250\n100ｘ+250+1764=100ｘ+2014\n100ｘ+（2014-出生年分）",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872625812786383"
+    },
+    {
+      "created_time": "2015-09-07T10:13:09+0000",
+      "from": {
+        "name": "李美蓉",
+        "id": "100004101324531"
+      },
+      "message": "我手機尾數是6,\n按照這個程式計算是623\n好笑，我今年23歲",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "872453999470231_872624956119802"
+    },
+    {
+      "created_time": "2015-09-07T10:12:29+0000",
+      "from": {
+        "name": "林楧哲",
+        "id": "100000202451601"
+      },
+      "message": "都已經輸入出生年了.....當然算的出年齡.....",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "872453999470231_872624732786491"
+    },
+    {
+      "created_time": "2015-09-07T10:10:29+0000",
+      "from": {
+        "name": "Pei Chun Lai",
+        "id": "100000186972342"
+      },
+      "message": "其實你給我你的出生年份我不用知道你手機號碼尾數我就算得出來你幾歲了好嗎 新聞大哥大姐",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "872453999470231_872624509453180"
+    },
+    {
+      "created_time": "2015-09-07T10:08:51+0000",
+      "from": {
+        "name": "林琬珍",
+        "id": "100000977628131"
+      },
+      "message": "正確",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872624186119879"
+    },
+    {
+      "created_time": "2015-09-07T10:04:22+0000",
+      "from": {
+        "name": "Birgit Hsing",
+        "id": "1817386626"
+      },
+      "message": "我尾數是0，算出來不準啊！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "872453999470231_872623436119954"
+    },
+    {
       "created_time": "2015-09-07T10:02:07+0000",
       "from": {
         "name": "En Sheng",
@@ -35,7 +431,7 @@
       },
       "message": "莊孝ㄟ。算起來後面都23",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "872453999470231_872622369453394"
     },
@@ -47,7 +443,7 @@
       },
       "message": "新聞竟然報這種無聊的題目，他叫你減生日那年還能沒發覺的人，真的也太單純。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "872453999470231_872621992786765"
     },
@@ -83,7 +479,7 @@
       },
       "message": "哪個智障想的",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "872453999470231_872620752786889"
     },
@@ -95,7 +491,7 @@
       },
       "message": "會差一歲是因為這算式是去年的\n今年的要改成+1765..............",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 7,
       "user_likes": false,
       "id": "872453999470231_872620056120292"
     },
@@ -107,7 +503,7 @@
       },
       "message": "不準啊",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 5,
       "user_likes": false,
       "id": "872453999470231_872526396129658"
     },
@@ -119,7 +515,7 @@
       },
       "message": "內行看門道，數字遊戲而已，每年都有人在傳。",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "872453999470231_872522906130007"
     },
@@ -155,7 +551,7 @@
       },
       "message": "差了ㄧ半以上耶！鬼扯！那裡準了？",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "872453999470231_872513602797604"
     },
@@ -167,7 +563,7 @@
       },
       "message": "設計原理是一開始乘二再乘50剛好是百位數，那為什麼要加五再乘50呢，是因為1764+250=2014，所以只要這樣設計你用年齡減就等於實際年齡，網友們少一歲是因為今年是2015所以題目要把1764改1765即可",
       "can_remove": false,
-      "like_count": 10,
+      "like_count": 46,
       "user_likes": false,
       "id": "872453999470231_872504979465133"
     },
@@ -227,7 +623,7 @@
       },
       "message": "N年前的老騙局。只要用X代替最後一碼列出運算式就可以知道原因。",
       "can_remove": false,
-      "like_count": 7,
+      "like_count": 10,
       "user_likes": false,
       "id": "872453999470231_872462806136017"
     },
