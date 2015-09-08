@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150908/686911/",
   "comments": [
     {
+      "created_time": "2015-09-08T02:31:47+0000",
+      "from": {
+        "name": "陳長謀",
+        "id": "100003251024730"
+      },
+      "message": "RIP!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "860196987368971_860344094020927"
+    },
+    {
+      "created_time": "2015-09-08T01:56:01+0000",
+      "from": {
+        "name": "劉黛娜",
+        "id": "100000371427181"
+      },
+      "message": "看到他的照片，眼淚就流不停！不冀望世界和平，因為不可能！只希望孩子們少受些苦！！",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "860196987368971_860334164021920"
+    },
+    {
       "created_time": "2015-09-07T21:48:05+0000",
       "from": {
         "name": "李宗諭",
@@ -11,7 +35,7 @@
       },
       "message": "願往生者安息\n願家屬早日遠離悲傷",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 5,
       "user_likes": false,
       "id": "860196987368971_860257707362899"
     },
@@ -23,7 +47,7 @@
       },
       "message": "不要戰爭...如果真的覺得世界人口太多,可以選擇節育",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 4,
       "user_likes": false,
       "id": "860196987368971_860250334030303"
     }

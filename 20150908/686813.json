@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150908/686813/",
   "comments": [
     {
+      "created_time": "2015-09-08T02:00:16+0000",
+      "from": {
+        "name": "Giovanna Cho",
+        "id": "1033612941"
+      },
+      "message": "是摔跤非柔道，哪有穿著摔跤衣摔人了，還說是柔道，快修正別笑死人了。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "969372506454329_969593259765587"
+    },
+    {
       "created_time": "2015-09-07T22:43:10+0000",
       "from": {
         "name": "張學武",
@@ -11,7 +23,7 @@
       },
       "message": "這是摔跤術，不是柔道！",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "969372506454329_969489873109259"
     }

@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150908/686860/",
   "comments": [
     {
+      "created_time": "2015-09-08T02:50:32+0000",
+      "from": {
+        "name": "Te Chao",
+        "id": "1808903032"
+      },
+      "message": "這不是有錢人 這是低能兒",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "751079641667344_751273984981243"
+    },
+    {
       "created_time": "2015-09-07T23:45:16+0000",
       "from": {
         "name": "王小揚",
@@ -28,18 +40,6 @@
       "id": "751079641667344_751198768322098"
     },
     {
-      "created_time": "2015-09-07T22:34:46+0000",
-      "from": {
-        "name": "張佩珊",
-        "id": "100010160231613"
-      },
-      "message": "http://lnk.pics/cOB",
-      "can_remove": false,
-      "like_count": 0,
-      "user_likes": false,
-      "id": "751079641667344_751187108323264"
-    },
-    {
       "created_time": "2015-09-07T21:09:26+0000",
       "from": {
         "name": "Dandelion Hung",
@@ -50,18 +50,6 @@
       "like_count": 0,
       "user_likes": false,
       "id": "751079641667344_751167811658527"
-    },
-    {
-      "created_time": "2015-09-07T17:18:21+0000",
-      "from": {
-        "name": "Joy Chen",
-        "id": "100010177751272"
-      },
-      "message": "http://lnk.pics/cM7",
-      "can_remove": false,
-      "like_count": 0,
-      "user_likes": false,
-      "id": "751079641667344_751101824998459"
     },
     {
       "created_time": "2015-09-07T16:56:25+0000",

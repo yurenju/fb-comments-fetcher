@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150908/686833/",
   "comments": [
     {
+      "created_time": "2015-09-08T02:07:32+0000",
+      "from": {
+        "name": "吳岱瑾",
+        "id": "100000031344130"
+      },
+      "message": "臺灣人刻板印象，每次都覺得錯是小三，其實有問題的是丈夫與他的老婆早就有裂痕。",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1166552806691825_1166863709994068"
+    },
+    {
+      "created_time": "2015-09-08T01:18:38+0000",
+      "from": {
+        "name": "Ho Chow Lee",
+        "id": "100007654243742"
+      },
+      "message": "多么希望 有个小四的出现啊",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1166552806691825_1166845189995920"
+    },
+    {
       "created_time": "2015-09-07T23:16:01+0000",
       "from": {
         "name": "李偉彥",
@@ -11,45 +35,9 @@
       },
       "message": "無聊ㄉ新聞，是男人ㄉ問題，不是小三ㄉ問題。。。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1166552806691825_1166785950001844"
-    },
-    {
-      "created_time": "2015-09-07T22:10:22+0000",
-      "from": {
-        "name": "張佩珊",
-        "id": "100010160231613"
-      },
-      "message": "http://lnk.pics/cOB",
-      "can_remove": false,
-      "like_count": 0,
-      "user_likes": false,
-      "id": "1166552806691825_1166746493339123"
-    },
-    {
-      "created_time": "2015-09-07T18:36:29+0000",
-      "from": {
-        "name": "張佩珊",
-        "id": "100010160231613"
-      },
-      "message": "http://lnk.pics/cOB",
-      "can_remove": false,
-      "like_count": 0,
-      "user_likes": false,
-      "id": "1166552806691825_1166636310016808"
-    },
-    {
-      "created_time": "2015-09-07T17:13:42+0000",
-      "from": {
-        "name": "Joy Chen",
-        "id": "100010177751272"
-      },
-      "message": "http://lnk.pics/cM7",
-      "can_remove": false,
-      "like_count": 0,
-      "user_likes": false,
-      "id": "1166552806691825_1166574543356318"
     },
     {
       "created_time": "2015-09-07T16:44:28+0000",
@@ -59,7 +47,7 @@
       },
       "message": "妳肚裡的孩子也被小三破壞婚姻的",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1166552806691825_1166559140024525"
     }
