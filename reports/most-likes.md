@@ -155,6 +155,16 @@
 ```
 
 
+## Like: 812
+
+* Author: [Rosan Lu](http://facebook.com/100000038434694)
+* Article: 【更新】45K找嘸人！　原來看到這個跑光光
+
+```
+每天工作超過十小時，加薪又慢，條件又苛，45K叫高薪？待過鞋廠的老人路過......
+```
+
+
 ## Like: 793
 
 * Author: [Garena《英雄聯盟 LOL》](http://facebook.com/179663418728712)
@@ -162,16 +172,6 @@
 
 ```
 真的很可怕 難道 提摩《TEEMO》 不用負責嗎？
-```
-
-
-## Like: 755
-
-* Author: [Rosan Lu](http://facebook.com/100000038434694)
-* Article: 【更新】45K找嘸人！　原來看到這個跑光光
-
-```
-每天工作超過十小時，加薪又慢，條件又苛，45K叫高薪？待過鞋廠的老人路過......
 ```
 
 
@@ -683,21 +683,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 318
 
-* Author: [Chieh Chou](http://facebook.com/100007754260230)
-* Article: 邱毅嘲諷ＡＶ女優　網友整理犯罪史神打臉
-
-```
-波多野結衣最基本分辨的出香蕉與太陽花，光這點邱毅就可以洗洗睡了....
-```
-
-
-## Like: 318
-
 * Author: [Mubetei Sai](http://facebook.com/100000951205185)
 * Article: 不切割！　洪秀柱：為何馬英九聲望比扁低
 
 ```
 以你的智慧我很難跟你解釋啊…
+```
+
+
+## Like: 318
+
+* Author: [Chieh Chou](http://facebook.com/100007754260230)
+* Article: 邱毅嘲諷ＡＶ女優　網友整理犯罪史神打臉
+
+```
+波多野結衣最基本分辨的出香蕉與太陽花，光這點邱毅就可以洗洗睡了....
 ```
 
 
@@ -894,11 +894,13 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 270
 
-* Author: [Ching Wen Huang](http://facebook.com/100000310422454)
-* Article: 史上最萌颱風　水汪汪大眼對著你笑
+* Author: [DrAgo](http://facebook.com/788860367897002)
+* Article: 【更新】冷氣開24小時　電費只比正常開關多一點
 
 ```
-阿進～你一定要記住啊，害死你爹爹的人，我見過他，他的樣子很奇怪，他永遠都好像對著你笑，笑到你心裡發寒，你一定要去找那個人～
+開一個月冷氣的電費只要4500日圓，就台幣1500左右。
+再照日本物價來算，再除3... 一個月的支出感覺只有我們的500元。
+幹！我們的油電雙高是怎麼回事？
 ```
 
 
@@ -918,13 +920,11 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 270
 
-* Author: [DrAgo](http://facebook.com/788860367897002)
-* Article: 【更新】冷氣開24小時　電費只比正常開關多一點
+* Author: [Ching Wen Huang](http://facebook.com/100000310422454)
+* Article: 史上最萌颱風　水汪汪大眼對著你笑
 
 ```
-開一個月冷氣的電費只要4500日圓，就台幣1500左右。
-再照日本物價來算，再除3... 一個月的支出感覺只有我們的500元。
-幹！我們的油電雙高是怎麼回事？
+阿進～你一定要記住啊，害死你爹爹的人，我見過他，他的樣子很奇怪，他永遠都好像對著你笑，笑到你心裡發寒，你一定要去找那個人～
 ```
 
 
@@ -976,6 +976,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 259
 
+* Author: [Jm Tseng](http://facebook.com/100000170151566)
+* Article: 【更新】短褲妹挨撞命危　影片曝光
+
+```
+等下就有親友團上來了…………
+```
+
+
+## Like: 259
+
 * Author: [Joy Chien](http://facebook.com/1265613382)
 * Article: 16歲少女問「什麼是砲友？」　爸媽竟然...
 
@@ -983,16 +993,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 16歲了父母什麼都不教
 
 結果被外人帶去體驗營了
-```
-
-
-## Like: 259
-
-* Author: [Jm Tseng](http://facebook.com/100000170151566)
-* Article: 【更新】短褲妹挨撞命危　影片曝光
-
-```
-等下就有親友團上來了…………
 ```
 
 

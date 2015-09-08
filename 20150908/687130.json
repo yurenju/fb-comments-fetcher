@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150908/687130/",
   "comments": [
     {
+      "created_time": "2015-09-08T09:41:28+0000",
+      "from": {
+        "name": "Roy Yen",
+        "id": "100000508052910"
+      },
+      "message": "趕快提經濟政策啦",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "923213164410935_923295741069344"
+    },
+    {
       "created_time": "2015-09-08T05:53:56+0000",
       "from": {
         "name": "Frank Yin",
@@ -35,7 +47,7 @@
       },
       "message": "請問跟現況有差嗎？職棒還是四隊啊！",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "923213164410935_923229527742632"
     },
@@ -71,7 +83,7 @@
       },
       "message": "講這麼多 像寫作文一樣。又不是作文比賽。不如把體委會改到經濟部底下管轄  市場化有利潤有賺頭 才有更多人投入體育競技 體育經紀 體育用品開發 體育醫學 城市隊伍行銷等等",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "923213164410935_923217794410472"
     },

@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150908/687157/",
   "comments": [
     {
+      "created_time": "2015-09-08T09:47:09+0000",
+      "from": {
+        "name": "Tony Wu",
+        "id": "100008137000259"
+      },
+      "message": "洪陣營質疑蔡將參加國慶的動機，應該討不到便宜的。總統府發出邀請，當然希望對方能參加。站在呼籲溝通團結，自許要做桶箍的蔡英文而言，當然要答應出席國慶大會。至於說，要解釋為什麼以前不參加？以目前政治氛圍來看，如蔡陣營不用說明，洪陣營也只能莫可奈何了。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "902116253196759_902199409855110"
+    },
+    {
+      "created_time": "2015-09-08T07:39:32+0000",
+      "from": {
+        "name": "唐昌楠",
+        "id": "100008100489281"
+      },
+      "message": "系出名門就是不一樣!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "902116253196759_902162076525510"
+    },
+    {
       "created_time": "2015-09-08T06:48:49+0000",
       "from": {
         "name": "Ted Huang",
@@ -35,7 +59,7 @@
       },
       "message": "這樣講洪秀柱還能去嗎?說中華民國不存在的人.....",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "902116253196759_902137119861339"
     },
@@ -96,7 +120,7 @@
       },
       "message": "中華民國生日快樂，也希望馬政府寄信邀請習大大來參加雙十國慶，一起見證中華民國104歲生日~~",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 7,
       "user_likes": false,
       "id": "902116253196759_902117529863298"
     }

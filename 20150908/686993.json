@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150908/686993/",
   "comments": [
     {
+      "created_time": "2015-09-08T07:42:55+0000",
+      "from": {
+        "name": "Lin Lan",
+        "id": "100009642021165"
+      },
+      "message": "●台灣必須甩開藍藍內鬥及黨產的包袱\n開除國民黨是所有\n台灣改革的首要項目",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "745926855515789_746018418839966"
+    },
+    {
       "created_time": "2015-09-08T04:17:33+0000",
       "from": {
         "name": "陳紘鈞",
@@ -23,7 +35,7 @@
       },
       "message": "現代年輕人有創意.",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "745926855515789_745964735512001"
     },
@@ -59,7 +71,7 @@
       },
       "message": "百年政黨，負面資產一堆。天天罵人民粹，都怪別人對不起國民黨，從來不檢討自己的錯，",
       "can_remove": false,
-      "like_count": 12,
+      "like_count": 13,
       "user_likes": false,
       "id": "745926855515789_745931358848672"
     }

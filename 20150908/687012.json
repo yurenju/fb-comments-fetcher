@@ -4,6 +4,51 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150908/687012/",
   "comments": [
     {
+      "created_time": "2015-09-08T07:48:22+0000",
+      "from": {
+        "name": "許睿驛",
+        "id": "100006395013258"
+      },
+      "message": "我高中時也跟計程車司機發生交通事故\nBut機程車跟本沒事(我要左轉被從後面撞上)\n當時覺得我錯 所以一直跟司機道歉 司機還死不放我走 一直大罵 最後是他同行看不下去把他帶走 然後叫我可以回家了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "969818606414211_969900549739350"
+    },
+    {
+      "created_time": "2015-09-08T07:32:15+0000",
+      "from": {
+        "name": "Wu Ada",
+        "id": "100002130922943"
+      },
+      "message": "覺得 這個撞人的跟被撞的都是好人",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "969818606414211_969895129739892"
+    },
+    {
+      "created_time": "2015-09-08T07:17:55+0000",
+      "from": {
+        "name": "Alan Lee",
+        "id": "100000092764631"
+      },
+      "message": "先在 ●【爆料公社】● 看到社團成員分享的\n果然媒體很有效率跟上了! 也算相當正面的報導~\n稍早有親自致電這名司機林先生，人真的超耐斯一把，一聽就是靦腆又誠懇、深具良知與道德修維的職業小客車駕駛。\n原po當事人勇於承擔和對方的體諒貼心都相當令人敬佩，堪稱台灣人心良善光明的典範 !!\n相信 蘋果日報 應該不止該篇發文，新聞台已經前往深入採稿了~",
+      "can_remove": false,
+      "like_count": 0,
+      "message_tags": [
+        {
+          "id": "232633627068",
+          "length": 4,
+          "name": "蘋果日報",
+          "offset": 145,
+          "type": "page"
+        }
+      ],
+      "user_likes": false,
+      "id": "969818606414211_969892549740150"
+    },
+    {
       "created_time": "2015-09-08T06:28:37+0000",
       "from": {
         "name": "張佑維",
@@ -23,7 +68,7 @@
       },
       "message": "絕大部份的敲你都來不及還會關心你才怪，所以這真是個寶啊(￣▽￣)ノ",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "969818606414211_969875383075200"
     },
@@ -35,7 +80,7 @@
       },
       "message": "好溫暖",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "969818606414211_969848763077862"
     },
@@ -47,7 +92,7 @@
       },
       "message": "好像有意外險可以賠償  所以不用那麼多  這司機 人真的很好 很老實",
       "can_remove": false,
-      "like_count": 7,
+      "like_count": 9,
       "user_likes": false,
       "id": "969818606414211_969845109744894"
     },
@@ -59,7 +104,7 @@
       },
       "message": "好心有好報",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "969818606414211_969842989745106"
     },
@@ -71,7 +116,7 @@
       },
       "message": "尋求這位司機哪裡叫車電話",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 6,
       "user_likes": false,
       "id": "969818606414211_969835689745836"
     },
@@ -83,7 +128,7 @@
       },
       "message": "跟我上次遇到的糾紛(計程車與阿桑)差好多...",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 5,
       "user_likes": false,
       "id": "969818606414211_969832449746160"
     },
@@ -96,7 +141,7 @@
       },
       "message": "跟以往聽到的可怕計程車司機不一樣,祝他健康發財喔",
       "can_remove": false,
-      "like_count": 26,
+      "like_count": 32,
       "user_likes": false,
       "id": "969818606414211_969828636413208"
     },
@@ -108,7 +153,7 @@
       },
       "message": "讚啦",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 6,
       "user_likes": false,
       "id": "969818606414211_969824609746944"
     },
@@ -120,7 +165,7 @@
       },
       "message": "好人好報",
       "can_remove": false,
-      "like_count": 7,
+      "like_count": 9,
       "user_likes": false,
       "id": "969818606414211_969821943080544"
     }
