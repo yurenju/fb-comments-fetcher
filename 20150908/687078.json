@@ -4,6 +4,78 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150908/687078/",
   "comments": [
     {
+      "created_time": "2015-09-08T06:48:00+0000",
+      "from": {
+        "name": "甘丹",
+        "id": "100001891782672"
+      },
+      "message": "殼完整的蝦子會比較好吃？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1013707488661090_1013771988654640"
+    },
+    {
+      "created_time": "2015-09-08T06:37:19+0000",
+      "from": {
+        "name": "郭雅慧",
+        "id": "100001940981390"
+      },
+      "message": "因為蝦子會脫殼",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1013707488661090_1013765568655282"
+    },
+    {
+      "created_time": "2015-09-08T06:22:18+0000",
+      "from": {
+        "name": "Josh Hsieh",
+        "id": "100001955914309"
+      },
+      "message": "從腳那割開的",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1013707488661090_1013758431989329"
+    },
+    {
+      "created_time": "2015-09-08T06:20:28+0000",
+      "from": {
+        "name": "Teng Hui Huang",
+        "id": "100000431073763"
+      },
+      "message": "Youtube很多\n可以參考看看",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1013707488661090_1013757661989406"
+    },
+    {
+      "created_time": "2015-09-08T05:09:39+0000",
+      "from": {
+        "name": "魯德志",
+        "id": "100009754457464"
+      },
+      "message": "這是新聞?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1013707488661090_1013732551991917"
+    },
+    {
+      "created_time": "2015-09-08T04:48:37+0000",
+      "from": {
+        "name": "吳建富",
+        "id": "100007530465034"
+      },
+      "message": "烤之前從蝦背開一刀就行了！又沒什麼還跪求",
+      "can_remove": false,
+      "like_count": 7,
+      "user_likes": false,
+      "id": "1013707488661090_1013727951992377"
+    },
+    {
       "created_time": "2015-09-08T03:48:23+0000",
       "from": {
         "name": "Ching Wen Huang",
@@ -11,7 +83,7 @@
       },
       "message": "其實你是拓也哥對吧",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "1013707488661090_1013709418660897"
     }

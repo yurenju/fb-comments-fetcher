@@ -165,6 +165,16 @@
 ```
 
 
+## Like: 755
+
+* Author: [Rosan Lu](http://facebook.com/100000038434694)
+* Article: 【更新】45K找嘸人！　原來看到這個跑光光
+
+```
+每天工作超過十小時，加薪又慢，條件又苛，45K叫高薪？待過鞋廠的老人路過......
+```
+
+
 ## Like: 747
 
 * Author: [冰月](http://facebook.com/100003098352800)
@@ -251,16 +261,6 @@
 我們的心很痛
 阿婆已經過世了
 最氣的是車主到現在不承認過錯
-```
-
-
-## Like: 589
-
-* Author: [Rosan Lu](http://facebook.com/100000038434694)
-* Article: 【更新】45K找嘸人！　原來看到這個跑光光
-
-```
-每天工作超過十小時，加薪又慢，條件又苛，45K叫高薪？待過鞋廠的老人路過......
 ```
 
 
@@ -874,16 +874,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 272
 
-* Author: [黃健豪](http://facebook.com/100000110539798)
-* Article: 這張繳費單　讓他被遠通害慘了
-
-```
-只賠償3000  難怪遠通會氣燄囂張
-```
-
-
-## Like: 272
-
 * Author: [Alex Chen Alex](http://facebook.com/100000515083216)
 * Article: 感動！台灣合唱團　德國街頭唱國歌
 
@@ -892,15 +882,13 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
-## Like: 270
+## Like: 272
 
-* Author: [DrAgo](http://facebook.com/788860367897002)
-* Article: 【更新】冷氣開24小時　電費只比正常開關多一點
+* Author: [黃健豪](http://facebook.com/100000110539798)
+* Article: 這張繳費單　讓他被遠通害慘了
 
 ```
-開一個月冷氣的電費只要4500日圓，就台幣1500左右。
-再照日本物價來算，再除3... 一個月的支出感覺只有我們的500元。
-幹！我們的油電雙高是怎麼回事？
+只賠償3000  難怪遠通會氣燄囂張
 ```
 
 
@@ -925,6 +913,18 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 趁機轉移經濟崩壞、執政無能的焦點。
 
 雖然我不喜歡阿扁，但我越來越同情他~
+```
+
+
+## Like: 270
+
+* Author: [DrAgo](http://facebook.com/788860367897002)
+* Article: 【更新】冷氣開24小時　電費只比正常開關多一點
+
+```
+開一個月冷氣的電費只要4500日圓，就台幣1500左右。
+再照日本物價來算，再除3... 一個月的支出感覺只有我們的500元。
+幹！我們的油電雙高是怎麼回事？
 ```
 
 
@@ -1030,6 +1030,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 252
 
+* Author: [Ho Chow Lee](http://facebook.com/100007654243742)
+* Article: 【更新】要客點餐　麥當勞女服務生竟遭罵「像你這種貨色」
+
+```
+人也是分很多等級看你的談吐應該也是下下等级吧
+```
+
+
+## Like: 252
+
 * Author: [王佩瑛](http://facebook.com/1389173988)
 * Article: 養這等軍官、檢察官何用？
 
@@ -1049,16 +1059,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 晚上也只要有電風扇就能睡
 現在裝冷氣真的變得很不耐熱 回房就想開冷氣
 長期下來電費又貴 又讓自己變的嫩嫩的 真的要克制一下
-```
-
-
-## Like: 252
-
-* Author: [Ho Chow Lee](http://facebook.com/100007654243742)
-* Article: 【更新】要客點餐　麥當勞女服務生竟遭罵「像你這種貨色」
-
-```
-人也是分很多等級看你的談吐應該也是下下等级吧
 ```
 
 
@@ -1084,16 +1084,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 249
 
-* Author: [Jack Lin](http://facebook.com/100000630294768)
-* Article: 【更新】硬撐引路救4幼犬　重病狗媽噴血亡
-
-```
-請問如何領養
-```
-
-
-## Like: 249
-
 * Author: [Yung-Chien Chou](http://facebook.com/100005668369242)
 * Article: 「女友懷孕了」　接下來4個字綠綠der
 
@@ -1103,6 +1093,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 曾經巫山共徘徊，明鏡哪堪惹塵埃，
 莫問伴侶過往事，懊惱只是添疑猜！
+```
+
+
+## Like: 249
+
+* Author: [Jack Lin](http://facebook.com/100000630294768)
+* Article: 【更新】硬撐引路救4幼犬　重病狗媽噴血亡
+
+```
+請問如何領養
 ```
 
 

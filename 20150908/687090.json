@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150908/687090/",
   "comments": [
     {
+      "created_time": "2015-09-08T04:21:56+0000",
+      "from": {
+        "name": "霧丸",
+        "id": "100000202010273"
+      },
+      "message": "每次看到文末\"警方將調查槍枝來源\" \n然後都沒下文,下次一樣又有人持槍出現",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "869687609745992_869696486411771"
+    },
+    {
       "created_time": "2015-09-08T03:59:47+0000",
       "from": {
         "name": "Rott Liu",
@@ -11,21 +23,9 @@
       },
       "message": "好想看到底是怎麼做的為什麼可以讓人分不出來...",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "869687609745992_869690806412339"
-    },
-    {
-      "created_time": "2015-09-08T03:58:22+0000",
-      "from": {
-        "name": "陳甄",
-        "id": "100010325917742"
-      },
-      "message": "http://sina.lt/ckBj",
-      "can_remove": false,
-      "like_count": 0,
-      "user_likes": false,
-      "id": "869687609745992_869690603079026"
     }
   ]
 }

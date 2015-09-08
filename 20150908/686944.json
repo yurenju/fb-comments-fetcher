@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150908/686944/",
   "comments": [
     {
+      "created_time": "2015-09-08T04:41:42+0000",
+      "from": {
+        "name": "黃昇鵬",
+        "id": "100000723670943"
+      },
+      "message": "民進黨執政，蚊子滿天飛，空心菜還是躺著選!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1150935381586784_1151068248240164"
+    },
+    {
+      "created_time": "2015-09-08T04:40:36+0000",
+      "from": {
+        "name": "陳佩容",
+        "id": "100004611374578"
+      },
+      "message": "把住家四周環境衛生維持好才是根本的辦法，也可用樟腦油香茅油殺菌防蚊，訂購專線0988575865",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1150935381586784_1151067878240201"
+    },
+    {
       "created_time": "2015-09-08T03:32:10+0000",
       "from": {
         "name": "Andy Lin",
@@ -95,7 +119,7 @@
       },
       "message": "上個月初記得賴市長有上電視要市民別緊張，一付事不關己的談話。看來賴應該是嫌目前市民人太多，想到消滅掉一些人吧～",
       "can_remove": false,
-      "like_count": 7,
+      "like_count": 8,
       "user_likes": false,
       "id": "1150935381586784_1150994381580884"
     },
