@@ -884,16 +884,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 270
 
-* Author: [Ching Wen Huang](http://facebook.com/100000310422454)
-* Article: 史上最萌颱風　水汪汪大眼對著你笑
-
-```
-阿進～你一定要記住啊，害死你爹爹的人，我見過他，他的樣子很奇怪，他永遠都好像對著你笑，笑到你心裡發寒，你一定要去找那個人～
-```
-
-
-## Like: 270
-
 * Author: [DrAgo](http://facebook.com/788860367897002)
 * Article: 【更新】冷氣開24小時　電費只比正常開關多一點
 
@@ -915,6 +905,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 趁機轉移經濟崩壞、執政無能的焦點。
 
 雖然我不喜歡阿扁，但我越來越同情他~
+```
+
+
+## Like: 270
+
+* Author: [Ching Wen Huang](http://facebook.com/100000310422454)
+* Article: 史上最萌颱風　水汪汪大眼對著你笑
+
+```
+阿進～你一定要記住啊，害死你爹爹的人，我見過他，他的樣子很奇怪，他永遠都好像對著你笑，笑到你心裡發寒，你一定要去找那個人～
 ```
 
 
@@ -966,6 +966,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 259
 
+* Author: [Jm Tseng](http://facebook.com/100000170151566)
+* Article: 【更新】短褲妹挨撞命危　影片曝光
+
+```
+等下就有親友團上來了…………
+```
+
+
+## Like: 259
+
 * Author: [Joy Chien](http://facebook.com/1265613382)
 * Article: 16歲少女問「什麼是砲友？」　爸媽竟然...
 
@@ -973,16 +983,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 16歲了父母什麼都不教
 
 結果被外人帶去體驗營了
-```
-
-
-## Like: 259
-
-* Author: [Jm Tseng](http://facebook.com/100000170151566)
-* Article: 【更新】短褲妹挨撞命危　影片曝光
-
-```
-等下就有親友團上來了…………
 ```
 
 
@@ -1020,15 +1020,11 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 252
 
-* Author: [春米六](http://facebook.com/100000280839720)
-* Article: 【更新】冷氣開24小時　電費只比正常開關多一點
+* Author: [Ho Chow Lee](http://facebook.com/100007654243742)
+* Article: 【更新】要客點餐　麥當勞女服務生竟遭罵「像你這種貨色」
 
 ```
-我發現吹冷氣真的沒比較好
-我以前房間沒冷氣 都能在大台陽下做事
-晚上也只要有電風扇就能睡
-現在裝冷氣真的變得很不耐熱 回房就想開冷氣
-長期下來電費又貴 又讓自己變的嫩嫩的 真的要克制一下
+人也是分很多等級看你的談吐應該也是下下等级吧
 ```
 
 
@@ -1044,11 +1040,15 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 252
 
-* Author: [Ho Chow Lee](http://facebook.com/100007654243742)
-* Article: 【更新】要客點餐　麥當勞女服務生竟遭罵「像你這種貨色」
+* Author: [春米六](http://facebook.com/100000280839720)
+* Article: 【更新】冷氣開24小時　電費只比正常開關多一點
 
 ```
-人也是分很多等級看你的談吐應該也是下下等级吧
+我發現吹冷氣真的沒比較好
+我以前房間沒冷氣 都能在大台陽下做事
+晚上也只要有電風扇就能睡
+現在裝冷氣真的變得很不耐熱 回房就想開冷氣
+長期下來電費又貴 又讓自己變的嫩嫩的 真的要克制一下
 ```
 
 
@@ -1074,16 +1074,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 249
 
-* Author: [Jack Lin](http://facebook.com/100000630294768)
-* Article: 【更新】硬撐引路救4幼犬　重病狗媽噴血亡
-
-```
-請問如何領養
-```
-
-
-## Like: 249
-
 * Author: [Yung-Chien Chou](http://facebook.com/100005668369242)
 * Article: 「女友懷孕了」　接下來4個字綠綠der
 
@@ -1093,6 +1083,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 曾經巫山共徘徊，明鏡哪堪惹塵埃，
 莫問伴侶過往事，懊惱只是添疑猜！
+```
+
+
+## Like: 249
+
+* Author: [Jack Lin](http://facebook.com/100000630294768)
+* Article: 【更新】硬撐引路救4幼犬　重病狗媽噴血亡
+
+```
+請問如何領養
 ```
 
 
