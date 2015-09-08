@@ -683,21 +683,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 318
 
-* Author: [Chieh Chou](http://facebook.com/100007754260230)
-* Article: 邱毅嘲諷ＡＶ女優　網友整理犯罪史神打臉
-
-```
-波多野結衣最基本分辨的出香蕉與太陽花，光這點邱毅就可以洗洗睡了....
-```
-
-
-## Like: 318
-
 * Author: [Mubetei Sai](http://facebook.com/100000951205185)
 * Article: 不切割！　洪秀柱：為何馬英九聲望比扁低
 
 ```
 以你的智慧我很難跟你解釋啊…
+```
+
+
+## Like: 318
+
+* Author: [Chieh Chou](http://facebook.com/100007754260230)
+* Article: 邱毅嘲諷ＡＶ女優　網友整理犯罪史神打臉
+
+```
+波多野結衣最基本分辨的出香蕉與太陽花，光這點邱毅就可以洗洗睡了....
 ```
 
 
@@ -874,16 +874,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 272
 
-* Author: [黃健豪](http://facebook.com/100000110539798)
-* Article: 這張繳費單　讓他被遠通害慘了
-
-```
-只賠償3000  難怪遠通會氣燄囂張
-```
-
-
-## Like: 272
-
 * Author: [Alex Chen Alex](http://facebook.com/100000515083216)
 * Article: 感動！台灣合唱團　德國街頭唱國歌
 
@@ -892,17 +882,13 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
-## Like: 270
+## Like: 272
 
-* Author: [9.2%的blue](http://facebook.com/166284357037138)
-* Article: 陳水扁散步活跳跳　邊走還可邊滑手機
+* Author: [黃健豪](http://facebook.com/100000110539798)
+* Article: 這張繳費單　讓他被遠通害慘了
 
 ```
-「周刊王」在幫馬英九鋪路，
-準備把阿扁隨時關回牢裡，
-趁機轉移經濟崩壞、執政無能的焦點。
-
-雖然我不喜歡阿扁，但我越來越同情他~
+只賠償3000  難怪遠通會氣燄囂張
 ```
 
 
@@ -925,6 +911,20 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 開一個月冷氣的電費只要4500日圓，就台幣1500左右。
 再照日本物價來算，再除3... 一個月的支出感覺只有我們的500元。
 幹！我們的油電雙高是怎麼回事？
+```
+
+
+## Like: 270
+
+* Author: [9.2%的blue](http://facebook.com/166284357037138)
+* Article: 陳水扁散步活跳跳　邊走還可邊滑手機
+
+```
+「周刊王」在幫馬英九鋪路，
+準備把阿扁隨時關回牢裡，
+趁機轉移經濟崩壞、執政無能的焦點。
+
+雖然我不喜歡阿扁，但我越來越同情他~
 ```
 
 
@@ -1030,16 +1030,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 252
 
-* Author: [Ho Chow Lee](http://facebook.com/100007654243742)
-* Article: 【更新】要客點餐　麥當勞女服務生竟遭罵「像你這種貨色」
-
-```
-人也是分很多等級看你的談吐應該也是下下等级吧
-```
-
-
-## Like: 252
-
 * Author: [春米六](http://facebook.com/100000280839720)
 * Article: 【更新】冷氣開24小時　電費只比正常開關多一點
 
@@ -1059,6 +1049,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ```
 這不是權貴，那什麼是權貴
+```
+
+
+## Like: 252
+
+* Author: [Ho Chow Lee](http://facebook.com/100007654243742)
+* Article: 【更新】要客點餐　麥當勞女服務生竟遭罵「像你這種貨色」
+
+```
+人也是分很多等級看你的談吐應該也是下下等级吧
 ```
 
 
@@ -1084,16 +1084,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 249
 
-* Author: [Jack Lin](http://facebook.com/100000630294768)
-* Article: 【更新】硬撐引路救4幼犬　重病狗媽噴血亡
-
-```
-請問如何領養
-```
-
-
-## Like: 249
-
 * Author: [Yung-Chien Chou](http://facebook.com/100005668369242)
 * Article: 「女友懷孕了」　接下來4個字綠綠der
 
@@ -1103,6 +1093,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 曾經巫山共徘徊，明鏡哪堪惹塵埃，
 莫問伴侶過往事，懊惱只是添疑猜！
+```
+
+
+## Like: 249
+
+* Author: [Jack Lin](http://facebook.com/100000630294768)
+* Article: 【更新】硬撐引路救4幼犬　重病狗媽噴血亡
+
+```
+請問如何領養
 ```
 
 
