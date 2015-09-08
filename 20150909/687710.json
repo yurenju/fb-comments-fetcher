@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150909/687710/",
   "comments": [
     {
+      "created_time": "2015-09-08T20:56:19+0000",
+      "from": {
+        "name": "Winnie Tsao",
+        "id": "100000421119321"
+      },
+      "message": "為什麼覺得想笑啊！？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1031962580177699_1032090343498256"
+    },
+    {
+      "created_time": "2015-09-08T19:51:03+0000",
+      "from": {
+        "name": "林尚賢",
+        "id": "100001835200368"
+      },
+      "message": "我看不是會增加正能量，倒是可能會有短命的危機！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1031962580177699_1032063800167577"
+    },
+    {
       "created_time": "2015-09-08T18:21:08+0000",
       "from": {
         "name": "陳居祝",
@@ -59,7 +83,7 @@
       },
       "message": "有這種老婆，老公怎還會有正能量？不去跳樓撞牆，生命力已經很強了。",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 7,
       "user_likes": false,
       "id": "1031962580177699_1031994373507853"
     },
@@ -95,7 +119,7 @@
       },
       "message": "不是台灣人\n應該是外配",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1031962580177699_1031971990176758"
     }
