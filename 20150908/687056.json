@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150908/687056/",
   "comments": [
     {
+      "created_time": "2015-09-08T10:37:20+0000",
+      "from": {
+        "name": "陳力",
+        "id": "100009208194435"
+      },
+      "message": "………………",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "917545371644416_917721864960100"
+    },
+    {
       "created_time": "2015-09-08T08:41:00+0000",
       "from": {
         "name": "海王子",
@@ -71,7 +83,7 @@
       },
       "message": "許純美？？",
       "can_remove": false,
-      "like_count": 11,
+      "like_count": 15,
       "user_likes": false,
       "id": "917545371644416_917546841644269"
     }

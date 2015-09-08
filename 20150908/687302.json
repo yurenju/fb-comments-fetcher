@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150908/687302/",
   "comments": [
     {
+      "created_time": "2015-09-08T12:15:15+0000",
+      "from": {
+        "name": "Sheep Jhan",
+        "id": "100009945915711"
+      },
+      "message": "就像American eagle的顏色一樣 黑 白 黃 三種顏色缺一不可 這樣的老鷹才是完整的 黃種人對美國的貢獻 希望美國人不要輕易抹煞",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "951378081602382_951464768260380"
+    },
+    {
+      "created_time": "2015-09-08T11:18:27+0000",
+      "from": {
+        "name": "Torito Cheng",
+        "id": "100010201749448"
+      },
+      "message": "結果是「Now More Chinese」",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "951378081602382_951442414929282"
+    },
+    {
+      "created_time": "2015-09-08T10:20:15+0000",
+      "from": {
+        "name": "Along Wu",
+        "id": "100000655623089"
+      },
+      "message": "誰離中國近誰雖小，越南泰國如出一輒，台灣人被當中國人炸，砸?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "951378081602382_951426561597534"
+    },
+    {
       "created_time": "2015-09-08T09:21:13+0000",
       "from": {
         "name": "Vic Wong",
@@ -23,7 +59,7 @@
       },
       "message": "台灣要推廣",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "951378081602382_951399828266874"
     },
@@ -35,7 +71,7 @@
       },
       "message": "https://tw.news.yahoo.com/被要求噤聲-加國世姐控中迫害如惡夢成真-063048760.html",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "951378081602382_951383108268546"
     }

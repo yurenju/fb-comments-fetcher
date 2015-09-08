@@ -4,6 +4,726 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150908/687326/",
   "comments": [
     {
+      "created_time": "2015-09-08T12:55:13+0000",
+      "from": {
+        "name": "徐詩婷",
+        "id": "100000324444244"
+      },
+      "message": "這樣很可愛啊\n小時候胖不是胖，那位沒聽過嗎",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032421900131474"
+    },
+    {
+      "created_time": "2015-09-08T12:53:49+0000",
+      "from": {
+        "name": "Youngyuan Lin",
+        "id": "100004047766783"
+      },
+      "message": "心髒人也髒，看的世界也比較髒，生活應該不快樂...",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032421386798192"
+    },
+    {
+      "created_time": "2015-09-08T12:49:18+0000",
+      "from": {
+        "name": "賴流星",
+        "id": "100000135327132"
+      },
+      "message": "妹妹好可愛 現在流行棉花糖女孩",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032419520131712"
+    },
+    {
+      "created_time": "2015-09-08T12:38:09+0000",
+      "from": {
+        "name": "吳君凱",
+        "id": "100000722602072"
+      },
+      "message": "大多人都喜歡小孩肥肥的樣子= =",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032407346799596"
+    },
+    {
+      "created_time": "2015-09-08T12:33:56+0000",
+      "from": {
+        "name": "傅涼風",
+        "id": "100009267901863"
+      },
+      "message": "很可愛，小孩子就要長這樣才可愛啊。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032405553466442"
+    },
+    {
+      "created_time": "2015-09-08T12:23:07+0000",
+      "from": {
+        "name": "蔡宜珊",
+        "id": "100000445646567"
+      },
+      "message": "小姐妳有事嗎？想紅也不是這樣吧！妳是嫉妒人家很會養小孩嗎？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032398903467107"
+    },
+    {
+      "created_time": "2015-09-08T12:11:26+0000",
+      "from": {
+        "name": "李來進",
+        "id": "100009323184555"
+      },
+      "message": "每一個孩子都是父母親的心頭肉，這位女士請自己摸良心想一想，你這樣對麼？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032393746800956"
+    },
+    {
+      "created_time": "2015-09-08T12:09:22+0000",
+      "from": {
+        "name": "Manee Kuo",
+        "id": "100009377452310"
+      },
+      "message": "嘴巴真壞，心我看也不怎麼好！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032392510134413"
+    },
+    {
+      "created_time": "2015-09-08T12:08:55+0000",
+      "from": {
+        "name": "陳恩怡",
+        "id": "100002679489625"
+      },
+      "message": "那裡醜了???\n那麼Q 又那麼可愛\n那個賴姓女士才是心醜多作怪",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032392266801104"
+    },
+    {
+      "created_time": "2015-09-08T12:06:37+0000",
+      "from": {
+        "name": "陈霄湖",
+        "id": "100010323967349"
+      },
+      "message": "小孩很可愛啊 說真的 胖胖的小孩多可愛！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032390433467954"
+    },
+    {
+      "created_time": "2015-09-08T12:04:01+0000",
+      "from": {
+        "name": "Moon Ae",
+        "id": "100001076923437"
+      },
+      "message": "請不要隨意拍攝路人跟妹（不是每個人都喜歡被拍然後放上網的）拍照po網不需要問過當事人嗎（被拍的是作了犯法的事嗎）",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032387930134871"
+    },
+    {
+      "created_time": "2015-09-08T12:00:58+0000",
+      "from": {
+        "name": "Moon Ae",
+        "id": "100001076923437"
+      },
+      "message": "有些人嘴巴真的很賤。控制不了自己情緒就應該避免公開發言。每個人雖然都有言論自由（但不表示可以隨意污辱他們）沒被告是好運而已",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032386686801662"
+    },
+    {
+      "created_time": "2015-09-08T11:59:59+0000",
+      "from": {
+        "name": "陳君慧",
+        "id": "100001737412797"
+      },
+      "message": "這樣的媽只會教出有問題的孩子！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032386353468362"
+    },
+    {
+      "created_time": "2015-09-08T11:52:56+0000",
+      "from": {
+        "name": "黃義嘉",
+        "id": "100008411922227"
+      },
+      "message": "小朋友也有人權喔",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032384040135260"
+    },
+    {
+      "created_time": "2015-09-08T11:50:32+0000",
+      "from": {
+        "name": "黃義嘉",
+        "id": "100008411922227"
+      },
+      "message": "奉勸大家說話大腦靈光些.法律等著你喔。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032382913468706"
+    },
+    {
+      "created_time": "2015-09-08T11:48:01+0000",
+      "from": {
+        "name": "Anan Liu",
+        "id": "100000049958967"
+      },
+      "message": "我覺得小時候胖不是胖，演藝圈不是有很多醜小鴨變天鵝的例子～",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032382030135461"
+    },
+    {
+      "created_time": "2015-09-08T11:44:17+0000",
+      "from": {
+        "name": "蔡明芳",
+        "id": "1788316292"
+      },
+      "message": "沒辦法理解這同樣是ㄧ個有小孩ㄉ媽媽講出來ㄉ話，有經過腦袋想過嗎!!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032380763468921"
+    },
+    {
+      "created_time": "2015-09-08T11:42:48+0000",
+      "from": {
+        "name": "Amanda Jin",
+        "id": "100000240882934"
+      },
+      "message": "孩子還小～以後會女大18變的",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032380233468974"
+    },
+    {
+      "created_time": "2015-09-08T11:30:41+0000",
+      "from": {
+        "name": "吳博鈞",
+        "id": "100000479949752"
+      },
+      "message": "過胖，確實要拘束小孩的飲食，以正餐為主，速食、炸物要克制少量，這個樣子非健康，算亞健康，正在發育的健康胖體態不是這樣。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032375920136072"
+    },
+    {
+      "created_time": "2015-09-08T11:30:10+0000",
+      "from": {
+        "name": "陳月鳳",
+        "id": "100000193377864"
+      },
+      "message": "這女人真的是嘴賤，同是為人父母的人，竟沒同理心，將來怎麼教育自己的孩子呢？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032375786802752"
+    },
+    {
+      "created_time": "2015-09-08T11:28:58+0000",
+      "from": {
+        "name": "Cat Chi",
+        "id": "100000534237542"
+      },
+      "message": "小孩高矮胖瘦都不是問題！重點是他們都很可愛！每個都是爸媽的寶不需這樣批評！那請問批評人家的那位你是公認的美人嗎",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032375466802784"
+    },
+    {
+      "created_time": "2015-09-08T11:21:20+0000",
+      "from": {
+        "name": "CrazyMan Wu",
+        "id": "1707180835"
+      },
+      "message": "想當初我在嘉義民雄的某技術學院門口等車時，來了一輛萬X工商的校車，結果車上的女學生打開窗戶直接對我吼說：ㄟ，你怎麼那麼胖！當時我雖18歲左右，但心靈也受了不小創傷啊啊啊啊><",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1032315473475450_1032372860136378"
+    },
+    {
+      "created_time": "2015-09-08T11:21:10+0000",
+      "from": {
+        "name": "江莉婷",
+        "id": "100006652664792"
+      },
+      "message": "找不到那人的臉書~\n到底憑什麼這樣批評孩子?\n(我們大家不是正義使者也不是酸民，就是看不慣妳這樣的人，都為人父母了心也太歹毒了吧~我也很胖，要不要跟我打一架?說不定我比妳還靈)",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1032315473475450_1032372803469717"
+    },
+    {
+      "created_time": "2015-09-08T11:20:17+0000",
+      "from": {
+        "name": "黃小魚",
+        "id": "599023313"
+      },
+      "message": "父母的作為會報應在小孩身上ㄝ！\n要惡毒前，請三思！",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1032315473475450_1032372530136411"
+    },
+    {
+      "created_time": "2015-09-08T11:16:50+0000",
+      "from": {
+        "name": "石哲豪",
+        "id": "100000479632111"
+      },
+      "message": "白目告五春",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032371430136521"
+    },
+    {
+      "created_time": "2015-09-08T11:15:45+0000",
+      "from": {
+        "name": "Huang Shi Ting",
+        "id": "100004073264514"
+      },
+      "message": "結果這個小孩長大變正妹，\n他的小孩長大後變大胖子。\n╮(╯▽╰)╭",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1032315473475450_1032371073469890"
+    },
+    {
+      "created_time": "2015-09-08T11:08:42+0000",
+      "from": {
+        "name": "Megan Huang",
+        "id": "100003392293983"
+      },
+      "message": "要是我 ㄧ定告到你脫褲藍⋯ 白目",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032368383470159"
+    },
+    {
+      "created_time": "2015-09-08T11:06:19+0000",
+      "from": {
+        "name": "Daniel Lin",
+        "id": "100001304349498"
+      },
+      "message": "4月的事了...",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032367870136877"
+    },
+    {
+      "created_time": "2015-09-08T11:00:04+0000",
+      "from": {
+        "name": "李欣亭",
+        "id": "100007720307484"
+      },
+      "message": "小朋友胖胖的很可愛啊",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032365713470426"
+    },
+    {
+      "created_time": "2015-09-08T10:53:35+0000",
+      "from": {
+        "name": "Eagle Chen",
+        "id": "100008255525925"
+      },
+      "message": "強烈贊成女孩父親提告；..未經同意偷拍還批評人家..太過分了..\n雖然我嘴也很壞！但..毒舌也要看情況好嗎？..太過分了..",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032363566803974"
+    },
+    {
+      "created_time": "2015-09-08T10:51:19+0000",
+      "from": {
+        "name": "Joy Hsieh",
+        "id": "686448113"
+      },
+      "message": "說話是一種藝術，說的不好寧可當啞巴就好。講這什麼話？這樣對孩子的傷害有多大？父母又該多心疼？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032363046804026"
+    },
+    {
+      "created_time": "2015-09-08T10:51:04+0000",
+      "from": {
+        "name": "洪毓蓮",
+        "id": "1497947014"
+      },
+      "message": "多誇獎自己小孩，少批評別人小孩",
+      "can_remove": false,
+      "like_count": 4,
+      "user_likes": false,
+      "id": "1032315473475450_1032362966804034"
+    },
+    {
+      "created_time": "2015-09-08T10:50:02+0000",
+      "from": {
+        "name": "詹豐任",
+        "id": "100000224716637"
+      },
+      "message": "明明就很可愛",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032362783470719"
+    },
+    {
+      "created_time": "2015-09-08T10:49:34+0000",
+      "from": {
+        "name": "王信堯",
+        "id": "100000242412133"
+      },
+      "message": "出生到現在從沒瘦過的我，真想知道胖子到底是招誰惹誰了！？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032362663470731"
+    },
+    {
+      "created_time": "2015-09-08T10:49:09+0000",
+      "from": {
+        "name": "王星淯",
+        "id": "100007777751842"
+      },
+      "message": "嫌3歲不到的小孩子胖---我倒是想看看這個偷拍人家的女人---妳自己是長的多正?!____沒聽過小時候胖不是胖嗎？---小朋友惹到妳了嗎？!---我看妳已經惹火社會大眾了!!!相信妳也不會是什麼好人----因為妳會無故的去攻擊一個小小孩---證明妳的人品實在無敵的差+沒品!!!",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1032315473475450_1032362550137409"
+    },
+    {
+      "created_time": "2015-09-08T10:48:17+0000",
+      "from": {
+        "name": "Tingwei Chen",
+        "id": "100000270917139"
+      },
+      "message": "我覺得妹妹好可愛啊～這位小姐當了媽媽了卻做了非常不良的示範，將心比心，如果是我也會很生氣，很心疼。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032362330137431"
+    },
+    {
+      "created_time": "2015-09-08T10:47:18+0000",
+      "from": {
+        "name": "Mike Chung",
+        "id": "100000343196941"
+      },
+      "message": "很可爱呀！我喜欢。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032362063470791"
+    },
+    {
+      "created_time": "2015-09-08T10:46:42+0000",
+      "from": {
+        "name": "黎敏華",
+        "id": "100000726460961"
+      },
+      "message": "我還希望我小孩胖一點呢！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032361846804146"
+    },
+    {
+      "created_time": "2015-09-08T10:45:46+0000",
+      "from": {
+        "name": "陳琴",
+        "id": "100007250986265"
+      },
+      "message": "不會啊～好可愛的小蘋果，那位太太不知道女大18變嗎？別人家小孩醜，這話可不要說太早，你家的寶貝，還在成長中呢，不要這（醜）字，以後掛你寶貝身上啊～",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032361633470834"
+    },
+    {
+      "created_time": "2015-09-08T10:44:08+0000",
+      "from": {
+        "name": "李維善",
+        "id": "100005641158916"
+      },
+      "message": "你如果一定要叫那個小女孩胖子，前面能不能不要加個「死」字呢？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032361056804225"
+    },
+    {
+      "created_time": "2015-09-08T10:43:51+0000",
+      "from": {
+        "name": "盧素貞",
+        "id": "100001898272171"
+      },
+      "message": "小時候胖不是胖，我小時候也是三層肉，過了26歲就沒胖過了，現在45歲，想胖胖不起來！過了中年有點肉看起來比較不刻薄，現在是一臉後母像",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032360950137569"
+    },
+    {
+      "created_time": "2015-09-08T10:40:54+0000",
+      "from": {
+        "name": "Yeng Wen",
+        "id": "100000342448441"
+      },
+      "message": "用情緒說話的惡業...",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032359863471011"
+    },
+    {
+      "created_time": "2015-09-08T10:40:01+0000",
+      "from": {
+        "name": "柯諭驊",
+        "id": "100001856221254"
+      },
+      "message": "該提告就要提告，否則這女的還是管不住自己的嘴。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032359713471026"
+    },
+    {
+      "created_time": "2015-09-08T10:38:15+0000",
+      "from": {
+        "name": "David Lkk Chen",
+        "id": "100003309438463"
+      },
+      "message": "除非醫生證明賴女是精神病，否則絕不可原諒！並將其照片公開，看她多美？",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1032315473475450_1032359423471055"
+    },
+    {
+      "created_time": "2015-09-08T10:37:33+0000",
+      "from": {
+        "name": "Candy Huang",
+        "id": "100004380463702"
+      },
+      "message": "那女的真的有問題，但～體重太超過對健康不太好～",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1032315473475450_1032359260137738"
+    },
+    {
+      "created_time": "2015-09-08T10:35:19+0000",
+      "from": {
+        "name": "徐沛姍",
+        "id": "100000263927287"
+      },
+      "message": "無言，胖怎麼不好！缺口德",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032358706804460"
+    },
+    {
+      "created_time": "2015-09-08T10:34:17+0000",
+      "from": {
+        "name": "費歐娜",
+        "id": "100009840162434"
+      },
+      "message": "那個沒品的女生已經把三個版關了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032358350137829"
+    },
+    {
+      "created_time": "2015-09-08T10:33:27+0000",
+      "from": {
+        "name": "陳宜瑞",
+        "id": "100000212431524"
+      },
+      "message": "小時候胖，不是真正的胖",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032358080137856"
+    },
+    {
+      "created_time": "2015-09-08T10:32:09+0000",
+      "from": {
+        "name": "黃宗勝",
+        "id": "1157677323"
+      },
+      "message": "嘴在臭什麼啦???\n女大18變不知道嗎?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032357773471220"
+    },
+    {
+      "created_time": "2015-09-08T10:31:28+0000",
+      "from": {
+        "name": "Jenshon Yan",
+        "id": "566701079"
+      },
+      "message": "嘴賤的下場！沒什麼好同情的\n妳媽沒教妳出門前先照照鏡子嗎",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032357633471234"
+    },
+    {
+      "created_time": "2015-09-08T10:31:20+0000",
+      "from": {
+        "name": "Candy Lu",
+        "id": "100001877701089"
+      },
+      "message": "身教  言教都重要",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1032315473475450_1032357610137903"
+    },
+    {
+      "created_time": "2015-09-08T10:28:32+0000",
+      "from": {
+        "name": "陳力",
+        "id": "100009208194435"
+      },
+      "message": "小時候胖不是胖，長大還那麼胖\n胖不是病，胖起來要小命\n....…………………………………………\n可不可愛是一回事\n心血管，膽固醇，心臟等器官……\n要注意！！！！！！",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1032315473475450_1032356970137967"
+    },
+    {
+      "created_time": "2015-09-08T10:26:33+0000",
+      "from": {
+        "name": "林咨妤",
+        "id": "1518030411"
+      },
+      "message": "她關版了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032356533471344"
+    },
+    {
+      "created_time": "2015-09-08T10:24:52+0000",
+      "from": {
+        "name": "細菌",
+        "id": "100001843123963"
+      },
+      "message": "小時候胖不是胖………",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032356096804721"
+    },
+    {
+      "created_time": "2015-09-08T10:21:09+0000",
+      "from": {
+        "name": "歐塞康",
+        "id": "100001422561386"
+      },
+      "message": "胖胖的很可愛啊，為什麼要+死字?小時後胖長大又不一定會胖=.=",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032354993471498"
+    },
+    {
+      "created_time": "2015-09-08T10:19:27+0000",
+      "from": {
+        "name": "曹宇捷",
+        "id": "100000751344280"
+      },
+      "message": "老婆對不起我決定原諒他，要怪就怪我吧！我沒有能力保護小孩的自尊，但我會努力愛你們的\n---------------------------------------------------------------------------------------------\n這句話有洋蔥啊,身為父母親的我們,感同身受",
+      "can_remove": false,
+      "like_count": 7,
+      "user_likes": false,
+      "id": "1032315473475450_1032354673471530"
+    },
+    {
+      "created_time": "2015-09-08T10:17:21+0000",
+      "from": {
+        "name": "Yo Yo Ma",
+        "id": "100000279138878"
+      },
+      "message": "那麼媽媽很不應該，人生父母養你給人家說成這樣，是說這個爸爸該注意女兒的身體健康了......我覺得小朋友還小不懂事，大人就要多注意，不是放任小朋友從小健康就亮紅燈!!!",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1032315473475450_1032354263471571"
+    },
+    {
+      "created_time": "2015-09-08T10:14:45+0000",
+      "from": {
+        "name": "歐巴",
+        "id": "100004428858095"
+      },
+      "message": "道歉是怕被告?還是真的道歉?這種個性不是說改就改的Orz…",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032353623471635"
+    },
+    {
+      "created_time": "2015-09-08T10:13:45+0000",
+      "from": {
+        "name": "Lois Lin",
+        "id": "701816772"
+      },
+      "message": "讓我想起一個叫陳沂的女人，也是這樣攻擊別人女兒的身材。",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "1032315473475450_1032353233471674"
+    },
+    {
+      "created_time": "2015-09-08T10:02:43+0000",
+      "from": {
+        "name": "許迪樓",
+        "id": "100001629212589"
+      },
+      "message": "看到這篇報導，我覺得這位賴女，你真的很不適合當媽耶！\n你小孩長大一定會跟你一樣，嫌棄你。\n每個小孩都是個寶，你無需在那裝清高",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032315473475450_1032349300138734"
+    },
+    {
       "created_time": "2015-09-08T09:56:27+0000",
       "from": {
         "name": "Jennifer Chen",
@@ -23,7 +743,7 @@
       },
       "message": "哈哈，批評人家的孩子是很沒品的行為，被批評的這方別太生氣了，人家說小時候胖不是胖呀，女大十八變啦，會變成美女的。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "1032315473475450_1032345373472460"
     },
@@ -35,7 +755,7 @@
       },
       "message": "賴女剛開始的言論雖然很惡毒傷人，\n但畢竟也道歉了，這樣的結果很讚!!",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1032315473475450_1032343913472606"
     },
@@ -59,7 +779,7 @@
       },
       "message": "做父母的言教這麼差勁，每個小孩都是父母心頭肉，今妳小孩不胖，但如果別人發文說妳家小朋友醜到像阿凡達，試問妳會不氣嗎？做人做事都要留意自身的態度，社會亂像都是由小事衍大，真的不可取",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "1032315473475450_1032342796806051"
     },
@@ -71,7 +791,7 @@
       },
       "message": "額.....這個媽媽的言論真的很不好，胖的人會胖有時候不是他們願意的，有時候時先天的疾病，有時是基因的遺傳，吃再少都會胖，請有同理心，胖的人真的很可憐，不但會被人岐視生活上多少都會遇到困難，請不要用外表去評斷一個人，請用愛與同理心包容和我們不一樣的人。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 7,
       "user_likes": false,
       "id": "1032315473475450_1032342753472722"
     },
@@ -119,7 +839,7 @@
       },
       "message": "人家小孩怎麼樣於你無關~自己管好自己的嘴巴何必要造口業?\n你今天著樣嫌棄人家的小孩改天也會有人嫌棄你的孩子~有點同理心~\n你今天罵了一個3歲小孩你對嗎?做為人母你不感到丟臉嗎??\n雖然有道歉但你的行為已經造成小孩心靈受創了\n你知道嗎??",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 6,
       "user_likes": false,
       "id": "1032315473475450_1032340296806301"
     },
@@ -131,7 +851,7 @@
       },
       "message": "鄭爸爸，也該稍控制小朋友的飲食了，否則將來體重會變成她生理和心理的負擔。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1032315473475450_1032340110139653"
     },
@@ -179,7 +899,7 @@
       },
       "message": "這個爸爸很偉大。賴女道歉。用寬宏的心原諒她。給這爸爸ㄧ個讚",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 5,
       "user_likes": false,
       "id": "1032315473475450_1032339390139725"
     },
@@ -203,7 +923,7 @@
       },
       "message": "小時候胖是可愛    長大還胖就完蛋   \n\n沒瘦下來到時候要被霸凌了",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1032315473475450_1032338303473167"
     },
@@ -215,7 +935,7 @@
       },
       "message": "幹你娘 事情大條了才來道歉還需要警察衝三小",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "1032315473475450_1032338033473194"
     },
@@ -227,7 +947,7 @@
       },
       "message": "幹~!人家有錢才可以吃得白白胖胖啊~!!難道像你窮酸樣吃得瘦趴趴嗎?",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "1032315473475450_1032337913473206"
     },
@@ -239,7 +959,7 @@
       },
       "message": "小朋友胖胖的很可愛啊！哪裡醜啊？",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1032315473475450_1032337443473253"
     },
@@ -263,7 +983,7 @@
       },
       "message": "妳的心更醜陋、噁心！",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "1032315473475450_1032336560140008"
     },
@@ -299,7 +1019,7 @@
       },
       "message": "超沒水準的媽媽....自己心醜看什麼馬都醜.......",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 6,
       "user_likes": false,
       "id": "1032315473475450_1032335850140079"
     },
@@ -311,7 +1031,7 @@
       },
       "message": "BMI是很重要的，也得當心性早熟...",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "1032315473475450_1032335246806806"
     },
@@ -323,7 +1043,7 @@
       },
       "message": "會怕就別手賤，思想健康點！！",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "1032315473475450_1032334846806846"
     },
@@ -335,7 +1055,7 @@
       },
       "message": "身為人母害做這種事真的很低級，說我可以說我家人就不行。支持鄭爸提告，需要給點教訓，道歉沒事以後大家都這樣不就沒事了！",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 4,
       "user_likes": false,
       "id": "1032315473475450_1032334840140180"
     },
@@ -347,7 +1067,7 @@
       },
       "message": "跪求這個賤婦的fb……馬的害我罵彰化 。",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 6,
       "user_likes": false,
       "id": "1032315473475450_1032333986806932"
     },
@@ -359,7 +1079,7 @@
       },
       "message": "那個媽媽說話真沒口德",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "1032315473475450_1032333970140267"
     },
@@ -371,7 +1091,7 @@
       },
       "message": "罵人是不對 但.....我站在旁觀者的角度來講 那個小妹妹是不是過胖了? 如果是過胖 對小孩不太好",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 5,
       "user_likes": false,
       "id": "1032315473475450_1032333896806941"
     },
@@ -383,7 +1103,7 @@
       },
       "message": "小孩這樣真的過胖，不只不好看，身體也會有許多問題",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "1032315473475450_1032333850140279"
     },
@@ -395,7 +1115,7 @@
       },
       "message": "胖的很可愛～長大後就變了個美女⋯",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 9,
       "user_likes": false,
       "id": "1032315473475450_1032333636806967"
     },
@@ -407,7 +1127,7 @@
       },
       "message": "雖然批評的有些過火 但是我擔心這可愛的妹妹會不會是不當的生活習慣或是身體出了啥問題 家長還是要多注意",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 5,
       "user_likes": false,
       "id": "1032315473475450_1032333496806981"
     },
@@ -419,7 +1139,7 @@
       },
       "message": "胖又怎麼樣？是擋到你家的wifi了逆？",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 62,
       "user_likes": false,
       "id": "1032315473475450_1032332690140395"
     },
@@ -431,7 +1151,7 @@
       },
       "message": "胖胖很可愛呀！我最喜歡看小朋友胖胖的!",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 9,
       "user_likes": false,
       "id": "1032315473475450_1032332566807074"
     },
@@ -443,7 +1163,7 @@
       },
       "message": "禍從口出，病從口入。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1032315473475450_1032332460140418"
     },
@@ -455,7 +1175,7 @@
       },
       "message": "不管幾歲，別人胖瘦是他們自己與家人要承擔後果的，輪不到第三者來論斷",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 9,
       "user_likes": false,
       "id": "1032315473475450_1032328973474100"
     },
@@ -467,7 +1187,7 @@
       },
       "message": "是癩女還是賴女？麻煩提升一下自己的水準。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1032315473475450_1032328423474155"
     },
@@ -479,7 +1199,7 @@
       },
       "message": "被砲轟也是應該的！！",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 5,
       "user_likes": false,
       "id": "1032315473475450_1032328023474195"
     },
@@ -491,7 +1211,7 @@
       },
       "message": "駡小孩就是不對，若是别人講的是妳，妳會生氣嗎？人要有冋理心",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1032315473475450_1032327753474222"
     },
@@ -503,7 +1223,7 @@
       },
       "message": "傷害造成了再來道歉?原來可以這樣喔",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1032315473475450_1032327323474265"
     },
@@ -527,7 +1247,7 @@
       },
       "message": "死賀幹嘛亂罵人家小孩妳有病嗎？胖怎麼了礙到妳了嗎？八婆",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1032315473475450_1032327023474295"
     },
@@ -539,7 +1259,7 @@
       },
       "message": "小時候胖不是胖沒聽過嗎?",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1032315473475450_1032323576807973"
     },
@@ -551,7 +1271,7 @@
       },
       "message": "支持提告阿 = =",
       "can_remove": false,
-      "like_count": 10,
+      "like_count": 28,
       "user_likes": false,
       "id": "1032315473475450_1032322830141381"
     },
@@ -563,7 +1283,7 @@
       },
       "message": "這位媽媽有問題喔!!真是離譜到底~誰家老婆~丟臉",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1032315473475450_1032321216808209"
     },
@@ -575,7 +1295,7 @@
       },
       "message": "真為她的小孩擔心…\n自己有問題 不要汙染小孩",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 6,
       "user_likes": false,
       "id": "1032315473475450_1032321180141546"
     },
@@ -599,7 +1319,7 @@
       },
       "message": "超沒品的媽媽\r\n真想看她長怎樣\n是生了多天仙樣的小孩\n不過題外話\r\n小孩子的體重還是要控制比較健康",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 24,
       "user_likes": false,
       "id": "1032315473475450_1032320803474917"
     },
@@ -611,7 +1331,7 @@
       },
       "message": "請垃圾車載去奈何橋。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1032315473475450_1032320680141596"
     },
@@ -635,7 +1355,7 @@
       },
       "message": "護航都說我們批評他的不良行為是網路霸凌\n那他PO文批評一個孩子就不是網路霸凌嗎？",
       "can_remove": false,
-      "like_count": 24,
+      "like_count": 69,
       "user_likes": false,
       "id": "1032315473475450_1032319943475003"
     },
@@ -647,7 +1367,7 @@
       },
       "message": ">> ●【爆料公社】● << ← 傳送門在此 點下去即可",
       "can_remove": false,
-      "like_count": 74,
+      "like_count": 174,
       "user_likes": false,
       "id": "1032315473475450_1032319846808346"
     },
@@ -659,7 +1379,7 @@
       },
       "message": "大家都是父母生養到大 自己本身也有生小孩 有必要這樣嗎？ 都會這樣批評別人小孩 那自己幹嘛生？？？",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "1032315473475450_1032319636808367"
     },
@@ -671,7 +1391,7 @@
       },
       "message": "無法留言\n\n而且還開三個帳號嘞\n看動態就知道她的素養有多好了",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 11,
       "user_likes": false,
       "id": "1032315473475450_1032319623475035"
     },
@@ -695,7 +1415,7 @@
       },
       "message": "有些家長有問題",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 5,
       "user_likes": false,
       "id": "1032315473475450_1032318776808453"
     },
@@ -707,7 +1427,7 @@
       },
       "message": "跪求賴女的fb",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 5,
       "user_likes": false,
       "id": "1032315473475450_1032318353475162"
     }

@@ -4,6 +4,78 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150908/687413/",
   "comments": [
     {
+      "created_time": "2015-09-08T12:35:37+0000",
+      "from": {
+        "name": "張志源",
+        "id": "100003374772308"
+      },
+      "message": "這堆垃圾幹嘛要送回台灣就直接在印尼關不就得了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1031264343600209_1031314810261829"
+    },
+    {
+      "created_time": "2015-09-08T12:18:38+0000",
+      "from": {
+        "name": "吳啟倫",
+        "id": "100009339879072"
+      },
+      "message": "丟臉丟到國外",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1031264343600209_1031309120262398"
+    },
+    {
+      "created_time": "2015-09-08T12:01:20+0000",
+      "from": {
+        "name": "Dtsky Wishfly",
+        "id": "100000041149658"
+      },
+      "message": "天有眼....",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1031264343600209_1031302503596393"
+    },
+    {
+      "created_time": "2015-09-08T11:25:57+0000",
+      "from": {
+        "name": "張正則",
+        "id": "100009903763759"
+      },
+      "message": "看這麼多人，還有制服穿，就知道這不義之財一定很好賺，說吃泡麵營養不良，只是要博取同情而已！\n科技謀殺，可瞞天過海： \nhttp://blog.udn.com/plin123/22150611",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1031264343600209_1031290310264279"
+    },
+    {
+      "created_time": "2015-09-08T10:43:32+0000",
+      "from": {
+        "name": "王元萬",
+        "id": "100006112638576"
+      },
+      "message": "好多年輕人哦    現在年輕人有前途    國家有望了",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1031264343600209_1031280506931926"
+    },
+    {
+      "created_time": "2015-09-08T10:24:12+0000",
+      "from": {
+        "name": "Lee  Frank",
+        "id": "100003619440063"
+      },
+      "message": "主廚烹煮泡麵 騙成員男女共處一室,最後他是不是主廚,沒有人會知道.",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1031264343600209_1031276323599011"
+    },
+    {
       "created_time": "2015-09-08T09:59:18+0000",
       "from": {
         "name": "張親賢",
@@ -11,7 +83,7 @@
       },
       "message": "有主廚還吃泡麵，有沒有前後矛盾",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 3,
       "user_likes": false,
       "id": "1031264343600209_1031270490266261"
     },
@@ -23,7 +95,7 @@
       },
       "message": "印尼警察真殺",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1031264343600209_1031268063599837"
     }

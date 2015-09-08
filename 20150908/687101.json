@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150908/687101/",
   "comments": [
     {
+      "created_time": "2015-09-08T10:05:42+0000",
+      "from": {
+        "name": "謝英山",
+        "id": "1263312274"
+      },
+      "message": "實現夢想，讚",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "904890199579605_904982762903682"
+    },
+    {
       "created_time": "2015-09-08T05:03:24+0000",
       "from": {
         "name": "Junhao Huang",
@@ -11,7 +23,7 @@
       },
       "message": "有錢燒真好",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "904890199579605_904901296245162"
     }

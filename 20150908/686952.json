@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150908/686952/",
   "comments": [
     {
+      "created_time": "2015-09-08T11:33:30+0000",
+      "from": {
+        "name": "Ching-Yang Liu",
+        "id": "100000168344314"
+      },
+      "message": "平均~ 呵呵.....",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "984174744967523_984409174944080"
+    },
+    {
       "created_time": "2015-09-08T08:42:29+0000",
       "from": {
         "name": "Tim Chen",
@@ -11,7 +23,7 @@
       },
       "message": "歡迎新鮮的肝來成為同逝。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "984174744967523_984358584949139"
     },
@@ -131,7 +143,7 @@
       },
       "message": "白痴才相信",
       "can_remove": false,
-      "like_count": 10,
+      "like_count": 11,
       "user_likes": false,
       "id": "984174744967523_984206418297689"
     },

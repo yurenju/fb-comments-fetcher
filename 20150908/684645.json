@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150908/684645/",
   "comments": [
     {
+      "created_time": "2015-09-08T11:24:41+0000",
+      "from": {
+        "name": "黃品璋",
+        "id": "100000490367232"
+      },
+      "message": "可愛雙人組合",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1162124587137598_1162567513759972"
+    },
+    {
       "created_time": "2015-09-08T01:41:38+0000",
       "from": {
         "name": "Fang-Shiuan Li",
@@ -11,7 +23,7 @@
       },
       "message": "左左右右 首張迷你專輯【左左右右Party Time】\n=>http://everythingcheapcheaper.blogspot.tw/2015/07/party-time.html",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1162124587137598_1162365783780145"
     }
