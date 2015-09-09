@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150909/687861/",
   "comments": [
     {
+      "created_time": "2015-09-09T10:47:46+0000",
+      "from": {
+        "name": "吳承壹",
+        "id": "100001859065077"
+      },
+      "message": "這叫朱肉?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1162859280407542_1163017667058370"
+    },
+    {
       "created_time": "2015-09-09T08:25:05+0000",
       "from": {
         "name": "林順祺",
@@ -119,7 +131,7 @@
       },
       "message": "跳的真醜",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1162859280407542_1162882337071903"
     },
@@ -179,7 +191,7 @@
       },
       "message": "只是跳舞，這叫私密？\n\n每個人都有自己天真的那一面（小男孩、小女孩）\n\n這有什麼好希奇的？",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 7,
       "user_likes": false,
       "id": "1162859280407542_1162869143739889"
     },
@@ -215,7 +227,7 @@
       },
       "message": "蘋果記者是腦殘嗎？\n不良示範當新聞，\n希望有悲劇發生轉新聞嗎？\n連溝都沒有，私密？\n記者素質提升一下可以嗎？",
       "can_remove": false,
-      "like_count": 18,
+      "like_count": 23,
       "user_likes": false,
       "id": "1162859280407542_1162861553740648"
     }

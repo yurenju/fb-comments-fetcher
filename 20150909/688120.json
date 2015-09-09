@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150909/688120/",
   "comments": [
     {
+      "created_time": "2015-09-09T11:56:38+0000",
+      "from": {
+        "name": "王嘉慧",
+        "id": "100000144710053"
+      },
+      "message": "我的審美觀一定有問題?\n我覺得猩猩那邊超帥的\n比拿手機那個還帥啊",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1092046574146676_1092203497464317"
+    },
+    {
+      "created_time": "2015-09-09T11:18:16+0000",
+      "from": {
+        "name": "黃秀靜",
+        "id": "100010332247600"
+      },
+      "message": "等等猩猩也從他身上拿一支手機出來給他看照片~~~",
+      "can_remove": false,
+      "like_count": 9,
+      "user_likes": false,
+      "id": "1092046574146676_1092180337466633"
+    },
+    {
       "created_time": "2015-09-09T09:49:02+0000",
       "from": {
         "name": "丁順清",
@@ -23,7 +47,7 @@
       },
       "message": "果真猩猩相惜!",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "1092046574146676_1092078584143475"
     }

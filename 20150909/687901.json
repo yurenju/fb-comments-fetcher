@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150909/687901/",
   "comments": [
     {
+      "created_time": "2015-09-09T10:22:06+0000",
+      "from": {
+        "name": "林書瑜",
+        "id": "100010198175711"
+      },
+      "message": "我到底看了什麼",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "952736621463377_952975774772795"
+    },
+    {
       "created_time": "2015-09-09T07:06:15+0000",
       "from": {
         "name": "李克",
@@ -35,7 +47,7 @@
       },
       "message": "邱毅+蔡正元已有衣缽傳人了.......",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 7,
       "user_likes": false,
       "id": "952736621463377_952786904791682"
     },
@@ -95,7 +107,7 @@
       },
       "message": "幹嘛越看越有 \" 許不了\" 的架勢....\n走政治路線怕是要浪费了.....",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "952736621463377_952756761461363"
     },
@@ -191,7 +203,7 @@
       },
       "message": "小時不讀書，長大王炳忠\n小時被洗腦，長大王炳忠\n小時不愛國，長大王炳忠\n小朋友記得，別學王炳忠",
       "can_remove": false,
-      "like_count": 14,
+      "like_count": 17,
       "user_likes": false,
       "id": "952736621463377_952744948129211"
     },
@@ -242,18 +254,6 @@
       "like_count": 2,
       "user_likes": false,
       "id": "952736621463377_952742198129486"
-    },
-    {
-      "created_time": "2015-09-09T05:02:34+0000",
-      "from": {
-        "name": "Wensong Hu",
-        "id": "100004322656645"
-      },
-      "message": "魯蛋中，\n自以為《會》。其實已廢。",
-      "can_remove": false,
-      "like_count": 3,
-      "user_likes": false,
-      "id": "952736621463377_952741941462845"
     },
     {
       "created_time": "2015-09-09T05:01:41+0000",
@@ -311,7 +311,7 @@
       },
       "message": "滾出台南，台南不歡迎這樣的人",
       "can_remove": false,
-      "like_count": 15,
+      "like_count": 18,
       "user_likes": false,
       "id": "952736621463377_952739971463042"
     },
@@ -323,7 +323,7 @@
       },
       "message": "新黨無大將，餅中當發言",
       "can_remove": false,
-      "like_count": 18,
+      "like_count": 19,
       "user_likes": false,
       "id": "952736621463377_952739684796404"
     },
@@ -359,7 +359,7 @@
       },
       "message": "一隻猴子！！！",
       "can_remove": false,
-      "like_count": 13,
+      "like_count": 14,
       "user_likes": false,
       "id": "952736621463377_952738244796548"
     }

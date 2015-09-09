@@ -4,16 +4,88 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150909/688209/",
   "comments": [
     {
-      "created_time": "2015-09-09T09:22:24+0000",
+      "created_time": "2015-09-09T11:46:42+0000",
       "from": {
-        "name": "陳詩庭",
-        "id": "100010265379377"
+        "name": "郭鈞哲",
+        "id": "100005387379849"
       },
-      "message": "http://t.im/s6ul",
+      "message": "提道 提到 ?",
       "can_remove": false,
       "like_count": 0,
       "user_likes": false,
-      "id": "1030732013626249_1030737953625655"
+      "id": "1030732013626249_1030803616952422"
+    },
+    {
+      "created_time": "2015-09-09T11:20:49+0000",
+      "from": {
+        "name": "黃秀靜",
+        "id": "100010332247600"
+      },
+      "message": "就是「重視細節」、「喜歡會說話的人(表達)」、「簡單而容易明瞭的答案」",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1030732013626249_1030791203620330"
+    },
+    {
+      "created_time": "2015-09-09T11:02:03+0000",
+      "from": {
+        "name": "Lin Hon Chian",
+        "id": "100000107963097"
+      },
+      "message": "信義區有辦公室（真的蘋果）",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1030732013626249_1030782870287830"
+    },
+    {
+      "created_time": "2015-09-09T10:44:51+0000",
+      "from": {
+        "name": "Didi Chen",
+        "id": "100006481466248"
+      },
+      "message": "我也想去",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1030732013626249_1030775116955272"
+    },
+    {
+      "created_time": "2015-09-09T10:32:29+0000",
+      "from": {
+        "name": "鄒滄龍",
+        "id": "100004361490804"
+      },
+      "message": "中國人沒有什麼本事只會欺善怕惡而已。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1030732013626249_1030769556955828"
+    },
+    {
+      "created_time": "2015-09-09T10:31:16+0000",
+      "from": {
+        "name": "鄒滄龍",
+        "id": "100004361490804"
+      },
+      "message": "只是應徵清潔人員都能這麼龜毛，我想面試官肯定都是中國人吧！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1030732013626249_1030768836955900"
+    },
+    {
+      "created_time": "2015-09-09T10:05:44+0000",
+      "from": {
+        "name": "Anyoiuo Go",
+        "id": "100000715447765"
+      },
+      "message": "面試時間這長有些人根本沒法兼顧工作",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1030732013626249_1030756150290502"
     },
     {
       "created_time": "2015-09-09T09:20:31+0000",
@@ -23,7 +95,7 @@
       },
       "message": "以前在台灣Apple 的工作根本沒人鳥～真是彼一時此一時呀～",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "1030732013626249_1030736810292436"
     }

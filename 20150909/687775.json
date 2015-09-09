@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150909/687775/",
   "comments": [
     {
+      "created_time": "2015-09-09T12:40:01+0000",
+      "from": {
+        "name": "王思朗",
+        "id": "100000379012921"
+      },
+      "message": "有3個小朋友都靠她",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "936218549782623_936524243085387"
+    },
+    {
+      "created_time": "2015-09-09T11:38:30+0000",
+      "from": {
+        "name": "陳家程",
+        "id": "100000716170876"
+      },
+      "message": "怪了...通常有這種新聞 不是該有人正義凜然的大喊衝著我來嗎？!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "936218549782623_936490533088758"
+    },
+    {
       "created_time": "2015-09-09T08:14:58+0000",
       "from": {
         "name": "林泰安",
@@ -23,7 +47,7 @@
       },
       "message": "缺錢了吧",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "936218549782623_936304489774029"
     },
@@ -107,7 +131,7 @@
       },
       "message": "爽100次才想到被性侵",
       "can_remove": false,
-      "like_count": 7,
+      "like_count": 8,
       "user_likes": false,
       "id": "936218549782623_936235349780943"
     },
@@ -119,7 +143,7 @@
       },
       "message": "得了便宜還…",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "936218549782623_936229783114833"
     },
