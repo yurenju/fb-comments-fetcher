@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150909/687695/",
   "comments": [
     {
+      "created_time": "2015-09-09T02:32:27+0000",
+      "from": {
+        "name": "阙志霖",
+        "id": "100000047430886"
+      },
+      "message": "作秀",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "802344956552420_802400283213554"
+    },
+    {
+      "created_time": "2015-09-09T01:42:59+0000",
+      "from": {
+        "name": "陳秉宏",
+        "id": "100005929926435"
+      },
+      "message": "記得只掃到天黑，天黑後要喬事的再去喬嘿。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "802344956552420_802388786548037"
+    },
+    {
+      "created_time": "2015-09-09T01:15:01+0000",
+      "from": {
+        "name": "陳思帆",
+        "id": "1671049206"
+      },
+      "message": "我們這些死老百姓只能當黑道的靶",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "802344956552420_802378676549048"
+    },
+    {
       "created_time": "2015-09-09T00:55:18+0000",
       "from": {
         "name": "池子",
@@ -11,7 +47,7 @@
       },
       "message": "選舉到了，白道恐嚇黑道吧！\n開槍的社會新聞一直沒少過，為什麼挑這個時機呢？\n官啊～!\n官啊～!\n官啊～!\n連戰辦不辦啊？",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 3,
       "user_likes": false,
       "id": "802344956552420_802369483216634"
     },
@@ -71,7 +107,7 @@
       },
       "message": "所以要混角頭一定要搞槍，沒槍怎麼混。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "802344956552420_802350293218553"
     },
@@ -83,7 +119,7 @@
       },
       "message": "壞人都有槍，好人永遠要被欺負，這是什麼世界？",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 5,
       "user_likes": false,
       "id": "802344956552420_802349256551990"
     },
@@ -95,7 +131,7 @@
       },
       "message": "台灣就這麼小，誰是誰不認識嗎?都要怪警方愛搞關係不是嗎?現在有槍就是老大是吧?\n\b",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "802344956552420_802347903218792"
     }
