@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150909/687496/",
   "comments": [
     {
+      "created_time": "2015-09-09T07:22:55+0000",
+      "from": {
+        "name": "竺川蕾",
+        "id": "100010279777932"
+      },
+      "message": "Yup I'm fear lol",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1011555185551638_1011908122183011"
+    },
+    {
       "created_time": "2015-09-08T17:47:07+0000",
       "from": {
         "name": "Vivi Shiang",
@@ -11,7 +23,7 @@
       },
       "message": "口愛爆棚",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1011555185551638_1011592388881251"
     }

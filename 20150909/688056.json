@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150909/688056/",
   "comments": [
     {
+      "created_time": "2015-09-09T09:42:33+0000",
+      "from": {
+        "name": "Edison Lin",
+        "id": "100006791808935"
+      },
+      "message": "假農民真炒地 害死中產階級",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "683765288391287_683830941718055"
+    },
+    {
+      "created_time": "2015-09-09T08:33:54+0000",
+      "from": {
+        "name": "何德輝",
+        "id": "100000236937296"
+      },
+      "message": "農地是用來耕作的不是用來炒的，，\n這就是台灣目前最糟的心態，，，，貪",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "683765288391287_683812908386525"
+    },
+    {
       "created_time": "2015-09-09T06:41:46+0000",
       "from": {
         "name": "Edison Lin",
@@ -11,7 +35,7 @@
       },
       "message": "財團的僱傭 假農民出現了 財團的狗錢卒",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "683765288391287_683769435057539"
     }

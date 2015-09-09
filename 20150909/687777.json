@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150909/687777/",
   "comments": [
     {
+      "created_time": "2015-09-09T09:36:23+0000",
+      "from": {
+        "name": "黃振庭",
+        "id": "100002290865206"
+      },
+      "message": "不會 1隻大閘蟹要300~500元 一定會有人去抓的QQ",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "719006184870338_719150194855937"
+    },
+    {
+      "created_time": "2015-09-09T08:46:43+0000",
+      "from": {
+        "name": "Keng Rex",
+        "id": "100000138108103"
+      },
+      "message": "大家不要動不動就遷就至政治或政黨，失去此文章意義。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "719006184870338_719133861524237"
+    },
+    {
       "created_time": "2015-09-09T04:27:12+0000",
       "from": {
         "name": "陸小寧",
@@ -239,7 +263,7 @@
       },
       "message": "操你馬的又是藍丁白痴國民黨拆屋魔",
       "can_remove": false,
-      "like_count": 7,
+      "like_count": 8,
       "user_likes": false,
       "id": "719006184870338_719006608203629"
     }

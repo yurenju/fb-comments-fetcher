@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150909/687893/",
   "comments": [
     {
+      "created_time": "2015-09-09T09:23:37+0000",
+      "from": {
+        "name": "風蒂雅",
+        "id": "100000261924628"
+      },
+      "message": "啤酒試喝員的話；我四萬五立即上班！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "950077451730607_950259375045748"
+    },
+    {
+      "created_time": "2015-09-09T08:45:05+0000",
+      "from": {
+        "name": "賀宗思",
+        "id": "100000281784539"
+      },
+      "message": "有徵啤酒試喝員嗎？我月薪五萬就好",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "950077451730607_950234948381524"
+    },
+    {
       "created_time": "2015-09-09T05:59:14+0000",
       "from": {
         "name": "吳翊誠",
@@ -11,7 +35,7 @@
       },
       "message": "常喝台啤的可否優先考慮???",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "950077451730607_950119671726385"
     },
@@ -59,7 +83,7 @@
       },
       "message": "可以集拉環或瓶蓋去應徵嗎？",
       "can_remove": false,
-      "like_count": 8,
+      "like_count": 11,
       "user_likes": false,
       "id": "950077451730607_950094081728944"
     }

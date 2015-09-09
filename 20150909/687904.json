@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150909/687904/",
   "comments": [
     {
+      "created_time": "2015-09-09T09:38:15+0000",
+      "from": {
+        "name": "黃挺之",
+        "id": "100008556469310"
+      },
+      "message": "為什麼不能太狠？德國市價五折，韓國的3800台北？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "887085461328285_887191497984348"
+    },
+    {
+      "created_time": "2015-09-09T08:54:50+0000",
+      "from": {
+        "name": "黃同安",
+        "id": "100000538299318"
+      },
+      "message": "柯P市政府加油!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "887085461328285_887178481318983"
+    },
+    {
+      "created_time": "2015-09-09T07:45:41+0000",
+      "from": {
+        "name": "宋子敬",
+        "id": "100001347446899"
+      },
+      "message": "如果、你是真心照顧弱勢、就會想出辦法！\n只是嘴炮、必定困難重重！\n別盡搞一些奇奇怪怪的政策",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "887085461328285_887155474654617"
+    },
+    {
       "created_time": "2015-09-09T05:47:47+0000",
       "from": {
         "name": "Lin Ken",
@@ -35,7 +71,7 @@
       },
       "message": "租金3萬，普通人跟低收入戶根本租不起……",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "887085461328285_887088967994601"
     },
