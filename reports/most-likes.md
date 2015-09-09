@@ -638,21 +638,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 358
 
-* Author: [張宏德](http://facebook.com/100001352602343)
-* Article: 【讀者直擊】叫我自己收餐盤！　不收哥暴怒！
-
-```
-本來就要自己收啊，不然你這位仁兄是比較大牌膩，
-```
-
-
-## Like: 358
-
 * Author: [Roderick Lai](http://facebook.com/100000344530126)
 * Article: 布丁為何「一組3入」？　原來有典故
 
 ```
 養樂多一組五罐，該不會是一家四口，爸爸下班後口渴還要多喝一罐
+```
+
+
+## Like: 358
+
+* Author: [張宏德](http://facebook.com/100001352602343)
+* Article: 【讀者直擊】叫我自己收餐盤！　不收哥暴怒！
+
+```
+本來就要自己收啊，不然你這位仁兄是比較大牌膩，
 ```
 
 
@@ -758,21 +758,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 318
 
-* Author: [Mubetei Sai](http://facebook.com/100000951205185)
-* Article: 不切割！　洪秀柱：為何馬英九聲望比扁低
-
-```
-以你的智慧我很難跟你解釋啊…
-```
-
-
-## Like: 318
-
 * Author: [Chieh Chou](http://facebook.com/100007754260230)
 * Article: 邱毅嘲諷ＡＶ女優　網友整理犯罪史神打臉
 
 ```
 波多野結衣最基本分辨的出香蕉與太陽花，光這點邱毅就可以洗洗睡了....
+```
+
+
+## Like: 318
+
+* Author: [Mubetei Sai](http://facebook.com/100000951205185)
+* Article: 不切割！　洪秀柱：為何馬英九聲望比扁低
+
+```
+以你的智慧我很難跟你解釋啊…
 ```
 
 
@@ -898,22 +898,22 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 285
 
-* Author: [黃健豪](http://facebook.com/100000110539798)
-* Article: 短褲妹之死　追車警：死的應該是我
-
-```
-這樣的想法將會造成罪犯橫行無阻 百姓將永無寧日
-```
-
-
-## Like: 285
-
 * Author: [Ethan Chen](http://facebook.com/1275513847)
 * Article: 女友懷孕著床3週　他靠北「這綠帽好大」
 
 ```
 沒知識真可怕...
 家長真正應該擔心的不是波多野的悠遊卡，而是學校健康教育到底有沒有好好教小孩阿？
+```
+
+
+## Like: 285
+
+* Author: [黃健豪](http://facebook.com/100000110539798)
+* Article: 短褲妹之死　追車警：死的應該是我
+
+```
+這樣的想法將會造成罪犯橫行無阻 百姓將永無寧日
 ```
 
 
@@ -979,16 +979,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 270
 
-* Author: [Ching Wen Huang](http://facebook.com/100000310422454)
-* Article: 史上最萌颱風　水汪汪大眼對著你笑
-
-```
-阿進～你一定要記住啊，害死你爹爹的人，我見過他，他的樣子很奇怪，他永遠都好像對著你笑，笑到你心裡發寒，你一定要去找那個人～
-```
-
-
-## Like: 270
-
 * Author: [DrAgo](http://facebook.com/788860367897002)
 * Article: 【更新】冷氣開24小時　電費只比正常開關多一點
 
@@ -996,6 +986,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 開一個月冷氣的電費只要4500日圓，就台幣1500左右。
 再照日本物價來算，再除3... 一個月的支出感覺只有我們的500元。
 幹！我們的油電雙高是怎麼回事？
+```
+
+
+## Like: 270
+
+* Author: [Ching Wen Huang](http://facebook.com/100000310422454)
+* Article: 史上最萌颱風　水汪汪大眼對著你笑
+
+```
+阿進～你一定要記住啊，害死你爹爹的人，我見過他，他的樣子很奇怪，他永遠都好像對著你笑，笑到你心裡發寒，你一定要去找那個人～
 ```
 
 
