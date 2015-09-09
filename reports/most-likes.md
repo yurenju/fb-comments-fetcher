@@ -976,6 +976,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 259
 
+* Author: [Jm Tseng](http://facebook.com/100000170151566)
+* Article: 【更新】短褲妹挨撞命危　影片曝光
+
+```
+等下就有親友團上來了…………
+```
+
+
+## Like: 259
+
 * Author: [Joy Chien](http://facebook.com/1265613382)
 * Article: 16歲少女問「什麼是砲友？」　爸媽竟然...
 
@@ -983,16 +993,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 16歲了父母什麼都不教
 
 結果被外人帶去體驗營了
-```
-
-
-## Like: 259
-
-* Author: [Jm Tseng](http://facebook.com/100000170151566)
-* Article: 【更新】短褲妹挨撞命危　影片曝光
-
-```
-等下就有親友團上來了…………
 ```
 
 
