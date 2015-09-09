@@ -4,6 +4,138 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150909/687861/",
   "comments": [
     {
+      "created_time": "2015-09-09T06:30:19+0000",
+      "from": {
+        "name": "游千惠",
+        "id": "100008240653447"
+      },
+      "message": "這也叫新聞",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1162859280407542_1162912487068888"
+    },
+    {
+      "created_time": "2015-09-09T06:24:28+0000",
+      "from": {
+        "name": "Ming Chieh Lin",
+        "id": "100000301548259"
+      },
+      "message": "浪費我兩分鐘",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1162859280407542_1162910423735761"
+    },
+    {
+      "created_time": "2015-09-09T05:41:50+0000",
+      "from": {
+        "name": "吳俊漢",
+        "id": "100000144610976"
+      },
+      "message": "真的",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1162859280407542_1162895270403943"
+    },
+    {
+      "created_time": "2015-09-09T05:33:07+0000",
+      "from": {
+        "name": "趙起轟",
+        "id": "100000339893111"
+      },
+      "message": "小時候不讀書 以後長大當妓者",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1162859280407542_1162893340404136"
+    },
+    {
+      "created_time": "2015-09-09T05:00:04+0000",
+      "from": {
+        "name": "Chen Jacky",
+        "id": "100000099352620"
+      },
+      "message": "沒有新聞了？這個也來充數？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1162859280407542_1162885750404895"
+    },
+    {
+      "created_time": "2015-09-09T04:51:38+0000",
+      "from": {
+        "name": "米格魯",
+        "id": "100000245847562"
+      },
+      "message": "跳的真醜",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1162859280407542_1162882337071903"
+    },
+    {
+      "created_time": "2015-09-09T04:28:37+0000",
+      "from": {
+        "name": "John Tsai",
+        "id": "100000849858265"
+      },
+      "message": ".......",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1162859280407542_1162873953739408"
+    },
+    {
+      "created_time": "2015-09-09T04:26:11+0000",
+      "from": {
+        "name": "廖文良",
+        "id": "100004085210233"
+      },
+      "message": "記者請不要濫用「私密」一詞,這兩個字對宅男是有致命的吸引力!\n(OS:幹!被騙了!)",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1162859280407542_1162873380406132"
+    },
+    {
+      "created_time": "2015-09-09T04:25:42+0000",
+      "from": {
+        "name": "陳蝦仁",
+        "id": "1833890818"
+      },
+      "message": "浪費我兩分鐘",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1162859280407542_1162873247072812"
+    },
+    {
+      "created_time": "2015-09-09T04:25:18+0000",
+      "from": {
+        "name": "陳蝦仁",
+        "id": "1833890818"
+      },
+      "message": "浪費",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1162859280407542_1162873163739487"
+    },
+    {
+      "created_time": "2015-09-09T04:11:54+0000",
+      "from": {
+        "name": "Fish Fish",
+        "id": "100005829824787"
+      },
+      "message": "只是跳舞，這叫私密？\n\n每個人都有自己天真的那一面（小男孩、小女孩）\n\n這有什麼好希奇的？",
+      "can_remove": false,
+      "like_count": 5,
+      "user_likes": false,
+      "id": "1162859280407542_1162869143739889"
+    },
+    {
       "created_time": "2015-09-09T03:57:44+0000",
       "from": {
         "name": "Anyoiuo Go",
@@ -35,7 +167,7 @@
       },
       "message": "蘋果記者是腦殘嗎？\n不良示範當新聞，\n希望有悲劇發生轉新聞嗎？\n連溝都沒有，私密？\n記者素質提升一下可以嗎？",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 14,
       "user_likes": false,
       "id": "1162859280407542_1162861553740648"
     }

@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150909/687394/",
   "comments": [
     {
+      "created_time": "2015-09-09T04:23:14+0000",
+      "from": {
+        "name": "黃秀琴",
+        "id": "100004847801770"
+      },
+      "message": "怎麼有那麼殘忍的人",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1046554165376931_1046804878685193"
+    },
+    {
       "created_time": "2015-09-09T03:19:46+0000",
       "from": {
         "name": "吳永發",
@@ -35,7 +47,7 @@
       },
       "message": "人類虧待他，他確依然相信人，人類！",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1046554165376931_1046756438690037"
     },
@@ -71,7 +83,7 @@
       },
       "message": "加油。。乖乖吃飯，吃飽飽，把身體照顧好。。",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "1046554165376931_1046688662030148"
     },
@@ -83,21 +95,9 @@
       },
       "message": "被餓得瘦成這樣…好可憐！！！\n幸好現在否極泰來了…",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "1046554165376931_1046587265373621"
-    },
-    {
-      "created_time": "2015-09-08T17:19:42+0000",
-      "from": {
-        "name": "楊子芸",
-        "id": "100010132542810"
-      },
-      "message": "http://lnk.pics/cOB",
-      "can_remove": false,
-      "like_count": 0,
-      "user_likes": false,
-      "id": "1046554165376931_1046578415374506"
     },
     {
       "created_time": "2015-09-08T17:12:20+0000",
@@ -107,7 +107,7 @@
       },
       "message": "看了好心疼......\n拜託請不要再遺棄可愛的狗狗了好嗎！！\n愛它就要照顧它一輩子才對阿！！",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "1046554165376931_1046574552041559"
     },
@@ -119,7 +119,7 @@
       },
       "message": "幸好遇到好心人，解救了牠\n感恩",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "1046554165376931_1046565475375800"
     },

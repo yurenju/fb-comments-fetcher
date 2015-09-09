@@ -11,17 +11,7 @@
 ```
 
 
-## Like: 1457
-
-* Author: [趙政宏](http://facebook.com/100000264435422)
-* Article: 【更新】小鮮肉送上門　單親媽竟把女兒14歲男友吞了
-
-```
-終於可以對她說 我幹你娘
-```
-
-
-## Like: 1079
+## Like: 1529
 
 * Author: [張夏語](http://facebook.com/100009712272513)
 * Article: 【更新】短褲妹被警追送命　警「妳自己選的」
@@ -31,6 +21,16 @@
 服從取締就好了啊
 態度好一點
 搞不好只開你未戴安全帽
+```
+
+
+## Like: 1457
+
+* Author: [趙政宏](http://facebook.com/100000264435422)
+* Article: 【更新】小鮮肉送上門　單親媽竟把女兒14歲男友吞了
+
+```
+終於可以對她說 我幹你娘
 ```
 
 
@@ -231,6 +231,16 @@
 ```
 
 
+## Like: 650
+
+* Author: [James Lu](http://facebook.com/1631896648)
+* Article: 【更新】短褲妹被警追送命　警「妳自己選的」
+
+```
+警察，依法行政，這是對的。
+```
+
+
 ## Like: 641
 
 * Author: [洪偵原](http://facebook.com/100002025474115)
@@ -345,22 +355,22 @@
 
 ## Like: 468
 
+* Author: [鄭博綸](http://facebook.com/100000086808857)
+* Article: 【更新】賣波多野悠遊卡　柯文哲、戴季全挨告
+
+```
+賣國都沒事了，賣個悠遊卡是在告怎樣?是沒拿到惱羞成怒是不是?
+```
+
+
+## Like: 468
+
 * Author: [李亦庭](http://facebook.com/100008483558000)
 * Article: 募兵制跳票　府：扁政府縮役期的必然結果
 
 ```
 都做到第八年了還在call陳水扁救援
 有沒有一點羞恥心啊廢物
-```
-
-
-## Like: 468
-
-* Author: [鄭博綸](http://facebook.com/100000086808857)
-* Article: 【更新】賣波多野悠遊卡　柯文哲、戴季全挨告
-
-```
-賣國都沒事了，賣個悠遊卡是在告怎樣?是沒拿到惱羞成怒是不是?
 ```
 
 
@@ -381,16 +391,6 @@
 
 ```
 有啥好囂張的，我中午吃個自助餐的錢都比你的麥當勞早餐貴了，我還不是要乖乖排隊
-```
-
-
-## Like: 458
-
-* Author: [James Lu](http://facebook.com/1631896648)
-* Article: 【更新】短褲妹被警追送命　警「妳自己選的」
-
-```
-警察，依法行政，這是對的。
 ```
 
 
@@ -528,6 +528,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
+## Like: 377
+
+* Author: [許瑞森](http://facebook.com/100004850253297)
+* Article: 【更新】短褲妹被警追送命　警「妳自己選的」
+
+```
+本來就是，呆丸冶安敗壞8成是嘴炮害的
+```
+
+
 ## Like: 373
 
 * Author: [陳威威](http://facebook.com/100004902846515)
@@ -561,6 +571,17 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ```
 這才是真正的歷史
+```
+
+
+## Like: 366
+
+* Author: [Ray Lee](http://facebook.com/1445499900)
+* Article: 【更新】短褲妹被警追送命　警「妳自己選的」
+
+```
+我就是長了一付壞人臉,短褲拖鞋騎機車晚上出門買雞排被警察叫到路邊臨檢好幾次.我每次被臨檢完都會跟警察說謝謝你們辛苦了,有你們在認真執勤我才能半夜安心出門不怕被搶被打.
+警察自己經驗談都說了看到臨檢就跑的超過一半都是嫌犯,我不想拿自己的生命財產安全開玩笑,所以我支持警察!
 ```
 
 
@@ -897,16 +918,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 272
 
-* Author: [Alex Chen Alex](http://facebook.com/100000515083216)
-* Article: 感動！台灣合唱團　德國街頭唱國歌
-
-```
-不管你喜不喜歡這面國旗或國歌、重要的是這群小朋友太可愛了、我們應該給他們鼓勵和掌聲。不要用政治觀點或語言去看待。
-```
-
-
-## Like: 272
-
 * Author: [黃健豪](http://facebook.com/100000110539798)
 * Article: 這張繳費單　讓他被遠通害慘了
 
@@ -915,13 +926,27 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
-## Like: 270
+## Like: 272
 
-* Author: [Ching Wen Huang](http://facebook.com/100000310422454)
-* Article: 史上最萌颱風　水汪汪大眼對著你笑
+* Author: [Alex Chen Alex](http://facebook.com/100000515083216)
+* Article: 感動！台灣合唱團　德國街頭唱國歌
 
 ```
-阿進～你一定要記住啊，害死你爹爹的人，我見過他，他的樣子很奇怪，他永遠都好像對著你笑，笑到你心裡發寒，你一定要去找那個人～
+不管你喜不喜歡這面國旗或國歌、重要的是這群小朋友太可愛了、我們應該給他們鼓勵和掌聲。不要用政治觀點或語言去看待。
+```
+
+
+## Like: 270
+
+* Author: [9.2%的blue](http://facebook.com/166284357037138)
+* Article: 陳水扁散步活跳跳　邊走還可邊滑手機
+
+```
+「周刊王」在幫馬英九鋪路，
+準備把阿扁隨時關回牢裡，
+趁機轉移經濟崩壞、執政無能的焦點。
+
+雖然我不喜歡阿扁，但我越來越同情他~
 ```
 
 
@@ -939,15 +964,11 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 270
 
-* Author: [9.2%的blue](http://facebook.com/166284357037138)
-* Article: 陳水扁散步活跳跳　邊走還可邊滑手機
+* Author: [Ching Wen Huang](http://facebook.com/100000310422454)
+* Article: 史上最萌颱風　水汪汪大眼對著你笑
 
 ```
-「周刊王」在幫馬英九鋪路，
-準備把阿扁隨時關回牢裡，
-趁機轉移經濟崩壞、執政無能的焦點。
-
-雖然我不喜歡阿扁，但我越來越同情他~
+阿進～你一定要記住啊，害死你爹爹的人，我見過他，他的樣子很奇怪，他永遠都好像對著你笑，笑到你心裡發寒，你一定要去找那個人～
 ```
 
 
@@ -975,16 +996,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
-## Like: 265
-
-* Author: [許瑞森](http://facebook.com/100004850253297)
-* Article: 【更新】短褲妹被警追送命　警「妳自己選的」
-
-```
-本來就是，呆丸冶安敗壞8成是嘴炮害的
-```
-
-
 ## Like: 262
 
 * Author: [陳世樺](http://facebook.com/100000427736236)
@@ -1009,16 +1020,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 259
 
-* Author: [Jm Tseng](http://facebook.com/100000170151566)
-* Article: 【更新】短褲妹挨撞命危　影片曝光
-
-```
-等下就有親友團上來了…………
-```
-
-
-## Like: 259
-
 * Author: [Joy Chien](http://facebook.com/1265613382)
 * Article: 16歲少女問「什麼是砲友？」　爸媽竟然...
 
@@ -1029,14 +1030,13 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
-## Like: 256
+## Like: 259
 
-* Author: [Ray Lee](http://facebook.com/1445499900)
-* Article: 【更新】短褲妹被警追送命　警「妳自己選的」
+* Author: [Jm Tseng](http://facebook.com/100000170151566)
+* Article: 【更新】短褲妹挨撞命危　影片曝光
 
 ```
-我就是長了一付壞人臉,短褲拖鞋騎機車晚上出門買雞排被警察叫到路邊臨檢好幾次.我每次被臨檢完都會跟警察說謝謝你們辛苦了,有你們在認真執勤我才能半夜安心出門不怕被搶被打.
-警察自己經驗談都說了看到臨檢就跑的超過一半都是嫌犯,我不想拿自己的生命財產安全開玩笑,所以我支持警察!
+等下就有親友團上來了…………
 ```
 
 
@@ -1074,16 +1074,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 252
 
-* Author: [Ho Chow Lee](http://facebook.com/100007654243742)
-* Article: 【更新】要客點餐　麥當勞女服務生竟遭罵「像你這種貨色」
-
-```
-人也是分很多等級看你的談吐應該也是下下等级吧
-```
-
-
-## Like: 252
-
 * Author: [王佩瑛](http://facebook.com/1389173988)
 * Article: 養這等軍官、檢察官何用？
 
@@ -1103,6 +1093,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 晚上也只要有電風扇就能睡
 現在裝冷氣真的變得很不耐熱 回房就想開冷氣
 長期下來電費又貴 又讓自己變的嫩嫩的 真的要克制一下
+```
+
+
+## Like: 252
+
+* Author: [Ho Chow Lee](http://facebook.com/100007654243742)
+* Article: 【更新】要客點餐　麥當勞女服務生竟遭罵「像你這種貨色」
+
+```
+人也是分很多等級看你的談吐應該也是下下等级吧
 ```
 
 
@@ -1128,16 +1128,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 249
 
-* Author: [Jack Lin](http://facebook.com/100000630294768)
-* Article: 【更新】硬撐引路救4幼犬　重病狗媽噴血亡
-
-```
-請問如何領養
-```
-
-
-## Like: 249
-
 * Author: [Yung-Chien Chou](http://facebook.com/100005668369242)
 * Article: 「女友懷孕了」　接下來4個字綠綠der
 
@@ -1147,4 +1137,14 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 曾經巫山共徘徊，明鏡哪堪惹塵埃，
 莫問伴侶過往事，懊惱只是添疑猜！
+```
+
+
+## Like: 249
+
+* Author: [Jack Lin](http://facebook.com/100000630294768)
+* Article: 【更新】硬撐引路救4幼犬　重病狗媽噴血亡
+
+```
+請問如何領養
 ```

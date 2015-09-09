@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150909/687753/",
   "comments": [
     {
+      "created_time": "2015-09-09T05:42:59+0000",
+      "from": {
+        "name": "Fish Fish",
+        "id": "100005829824787"
+      },
+      "message": "這什麼法官……",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "457503887708056_457576841034094"
+    },
+    {
+      "created_time": "2015-09-09T04:12:43+0000",
+      "from": {
+        "name": "邱毛",
+        "id": "100007149331873"
+      },
+      "message": "所以這種在夜店遇到辣妹搭訕嬌嗔「想噓噓」也無罪吧 \nhttp://pretty.hibarn.com/?p=3929",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "457503887708056_457560524369059"
+    },
+    {
       "created_time": "2015-09-09T03:48:52+0000",
       "from": {
         "name": "郭旭",
@@ -11,7 +35,7 @@
       },
       "message": "所以說8分鐘上的都不算性侵囉??",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "457503887708056_457553404369771"
     },
@@ -47,7 +71,7 @@
       },
       "message": "我以為是太短。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "457503887708056_457509624374149"
     },

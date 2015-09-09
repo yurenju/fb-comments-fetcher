@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150909/687704/",
   "comments": [
     {
+      "created_time": "2015-09-09T04:31:30+0000",
+      "from": {
+        "name": "Fish Fish",
+        "id": "100005829824787"
+      },
+      "message": "藝人也是人，請尊重他（她）們，每個人都有自己的空間及隱私，沒必要用放大鏡去看待他（她）們",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "1009860412377552_1009982592365334"
+    },
+    {
       "created_time": "2015-09-09T01:20:24+0000",
       "from": {
         "name": "Jang Ru",
@@ -11,7 +23,7 @@
       },
       "message": "別人的私事有什麼好拍的嗎",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "1009860412377552_1009908629039397"
     },
@@ -23,7 +35,7 @@
       },
       "message": "紅不久吧",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1009860412377552_1009876535709273"
     }
