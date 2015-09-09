@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150909/688189/",
   "comments": [
     {
+      "created_time": "2015-09-09T14:19:09+0000",
+      "from": {
+        "name": "羅仁志",
+        "id": "100002196434256"
+      },
+      "message": "政客是為利益而存在的怎麼可能講真話，連面對現實都做不到了還講真話",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032229356808077_1032362500128096"
+    },
+    {
+      "created_time": "2015-09-09T13:30:17+0000",
+      "from": {
+        "name": "Jankuei Hsieh",
+        "id": "100006690818682"
+      },
+      "message": "陳腔濫調！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032229356808077_1032344116796601"
+    },
+    {
       "created_time": "2015-09-09T11:48:25+0000",
       "from": {
         "name": "Lie-Juian Lin",
@@ -144,7 +168,7 @@
       },
       "message": "網友會懂?那就不叫網友了吧!",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1032229356808077_1032232166807796"
     }

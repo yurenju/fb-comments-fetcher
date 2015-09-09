@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150909/688231/",
   "comments": [
     {
+      "created_time": "2015-09-09T14:40:17+0000",
+      "from": {
+        "name": "林淑芳",
+        "id": "100004605697053"
+      },
+      "message": "加油！總會走過去的",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1073891989295551_1074087232609360"
+    },
+    {
       "created_time": "2015-09-09T09:48:50+0000",
       "from": {
         "name": "Jamie Liu",
@@ -11,7 +23,7 @@
       },
       "message": "孩子，妳真棒！大抱抱！",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "1073891989295551_1073900052628078"
     }

@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150909/688086/",
   "comments": [
     {
+      "created_time": "2015-09-09T14:18:21+0000",
+      "from": {
+        "name": "Sam Kuo",
+        "id": "100002631072815"
+      },
+      "message": "工人向《蘋果》表示，草皮鏟完會搭菜棚，應該今天就會初步完成改善，後續會種菜",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "867752119978448_868058936614433"
+    },
+    {
+      "created_time": "2015-09-09T13:09:28+0000",
+      "from": {
+        "name": "張美源",
+        "id": "100009290817340"
+      },
+      "message": "會拆乾淨嗎？？？？？唉！我看，",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "867752119978448_868029639950696"
+    },
+    {
       "created_time": "2015-09-09T09:50:06+0000",
       "from": {
         "name": "Twn  Nisson",
@@ -84,7 +108,7 @@
       },
       "message": "陳菊的豪華農舍何時拆",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "867752119978448_867754289978231"
     },
@@ -96,7 +120,7 @@
       },
       "message": "知法者永遠都在玩法.永遠只有死老百姓被法律綁死",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 6,
       "user_likes": false,
       "id": "867752119978448_867753546644972"
     }

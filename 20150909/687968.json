@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150909/687968/",
   "comments": [
     {
+      "created_time": "2015-09-09T14:57:35+0000",
+      "from": {
+        "name": "黃秀靜",
+        "id": "100010332247600"
+      },
+      "message": "平安的渡過了這次的災難，迎接新的開始，加油吧～",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032406090136915_1032645986779592"
+    },
+    {
+      "created_time": "2015-09-09T14:25:47+0000",
+      "from": {
+        "name": "李立緯",
+        "id": "100005011982320"
+      },
+      "message": "加油都過去了，這不是你的錯，好好珍惜現在喔。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1032406090136915_1032632553447602"
+    },
+    {
       "created_time": "2015-09-09T12:03:56+0000",
       "from": {
         "name": "Rain Trivium",
@@ -23,7 +47,7 @@
       },
       "message": "媽媽辛苦了，你往後要孝順父母，日後復健的路程要很長，有慈母陪伴你，祝福你早日康復，永遠快樂!!!",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 5,
       "user_likes": false,
       "id": "1032406090136915_1032558050121719"
     },
@@ -47,7 +71,7 @@
       },
       "message": "光聽名字\n就知道媽媽有多好了\n辛苦了，加油，未來。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "1032406090136915_1032470870130437"
     },
@@ -59,7 +83,7 @@
       },
       "message": "妈妈真伟大！",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 5,
       "user_likes": false,
       "id": "1032406090136915_1032437506800440"
     },
@@ -71,7 +95,7 @@
       },
       "message": "有這樣的母親，其實你的人生絕對不會不好。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "1032406090136915_1032412646802926"
     }

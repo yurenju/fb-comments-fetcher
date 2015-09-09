@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150909/688310/",
   "comments": [
     {
+      "created_time": "2015-09-09T13:23:21+0000",
+      "from": {
+        "name": "Koo Sho Hi",
+        "id": "100000369530528"
+      },
+      "message": "算善終嗎？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "885234884864971_885295634858896"
+    },
+    {
+      "created_time": "2015-09-09T13:16:49+0000",
+      "from": {
+        "name": "Ho Chow Lee",
+        "id": "100007654243742"
+      },
+      "message": "病死不如好死好死不如爽死",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "885234884864971_885291964859263"
+    },
+    {
       "created_time": "2015-09-09T12:59:27+0000",
       "from": {
         "name": "柯諭驊",
@@ -71,7 +95,7 @@
       },
       "message": "這種案例以前就有了，以後還是會再有，有了年紀的人對上小三還特別賣力，小心死相太難看.....",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 11,
       "user_likes": false,
       "id": "885234884864971_885243791530747"
     },
@@ -83,7 +107,7 @@
       },
       "message": "比鄉土劇還悲情……",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "885234884864971_885239641531162"
     }
