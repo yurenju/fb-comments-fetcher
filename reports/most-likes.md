@@ -638,21 +638,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 358
 
-* Author: [張宏德](http://facebook.com/100001352602343)
-* Article: 【讀者直擊】叫我自己收餐盤！　不收哥暴怒！
-
-```
-本來就要自己收啊，不然你這位仁兄是比較大牌膩，
-```
-
-
-## Like: 358
-
 * Author: [Roderick Lai](http://facebook.com/100000344530126)
 * Article: 布丁為何「一組3入」？　原來有典故
 
 ```
 養樂多一組五罐，該不會是一家四口，爸爸下班後口渴還要多喝一罐
+```
+
+
+## Like: 358
+
+* Author: [張宏德](http://facebook.com/100001352602343)
+* Article: 【讀者直擊】叫我自己收餐盤！　不收哥暴怒！
+
+```
+本來就要自己收啊，不然你這位仁兄是比較大牌膩，
 ```
 
 
@@ -758,21 +758,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 318
 
-* Author: [Mubetei Sai](http://facebook.com/100000951205185)
-* Article: 不切割！　洪秀柱：為何馬英九聲望比扁低
-
-```
-以你的智慧我很難跟你解釋啊…
-```
-
-
-## Like: 318
-
 * Author: [Chieh Chou](http://facebook.com/100007754260230)
 * Article: 邱毅嘲諷ＡＶ女優　網友整理犯罪史神打臉
 
 ```
 波多野結衣最基本分辨的出香蕉與太陽花，光這點邱毅就可以洗洗睡了....
+```
+
+
+## Like: 318
+
+* Author: [Mubetei Sai](http://facebook.com/100000951205185)
+* Article: 不切割！　洪秀柱：為何馬英九聲望比扁低
+
+```
+以你的智慧我很難跟你解釋啊…
 ```
 
 
@@ -959,6 +959,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 272
 
+* Author: [黃健豪](http://facebook.com/100000110539798)
+* Article: 這張繳費單　讓他被遠通害慘了
+
+```
+只賠償3000  難怪遠通會氣燄囂張
+```
+
+
+## Like: 272
+
 * Author: [Alex Chen Alex](http://facebook.com/100000515083216)
 * Article: 感動！台灣合唱團　德國街頭唱國歌
 
@@ -967,13 +977,13 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
-## Like: 272
+## Like: 270
 
-* Author: [黃健豪](http://facebook.com/100000110539798)
-* Article: 這張繳費單　讓他被遠通害慘了
+* Author: [Ching Wen Huang](http://facebook.com/100000310422454)
+* Article: 史上最萌颱風　水汪汪大眼對著你笑
 
 ```
-只賠償3000  難怪遠通會氣燄囂張
+阿進～你一定要記住啊，害死你爹爹的人，我見過他，他的樣子很奇怪，他永遠都好像對著你笑，笑到你心裡發寒，你一定要去找那個人～
 ```
 
 
@@ -1000,16 +1010,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 趁機轉移經濟崩壞、執政無能的焦點。
 
 雖然我不喜歡阿扁，但我越來越同情他~
-```
-
-
-## Like: 270
-
-* Author: [Ching Wen Huang](http://facebook.com/100000310422454)
-* Article: 史上最萌颱風　水汪汪大眼對著你笑
-
-```
-阿進～你一定要記住啊，害死你爹爹的人，我見過他，他的樣子很奇怪，他永遠都好像對著你笑，笑到你心裡發寒，你一定要去找那個人～
 ```
 
 
@@ -1061,6 +1061,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 259
 
+* Author: [Jm Tseng](http://facebook.com/100000170151566)
+* Article: 【更新】短褲妹挨撞命危　影片曝光
+
+```
+等下就有親友團上來了…………
+```
+
+
+## Like: 259
+
 * Author: [Joy Chien](http://facebook.com/1265613382)
 * Article: 16歲少女問「什麼是砲友？」　爸媽竟然...
 
@@ -1068,16 +1078,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 16歲了父母什麼都不教
 
 結果被外人帶去體驗營了
-```
-
-
-## Like: 259
-
-* Author: [Jm Tseng](http://facebook.com/100000170151566)
-* Article: 【更新】短褲妹挨撞命危　影片曝光
-
-```
-等下就有親友團上來了…………
 ```
 
 
@@ -1115,21 +1115,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 252
 
-* Author: [Ho Chow Lee](http://facebook.com/100007654243742)
-* Article: 【更新】要客點餐　麥當勞女服務生竟遭罵「像你這種貨色」
-
-```
-人也是分很多等級看你的談吐應該也是下下等级吧
-```
-
-
-## Like: 252
-
 * Author: [王佩瑛](http://facebook.com/1389173988)
 * Article: 養這等軍官、檢察官何用？
 
 ```
 這不是權貴，那什麼是權貴
+```
+
+
+## Like: 252
+
+* Author: [Ho Chow Lee](http://facebook.com/100007654243742)
+* Article: 【更新】要客點餐　麥當勞女服務生竟遭罵「像你這種貨色」
+
+```
+人也是分很多等級看你的談吐應該也是下下等级吧
 ```
 
 

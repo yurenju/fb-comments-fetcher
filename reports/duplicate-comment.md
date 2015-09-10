@@ -670,7 +670,7 @@ users:
 * 【悠遊卡KUSO大賽】水林投稿：召喚！波多野結衣！
 * 讓人發火的「波卡」語錄　《蘋果》整理在此
 
-## 重複次數 53
+## 重複次數 54
 
 留言：
 
@@ -727,6 +727,7 @@ users:
 * [Jason Wen]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [小貓貓]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [卜隆貢]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Sa Vivi]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [郭來順]('http://facebook.com/' + users[user].id) (重複 1 次)
 
 新聞：
@@ -783,6 +784,7 @@ users:
 * 塵爆陽光正妹出院　「要活得不一樣」
 * 【撼人演說】裘莉有GUTS批伊斯蘭國性侵
 * 短褲妹之死　追車警：死的應該是我
+* Selina素顏登封　勇敢的女人最美
 * 塵爆「躺著送醫」　美女堅持「走出醫院」
 
 ## 重複次數 50

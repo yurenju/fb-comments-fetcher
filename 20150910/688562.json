@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150910/688562/",
   "comments": [
     {
+      "created_time": "2015-09-10T03:15:00+0000",
+      "from": {
+        "name": "楊相中",
+        "id": "100002124096960"
+      },
+      "message": "早在民國76年的潮州空降場，就有空投2.5T載重車跟3/4T吉普車的訓練喔，而且也是採超低空拋下",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "840389972747873_840471366073067"
+    },
+    {
+      "created_time": "2015-09-10T03:09:24+0000",
+      "from": {
+        "name": "朱耿毅",
+        "id": "100002162594026"
+      },
+      "message": "國軍弟兄們演習辛苦了",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "840389972747873_840470109406526"
+    },
+    {
       "created_time": "2015-09-10T00:58:55+0000",
       "from": {
         "name": "潘文南",
@@ -23,7 +47,7 @@
       },
       "message": "請問樓上兩位，你們知道參演官兵的辛苦嗎？真是標準的門外漢，作戰場景瞬息萬變，平時就必須驗證各種達成作戰任務的方式，請不要不懂裝懂，至於有沒有浪費錢，也不是你說就算。",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 10,
       "user_likes": false,
       "id": "840389972747873_840415736078630"
     },
