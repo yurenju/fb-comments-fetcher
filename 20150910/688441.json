@@ -4,6 +4,179 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150910/688441/",
   "comments": [
     {
+      "created_time": "2015-09-10T09:48:07+0000",
+      "from": {
+        "name": "蔡邱旭",
+        "id": "100001880289935"
+      },
+      "message": "遇到詐騙千萬冷靜!一急失查就上當了!",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "922813537794502_923116587764197"
+    },
+    {
+      "created_time": "2015-09-10T09:47:39+0000",
+      "from": {
+        "name": "Haiung-kuei Bill Chan",
+        "id": "100004400550098"
+      },
+      "message": "哈哈，詐騙集團被詐騙XD",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "922813537794502_923116514430871"
+    },
+    {
+      "created_time": "2015-09-10T09:19:42+0000",
+      "from": {
+        "name": "王春森",
+        "id": "100001049016038"
+      },
+      "message": "張承威",
+      "can_remove": false,
+      "like_count": 0,
+      "message_tags": [
+        {
+          "id": "100000359132059",
+          "length": 3,
+          "name": "張承威",
+          "offset": 0,
+          "type": "user"
+        }
+      ],
+      "user_likes": false,
+      "id": "922813537794502_923103271098862"
+    },
+    {
+      "created_time": "2015-09-10T09:11:04+0000",
+      "from": {
+        "name": "旻帥",
+        "id": "100001454587996"
+      },
+      "message": "應該改成4267878978",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "922813537794502_923101797765676"
+    },
+    {
+      "created_time": "2015-09-10T08:37:29+0000",
+      "from": {
+        "name": "姜宇",
+        "id": "100000810008716"
+      },
+      "message": "屎部經理",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "922813537794502_923094761099713"
+    },
+    {
+      "created_time": "2015-09-10T08:11:00+0000",
+      "from": {
+        "name": "邱亨利",
+        "id": "100000265346199"
+      },
+      "message": "何必浪費時間呢？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "922813537794502_923089877766868"
+    },
+    {
+      "created_time": "2015-09-10T08:09:40+0000",
+      "from": {
+        "name": "李妙妙",
+        "id": "100006971773864"
+      },
+      "message": "徐大猷黃建華林小安林喬偉Virs LuWu Han\n這個屌~",
+      "can_remove": false,
+      "like_count": 0,
+      "message_tags": [
+        {
+          "id": "100000701818862",
+          "length": 3,
+          "name": "徐大猷",
+          "offset": 0,
+          "type": "user"
+        },
+        {
+          "id": "100000810591013",
+          "length": 3,
+          "name": "黃建華",
+          "offset": 3,
+          "type": "user"
+        },
+        {
+          "id": "100000221289479",
+          "length": 3,
+          "name": "林小安",
+          "offset": 6,
+          "type": "user"
+        },
+        {
+          "id": "100000150112739",
+          "length": 3,
+          "name": "林喬偉",
+          "offset": 9,
+          "type": "user"
+        },
+        {
+          "id": "100000180553561",
+          "length": 7,
+          "name": "Virs Lu",
+          "offset": 12,
+          "type": "user"
+        },
+        {
+          "id": "1129717352",
+          "length": 6,
+          "name": "Wu Han",
+          "offset": 19,
+          "type": "user"
+        }
+      ],
+      "user_likes": false,
+      "id": "922813537794502_923089634433559"
+    },
+    {
+      "created_time": "2015-09-10T08:09:35+0000",
+      "from": {
+        "name": "Chen Guwen",
+        "id": "100001596407151"
+      },
+      "message": "0978978978",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "922813537794502_923089571100232"
+    },
+    {
+      "created_time": "2015-09-10T07:45:25+0000",
+      "from": {
+        "name": "林子翔",
+        "id": "100006783827429"
+      },
+      "message": "水這個圖可以傳嗎？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "922813537794502_923062714436251"
+    },
+    {
+      "created_time": "2015-09-10T07:29:28+0000",
+      "from": {
+        "name": "陳存善",
+        "id": "100009736364884"
+      },
+      "message": "水肥大隊？？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "922813537794502_923060484436474"
+    },
+    {
       "created_time": "2015-09-09T18:48:07+0000",
       "from": {
         "name": "Andy Liu",
@@ -11,7 +184,7 @@
       },
       "message": "應該要把號碼該成 094878787...(你就是白癡白癡白癡...)",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 12,
       "user_likes": false,
       "id": "922813537794502_922886891120500"
     },

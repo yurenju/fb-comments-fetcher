@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150910/688666/",
   "comments": [
     {
+      "created_time": "2015-09-10T08:30:04+0000",
+      "from": {
+        "name": "蔡宥坤",
+        "id": "100003657230592"
+      },
+      "message": "這也能新聞，蘋果記真好當",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "879860898763649_879946622088410"
+    },
+    {
       "created_time": "2015-09-10T05:45:59+0000",
       "from": {
         "name": "湯智傑",
@@ -11,7 +23,7 @@
       },
       "message": "果迷花錢不手軟的，賣四萬五萬還是一堆人喊讚的",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "879860898763649_879912285425177"
     },
@@ -26,18 +38,6 @@
       "like_count": 0,
       "user_likes": false,
       "id": "879860898763649_879906988759040"
-    },
-    {
-      "created_time": "2015-09-10T04:36:14+0000",
-      "from": {
-        "name": "Ellen Huang",
-        "id": "100009785561180"
-      },
-      "message": "這樣也能一篇，白眼",
-      "can_remove": false,
-      "like_count": 6,
-      "user_likes": false,
-      "id": "879860898763649_879900225426383"
     },
     {
       "created_time": "2015-09-10T04:22:37+0000",

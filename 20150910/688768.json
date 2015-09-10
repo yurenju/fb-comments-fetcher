@@ -4,6 +4,54 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150910/688768/",
   "comments": [
     {
+      "created_time": "2015-09-10T09:57:01+0000",
+      "from": {
+        "name": "龍平",
+        "id": "100000448680869"
+      },
+      "message": "吃月餅就不是炒作?\n吃柚子就不是炒作?\n\n好好的假日就是要親朋好友聚聚\n烤肉又怎樣啦？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "870235626393332_870300146386880"
+    },
+    {
+      "created_time": "2015-09-10T08:23:34+0000",
+      "from": {
+        "name": "Leo Lin",
+        "id": "100000186364676"
+      },
+      "message": "一年也才一次...\n挑這種雞毛小事來宣導...\n搬石砸腳！！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "870235626393332_870274933056068"
+    },
+    {
+      "created_time": "2015-09-10T08:12:47+0000",
+      "from": {
+        "name": "林尚賢",
+        "id": "100001835200368"
+      },
+      "message": "這什麼概念?那端午不要吃肉粽，中秋不要吃月餅，過年正常上班，你覺得好不好阿，別以為當選了你就能說一些鳥話",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "870235626393332_870273119722916"
+    },
+    {
+      "created_time": "2015-09-10T07:35:22+0000",
+      "from": {
+        "name": "Sandy Kao",
+        "id": "100007090357646"
+      },
+      "message": "自己的月餅自己做,全部商人讓它買氣跌落,明年蔡英文當選再呼籲大家烤肉,你心想什麼我都猜得出來",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "870235626393332_870264716390423"
+    },
+    {
       "created_time": "2015-09-10T06:23:54+0000",
       "from": {
         "name": "鐘簡真",
@@ -35,7 +83,7 @@
       },
       "message": "為了防止環境汙染，所以平民不要烤肉，不過六輕因為可以賺好多錢送給政客當政治獻金，所以沒關係。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "870235626393332_870249426391952"
     },
