@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150910/688466/",
   "comments": [
     {
+      "created_time": "2015-09-10T06:25:02+0000",
+      "from": {
+        "name": "劉圓聖",
+        "id": "100003576157952"
+      },
+      "message": "＂中國人都會中國功夫＂？⋯嗯⋯\n李小龍、成龍害外國人誤會了。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "754335144692624_754622487997223"
+    },
+    {
       "created_time": "2015-09-09T18:04:52+0000",
       "from": {
         "name": "王義雄",
@@ -11,7 +23,7 @@
       },
       "message": "奇怪，亞洲女生都認為外國人尤其是法國男人最浪費，怎麼法國妹卻說亞洲男比較浪費，難道是外國的月亮特別好",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "754335144692624_754383958021076"
     }

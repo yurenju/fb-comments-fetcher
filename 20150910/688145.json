@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150910/688145/",
   "comments": [
     {
+      "created_time": "2015-09-10T06:03:42+0000",
+      "from": {
+        "name": "陳長義",
+        "id": "100008739312350"
+      },
+      "message": "早上有留言，為什麼被消除奇怪！做弊哦?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1026019707438414_1026455254061526"
+    },
+    {
       "created_time": "2015-09-09T22:25:42+0000",
       "from": {
         "name": "施永恒",
@@ -23,7 +35,7 @@
       },
       "message": "請提供依然居住在豪華農舍的政治人物名單，選舉前讓人民知道藍綠裡面有多少偽人。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1026019707438414_1026068564100195"
     }

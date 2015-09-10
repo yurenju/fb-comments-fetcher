@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150910/688375/",
   "comments": [
     {
+      "created_time": "2015-09-10T04:40:59+0000",
+      "from": {
+        "name": "曾晉儀",
+        "id": "100008749231461"
+      },
+      "message": "這只是強迫症症狀的一部份;而且算是輕微的",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "911719035569586_911739295567560"
+    },
+    {
+      "created_time": "2015-09-10T04:32:12+0000",
+      "from": {
+        "name": "Ellen Huang",
+        "id": "100009785561180"
+      },
+      "message": "這跟強迫症有什麼關係？無聊！",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "911719035569586_911737545567735"
+    },
+    {
+      "created_time": "2015-09-10T04:20:24+0000",
+      "from": {
+        "name": "賴世和",
+        "id": "100008849221578"
+      },
+      "message": "比起那隻每月領37.5萬，又申請保警赴中國閱兵簡直是小巫見大巫~~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "911719035569586_911732625568227"
+    },
+    {
       "created_time": "2015-09-10T03:34:14+0000",
       "from": {
         "name": "陳思語",
@@ -11,7 +47,7 @@
       },
       "message": "哈哈～覺得還好耶～",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "911719035569586_911720995569390"
     }
