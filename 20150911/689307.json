@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150911/689307/",
   "comments": [
     {
+      "created_time": "2015-09-10T21:57:57+0000",
+      "from": {
+        "name": "Alex Lee",
+        "id": "830111519"
+      },
+      "message": "以前什麼的都是不重要的~現在的才是要跟你一輩子的~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1033866026624029_1034015043275794"
+    },
+    {
       "created_time": "2015-09-10T17:00:31+0000",
       "from": {
         "name": "法藍德莉",
@@ -11,7 +23,7 @@
       },
       "message": "不需要見面，真的不恰當。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1033866026624029_1033891339954831"
     },
@@ -35,7 +47,7 @@
       },
       "message": "既然是前女友，何必庸人自擾。",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "1033866026624029_1033884943288804"
     }
