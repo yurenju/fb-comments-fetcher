@@ -658,21 +658,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 358
 
-* Author: [張宏德](http://facebook.com/100001352602343)
-* Article: 【讀者直擊】叫我自己收餐盤！　不收哥暴怒！
-
-```
-本來就要自己收啊，不然你這位仁兄是比較大牌膩，
-```
-
-
-## Like: 358
-
 * Author: [Roderick Lai](http://facebook.com/100000344530126)
 * Article: 布丁為何「一組3入」？　原來有典故
 
 ```
 養樂多一組五罐，該不會是一家四口，爸爸下班後口渴還要多喝一罐
+```
+
+
+## Like: 358
+
+* Author: [張宏德](http://facebook.com/100001352602343)
+* Article: 【讀者直擊】叫我自己收餐盤！　不收哥暴怒！
+
+```
+本來就要自己收啊，不然你這位仁兄是比較大牌膩，
 ```
 
 
@@ -873,21 +873,21 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 291
 
-* Author: [陳力](http://facebook.com/100009208194435)
-* Article: 【更新】軍官：募兵很好找人　但找來的盡是...
-
-```
-受刑人都拉去當兵，增加募兵量，身上綁上炸彈，然後空投到大陸，一個願望，二種滿足
-```
-
-
-## Like: 291
-
 * Author: [洪米政](http://facebook.com/100009341471616)
 * Article: 人妻借籃球被硬上　對話紀錄超展開
 
 ```
 這跟本就是仙人跳。
+```
+
+
+## Like: 291
+
+* Author: [陳力](http://facebook.com/100009208194435)
+* Article: 【更新】軍官：募兵很好找人　但找來的盡是...
+
+```
+受刑人都拉去當兵，增加募兵量，身上綁上炸彈，然後空投到大陸，一個願望，二種滿足
 ```
 
 
@@ -952,22 +952,22 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 285
 
+* Author: [黃健豪](http://facebook.com/100000110539798)
+* Article: 短褲妹之死　追車警：死的應該是我
+
+```
+這樣的想法將會造成罪犯橫行無阻 百姓將永無寧日
+```
+
+
+## Like: 285
+
 * Author: [Ethan Chen](http://facebook.com/1275513847)
 * Article: 女友懷孕著床3週　他靠北「這綠帽好大」
 
 ```
 沒知識真可怕...
 家長真正應該擔心的不是波多野的悠遊卡，而是學校健康教育到底有沒有好好教小孩阿？
-```
-
-
-## Like: 285
-
-* Author: [黃健豪](http://facebook.com/100000110539798)
-* Article: 短褲妹之死　追車警：死的應該是我
-
-```
-這樣的想法將會造成罪犯橫行無阻 百姓將永無寧日
 ```
 
 
@@ -1013,6 +1013,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 272
 
+* Author: [黃健豪](http://facebook.com/100000110539798)
+* Article: 這張繳費單　讓他被遠通害慘了
+
+```
+只賠償3000  難怪遠通會氣燄囂張
+```
+
+
+## Like: 272
+
 * Author: [Alex Chen Alex](http://facebook.com/100000515083216)
 * Article: 感動！台灣合唱團　德國街頭唱國歌
 
@@ -1021,13 +1031,13 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 ```
 
 
-## Like: 272
+## Like: 270
 
-* Author: [黃健豪](http://facebook.com/100000110539798)
-* Article: 這張繳費單　讓他被遠通害慘了
+* Author: [Ching Wen Huang](http://facebook.com/100000310422454)
+* Article: 史上最萌颱風　水汪汪大眼對著你笑
 
 ```
-只賠償3000  難怪遠通會氣燄囂張
+阿進～你一定要記住啊，害死你爹爹的人，我見過他，他的樣子很奇怪，他永遠都好像對著你笑，笑到你心裡發寒，你一定要去找那個人～
 ```
 
 
@@ -1042,16 +1052,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 趁機轉移經濟崩壞、執政無能的焦點。
 
 雖然我不喜歡阿扁，但我越來越同情他~
-```
-
-
-## Like: 270
-
-* Author: [Ching Wen Huang](http://facebook.com/100000310422454)
-* Article: 史上最萌颱風　水汪汪大眼對著你笑
-
-```
-阿進～你一定要記住啊，害死你爹爹的人，我見過他，他的樣子很奇怪，他永遠都好像對著你笑，笑到你心裡發寒，你一定要去找那個人～
 ```
 
 
@@ -1115,16 +1115,6 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 
 ## Like: 259
 
-* Author: [Jm Tseng](http://facebook.com/100000170151566)
-* Article: 【更新】短褲妹挨撞命危　影片曝光
-
-```
-等下就有親友團上來了…………
-```
-
-
-## Like: 259
-
 * Author: [Joy Chien](http://facebook.com/1265613382)
 * Article: 16歲少女問「什麼是砲友？」　爸媽竟然...
 
@@ -1132,6 +1122,16 @@ you他mother的 you就can't好好的talk嗎? 你think你talk像個ABC會比較aw
 16歲了父母什麼都不教
 
 結果被外人帶去體驗營了
+```
+
+
+## Like: 259
+
+* Author: [Jm Tseng](http://facebook.com/100000170151566)
+* Article: 【更新】短褲妹挨撞命危　影片曝光
+
+```
+等下就有親友團上來了…………
 ```
 
 
