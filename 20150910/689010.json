@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150910/689010/",
   "comments": [
     {
+      "created_time": "2015-09-10T12:50:08+0000",
+      "from": {
+        "name": "陳南榮",
+        "id": "100001863016342"
+      },
+      "message": "我們老師真的很認真,以後我們老了也可能發生這種現象!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "685307891568755_685369104895967"
+    },
+    {
       "created_time": "2015-09-10T09:32:17+0000",
       "from": {
         "name": "黃健豪",
@@ -11,7 +23,7 @@
       },
       "message": "連失智都不忘教書  應該是個認真的好老師",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 11,
       "user_likes": false,
       "id": "685307891568755_685308271568717"
     }

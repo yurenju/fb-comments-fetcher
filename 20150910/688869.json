@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150910/688869/",
   "comments": [
     {
+      "created_time": "2015-09-10T11:42:21+0000",
+      "from": {
+        "name": "唐自強",
+        "id": "100004489694550"
+      },
+      "message": "軍方可否反應，因長期支援救災等相關工作，已嚴重影響國軍戰訓等主要任務，自此爾後，非戰訓任務之工作，交還地方政府或相關機關負責。",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "969668633076017_969839589725588"
+    },
+    {
+      "created_time": "2015-09-10T11:06:05+0000",
+      "from": {
+        "name": "張致華",
+        "id": "100000036939959"
+      },
+      "message": "不出兵採收洋蔥也抗議，水果賣不出去也要國軍吞，漁獲太多也是國軍吃，演習場所早就有了，除了想要回饋金之外，還不知如何解釋抗議的目的。",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "969668633076017_969829929726554"
+    },
+    {
+      "created_time": "2015-09-10T10:04:08+0000",
+      "from": {
+        "name": "陳建東",
+        "id": "1432157209"
+      },
+      "message": "以後等共軍上岸，再來演習囉",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "969668633076017_969804803062400"
+    },
+    {
       "created_time": "2015-09-10T06:40:56+0000",
       "from": {
         "name": "鄭豊宸",
@@ -11,7 +47,7 @@
       },
       "message": "要錢就明講，別牽拖一堆有的沒的",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "969668633076017_969670353075845"
     }
