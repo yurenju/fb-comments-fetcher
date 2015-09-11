@@ -1,8 +1,584 @@
 {
-  "title": "【更新】日月潭超跑逆向撞遊覽車　5人輕重傷",
+  "title": "【更新】日月潭保時捷逆向撞遊覽車　5人傷",
   "id": "20150911/689627",
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150911/689627/",
   "comments": [
+    {
+      "created_time": "2015-09-11T10:00:45+0000",
+      "from": {
+        "name": "陳信嘉",
+        "id": "100005134031358"
+      },
+      "message": "三寶車開的再貴終究還是三寶",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864096520353853"
+    },
+    {
+      "created_time": "2015-09-11T09:56:03+0000",
+      "from": {
+        "name": "黃秀靜",
+        "id": "100010332247600"
+      },
+      "message": "又是逆向....人撞爛沒關係,超跑千萬不要有事",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864095233687315"
+    },
+    {
+      "created_time": "2015-09-11T09:53:14+0000",
+      "from": {
+        "name": "Son John",
+        "id": "100001264220978"
+      },
+      "message": "超跑或跑車走的路叫做黃泉路啦",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864094670354038"
+    },
+    {
+      "created_time": "2015-09-11T09:50:54+0000",
+      "from": {
+        "name": "Huang Wenfeng",
+        "id": "100000358366527"
+      },
+      "message": "$700萬的遊覽車真安全",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864094383687400"
+    },
+    {
+      "created_time": "2015-09-11T09:47:30+0000",
+      "from": {
+        "name": "王惠珍",
+        "id": "100002062482357"
+      },
+      "message": "在飆啊！  那裡本來星期六ㄉ凌晨就有很多飆車族",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864093833687455"
+    },
+    {
+      "created_time": "2015-09-11T09:38:57+0000",
+      "from": {
+        "name": "張親賢",
+        "id": "1545296795"
+      },
+      "message": "耍帥過了頭，害人害己，",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864091987020973"
+    },
+    {
+      "created_time": "2015-09-11T09:34:45+0000",
+      "from": {
+        "name": "Sean Ding",
+        "id": "100000177757634"
+      },
+      "message": "超跑車主沒死喔？真可惜!!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864091300354375"
+    },
+    {
+      "created_time": "2015-09-11T09:26:03+0000",
+      "from": {
+        "name": "陳甄藹",
+        "id": "100005159145508"
+      },
+      "message": "原來保時截的車況也不過爾爾嘛！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864089730354532"
+    },
+    {
+      "created_time": "2015-09-11T09:25:23+0000",
+      "from": {
+        "name": "陳甄藹",
+        "id": "100005159145508"
+      },
+      "message": "原來保時截的車況不過爾爾嘛～",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864089590354546"
+    },
+    {
+      "created_time": "2015-09-11T09:20:14+0000",
+      "from": {
+        "name": "王仲驊",
+        "id": "520664400"
+      },
+      "message": "你們這些有錢人\n要跟你說多少次\n不管你買多貴的車\n公車真的車頭比你的硬啦...",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "864023177027854_864088440354661"
+    },
+    {
+      "created_time": "2015-09-11T09:03:07+0000",
+      "from": {
+        "name": "周廷",
+        "id": "100000393784757"
+      },
+      "message": "三寶駕駛",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "864023177027854_864085137021658"
+    },
+    {
+      "created_time": "2015-09-11T08:55:49+0000",
+      "from": {
+        "name": "邱凱凱",
+        "id": "1683978112"
+      },
+      "message": "今天是大車 如果是機車 我看小命不保了",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "864023177027854_864082787021893"
+    },
+    {
+      "created_time": "2015-09-11T08:43:53+0000",
+      "from": {
+        "name": "James X Pond",
+        "id": "100000024084296"
+      },
+      "message": "跑車就跑車，為什麼一定要寫「超跑」",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "864023177027854_864080640355441"
+    },
+    {
+      "created_time": "2015-09-11T08:32:50+0000",
+      "from": {
+        "name": "要升級",
+        "id": "100001226584071"
+      },
+      "message": "保時捷沒死  可惜",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "864023177027854_864078897022282"
+    },
+    {
+      "created_time": "2015-09-11T08:31:29+0000",
+      "from": {
+        "name": "周志延",
+        "id": "100000602704294"
+      },
+      "message": "事實證明跑車撞不贏大車一樣要變成廢鐵！！",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "864023177027854_864078710355634"
+    },
+    {
+      "created_time": "2015-09-11T08:21:57+0000",
+      "from": {
+        "name": "林曉聖",
+        "id": "100001791781534"
+      },
+      "message": "1.Boxster 不能算超跑。\n2.Boxster 只是保時捷性能跑車的入門款。\n3.300萬是2015款的新車價，中古車很多都50萬以下。",
+      "can_remove": false,
+      "like_count": 6,
+      "user_likes": false,
+      "id": "864023177027854_864074257022746"
+    },
+    {
+      "created_time": "2015-09-11T08:21:41+0000",
+      "from": {
+        "name": "Barnnit Lin",
+        "id": "686902996"
+      },
+      "message": "保時捷Boxster 要說他是超跑 真的很勉強...",
+      "can_remove": false,
+      "like_count": 4,
+      "user_likes": false,
+      "id": "864023177027854_864074187022753"
+    },
+    {
+      "created_time": "2015-09-11T08:13:04+0000",
+      "from": {
+        "name": "蘇松男",
+        "id": "100000115373779"
+      },
+      "message": "聽到重傷好開心啊！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864071090356396"
+    },
+    {
+      "created_time": "2015-09-11T08:12:20+0000",
+      "from": {
+        "name": "鍾豐",
+        "id": "635226992"
+      },
+      "message": "好車",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864071010356404"
+    },
+    {
+      "created_time": "2015-09-11T08:10:55+0000",
+      "from": {
+        "name": "Wchan Chan",
+        "id": "100000210151946"
+      },
+      "message": "看起來是雙黃線!!!車子明顯逆向違規~~這種害人又害己的自私鬼!!!被老天爺收掉是應該的~~",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "864023177027854_864070610356444"
+    },
+    {
+      "created_time": "2015-09-11T08:01:51+0000",
+      "from": {
+        "name": "廖少",
+        "id": "100000257446284"
+      },
+      "message": "媽媽也是無辜的",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864068013690037"
+    },
+    {
+      "created_time": "2015-09-11T08:01:11+0000",
+      "from": {
+        "name": "劉傳道",
+        "id": "100001779133843"
+      },
+      "message": "你可以逆向再開快一點，下次就會好運被抬出來了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864067940356711"
+    },
+    {
+      "created_time": "2015-09-11T07:54:11+0000",
+      "from": {
+        "name": "許順興",
+        "id": "100002132801364"
+      },
+      "message": "敞篷車而已 哪裡來的超跑? 不實報導",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864066980356807"
+    },
+    {
+      "created_time": "2015-09-11T07:53:26+0000",
+      "from": {
+        "name": "周慈訓",
+        "id": "100000704055241"
+      },
+      "message": "撞的好",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864066873690151"
+    },
+    {
+      "created_time": "2015-09-11T07:49:14+0000",
+      "from": {
+        "name": "陳立言",
+        "id": "100005790154384"
+      },
+      "message": "馬路三寶加上耍帥心態導致這場悲劇",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864065537023618"
+    },
+    {
+      "created_time": "2015-09-11T07:46:05+0000",
+      "from": {
+        "name": "鄧凱鴻",
+        "id": "100000848271163"
+      },
+      "message": "有錢的三寶....",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864065060356999"
+    },
+    {
+      "created_time": "2015-09-11T07:44:41+0000",
+      "from": {
+        "name": "Sunny Lee",
+        "id": "100000291840328"
+      },
+      "message": "四線道還能開到逆向……果然是寶……",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "864023177027854_864064810357024"
+    },
+    {
+      "created_time": "2015-09-11T07:44:01+0000",
+      "from": {
+        "name": "梅川伊芙",
+        "id": "1831705981"
+      },
+      "message": "一開始看到標題寫保時捷超跑以為是CGT還是918SPYDER勒",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "864023177027854_864064650357040"
+    },
+    {
+      "created_time": "2015-09-11T07:43:41+0000",
+      "from": {
+        "name": "Scott Chen",
+        "id": "1426021635"
+      },
+      "message": "記者啊，boxter也叫超跑，那路上1/2車都是超跑了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864064593690379"
+    },
+    {
+      "created_time": "2015-09-11T07:41:06+0000",
+      "from": {
+        "name": "李怡緁",
+        "id": "100000139955839"
+      },
+      "message": "自殺式開法!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864064100357095"
+    },
+    {
+      "created_time": "2015-09-11T07:40:56+0000",
+      "from": {
+        "name": "Xian Yu",
+        "id": "100000155822833"
+      },
+      "message": "有錢的三寶GG",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "864023177027854_864064077023764"
+    },
+    {
+      "created_time": "2015-09-11T07:39:47+0000",
+      "from": {
+        "name": "李怡緁",
+        "id": "100000139955839"
+      },
+      "message": "害人害己!\n再逆向啊！",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "864023177027854_864063967023775"
+    },
+    {
+      "created_time": "2015-09-11T07:38:05+0000",
+      "from": {
+        "name": "Hong Wang",
+        "id": "100000494285800"
+      },
+      "message": "據現場人士表示，車頭全毀的保時捷Boxster ，約300萬......報導完加這一句....好怪喔",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864063710357134"
+    },
+    {
+      "created_time": "2015-09-11T07:36:40+0000",
+      "from": {
+        "name": "文森特",
+        "id": "100000695703990"
+      },
+      "message": "壞了 50收",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864063430357162"
+    },
+    {
+      "created_time": "2015-09-11T07:32:09+0000",
+      "from": {
+        "name": "張自強",
+        "id": "781747453"
+      },
+      "message": "超跑捏，啊不是很會跑。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864062530357252"
+    },
+    {
+      "created_time": "2015-09-11T07:26:56+0000",
+      "from": {
+        "name": "Nick Lin",
+        "id": "1546858709"
+      },
+      "message": "殘值只剩幾十萬的Boxster也能說超跑",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864061690357336"
+    },
+    {
+      "created_time": "2015-09-11T07:25:28+0000",
+      "from": {
+        "name": "Anyoiuo Go",
+        "id": "100000715447765"
+      },
+      "message": "GG了！三寶開什麼車 還是三寶",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864061413690697"
+    },
+    {
+      "created_time": "2015-09-11T07:23:21+0000",
+      "from": {
+        "name": "金子陵",
+        "id": "100006540122227"
+      },
+      "message": "有錢的人就是任性",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864059573690881"
+    },
+    {
+      "created_time": "2015-09-11T07:22:29+0000",
+      "from": {
+        "name": "涂雅茹",
+        "id": "100002583374094"
+      },
+      "message": "三寶不送",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "864023177027854_864059433690895"
+    },
+    {
+      "created_time": "2015-09-11T07:16:17+0000",
+      "from": {
+        "name": "賴長宏",
+        "id": "100000197072329"
+      },
+      "message": "又一個智障在彎道超車.......你他媽的國小沒畢業?",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "864023177027854_864058087024363"
+    },
+    {
+      "created_time": "2015-09-11T07:14:20+0000",
+      "from": {
+        "name": "黃奕憲",
+        "id": "100001881201395"
+      },
+      "message": "boxter車上有三人？",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864057837024388"
+    },
+    {
+      "created_time": "2015-09-11T07:08:51+0000",
+      "from": {
+        "name": "Lisa Chang",
+        "id": "100003196212826"
+      },
+      "message": "自己想死，也不該拖人下水…",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "864023177027854_864056850357820"
+    },
+    {
+      "created_time": "2015-09-11T07:08:48+0000",
+      "from": {
+        "name": "紅當",
+        "id": "100006452738812"
+      },
+      "message": "希望22歲的女駕駛技術好一點再上路可以嗎? 何況還違規逆向",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "864023177027854_864056847024487"
+    },
+    {
+      "created_time": "2015-09-11T07:05:35+0000",
+      "from": {
+        "name": "賴柏江",
+        "id": "100000123384019"
+      },
+      "message": "希望超跑駕駛以後不能再害人了.",
+      "can_remove": false,
+      "like_count": 4,
+      "user_likes": false,
+      "id": "864023177027854_864056093691229"
+    },
+    {
+      "created_time": "2015-09-11T07:05:30+0000",
+      "from": {
+        "name": "艾匹",
+        "id": "100001518435769"
+      },
+      "message": "記者知道超跑跟跑車的差別嗎？這只是一般入門款跑車而已稱不上超跑吧",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864056083691230"
+    },
+    {
+      "created_time": "2015-09-11T07:03:44+0000",
+      "from": {
+        "name": "鍾泓諺",
+        "id": "100000202513428"
+      },
+      "message": "真某人同姓~~唉~~真衰",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864055800357925"
+    },
+    {
+      "created_time": "2015-09-11T07:02:43+0000",
+      "from": {
+        "name": "Su Nobita",
+        "id": "100000372341162"
+      },
+      "message": "三寶",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "864023177027854_864055690357936"
+    },
+    {
+      "created_time": "2015-09-11T07:02:04+0000",
+      "from": {
+        "name": "劉文賢",
+        "id": "100001426991546"
+      },
+      "message": "遊覽車一勝",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "864023177027854_864055567024615"
+    },
     {
       "created_time": "2015-09-11T06:57:56+0000",
       "from": {
@@ -11,7 +587,7 @@
       },
       "message": "三寶害死媽媽了 希望不要晚七天才到家",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "864023177027854_864054927024679"
     },
@@ -23,7 +599,7 @@
       },
       "message": "在超車啊，轉彎處也在超車不要命\n腦破無誤，好車給你們開也只是廢鐵一對而以",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "864023177027854_864054797024692"
     },
@@ -47,7 +623,7 @@
       },
       "message": "寶時捷車主死了嗎？\n要死自己死，記得啊---",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 3,
       "user_likes": false,
       "id": "864023177027854_864054180358087"
     },
@@ -95,7 +671,7 @@
       },
       "message": "活該三寶     怎不開快一點   撞大力點     可憐的保時捷。。。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "864023177027854_864051630358342"
     },
@@ -119,7 +695,7 @@
       },
       "message": "有錢人嗎？都是這樣開車的嗎？不是嗎1到底！！！",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "864023177027854_864051037025068"
     },
@@ -143,7 +719,7 @@
       },
       "message": "安份開車很難嗎？",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "864023177027854_864048270358678"
     },
@@ -155,7 +731,7 @@
       },
       "message": "逆向超車，活該！",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "864023177027854_864046977025474"
     },
@@ -215,7 +791,7 @@
       },
       "message": "好爽",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "864023177027854_864044977025674"
     },
@@ -287,7 +863,7 @@
       },
       "message": "只有重傷太可惜了！",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 4,
       "user_likes": false,
       "id": "864023177027854_864041500359355"
     },
@@ -323,7 +899,7 @@
       },
       "message": "超跑逆向活該撞車....可惜沒撞死~哈！",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 4,
       "user_likes": false,
       "id": "864023177027854_864040533692785"
     },
@@ -359,7 +935,7 @@
       },
       "message": "保時捷不等於超跑 這台差得遠勒",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 9,
       "user_likes": false,
       "id": "864023177027854_864039460359559"
     },
@@ -371,7 +947,7 @@
       },
       "message": "三寶加跑車……死之組",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 0,
       "user_likes": false,
       "id": "864023177027854_864039307026241"
     },
@@ -407,7 +983,7 @@
       },
       "message": "不需要這樣證明保時捷撞不贏大客車吧",
       "can_remove": false,
-      "like_count": 7,
+      "like_count": 10,
       "user_likes": false,
       "id": "864023177027854_864038347026337"
     },
@@ -443,7 +1019,7 @@
       },
       "message": "廢 !  別以為逆向超車\n對向車道的就一定會讓你過\n撞死你這王八蛋",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 4,
       "user_likes": false,
       "id": "864023177027854_864037900359715"
     },
@@ -479,7 +1055,7 @@
       },
       "message": "中午又要吃三寶飯了．．．你以為車子是青蛙就可以跳過遊覽車嗎？",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "864023177027854_864037193693119"
     },
@@ -503,7 +1079,7 @@
       },
       "message": "遊覽車上乘客平安就好了！",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 4,
       "user_likes": false,
       "id": "864023177027854_864034503693388"
     },
@@ -515,7 +1091,7 @@
       },
       "message": "保時捷不ㄧ定全是超跑",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 7,
       "user_likes": false,
       "id": "864023177027854_864031760360329"
     },
@@ -527,7 +1103,7 @@
       },
       "message": "讚，終於出事了，希望超跑撞爛，遊覽車沒事~",
       "can_remove": false,
-      "like_count": 15,
+      "like_count": 28,
       "user_likes": false,
       "id": "864023177027854_864028350360670"
     },
@@ -539,7 +1115,7 @@
       },
       "message": "渾蛋保時捷駕駛還沒撞死 真是可惜!!",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 10,
       "user_likes": false,
       "id": "864023177027854_864028267027345"
     },

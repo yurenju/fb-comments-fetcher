@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150911/689630/",
   "comments": [
     {
+      "created_time": "2015-09-11T07:24:49+0000",
+      "from": {
+        "name": "王凡凡",
+        "id": "100007260496875"
+      },
+      "message": "小鳥有錯嗎？圖為知更鳥雛鳥。",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1031878310177415_1031964916835421"
+    },
+    {
+      "created_time": "2015-09-11T07:23:48+0000",
+      "from": {
+        "name": "范揚毅",
+        "id": "100001613741438"
+      },
+      "message": "樓下的對半還有30公分!!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1031878310177415_1031964610168785"
+    },
+    {
+      "created_time": "2015-09-11T07:01:43+0000",
+      "from": {
+        "name": "趙永健",
+        "id": "100001561167503"
+      },
+      "message": "嗯…平心而論，如果是大鳥的話，結局是否會有所不同?!-_-#",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1031878310177415_1031959526835960"
+    },
+    {
       "created_time": "2015-09-11T06:59:58+0000",
       "from": {
         "name": "方可優",
@@ -35,7 +71,7 @@
       },
       "message": "記者很會編造故事，還少女噗哧一笑勒",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 3,
       "user_likes": false,
       "id": "1031878310177415_1031886786843234"
     },

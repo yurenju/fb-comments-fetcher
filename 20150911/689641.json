@@ -4,16 +4,64 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150911/689641/",
   "comments": [
     {
-      "created_time": "2015-09-11T06:53:36+0000",
+      "created_time": "2015-09-11T09:05:33+0000",
       "from": {
-        "name": "波多野結衣",
-        "id": "100010105363987"
+        "name": "James  Lin",
+        "id": "100005901843406"
       },
-      "message": "http://faceb821.com",
+      "message": "玩過就別後悔\n出來玩遲早要還",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "856826621101680_856925691091773"
+    },
+    {
+      "created_time": "2015-09-11T08:57:55+0000",
+      "from": {
+        "name": "賴冠宇",
+        "id": "100007150568624"
+      },
+      "message": "可以再虎爛一奌",
       "can_remove": false,
       "like_count": 0,
       "user_likes": false,
-      "id": "856826621101680_856850867765922"
+      "id": "856826621101680_856920101092332"
+    },
+    {
+      "created_time": "2015-09-11T08:53:18+0000",
+      "from": {
+        "name": "陳正達",
+        "id": "100005180593376"
+      },
+      "message": "活該",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "856826621101680_856917427759266"
+    },
+    {
+      "created_time": "2015-09-11T07:55:25+0000",
+      "from": {
+        "name": "賴世和",
+        "id": "100008849221578"
+      },
+      "message": "少年得志的現世報",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "856826621101680_856887427762266"
+    },
+    {
+      "created_time": "2015-09-11T07:10:17+0000",
+      "from": {
+        "name": "Luke Yao Luke Yao",
+        "id": "100001175424837"
+      },
+      "message": "絕對是個低級的賤種！文中隱約還自鳴得意。這種劇情想上點檔連編劇都不要，台灣的小生都能即興演出。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "856826621101680_856868734430802"
     },
     {
       "created_time": "2015-09-11T06:39:39+0000",
@@ -71,7 +119,7 @@
       },
       "message": "30歲前買跑車買房子然後退伍只有3000故事說的太高手了吧",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 5,
       "user_likes": false,
       "id": "856826621101680_856840007767008"
     },
@@ -84,7 +132,7 @@
       },
       "message": "匿名文創",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 2,
       "user_likes": false,
       "id": "856826621101680_856836647767344"
     },
