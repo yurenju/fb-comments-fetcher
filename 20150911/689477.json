@@ -1,8 +1,561 @@
 {
-  "title": "請問你會先救誰？日本自衛隊的決擇令人意外",
+  "title": "請問你會先救誰？日本自衛隊的抉擇令人意外",
   "id": "20150911/689477",
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150911/689477/",
   "comments": [
+    {
+      "created_time": "2015-09-11T06:39:12+0000",
+      "from": {
+        "name": "Manasit Suthida",
+        "id": "100010212461260"
+      },
+      "message": "作決定是需要有膽識與承擔的勇氣",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1164633593550833_1164714990209360"
+    },
+    {
+      "created_time": "2015-09-11T06:35:44+0000",
+      "from": {
+        "name": "黃榮祥",
+        "id": "100003191359466"
+      },
+      "message": "感覺是運氣吧\n不過結局是好的",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1164633593550833_1164714256876100"
+    },
+    {
+      "created_time": "2015-09-11T06:28:25+0000",
+      "from": {
+        "name": "林新號",
+        "id": "100001811054265"
+      },
+      "message": "台湾人會嗆！我是某某民意代表的人，沒先救我你就等著罰站！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1164633593550833_1164712693542923"
+    },
+    {
+      "created_time": "2015-09-11T06:15:50+0000",
+      "from": {
+        "name": "Lu Shiuan",
+        "id": "100000296140279"
+      },
+      "message": "相信專業是很重要的，換做台灣人就不會這樣想，甚至還霸淩專業",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "1164633593550833_1164709746876551"
+    },
+    {
+      "created_time": "2015-09-11T06:09:22+0000",
+      "from": {
+        "name": "Simon Kwok",
+        "id": "1311160432"
+      },
+      "message": "優秀日本人",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1164633593550833_1164708046876721"
+    },
+    {
+      "created_time": "2015-09-11T06:06:58+0000",
+      "from": {
+        "name": "林家興",
+        "id": "100000493913316"
+      },
+      "message": "不得不佩服這種判斷力跟平時培養起來的各種專業知識",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1164633593550833_1164707543543438"
+    },
+    {
+      "created_time": "2015-09-11T06:03:22+0000",
+      "from": {
+        "name": "Shieh Tzyy Hwang",
+        "id": "100000021009179"
+      },
+      "message": "臺灣多災多難我看還是別太推木構建築好了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1164633593550833_1164706226876903"
+    },
+    {
+      "created_time": "2015-09-11T06:01:10+0000",
+      "from": {
+        "name": "Alan Chen",
+        "id": "100002438443217"
+      },
+      "message": "如果不是幸運那就是訓練有",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1164633593550833_1164705716876954"
+    },
+    {
+      "created_time": "2015-09-11T06:01:07+0000",
+      "from": {
+        "name": "Alex Lee",
+        "id": "830111519"
+      },
+      "message": "這就是台灣缺乏的專業~反觀台灣警察~只管開單~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1164633593550833_1164705710210288"
+    },
+    {
+      "created_time": "2015-09-11T05:55:23+0000",
+      "from": {
+        "name": "David Lin",
+        "id": "542632886"
+      },
+      "message": "喔喔喔，太強啦!!!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1164633593550833_1164703903543802"
+    },
+    {
+      "created_time": "2015-09-11T05:54:50+0000",
+      "from": {
+        "name": "李彤軒",
+        "id": "100001700164570"
+      },
+      "message": "真的是酷，沒第二句感想",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1164633593550833_1164703786877147"
+    },
+    {
+      "created_time": "2015-09-11T05:54:10+0000",
+      "from": {
+        "name": "張書維",
+        "id": "100000422013078"
+      },
+      "message": "如果是台灣",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1164633593550833_1164703576877168"
+    },
+    {
+      "created_time": "2015-09-11T05:51:41+0000",
+      "from": {
+        "name": "特調",
+        "id": "100003110194248"
+      },
+      "message": "伊丹辛苦了((欸?你再亂入三小",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1164633593550833_1164702320210627"
+    },
+    {
+      "created_time": "2015-09-11T05:46:28+0000",
+      "from": {
+        "name": "楊展源",
+        "id": "100000525388209"
+      },
+      "message": "房子有不見??",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1164633593550833_1164700813544111"
+    },
+    {
+      "created_time": "2015-09-11T05:42:54+0000",
+      "from": {
+        "name": "Rex Kau",
+        "id": "1558112158"
+      },
+      "message": "如果在台灣, 不管先救誰, 一定有網民酸",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1164633593550833_1164699670210892"
+    },
+    {
+      "created_time": "2015-09-11T05:39:59+0000",
+      "from": {
+        "name": "羅仁鴻",
+        "id": "100000369478097"
+      },
+      "message": "想也知道要先救會被沖走房子的人  電線桿不會被水沖走 當然先救房子的人",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1164633593550833_1164697976877728"
+    },
+    {
+      "created_time": "2015-09-11T05:38:34+0000",
+      "from": {
+        "name": "李慶郎",
+        "id": "100004663121362"
+      },
+      "message": "這才是強國人的軍隊，訓練有素，臨危不懼！",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1164633593550833_1164697213544471"
+    },
+    {
+      "created_time": "2015-09-11T05:26:09+0000",
+      "from": {
+        "name": "包啟寧",
+        "id": "1215511289"
+      },
+      "message": "那個歐吉桑⋯⋯有大杰的FEEL⋯⋯",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1164633593550833_1164690660211793"
+    },
+    {
+      "created_time": "2015-09-11T05:24:10+0000",
+      "from": {
+        "name": "棉花糖",
+        "id": "100000402014852"
+      },
+      "message": "是這張圖吧http://livedoor.blogimg.jp/hamusoku/imgs/1/c/1cce33e2.jpg",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1164633593550833_1164690116878514"
+    },
+    {
+      "created_time": "2015-09-11T05:21:35+0000",
+      "from": {
+        "name": "陳強",
+        "id": "100006949749235"
+      },
+      "message": "台灣消防隊都被濫用去抓貓狗蜜蜂\n或許日本的值得借鏡",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1164633593550833_1164688533545339"
+    },
+    {
+      "created_time": "2015-09-11T05:20:47+0000",
+      "from": {
+        "name": "賢者黨",
+        "category": "Political Party",
+        "id": "934039849990166"
+      },
+      "message": "颱風天就是要爬電線桿啊 不然要幹嘛?",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1164633593550833_1164688113545381"
+    },
+    {
+      "created_time": "2015-09-11T05:19:00+0000",
+      "from": {
+        "name": "汪氏清",
+        "id": "100004770974148"
+      },
+      "message": "哼  換做是台灣  兩個人誰都不救",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1164633593550833_1164687656878760"
+    },
+    {
+      "created_time": "2015-09-11T05:18:53+0000",
+      "from": {
+        "name": "Daniel Ke",
+        "id": "100000221804626"
+      },
+      "message": "好誇張的洪水...",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1164633593550833_1164687616878764"
+    },
+    {
+      "created_time": "2015-09-11T05:17:45+0000",
+      "from": {
+        "name": "王鴻武",
+        "id": "100000478936885"
+      },
+      "message": "之前 看到一個日本消防影片 就知道 多專業了!!!\n\n人家直升機是用來救援的\n不是拿來拍照用的\n\n在行為上 這就是專業 跟不專業的差別",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1164633593550833_1164687296878796"
+    },
+    {
+      "created_time": "2015-09-11T05:14:03+0000",
+      "from": {
+        "name": "夏谷實",
+        "id": "100010151104053"
+      },
+      "message": "重點就是木造房子最好不要住",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1164633593550833_1164685356878990"
+    },
+    {
+      "created_time": "2015-09-11T05:08:12+0000",
+      "from": {
+        "name": "林坤達",
+        "id": "100000148077822"
+      },
+      "message": "台灣人又要來羨慕日本人的水準了嗎? 可是如果每天只會看新聞叫罵，又要羨慕先進國家，恐怕是有點矛盾。不多說了，先看個半小時行車記錄器新聞罵人先",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1164633593550833_1164683096879216"
+    },
+    {
+      "created_time": "2015-09-11T05:05:11+0000",
+      "from": {
+        "name": "張維麟",
+        "id": "100000209251758"
+      },
+      "message": "專業的意見才是對的，流於民粹反而會模糊了真相，民粹絕對是無法治國的，民眾說對的，不一定是對的",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1164633593550833_1164681923546000"
+    },
+    {
+      "created_time": "2015-09-11T05:04:21+0000",
+      "from": {
+        "name": "辜士豪",
+        "id": "100000228920256"
+      },
+      "message": "如果是台灣 國軍 或 救難人員就慘了",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1164633593550833_1164681723546020"
+    },
+    {
+      "created_time": "2015-09-11T04:58:29+0000",
+      "from": {
+        "name": "常譯中",
+        "id": "1693585806"
+      },
+      "message": "這才是訓練",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1164633593550833_1164680363546156"
+    },
+    {
+      "created_time": "2015-09-11T04:53:25+0000",
+      "from": {
+        "name": "Gabriel Leung",
+        "id": "100000510725424"
+      },
+      "message": "很簡單當你是舊房子上面的人、因為房子面積大、沖水主力大、相對的沖走或者是塌下來的機率比較大.  相對的電線杆面積非常小、而且又是原形、並沒有龐大的阻力、沒有隨機沖垮的機率. 所以救房子上面的人優先正確",
+      "can_remove": false,
+      "like_count": 4,
+      "user_likes": false,
+      "id": "1164633593550833_1164678866879639"
+    },
+    {
+      "created_time": "2015-09-11T04:52:45+0000",
+      "from": {
+        "name": "陳冠冠",
+        "id": "1205401365"
+      },
+      "message": "推 特殊救難隊 漫畫\n好看 熱血 實用",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1164633593550833_1164678550213004"
+    },
+    {
+      "created_time": "2015-09-11T04:46:59+0000",
+      "from": {
+        "name": "Joseph Kuok",
+        "id": "1283286634"
+      },
+      "message": "Respect",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1164633593550833_1164677026879823"
+    },
+    {
+      "created_time": "2015-09-11T04:45:20+0000",
+      "from": {
+        "name": "歐陽罡",
+        "id": "1630057967"
+      },
+      "message": "品質好高!",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1164633593550833_1164676613546531"
+    },
+    {
+      "created_time": "2015-09-11T04:43:58+0000",
+      "from": {
+        "name": "Alan Liu",
+        "id": "100006668910298"
+      },
+      "message": "我們的人員也不弱，只是裝備爛，讓高所得替代率吃掉了。",
+      "can_remove": false,
+      "like_count": 4,
+      "user_likes": false,
+      "id": "1164633593550833_1164676320213227"
+    },
+    {
+      "created_time": "2015-09-11T04:41:57+0000",
+      "from": {
+        "name": "Isaac Su",
+        "id": "1345362082"
+      },
+      "message": "屋子雖然承受水的壓力較大, 但電線桿也有可能根基不穩, 率先倒下啊.\n變數太多了, 只能說這次押對了.\n\n不過我也會先救屋子那位, 但理由不同, 是因為屋子的比較好救且時間短.",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1164633593550833_1164675796879946"
+    },
+    {
+      "created_time": "2015-09-11T04:41:40+0000",
+      "from": {
+        "name": "陳名仰",
+        "id": "1250598839"
+      },
+      "message": "台灣直昇機到達時 早就通通沒救 不然就是載記者拍災難的損害......",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "1164633593550833_1164675716879954"
+    },
+    {
+      "created_time": "2015-09-11T04:40:41+0000",
+      "from": {
+        "name": "ChengYi Chen",
+        "id": "100008417297934"
+      },
+      "message": "九趴馬粉要抓狂了！",
+      "can_remove": false,
+      "like_count": 9,
+      "user_likes": false,
+      "id": "1164633593550833_1164675493546643"
+    },
+    {
+      "created_time": "2015-09-11T04:39:31+0000",
+      "from": {
+        "name": "Iris Chen",
+        "id": "100000156022921"
+      },
+      "message": "這是專業的判斷!",
+      "can_remove": false,
+      "like_count": 5,
+      "user_likes": false,
+      "id": "1164633593550833_1164675283546664"
+    },
+    {
+      "created_time": "2015-09-11T04:39:28+0000",
+      "from": {
+        "name": "許鴻文",
+        "id": "100004519143481"
+      },
+      "message": "請問這是UH-60系列的嗎?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1164633593550833_1164675260213333"
+    },
+    {
+      "created_time": "2015-09-11T04:37:15+0000",
+      "from": {
+        "name": "陳鴻文",
+        "id": "1609465727"
+      },
+      "message": "經驗+果斷!!",
+      "can_remove": false,
+      "like_count": 5,
+      "user_likes": false,
+      "id": "1164633593550833_1164674646880061"
+    },
+    {
+      "created_time": "2015-09-11T04:32:07+0000",
+      "from": {
+        "name": "謝秀強",
+        "id": "730135118"
+      },
+      "message": "專業加上冷靜！日本人的執著是真的值得讚嘆！",
+      "can_remove": false,
+      "like_count": 4,
+      "user_likes": false,
+      "id": "1164633593550833_1164673183546874"
+    },
+    {
+      "created_time": "2015-09-11T04:30:51+0000",
+      "from": {
+        "name": "陸小寧",
+        "id": "100000064410778"
+      },
+      "message": "在台灣就是誰比較高貴就先舊誰ㄒ.ㄒ",
+      "can_remove": false,
+      "like_count": 13,
+      "user_likes": false,
+      "id": "1164633593550833_1164672876880238"
+    },
+    {
+      "created_time": "2015-09-11T04:30:46+0000",
+      "from": {
+        "name": "Show Huang",
+        "id": "100000164958000"
+      },
+      "message": "好厲害的判斷力！！",
+      "can_remove": false,
+      "like_count": 3,
+      "user_likes": false,
+      "id": "1164633593550833_1164672850213574"
+    },
+    {
+      "created_time": "2015-09-11T04:28:06+0000",
+      "from": {
+        "name": "Kirin Lee",
+        "id": "1140857945"
+      },
+      "message": "反觀八掌溪事件，\n\n國軍互相推諉，誰都不救！",
+      "can_remove": false,
+      "like_count": 23,
+      "user_likes": false,
+      "id": "1164633593550833_1164672383546954"
+    },
+    {
+      "created_time": "2015-09-11T04:21:12+0000",
+      "from": {
+        "name": "Ayumi Hamasuki",
+        "id": "100002088481631"
+      },
+      "message": "日本加油~♡",
+      "can_remove": false,
+      "like_count": 2,
+      "user_likes": false,
+      "id": "1164633593550833_1164670556880470"
+    },
+    {
+      "created_time": "2015-09-11T04:13:09+0000",
+      "from": {
+        "name": "Eric Lin",
+        "id": "100000053930371"
+      },
+      "message": "88颱風時小林村滅村，當時的馬先生專業判斷是………",
+      "can_remove": false,
+      "like_count": 14,
+      "user_likes": false,
+      "id": "1164633593550833_1164668013547391"
+    },
     {
       "created_time": "2015-09-11T03:42:17+0000",
       "from": {
@@ -11,7 +564,7 @@
       },
       "message": "那個老人家是出門查看外况，突然房子就被沖走，他等了2個小時，自衛隊才救到他，事後也是無任何怨言，就是只有感謝言語。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 105,
       "user_likes": false,
       "id": "1164633593550833_1164659836881542"
     },
@@ -23,7 +576,7 @@
       },
       "message": "昨天一整天待在東京巨蛋飯店看了一天現場報導，又讓我想起311海嘯災難，日本人真的活的很辛苦緊張，但救災後的難民乖乖排隊領救難物品的場景，真是高規品質的“地球人“",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 209,
       "user_likes": false,
       "id": "1164633593550833_1164658370215022"
     },
@@ -35,7 +588,7 @@
       },
       "message": "個人認為，以今日日本的技術來看，做遠端行控並不難。直升機上有精密電子裝置，可與駐守在指揮中心的專家(通常是資深救難隊員)保持暢通訊息，並可回傳影像供其判斷狀況。暴潮相關數據、當地地理狀態和所有建物材質(可能法律規定，地政機關必須配合救援單位提供資料)等資料，指揮中心都已備全，專家可綜合這些資料進行救援基準的判斷。",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1164633593550833_1164652150215644"
     },
@@ -47,7 +600,7 @@
       },
       "message": "這判斷真的很專業，真的不知怎樣做得到的！",
       "can_remove": false,
-      "like_count": 1,
+      "like_count": 4,
       "user_likes": false,
       "id": "1164633593550833_1164644650216394"
     },
@@ -59,7 +612,7 @@
       },
       "message": "神預測，我會覺得電線桿的比較危險",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 6,
       "user_likes": false,
       "id": "1164633593550833_1164643396883186"
     },
@@ -71,7 +624,7 @@
       },
       "message": "想到之前日本拍的海猿這部電影",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "1164633593550833_1164642543549938"
     },
@@ -83,7 +636,7 @@
       },
       "message": "通通閃開！讓專業的來！",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 19,
       "user_likes": false,
       "id": "1164633593550833_1164637073550485"
     },
@@ -95,7 +648,7 @@
       },
       "message": "了不起",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 15,
       "user_likes": false,
       "id": "1164633593550833_1164636866883839"
     },
@@ -107,7 +660,7 @@
       },
       "message": "夭壽，這判斷厲害。這已經不是靠訓練能夠達的。",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 91,
       "user_likes": false,
       "id": "1164633593550833_1164635516883974"
     },
@@ -119,7 +672,7 @@
       },
       "message": "這是他們厲害的地方",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 9,
       "user_likes": false,
       "id": "1164633593550833_1164634996884026"
     },
@@ -131,7 +684,7 @@
       },
       "message": "佩服",
       "can_remove": false,
-      "like_count": 3,
+      "like_count": 4,
       "user_likes": false,
       "id": "1164633593550833_1164634510217408"
     }

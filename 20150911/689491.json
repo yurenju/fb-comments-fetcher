@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150911/689491/",
   "comments": [
     {
+      "created_time": "2015-09-11T04:02:16+0000",
+      "from": {
+        "name": "成奎安",
+        "id": "100008830353213"
+      },
+      "message": "為了16萬，區區16萬……",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "1258628117496603_1258681167491298"
+    },
+    {
       "created_time": "2015-09-11T03:31:52+0000",
       "from": {
         "name": "陳傳義",
@@ -11,7 +23,7 @@
       },
       "message": "警察大哥們，真辛苦了，為了高雄名聲查了那麼多的監視器，向你們敬禮!",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1258628117496603_1258659410826807"
     },

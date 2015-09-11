@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150911/689455/",
   "comments": [
     {
+      "created_time": "2015-09-11T06:44:35+0000",
+      "from": {
+        "name": "班京都",
+        "id": "100007422612630"
+      },
+      "message": "本人親自打臉",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "870734352995459_870837192985175"
+    },
+    {
+      "created_time": "2015-09-11T05:08:46+0000",
+      "from": {
+        "name": "洪朗祐",
+        "id": "100008677410727"
+      },
+      "message": "選總統是在炒作什麼啦",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "870734352995459_870797466322481"
+    },
+    {
       "created_time": "2015-09-11T03:10:56+0000",
       "from": {
         "name": "吳俊瑩",
@@ -59,7 +83,7 @@
       },
       "message": "是梅門自己想留著，找藉口吧？",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 6,
       "user_likes": false,
       "id": "870734352995459_870761292992765"
     },
