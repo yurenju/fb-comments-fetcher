@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150911/689786/",
   "comments": [
     {
+      "created_time": "2015-09-11T12:59:45+0000",
+      "from": {
+        "name": "Golden Freeman",
+        "id": "100001897891056"
+      },
+      "message": "沆瀣一氣。 蛇鼠一窩。",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "933532040053249_933624683377318"
+    },
+    {
+      "created_time": "2015-09-11T11:26:39+0000",
+      "from": {
+        "name": "李香吟",
+        "id": "100009537559873"
+      },
+      "message": "他叁加的黨好多。",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "933532040053249_933589443380842"
+    },
+    {
       "created_time": "2015-09-11T08:53:11+0000",
       "from": {
         "name": "蘇胡",
@@ -11,7 +35,7 @@
       },
       "message": "恩恩 原來是....\nhttps://zh.wikipedia.org/wiki/%E6%9D%8E%E6%96%B0_(%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9)",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 2,
       "user_likes": false,
       "id": "933532040053249_933547403385046"
     },
@@ -23,21 +47,9 @@
       },
       "message": "甚麼人交甚麼朋友",
       "can_remove": false,
-      "like_count": 4,
+      "like_count": 7,
       "user_likes": false,
       "id": "933532040053249_933541586718961"
-    },
-    {
-      "created_time": "2015-09-11T08:09:36+0000",
-      "from": {
-        "name": "宋金研",
-        "id": "100010329008423"
-      },
-      "message": "http://sina.lt/cm5F\n充值送10%",
-      "can_remove": false,
-      "like_count": 0,
-      "user_likes": false,
-      "id": "933532040053249_933536253386161"
     }
   ]
 }
