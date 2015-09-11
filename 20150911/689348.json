@@ -4,6 +4,30 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150911/689348/",
   "comments": [
     {
+      "created_time": "2015-09-10T23:52:34+0000",
+      "from": {
+        "name": "洪巧芸",
+        "id": "100009021180119"
+      },
+      "message": "哈哈哈，讚啦！……",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1008600415851958_1008816475830352"
+    },
+    {
+      "created_time": "2015-09-10T23:42:05+0000",
+      "from": {
+        "name": "吳佳 容",
+        "id": "100000162253973"
+      },
+      "message": "好棒的遊戲⋯",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "1008600415851958_1008812565830743"
+    },
+    {
       "created_time": "2015-09-10T17:58:38+0000",
       "from": {
         "name": "毛雁陽",
@@ -11,7 +35,7 @@
       },
       "message": "不是，是因為老公愛老婆，答案很簡單對吧？",
       "can_remove": false,
-      "like_count": 5,
+      "like_count": 8,
       "user_likes": false,
       "id": "1008600415851958_1008638049181528"
     },
@@ -23,7 +47,7 @@
       },
       "message": "是不是他老婆説的這些她從来都没有 做過所以她老公才會心癢難耐才上當吧",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "1008600415851958_1008617869183546"
     },
