@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150911/689382/",
   "comments": [
     {
+      "created_time": "2015-09-11T01:51:12+0000",
+      "from": {
+        "name": "賴冠宇",
+        "id": "100007150568624"
+      },
+      "message": "破麻還想立牌坊",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "726433117461618_726476724123924"
+    },
+    {
+      "created_time": "2015-09-11T01:19:45+0000",
+      "from": {
+        "name": "Tsai Wei Ming",
+        "id": "100000363783201"
+      },
+      "message": "記者不讀書，又亂下標題。郎情妾意互相玩玩有啥好報的?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "726433117461618_726471207457809"
+    },
+    {
+      "created_time": "2015-09-11T01:10:34+0000",
+      "from": {
+        "name": "黃連昇",
+        "id": "100003162911501"
+      },
+      "message": "「跟對方玩玩而已」甲賽",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "726433117461618_726469030791360"
+    },
+    {
       "created_time": "2015-09-11T00:25:42+0000",
       "from": {
         "name": "Nick Lee",
@@ -83,7 +119,7 @@
       },
       "message": "這叫道高一尺魔高一丈怪誰啊",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "726433117461618_726445277460402"
     },

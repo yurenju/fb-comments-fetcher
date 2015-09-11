@@ -4,6 +4,18 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150911/689379/",
   "comments": [
     {
+      "created_time": "2015-09-11T01:06:35+0000",
+      "from": {
+        "name": "金城詹",
+        "id": "755504153"
+      },
+      "message": "從沒聽過什麼ruru\n都是買巴布隆",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "975193645871381_975234422533970"
+    },
+    {
       "created_time": "2015-09-10T23:38:19+0000",
       "from": {
         "name": "簡察員",
@@ -23,7 +35,7 @@
       },
       "message": "神經病日本藥商，還自主下架勒!來台留學，跟台灣的無良商人多學學吧!!不然怎賺大錢哩!!",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 1,
       "user_likes": false,
       "id": "975193645871381_975200182537394"
     }

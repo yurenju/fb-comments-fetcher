@@ -4,6 +4,116 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150911/689380/",
   "comments": [
     {
+      "created_time": "2015-09-11T03:48:46+0000",
+      "from": {
+        "name": "Lin Shih Hung",
+        "id": "1168214046"
+      },
+      "message": "這是好事",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "972219172821085_972345642808438"
+    },
+    {
+      "created_time": "2015-09-11T03:18:50+0000",
+      "from": {
+        "name": "Tommy Chen",
+        "id": "100000471759770"
+      },
+      "message": "那機車會不會拍\n替路寶問的",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "972219172821085_972336859475983"
+    },
+    {
+      "created_time": "2015-09-11T03:17:36+0000",
+      "from": {
+        "name": "洪巧芸",
+        "id": "100009021180119"
+      },
+      "message": "讚啦………",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "972219172821085_972336436142692"
+    },
+    {
+      "created_time": "2015-09-11T02:05:59+0000",
+      "from": {
+        "name": "Chin YU Liu",
+        "id": "100000318727334"
+      },
+      "message": "鼎金是南下確定有 北上好像沒看到",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "972219172821085_972317592811243"
+    },
+    {
+      "created_time": "2015-09-11T02:03:52+0000",
+      "from": {
+        "name": "Guan Siang Liao",
+        "id": "100002461480950"
+      },
+      "message": "一樣是道路交處罰條例，台北市要用監視器抓違規就不行，國道就可以",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "972219172821085_972316766144659"
+    },
+    {
+      "created_time": "2015-09-11T02:02:47+0000",
+      "from": {
+        "name": "Vic Yang",
+        "id": "100000360257207"
+      },
+      "message": "柯p裝攝影機取締違停ㄧ堆人出來反對稱違法！真的是ㄧ國二制！當然我是讚成取締！",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "972219172821085_972316609478008"
+    },
+    {
+      "created_time": "2015-09-11T02:00:21+0000",
+      "from": {
+        "name": "我們對不起國民黨",
+        "category": "Community",
+        "id": "1802259580000500"
+      },
+      "message": "之前柯P說要用監視器開單，一堆專家嘴砲的反對意見跑哪去了?",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "972219172821085_972315916144744"
+    },
+    {
+      "created_time": "2015-09-11T01:44:33+0000",
+      "from": {
+        "name": "盧建旭",
+        "id": "100000220836573"
+      },
+      "message": "每次下中清時，都好好排隊，就是有人從槽化線硬插隊過來，看到都幹到想殺...，還罵自己這麼乖，不知道這樣罰又有用嗎？就像那些不守規矩的，會怕嗎？",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "972219172821085_972312466145089"
+    },
+    {
+      "created_time": "2015-09-11T01:42:57+0000",
+      "from": {
+        "name": "神州牧場",
+        "category": "Community",
+        "id": "131091193732216"
+      },
+      "message": "好耶，罰死那些畜牲級的插隊車",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "972219172821085_972312169478452"
+    },
+    {
       "created_time": "2015-09-11T00:08:29+0000",
       "from": {
         "name": "尹正義",
@@ -35,7 +145,7 @@
       },
       "message": "漂亮！希望未來能逐步遍及全國交流道。順便好好教導牠們所謂排隊等候。",
       "can_remove": false,
-      "like_count": 2,
+      "like_count": 3,
       "user_likes": false,
       "id": "972219172821085_972240299485639"
     },
@@ -71,7 +181,7 @@
       },
       "message": "好耶，罰死那些畜牲級的插隊車",
       "can_remove": false,
-      "like_count": 6,
+      "like_count": 17,
       "user_likes": false,
       "id": "972219172821085_972227896153546"
     }
