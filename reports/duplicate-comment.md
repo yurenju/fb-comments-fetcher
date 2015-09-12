@@ -298,7 +298,7 @@ users:
 * 比基尼配圍裙　日本「我的老婆」咖啡開張
 * 迪士尼公主拍畫報　穿這麼少合理嗎？
 
-## 重複次數 74
+## 重複次數 76
 
 留言：
 
@@ -377,6 +377,8 @@ users:
 * [自在]('http://facebook.com/' + users[user].id) (重複 1 次)
 * [周智仁]('http://facebook.com/' + users[user].id) (重複 2 次)
 * [徐章哲]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [蔡紅豆]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [林有田]('http://facebook.com/' + users[user].id) (重複 1 次)
 
 新聞：
 
@@ -454,6 +456,8 @@ users:
 * 超後悔投給柯P！　他竟把預算這樣搞
 * 不敢開鍘連戰　姚立明轟中常委「中國國奴」
 * 【讀者驚險直擊】勇警埋伏逮雙槍胖毒蟲
+* 阿嬤賣菜到半夜　正妹心疼全打包
+* 科學角度告訴你　DIY的好處竟然這麼多！
 
 ## 重複次數 73
 
