@@ -4,6 +4,42 @@
   "link": "http://www.appledaily.com.tw/realtimenews/article/new/20150912/690041/",
   "comments": [
     {
+      "created_time": "2015-09-12T00:43:42+0000",
+      "from": {
+        "name": "蘇峻霆",
+        "id": "100001491412811"
+      },
+      "message": "破產還可以過得這麼爽，真是讓人看得不開心",
+      "can_remove": false,
+      "like_count": 1,
+      "user_likes": false,
+      "id": "865126483564803_865319010212217"
+    },
+    {
+      "created_time": "2015-09-12T00:28:23+0000",
+      "from": {
+        "name": "Chang Hung Chen",
+        "id": "100010155222356"
+      },
+      "message": "真是委屈孫董了...\n這種小事有甚麼好報的...\n一堆酸民看熱鬧~",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "865126483564803_865315330212585"
+    },
+    {
+      "created_time": "2015-09-11T23:14:07+0000",
+      "from": {
+        "name": "Boy Gary",
+        "id": "100003597168109"
+      },
+      "message": "之前在風很小上班～一個禮拜看他3次起跳～都吃賒帳的～這根本不用偷拍吧",
+      "can_remove": false,
+      "like_count": 0,
+      "user_likes": false,
+      "id": "865126483564803_865295926881192"
+    },
+    {
       "created_time": "2015-09-11T18:42:24+0000",
       "from": {
         "name": "Morgan Mou",
@@ -35,7 +71,7 @@
       },
       "message": "台灣「破產富豪」最佳代言人！",
       "can_remove": false,
-      "like_count": 0,
+      "like_count": 3,
       "user_likes": false,
       "id": "865126483564803_865143726896412"
     },

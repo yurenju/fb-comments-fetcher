@@ -896,6 +896,85 @@ users:
 留言：
 
 ```
+阿彌陀佛
+```
+
+users: 
+
+* [明志施]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Roy Yen]('http://facebook.com/' + users[user].id) (重複 11 次)
+* [張漢森]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [蔡永振]('http://facebook.com/' + users[user].id) (重複 4 次)
+* [黃坤輝]('http://facebook.com/' + users[user].id) (重複 2 次)
+* [陳允斌]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Johnny Hu]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [江佩桂]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [金廣田]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [Chiou Bill]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [劉振宇]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [呂麗芬]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [蘇默默]('http://facebook.com/' + users[user].id) (重複 2 次)
+* [張家華]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [廖啟安]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [周廷]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [黃信憲]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [宋文]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [張秀鳳]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [王俊棠]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [陳華捏]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [呂宇雀]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [黃鼎富]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [張錦壽]('http://facebook.com/' + users[user].id) (重複 1 次)
+* [藍彬]('http://facebook.com/' + users[user].id) (重複 1 次)
+
+新聞：
+
+* 被縱火?　日月潭伊達邵凌晨燒9屋　男灼傷跳4樓
+* 【更新】台中清水塑膠廠大火　烈焰濃煙衝天
+* 3度抗癌的她　笑對死亡：「還有21秒」
+* 妻因山路阻隔送命　夫花22年「愚公移山」
+* 【更新】BMW撞姊妹花1死1傷　肇事者下跪
+* 印度醫接生扯斷嬰兒　頭卡子宮媽媽慘死
+* 【更新】轎車自撞國道工程車　後方三車又連環撞
+* 不忍告別病歿夫　情深婦伴屍兩個月不葬
+* 國五北上石碇交流道　車禍撞路燈駕駛受困
+* 【更新】硬撐引路救4幼犬　重病狗媽噴血亡
+* 【更新】硬撐引路救4幼犬　重病狗媽噴血亡
+* 【更新】硬撐引路救4幼犬　重病狗媽噴血亡
+* 【更新】陸客團遊覽車翻車　駕駛車輛紀錄正常
+* 陸女律師飯店泳池溺斃　現場竟沒救生員
+* 【更新】七旬老尼被擄　後車箱驚見血跡反應
+* 【獨家】老婆 4ni？　妻淚回：我被PS了
+* 陽明山冷水坑公車翻覆　34人24傷
+* 史瓦濟蘭重大車禍　至少58少女死傷
+* 【更新】「誰來照顧生計」　登革疫區攤商跳腳
+* 狠心姊偕男友　踹死中風雙胞胎妹妹
+* 失蹤比丘尼應已遇害　警海邊尋屍
+* 花蓮5子命案兇手夫妻　確認服農藥自殺
+* 【暗黑城市】宜蘭重大車禍　2人不治
+* 天道盟大哥遭狙殺　警凌晨攻堅逮殺手
+* 【更新】「八仙」動手了　發156萬資遣13名員工
+* 再也聽不到的琴聲　塵爆傷者吳妍潔不治
+* 再也聽不到的琴聲　塵爆傷者吳妍潔不治
+* 【更新】年幼難民溺死太催淚　網友P圖祝禱
+* 土耳其攝影師　拍下小男童「無聲的吶喊」
+* 透露選課不順利　男大生竟墜樓亡
+* 8000人抵德　移民獲歡迎忍不住哭了 
+* 【更新】瑞昱副總李朝政墜樓　公司：運動發生意外
+* 真心英雄　遊民勇救人質不幸遭槍殺
+* 真心英雄　遊民勇救人質不幸遭槍殺
+* 瑞昱副總墜落門外　女兒報警不知是父親
+* 【更新】日月潭保時捷逆向撞遊覽車　5人傷
+* 【更新】日月潭保時捷逆向撞遊覽車　5人傷
+* 「孩子不是我的」　男怒殺女友1屍2命
+* 【更新】麥加清真寺起重機倒塌　釀107死
+* 【更新】麥加清真寺起重機倒塌　釀107死
+
+## 重複次數 40
+
+留言：
+
+```
 找好茶 美眉多 本人照 正到爆 首選你的小情人蕾絲外送茶莊+LINE：bey8866讓你爽歪歪
 ```
 
@@ -945,78 +1024,3 @@ users:
 * 【民報】換個角度想：日本政府會拿AV女優宣傳政策嗎?
 * 獨遇山難9天沒吃　奇蹟獲救
 * 獨遇山難9天沒吃　奇蹟獲救
-
-## 重複次數 38
-
-留言：
-
-```
-阿彌陀佛
-```
-
-users: 
-
-* [明志施]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Roy Yen]('http://facebook.com/' + users[user].id) (重複 11 次)
-* [張漢森]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [蔡永振]('http://facebook.com/' + users[user].id) (重複 4 次)
-* [黃坤輝]('http://facebook.com/' + users[user].id) (重複 2 次)
-* [陳允斌]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Johnny Hu]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [江佩桂]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [金廣田]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [Chiou Bill]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [劉振宇]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [呂麗芬]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [蘇默默]('http://facebook.com/' + users[user].id) (重複 2 次)
-* [張家華]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [廖啟安]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [周廷]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [黃信憲]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [宋文]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [張秀鳳]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [王俊棠]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [陳華捏]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [呂宇雀]('http://facebook.com/' + users[user].id) (重複 1 次)
-* [黃鼎富]('http://facebook.com/' + users[user].id) (重複 1 次)
-
-新聞：
-
-* 被縱火?　日月潭伊達邵凌晨燒9屋　男灼傷跳4樓
-* 【更新】台中清水塑膠廠大火　烈焰濃煙衝天
-* 3度抗癌的她　笑對死亡：「還有21秒」
-* 妻因山路阻隔送命　夫花22年「愚公移山」
-* 【更新】BMW撞姊妹花1死1傷　肇事者下跪
-* 印度醫接生扯斷嬰兒　頭卡子宮媽媽慘死
-* 【更新】轎車自撞國道工程車　後方三車又連環撞
-* 不忍告別病歿夫　情深婦伴屍兩個月不葬
-* 國五北上石碇交流道　車禍撞路燈駕駛受困
-* 【更新】硬撐引路救4幼犬　重病狗媽噴血亡
-* 【更新】硬撐引路救4幼犬　重病狗媽噴血亡
-* 【更新】硬撐引路救4幼犬　重病狗媽噴血亡
-* 【更新】陸客團遊覽車翻車　駕駛車輛紀錄正常
-* 陸女律師飯店泳池溺斃　現場竟沒救生員
-* 【更新】七旬老尼被擄　後車箱驚見血跡反應
-* 【獨家】老婆 4ni？　妻淚回：我被PS了
-* 陽明山冷水坑公車翻覆　34人24傷
-* 史瓦濟蘭重大車禍　至少58少女死傷
-* 【更新】「誰來照顧生計」　登革疫區攤商跳腳
-* 狠心姊偕男友　踹死中風雙胞胎妹妹
-* 失蹤比丘尼應已遇害　警海邊尋屍
-* 花蓮5子命案兇手夫妻　確認服農藥自殺
-* 【暗黑城市】宜蘭重大車禍　2人不治
-* 天道盟大哥遭狙殺　警凌晨攻堅逮殺手
-* 【更新】「八仙」動手了　發156萬資遣13名員工
-* 再也聽不到的琴聲　塵爆傷者吳妍潔不治
-* 再也聽不到的琴聲　塵爆傷者吳妍潔不治
-* 【更新】年幼難民溺死太催淚　網友P圖祝禱
-* 土耳其攝影師　拍下小男童「無聲的吶喊」
-* 透露選課不順利　男大生竟墜樓亡
-* 8000人抵德　移民獲歡迎忍不住哭了 
-* 【更新】瑞昱副總李朝政墜樓　公司：運動發生意外
-* 真心英雄　遊民勇救人質不幸遭槍殺
-* 真心英雄　遊民勇救人質不幸遭槍殺
-* 瑞昱副總墜落門外　女兒報警不知是父親
-* 【更新】日月潭保時捷逆向撞遊覽車　5人傷
-* 【更新】日月潭保時捷逆向撞遊覽車　5人傷
-* 「孩子不是我的」　男怒殺女友1屍2命
